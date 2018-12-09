@@ -1,0 +1,9 @@
+# IDE
+.idea/
+
+# Transifex
+.tx/
+
+# sphinx build
+_build/
+*.mo
