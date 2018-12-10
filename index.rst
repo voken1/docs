@@ -1,23 +1,30 @@
-.. vision.network documentation master file, created by
-   sphinx-quickstart on Sun Dec  9 16:22:21 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to vision.network!
 ==========================
 
-Initial Commit.
+
+Github: https://github.com/VisionNetworkProject
+
+A Distributed Extensible Virtual Network
+
+Growing Distributed Internet Infrastructure
+
+.. NOTE::
+
+    In the Vision Network system, include websites, documents, and various articles:
+
+    - Uppercase **VISION** abbreviation will be used to refer to the Vision Network, the entire project.
+    - Uppercase **VNET** and **$VNET** abbreviation used to refer to VNET Token
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Yes, you need this:
+    :maxdepth: 2
+    :caption: Whitepaper
+
+    whitepaper/keywords
+    whitepaper/background
+    whitepaper/summary
+    whitepaper/philosophy
+    whitepaper/design_principle
+    whitepaper/application_description_and_economic_model
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
