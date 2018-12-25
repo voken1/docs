@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-09 16:29+0800\n"
+"POT-Creation-Date: 2018-12-25 22:22+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,27 +18,94 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-#: ../../index.rst:7
+#: ../../index.rst:2
 msgid "Welcome to vision.network!"
 msgstr "欢迎来到 vision.network 远景网络！"
 
+#: ../../index.rst:5
+msgid "**Official Website**"
+msgstr ""
+
+#: ../../index.rst:5
+msgid "`English`_"
+msgstr ""
+
+#: ../../index.rst:5
+msgid "`Chinese`_"
+msgstr ""
+
+#: ../../index.rst:7
+msgid "**GitHub**"
+msgstr ""
+
+#: ../../index.rst:7
+msgid "`VisionNetworkProject`_"
+msgstr ""
+
 #: ../../index.rst:9
-msgid "Initial Commit."
-msgstr "测试文档提交"
-
-#: ../../index.rst:19
-msgid "Indices and tables"
+msgid "**Telegram Group**"
 msgstr ""
 
-#: ../../index.rst:21
-msgid ":ref:`genindex`"
+#: ../../index.rst:9
+msgid "`English Group`_"
 msgstr ""
 
-#: ../../index.rst:22
-msgid ":ref:`modindex`"
+#: ../../index.rst:9
+msgid "`Chinese Group`_"
+msgstr ""
+
+#: ../../index.rst:11
+msgid "**Auto SSR**"
+msgstr ""
+
+#: ../../index.rst:11
+msgid "`FREE ShadowsocksR Servers`_"
 msgstr ""
 
 #: ../../index.rst:23
-msgid ":ref:`search`"
+msgid ""
+"In the Vision Network system, include websites, documents, and various "
+"articles:"
 msgstr ""
+
+#: ../../index.rst:25
+msgid ""
+"Uppercase **VISION** abbreviation will be used to refer to the Vision "
+"Network, the entire project."
+msgstr ""
+
+#: ../../index.rst:26
+msgid "Uppercase **VNET** and **$VNET** abbreviation used to refer to VNET Token"
+msgstr ""
+
+#: ../../index.rst:29
+msgid "Whitepaper"
+msgstr ""
+
+#~ msgid "Initial Commit."
+#~ msgstr "测试文档提交"
+
+#~ msgid "Indices and tables"
+#~ msgstr ""
+
+#~ msgid ":ref:`genindex`"
+#~ msgstr ""
+
+#~ msgid ":ref:`modindex`"
+#~ msgstr ""
+
+#~ msgid ":ref:`search`"
+#~ msgstr ""
+
+#~ msgid "Github: https://github.com/VisionNetworkProject"
+#~ msgstr ""
+
+#~ msgid "A Distributed Extensible Virtual Network"
+#~ msgstr ""
+
+#~ msgid "Growing Distributed Internet Infrastructure"
+#~ msgstr ""
+
+#~ msgid "Vision Network"
+#~ msgstr "欢迎来到 vision.network 远景网络！"
 
