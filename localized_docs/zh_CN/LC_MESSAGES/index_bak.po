@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Vision Network Project
+# This file is distributed under the same license as the vision.network
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-04 19:56+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../index_bak.rst:2
+msgid "Welcome to vision.network!"
+msgstr ""
+
+#: ../../index_bak.rst:5
+msgid "**Official Website**"
+msgstr ""
+
+#: ../../index_bak.rst:5
+msgid "`English`_"
+msgstr ""
+
+#: ../../index_bak.rst:5
+msgid "`Chinese`_"
+msgstr ""
+
+#: ../../index_bak.rst:7
+msgid "**Telegram Group**"
+msgstr ""
+
+#: ../../index_bak.rst:7
+msgid "`English Group`_"
+msgstr ""
+
+#: ../../index_bak.rst:7
+msgid "`Chinese Group`_"
+msgstr ""
+
+#: ../../index_bak.rst:9
+msgid "**GitHub**"
+msgstr ""
+
+#: ../../index_bak.rst:9
+msgid "`VisionNetworkProject`_"
+msgstr ""
+
+#: ../../index_bak.rst:11
+msgid "**Auto SSR**"
+msgstr ""
+
+#: ../../index_bak.rst:11
+msgid "`FREE ShadowsocksR Servers`_"
+msgstr ""
+
+#: ../../index_bak.rst:26
+msgid ""
+"In the Vision Network system, include websites, documents, and various "
+"articles:"
+msgstr ""
+
+#: ../../index_bak.rst:28
+msgid ""
+"Uppercase **VISION** abbreviation will be used to refer to the Vision "
+"Network, the entire project."
+msgstr ""
+
+#: ../../index_bak.rst:29
+msgid "Uppercase **VNET** and **$VNET** abbreviation used to refer to VNET Token"
+msgstr ""
+
+#: ../../index_bak.rst:32
+msgid "Whitepaper"
+msgstr ""
+

@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'vision.network'
-copyright = '2018, Vision Network Project'
+copyright = '2017-2019, Vision Network Project'
 author = 'Vision Network Project'
 
 # The short X.Y version
@@ -58,7 +58,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'en'
+language = 'default'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -170,5 +170,24 @@ epub_exclude_files = ['search.html']
 # localized docs
 locale_dirs = ['localized_docs/']
 gettext_compact = False
+
+
+# -- sphinx-rtd-theme --------------------------------------------------------
+html_theme_options = {
+    # 'canonical_url': '',
+    # 'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
+    'logo_only': True,
+    'display_version': True,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': True,
+    # 'vcs_pageview_mode': '',
+
+    # Toc options
+    # 'collapse_navigation': True,
+    'sticky_navigation': True,
+    'navigation_depth': 4,
+    # 'includehidden': True,
+    # 'titles_only': False
+}
 
 # -- Extension configuration -------------------------------------------------
