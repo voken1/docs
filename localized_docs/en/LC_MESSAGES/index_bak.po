@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-05 14:49+0800\n"
+"POT-Creation-Date: 2019-01-05 15:37+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,23 +62,27 @@ msgstr ""
 msgid "`FREE ShadowsocksR Servers`_"
 msgstr ""
 
-#: ../../index_bak.rst:26
+#: ../../index_bak.rst:22
+msgid ":ref:`autossr-lable`"
+msgstr ""
+
+#: ../../index_bak.rst:28
 msgid ""
 "In the Vision Network system, include websites, documents, and various "
 "articles:"
 msgstr ""
 
-#: ../../index_bak.rst:28
+#: ../../index_bak.rst:30
 msgid ""
 "Uppercase **VISION** abbreviation will be used to refer to the Vision "
 "Network, the entire project."
 msgstr ""
 
-#: ../../index_bak.rst:29
+#: ../../index_bak.rst:31
 msgid "Uppercase **VNET** and **$VNET** abbreviation used to refer to VNET Token"
 msgstr ""
 
-#: ../../index_bak.rst:32
+#: ../../index_bak.rst:34
 msgid "Whitepaper"
 msgstr ""
 

@@ -19,6 +19,8 @@ Welcome to vision.network!
 .. _FREE ShadowsocksR Servers: https://github.com/VisionNetworkProject/AutoSSR
 
 
+:ref:`autossr-lable`
+
 
 
 .. NOTE::

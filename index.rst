@@ -8,14 +8,18 @@ Welcome to vision.network!
 +----------------------+------------------+------------------+
 | **GitHub**           | `VisionNetworkProject`_             |
 +----------------------+------------------+------------------+
-| **Auto SSR**         | `FREE ShadowsocksR Servers`_        |
-+----------------------+------------------+------------------+
 
 .. _English: https://vision.network/en
 .. _Chinese: https://vision.network/zh_cn
 .. _VisionNetworkProject: https://github.com/VisionNetworkProject
 .. _English Group: https://t.me/visionProject
 .. _Chinese Group: https://t.me/visionCN
-.. _FREE ShadowsocksR Servers: https://github.com/VisionNetworkProject/AutoSSR
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Available services
+
+   autossr/autossr
 
 
