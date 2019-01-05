@@ -55,7 +55,7 @@ msgid "`VisionNetworkProject`_"
 msgstr ""
 
 #: ../../index.rst:19
-msgid "Available services"
+msgid "可用服务"
 msgstr ""
 
 #~ msgid "Initial Commit."

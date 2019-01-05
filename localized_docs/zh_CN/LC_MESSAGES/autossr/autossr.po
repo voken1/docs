@@ -35,7 +35,8 @@ msgstr ""
 msgid ""
 "You can find several ShadowsocksR services here, we will check all the "
 "servers once per hour. and **THEY ARE FREE!!**"
-msgstr "你可以在这里找到免费可用的 ShadowsocksR 账号，我们将每小时一次检查这些服务器的工作状态。并且，**他们是免费的！！**"
+msgstr "你可以在这里找到免费可用的 ShadowsocksR 账号，我们将每小时一次检查这些服务"
+"器的工作状态。并且，**他们是免费的！！**"
 
 #: ../../autossr/autossr.rst:16
 msgid "Subscribe by URL"
@@ -43,7 +44,7 @@ msgstr "通过一个 URL 订阅"
 
 #: ../../autossr/autossr.rst:18
 msgid "There are 3 levels:"
-msgstr "一共有 3 个稳定性级别"
+msgstr "一共有 3 个稳定性级别可供选择"
 
 #: ../../autossr/autossr.rst:20
 msgid "**online:** All the online servers, available more than one hour."
