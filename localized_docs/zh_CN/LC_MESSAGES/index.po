@@ -28,11 +28,11 @@ msgstr "**官方网站**"
 
 #: ../../index.rst:5
 msgid "`English`_"
-msgstr "`英文`_"
+msgstr "`英文版`_"
 
 #: ../../index.rst:5
 msgid "`Chinese`_"
-msgstr "`中文`_"
+msgstr "`中文版`_"
 
 #: ../../index.rst:7
 msgid "**Telegram Group**"
@@ -40,11 +40,11 @@ msgstr "**电报群组**"
 
 #: ../../index.rst:7
 msgid "`English Group`_"
-msgstr "`英文群组`_"
+msgstr "`英文交流组`_"
 
 #: ../../index.rst:7
 msgid "`Chinese Group`_"
-msgstr "`中文群组`_"
+msgstr "`中文交流组`_"
 
 #: ../../index.rst:9
 msgid "**GitHub**"
@@ -60,7 +60,7 @@ msgstr ""
 
 #: ../../index.rst:11
 msgid "`FREE ShadowsocksR Servers`_"
-msgstr ""
+msgstr "`免费 ShadowsocksR 服务`_"
 
 #~ msgid "Initial Commit."
 #~ msgstr "测试文档提交"
