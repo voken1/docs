@@ -24,27 +24,27 @@ msgstr "欢迎来到 vision.network 远景网络！"
 
 #: ../../index.rst:5
 msgid "**Official Website**"
-msgstr "官方网站"
+msgstr "**官方网站**"
 
 #: ../../index.rst:5
 msgid "`English`_"
-msgstr "英文"
+msgstr "`英文`_"
 
 #: ../../index.rst:5
 msgid "`Chinese`_"
-msgstr "中文"
+msgstr "`中文`_"
 
 #: ../../index.rst:7
 msgid "**Telegram Group**"
-msgstr "电报群组"
+msgstr "**电报群组**"
 
 #: ../../index.rst:7
 msgid "`English Group`_"
-msgstr "英文群组"
+msgstr "`英文群组`_"
 
 #: ../../index.rst:7
 msgid "`Chinese Group`_"
-msgstr "中文群组"
+msgstr "`中文群组`_"
 
 #: ../../index.rst:9
 msgid "**GitHub**"

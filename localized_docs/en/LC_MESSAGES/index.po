@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../index.rst:2
 msgid "Welcome to vision.network!"
-msgstr "Welcome to vision.network! EN"
+msgstr "Welcome to vision.network!"
 
 #: ../../index.rst:5
 msgid "**Official Website**"
