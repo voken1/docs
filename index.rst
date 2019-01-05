@@ -10,7 +10,7 @@ Welcome to vision.network!
 +----------------------+------------------+------------------+
 
 .. _English: https://vision.network/en
-.. _Chinese: https://vision.network/zh_cn
+.. _Chinese: https://vision.network/zh-cn
 .. _VisionNetworkProject: https://github.com/VisionNetworkProject
 .. _English Group: https://t.me/visionProject
 .. _Chinese Group: https://t.me/visionCN

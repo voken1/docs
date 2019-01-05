@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-05 16:10+0800\n"
+"POT-Creation-Date: 2019-01-05 16:26+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,70 +41,66 @@ msgid "Subscribe by URL"
 msgstr ""
 
 #: ../../autossr/autossr.rst:18
-msgid "There are 3 levels:"
-msgstr ""
-
-#: ../../autossr/autossr.rst:20
-msgid "**online:** All the online servers, available more than one hour."
+msgid "Choose one or more URL below of the 3 levels, and add to your SSR client:"
 msgstr ""
 
 #: ../../autossr/autossr.rst:21
-msgid "**stable:** Available more the 12 hours, seems they are stable."
-msgstr ""
-
-#: ../../autossr/autossr.rst:22
-msgid "**recent:** Recent servers, active in 6 hours."
-msgstr ""
-
-#: ../../autossr/autossr.rst:25
-msgid "Choose one or more URL below, and add to your SSR client:"
-msgstr ""
-
-#: ../../autossr/autossr.rst:28
 msgid "LEVEL"
 msgstr ""
 
-#: ../../autossr/autossr.rst:28
+#: ../../autossr/autossr.rst:21
 msgid "URL"
 msgstr ""
 
-#: ../../autossr/autossr.rst:30
+#: ../../autossr/autossr.rst:23
 msgid "**ONLINE**"
 msgstr ""
 
-#: ../../autossr/autossr.rst:30
+#: ../../autossr/autossr.rst:23
 msgid "`https://git.io/autossr-online`"
 msgstr ""
 
-#: ../../autossr/autossr.rst:32
+#: ../../autossr/autossr.rst:23
+msgid "All the online servers, available more than one hour."
+msgstr ""
+
+#: ../../autossr/autossr.rst:25
 msgid "**STABLE**"
 msgstr ""
 
-#: ../../autossr/autossr.rst:32
+#: ../../autossr/autossr.rst:25
 msgid "`https://git.io/autossr-stable`"
 msgstr ""
 
-#: ../../autossr/autossr.rst:34
+#: ../../autossr/autossr.rst:25
+msgid "Available more the 12 hours, seems they are stable."
+msgstr ""
+
+#: ../../autossr/autossr.rst:27
 msgid "**RECENT**"
 msgstr ""
 
-#: ../../autossr/autossr.rst:34
+#: ../../autossr/autossr.rst:27
 msgid "`https://git.io/autossr-recent`"
 msgstr ""
 
-#: ../../autossr/autossr.rst:40
+#: ../../autossr/autossr.rst:27
+msgid "Recent servers, active in 6 hours."
+msgstr ""
+
+#: ../../autossr/autossr.rst:33
 msgid "Supported clients"
 msgstr ""
 
-#: ../../autossr/autossr.rst:42
+#: ../../autossr/autossr.rst:35
 msgid "`Shadowrocket`_ on iOS"
 msgstr ""
 
-#: ../../autossr/autossr.rst:43
+#: ../../autossr/autossr.rst:36
 msgid "SSR/`SSRR`_ on Android"
 msgstr ""
 
-#: ../../autossr/autossr.rst:44
+#: ../../autossr/autossr.rst:37
 msgid "`ShadowsocksR`_ on windows"
 msgstr ""
 
@@ -168,5 +164,20 @@ msgstr ""
 #~ "services here, we will check all "
 #~ "the servers once per hour. and "
 #~ "THEY ARE FREE!!"
+#~ msgstr ""
+
+#~ msgid "There are 3 levels:"
+#~ msgstr ""
+
+#~ msgid "**online:** All the online servers, available more than one hour."
+#~ msgstr ""
+
+#~ msgid "**stable:** Available more the 12 hours, seems they are stable."
+#~ msgstr ""
+
+#~ msgid "**recent:** Recent servers, active in 6 hours."
+#~ msgstr ""
+
+#~ msgid "Choose one or more URL below, and add to your SSR client:"
 #~ msgstr ""
 

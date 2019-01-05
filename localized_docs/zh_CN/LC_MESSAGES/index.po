@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-05 16:07+0800\n"
+"POT-Creation-Date: 2019-01-05 16:26+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,7 +55,7 @@ msgid "`VisionNetworkProject`_"
 msgstr ""
 
 #: ../../index.rst:19
-msgid "可用服务"
+msgid "Available services"
 msgstr ""
 
 #~ msgid "Initial Commit."
@@ -114,5 +114,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Free ShadowsocksR"
+#~ msgstr ""
+
+#~ msgid "可用服务"
 #~ msgstr ""
 

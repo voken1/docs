@@ -15,24 +15,17 @@ Free ShadowsocksR
 Subscribe by URL
 ----------------
 
-There are 3 levels:
+Choose one or more URL below of the 3 levels, and add to your SSR client:
 
-- **online:** All the online servers, available more than one hour.
-- **stable:** Available more the 12 hours, seems they are stable.
-- **recent:** Recent servers, active in 6 hours.
-
-
-Choose one or more URL below, and add to your SSR client:
-
-+------------+---------------------------------+
-| LEVEL      | URL                             |
-+============+=================================+
-| **ONLINE** | `https://git.io/autossr-online` |
-+------------+---------------------------------+
-| **STABLE** | `https://git.io/autossr-stable` |
-+------------+---------------------------------+
-| **RECENT** | `https://git.io/autossr-recent` |
-+------------+---------------------------------+
++------------+---------------------------------+-------------------------------------------------------+
+| LEVEL      | URL                             |                                                       |
++============+=================================+=======================================================+
+| **ONLINE** | `https://git.io/autossr-online` | All the online servers, available more than one hour. |
++------------+---------------------------------+-------------------------------------------------------+
+| **STABLE** | `https://git.io/autossr-stable` | Available more the 12 hours, seems they are stable.   |
++------------+---------------------------------+-------------------------------------------------------+
+| **RECENT** | `https://git.io/autossr-recent` | Recent servers, active in 6 hours.                    |
++------------+---------------------------------+-------------------------------------------------------+
 
 
 
