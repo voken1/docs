@@ -73,10 +73,10 @@ pygments_style = None
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-html_logo = 'logo.svg'
+# html_logo = 'logo.svg'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_theme_options = {
-    'logo_only': True,
+    # 'logo_only': True,
     'display_version': False,
 }
 
