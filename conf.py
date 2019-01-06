@@ -15,12 +15,13 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-
+import time
+import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
 project = 'vision.network'
-copyright = '2017-2019, Vision Network Project'
+copyright = '2017-{}, Vision Network Project'.format(time.strftime("%Y"))
 author = 'Vision Network Project'
 
 # The short X.Y version
@@ -58,7 +59,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'any'
+language = 'en_US'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -70,21 +71,15 @@ pygments_style = None
 
 # -- Options for HTML output -------------------------------------------------
 
-# The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
-#
 html_theme = 'sphinx_rtd_theme'
-
-# Theme options are theme-specific and customize the look and feel of a theme
-# further.  For a list of options available for each theme, see the
-# documentation.
-#
-# html_theme_options = {}
-
-# Add any paths that contain custom static files (such as style sheets) here,
-# relative to this directory. They are copied after the builtin static files,
-# so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_logo = 'logo.svg'
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+}
+
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -100,7 +95,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'visionnetworkdoc'
+htmlhelp_basename = 'VisionNetworkDoc'
 
 # -- Options for LaTeX output ------------------------------------------------
 
@@ -170,24 +165,5 @@ epub_exclude_files = ['search.html']
 # localized docs
 locale_dirs = ['localized_docs/']
 gettext_compact = False
-
-
-# -- sphinx-rtd-theme --------------------------------------------------------
-html_theme_options = {
-    # 'canonical_url': '',
-    # 'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
-    'logo_only': True,
-    'display_version': True,
-    'prev_next_buttons_location': 'bottom',
-    'style_external_links': True,
-    # 'vcs_pageview_mode': '',
-
-    # Toc options
-    # 'collapse_navigation': True,
-    'sticky_navigation': True,
-    'navigation_depth': 4,
-    # 'includehidden': True,
-    # 'titles_only': False
-}
 
 # -- Extension configuration -------------------------------------------------
