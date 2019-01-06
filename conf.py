@@ -69,18 +69,6 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = None
 
-# -- Options for HTML output -------------------------------------------------
-
-html_theme = 'sphinx_rtd_theme'
-html_static_path = ['_static']
-# html_logo = 'logo.svg'
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-html_theme_options = {
-    # 'logo_only': True,
-    'display_version': False,
-}
-
-
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #
@@ -165,5 +153,16 @@ epub_exclude_files = ['search.html']
 # localized docs
 locale_dirs = ['localized_docs/']
 gettext_compact = False
+
+# -- Options for HTML output -------------------------------------------------
+
+html_theme = 'sphinx_rtd_theme'
+html_static_path = ['_static']
+# html_logo = 'logo.svg'
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+html_theme_options = {
+    # 'logo_only': True,
+    'display_version': False,
+}
 
 # -- Extension configuration -------------------------------------------------
