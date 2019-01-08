@@ -13,6 +13,7 @@ Formula expression in LaTex:
 
 .. code-block:: latex
 
-   ratio_{Next} = \frac{ETHPrice_{Audit}}{price_{Start}+ \left (price_{Target}-price_{Start} \right )
+   ratio_{Next} = \frac{ETHPrice_{Audit}}
+   {VNETPrice_{Start}+ \left (VNETPrice_{Target}-VNETPrice_{Start} \right )
    \frac{VNET_{Sold}}{VNET_{Supply}}}
 
