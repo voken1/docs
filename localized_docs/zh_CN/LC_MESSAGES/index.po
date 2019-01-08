@@ -56,77 +56,12 @@ msgstr ""
 
 #: ../../index.rst:20
 msgid "$VNET Token Sale"
-msgstr ""
+msgstr "$VNET 流量币 Token Sale"
 
 #: ../../index.rst:28
 msgid "Available services"
-msgstr ""
+msgstr "当前可用服务"
 
 #: ../../index.rst:35
 msgid "Contracts on Ethereum"
-msgstr ""
-
-#~ msgid "Initial Commit."
-#~ msgstr "测试文档提交"
-
-#~ msgid "Indices and tables"
-#~ msgstr ""
-
-#~ msgid ":ref:`genindex`"
-#~ msgstr ""
-
-#~ msgid ":ref:`modindex`"
-#~ msgstr ""
-
-#~ msgid ":ref:`search`"
-#~ msgstr ""
-
-#~ msgid "Github: https://github.com/VisionNetworkProject"
-#~ msgstr ""
-
-#~ msgid "A Distributed Extensible Virtual Network"
-#~ msgstr ""
-
-#~ msgid "Growing Distributed Internet Infrastructure"
-#~ msgstr ""
-
-#~ msgid "Vision Network"
-#~ msgstr "欢迎来到 vision.network 远景网络！"
-
-#~ msgid ""
-#~ "In the Vision Network system, include"
-#~ " websites, documents, and various articles:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Uppercase **VISION** abbreviation will be "
-#~ "used to refer to the Vision "
-#~ "Network, the entire project."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Uppercase **VNET** and **$VNET** abbreviation"
-#~ " used to refer to VNET Token"
-#~ msgstr ""
-
-#~ msgid "Whitepaper"
-#~ msgstr ""
-
-#~ msgid "**Auto SSR**"
-#~ msgstr ""
-
-#~ msgid "`FREE ShadowsocksR Servers`_"
-#~ msgstr "`免费 ShadowsocksR 服务`_"
-
-#~ msgid "AutoSSR"
-#~ msgstr ""
-
-#~ msgid "Free ShadowsocksR"
-#~ msgstr ""
-
-#~ msgid "可用服务"
-#~ msgstr ""
-
-#~ msgid "Pre Sale"
-#~ msgstr ""
-
+msgstr "以太坊智能合约"

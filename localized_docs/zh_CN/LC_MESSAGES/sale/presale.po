@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../sale/presale.rst:2
 msgid "$VNET Pre-Sale/Early-Bird"
-msgstr ""
+msgstr "$VNET 流量币早鸟预售"
 
 #: ../../sale/presale.rst:12
 msgid "Formula expression in LaTex:"
