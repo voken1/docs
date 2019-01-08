@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-05 16:26+0800\n"
+"POT-Creation-Date: 2019-01-08 19:47+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,8 +54,16 @@ msgstr ""
 msgid "`VisionNetworkProject`_"
 msgstr ""
 
-#: ../../index.rst:19
+#: ../../index.rst:20
+msgid "$VNET Token Sale"
+msgstr ""
+
+#: ../../index.rst:28
 msgid "Available services"
+msgstr ""
+
+#: ../../index.rst:35
+msgid "Contracts on Ethereum"
 msgstr ""
 
 #~ msgid "Initial Commit."
@@ -117,5 +125,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "可用服务"
+#~ msgstr ""
+
+#~ msgid "Pre Sale"
 #~ msgstr ""
 

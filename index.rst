@@ -16,10 +16,26 @@ Welcome to vision.network!
 .. _Chinese Group: https://t.me/visionCN
 
 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: $VNET Token Sale
+
+   sale/presale
+
+
+
 .. toctree::
    :maxdepth: 1
    :caption: Available services
 
    autossr/autossr
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contracts on Ethereum
+
+   contracts/contracts
 
 

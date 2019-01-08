@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 19:47+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../contracts/contracts.rst:2
+msgid "Contracts on Ethereum"
+msgstr ""
+
+#: ../../contracts/contracts.rst:5
+msgid "VNET Token"
+msgstr ""
+
+#: ../../contracts/contracts.rst:7
+msgid "The main Contract of VNET Token:"
+msgstr ""
+
+#: ../../contracts/contracts.rst:9
+msgid "Could set a release timestamp constraint when mint"
+msgstr ""
+
+#: ../../contracts/contracts.rst:10
+msgid "Allow admin to rescue other ERC20 tokens"
+msgstr ""
+
+#: ../../contracts/contracts.rst:12
+msgid "The address is `0x3F13A8039D33FbF19467183e3B4249E7a4c212F5`_"
+msgstr ""
+
+#: ../../contracts/contracts.rst:19
+msgid "Team Fund"
+msgstr ""
+
+#: ../../contracts/contracts.rst:21
+#, python-format
+msgid "The Contract which held 12% of the total VNET Tokens for the team:"
+msgstr ""
+
+#: ../../contracts/contracts.rst:23
+msgid "Locked for 3 years."
+msgstr ""
+
+#: ../../contracts/contracts.rst:25
+msgid "The address is `0xA94adE3d44a6BB69bB115751B4A999C7B6761D71`_"
+msgstr ""
+
+#: ../../contracts/contracts.rst:32
+msgid "Business Fund"
+msgstr ""
+
+#: ../../contracts/contracts.rst:34
+#, python-format
+msgid ""
+"The Contract which held 18.89% of the total VNET Tokens, would be used "
+"for:"
+msgstr ""
+
+#: ../../contracts/contracts.rst:36
+msgid "Exchange listing"
+msgstr ""
+
+#: ../../contracts/contracts.rst:37
+msgid "Service node incentive"
+msgstr ""
+
+#: ../../contracts/contracts.rst:38
+msgid "Community construction and maintenance"
+msgstr ""
+
+#: ../../contracts/contracts.rst:39
+msgid "etc."
+msgstr ""
+
+#: ../../contracts/contracts.rst:41
+msgid "The address is `0x8fC420202F43Ce952445961c15c5A5B1C80cE50A`_"
+msgstr ""
+
+#: ../../contracts/contracts.rst:48
+msgid "Airdrop"
+msgstr ""
+
+#: ../../contracts/contracts.rst:50
+msgid ""
+"Just call the contract (send 0 ETH here), and get 100-200 VNET Tokens for"
+" free."
+msgstr ""
+
+#: ../../contracts/contracts.rst:52
+msgid "The address is `0x0e3d9B8AA451F398E4D7ef5Be299367949943028`_"
+msgstr ""
+
