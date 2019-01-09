@@ -1,6 +1,13 @@
 Welcome to vision.network!
 ==========================
 
+.. image:: /_static/logo.svg
+   :width: 100 %
+   :alt: formula.gif
+   :align: center
+
+|
+
 +----------------------+------------------+------------------+
 | **Official Website** | `English`_       | `Chinese`_       |
 +----------------------+------------------+------------------+

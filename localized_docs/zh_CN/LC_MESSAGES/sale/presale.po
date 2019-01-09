@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-08 20:16+0800\n"
+"POT-Creation-Date: 2019-01-09 12:33+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,10 +22,164 @@ msgstr ""
 msgid "$VNET Pre-Sale/Early-Bird"
 msgstr "$VNET 流量币早鸟预售"
 
-#: ../../sale/presale.rst:12
+#: ../../sale/presale.rst:4
+#, python-format
+msgid ""
+"There is 18.6 billion VNET would released by token sale, accounting for "
+"53.14% of the total supply. With our sincerity, we have designed "
+"contracts for sales on Ethereum blockchain platform, to make it clear and"
+" free to check anytime."
+msgstr "带着我们足够的诚意，$VNET 流量币的官方销售将全程在以太坊区块链网络上透明公开，"
+"共有 186 亿用于销售，占流量币全网总供应量的 53.14%。"
+
+#: ../../sale/presale.rst:11
+msgid "Pre-sale/Early-bird phase is in progress"
+msgstr "早鸟预售进行中"
+
+#: ../../sale/presale.rst:13
+#, python-format
+msgid ""
+"16.13% of the token sale would be released in this phase, namely 3 "
+"billion VNET;"
+msgstr "本次早鸟预售将释放总销量份额的 16.13%，即 30 亿枚 VNET；"
+
+#: ../../sale/presale.rst:14
+msgid "1 ETH minimum per transaction, up to 100 ETH;"
+msgstr "单笔交易 1 ETH 起，至多不超过 100 ETH；"
+
+#: ../../sale/presale.rst:15
+msgid ""
+"The starting sales price of VNET is about 0.0013 USD, and the price will "
+"increase linearly with the sales progress. When the sales are closed at "
+"the end of this phase, price of VNET would be 0.0035 USD."
+msgstr "VNET 流量币的起始销售价格约为 0.0013 USD，价格将随销售进度线性递增，"
+"当本阶段销售截止，VNET 流量币的销售价格将为 0.0035 USD。"
+
+#: ../../sale/presale.rst:21
+msgid ""
+"**Increase linearly** means, the sales price increases as the sales "
+"progress. After each transaction finished, the contract will recalculate "
+"next conversion ratio according to the actual sales progress."
+msgstr "关于 **价格线性递增** 指的是：VNET 的销售价格随着销售进度逐渐递增。智能合约将在"
+"每笔交易完成后，按照实际销售进度（已售量/总量）的百分比计算并确定下一笔交易的兑换比例。"
+
+#: ../../sale/presale.rst:25
+msgid "**In short, the sooner you buy, the lower price you get.**"
+msgstr "**即：越早购买，兑换比例越大（赠送越多）。**"
+
+#: ../../sale/presale.rst:28
+msgid "ETH/VNET exchange ratio calculation formula:"
+msgstr "ETH/VNET 兑换比例计算公式："
+
+#: ../../sale/presale.rst:37
 msgid "Formula expression in LaTex:"
 msgstr ""
 
+#: ../../sale/presale.rst:45
+msgid "Where,"
+msgstr "其中，"
+
+#: ../../sale/presale.rst:47
+msgid "**ratioNext**: is the exchange ratio in the next transaction"
+msgstr "**ratioNext**: 下一笔兑换比值"
+
+#: ../../sale/presale.rst:48
+msgid ""
+"**ETHPriceAudit**: is the audit ETH price in USD, will be updated "
+"regularly"
+msgstr "**ETHPriceAudit**: 以太坊 ETH 的当前审计价格"
+
+#: ../../sale/presale.rst:49
+msgid "**VNETPriceStart**: sales start price"
+msgstr "**VNETPriceStart**: 流量币 VNET 早鸟预售的销售起始价格"
+
+#: ../../sale/presale.rst:50
+msgid "**VNETPriceTarget**: end of sale price"
+msgstr "**VNETPriceTarget**: 流量币 VNET 早鸟预售的销售终止价格"
+
+#: ../../sale/presale.rst:51
+msgid "**VNETSold**: total amount of VNET sold"
+msgstr "**VNETSold**: 早鸟预售的 VNET 已售累计量"
+
+#: ../../sale/presale.rst:52
+msgid "**VNETSupply**: the total amount of VNET in this phase"
+msgstr "**VNETSupply**: 早鸟预售的 VNET 总量"
+
+#: ../../sale/presale.rst:55
+msgid "For example:"
+msgstr "比如："
+
 #~ msgid "Expression in LaTex:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "15.87% of the total supply would "
+#~ "be released in the pre-sale/early-"
+#~ "bird phase, namely 2 billion VNET;"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The starting sales price of VNET "
+#~ "is about 0.0013 USD, and the price"
+#~ " will increase linearly with the "
+#~ "sales progress. When the sales are "
+#~ "closed at this stage, the sales "
+#~ "price of VNET would be 0.0026 USD."
+#~ msgstr ""
+
+#~ msgid "Formula expression in LaTex:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**increase linearly** means, the sales "
+#~ "price VNET increases as the sales "
+#~ "progress. After each transaction finished, "
+#~ "the contract will recalculate next "
+#~ "conversion ratio according to the "
+#~ "percentage of the actual sales progress."
+#~ " **In short, the sooner you buy, "
+#~ "the lower price you get.**"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**Increase linearly** means, the sales "
+#~ "price VNET increases as the sales "
+#~ "progress. After each transaction finished, "
+#~ "the contract will recalculate next "
+#~ "conversion ratio according to the actual"
+#~ " sales progress. **In short, the "
+#~ "sooner you buy, the lower price "
+#~ "you get.**"
+#~ msgstr ""
+
+#~ msgid "How much VNET is 1 ETH worth in the next transaction:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "15.87% of the total supply would "
+#~ "be released in this phase, namely "
+#~ "2 billion VNET;"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The starting sales price of VNET "
+#~ "is about 0.0013 USD, and the price"
+#~ " will increase linearly with the "
+#~ "sales progress. When the sales are "
+#~ "closed at the end of this phase,"
+#~ " price of VNET would be 0.0026 "
+#~ "USD."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**Increase linearly** means, the sales "
+#~ "price VNET increases as the sales "
+#~ "progress. After each transaction finished, "
+#~ "the contract will recalculate next "
+#~ "conversion ratio according to the actual"
+#~ " sales progress."
+#~ msgstr ""
+
+#~ msgid "**rationNext**: is the exchange ratio in the next transaction"
 #~ msgstr ""
 
