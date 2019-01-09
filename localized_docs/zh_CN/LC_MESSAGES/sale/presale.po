@@ -87,7 +87,7 @@ msgstr "**ratioNext**: 下一笔兑换比值"
 msgid ""
 "**ETHPriceAudit**: is the audit ETH price in USD, will be updated "
 "regularly"
-msgstr "**ETHPriceAudit**: 以太坊 ETH 的当前审计价格"
+msgstr "**ETHPriceAudit**: 以太坊 ETH 的当前审计价格，将会在以太坊价格大幅变化时更新"
 
 #: ../../sale/presale.rst:49
 msgid "**VNETPriceStart**: sales start price"
