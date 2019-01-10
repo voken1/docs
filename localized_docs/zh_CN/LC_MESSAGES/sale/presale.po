@@ -29,9 +29,8 @@ msgid ""
 "for **53.14%** of the total supply. With our sincerity, we have designed "
 "contracts for sales on Ethereum blockchain platform, to make it clear and"
 " free to check anytime."
-msgstr ""
-"带着我们足够的诚意，$VNET 流量币的官方销售将全程在以太坊区块链网络上透明公开，共有 **186 亿** 用于销售，占流量币全网总供应量的 "
-"**53.14%**。"
+msgstr "带着我们足够的诚意，$VNET 流量币的官方销售将全程在以太坊区块链网络上透明公开，共有 **186 亿** "
+"用于销售，占流量币全网总供应量的 **53.14%** 。"
 
 #: ../../sale/presale.rst:11
 msgid "Pre-sale/Early-bird phase is in progress"
