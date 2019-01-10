@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-09 12:42+0800\n"
+"POT-Creation-Date: 2019-01-10 19:10+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,10 +23,9 @@ msgid "$VNET Pre-Sale/Early-Bird"
 msgstr ""
 
 #: ../../sale/presale.rst:4
-#, python-format
 msgid ""
-"There is 18.6 billion VNET would released by token sale, accounting for "
-"53.14% of the total supply. With our sincerity, we have designed "
+"There is **18.6 billion VNET** would released by token sale, accounting "
+"for **53.14%** of the total supply. With our sincerity, we have designed "
 "contracts for sales on Ethereum blockchain platform, to make it clear and"
 " free to check anytime."
 msgstr ""
@@ -106,6 +105,36 @@ msgstr ""
 msgid "For example:"
 msgstr ""
 
+#: ../../sale/presale.rst:57
+msgid ""
+"If the sales progress reaches 50%, audit ETH price as $150, a single "
+"transaction of 5 ETH can be concluded:"
+msgstr ""
+
+#: ../../sale/presale.rst:69
+msgid ""
+"That is, the exchange ratio is *1 ETH = 62,500 VNET* in this transaction."
+" Since this transaction is 5 ETH total, you can get *5 x 62,500 = 312,500"
+" VNET* [#note]_."
+msgstr ""
+
+#: ../../sale/presale.rst:72
+msgid ""
+"If 5 ETH is split into multiple transfers to the contract, not one "
+"transaction, each transfer will trigger a recalculation and the resulting"
+" VNET will be less than the *312500 VNET* in the above example."
+msgstr ""
+
+#: ../../sale/presale.rst:78
+msgid ""
+"We firmly believe that solid use value is the basic support of the price."
+" That's true, simple and clear."
+msgstr ""
+
+#: ../../sale/presale.rst:80
+msgid "The pre-sale contract will be released soon."
+msgstr ""
+
 #~ msgid "Expression in LaTex:"
 #~ msgstr ""
 
@@ -178,5 +207,54 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "**rationNext**: is the exchange ratio in the next transaction"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "There is 18.6 billion VNET would "
+#~ "released by token sale, accounting for"
+#~ " 53.14% of the total supply. With "
+#~ "our sincerity, we have designed "
+#~ "contracts for sales on Ethereum "
+#~ "blockchain platform, to make it clear"
+#~ " and free to check anytime."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "That is, the exchange ratio is 1"
+#~ " ETH=62,500 VNET at this time. Since"
+#~ " this transaction is 5 ETH total, "
+#~ "you can get *5 x 62,500 = "
+#~ "312,500 VNET* [#note]_."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If 5 ETH is split into multiple"
+#~ " transfers to the contract, not one"
+#~ " transaction,"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "each transfer will trigger a "
+#~ "recalculation. The actual total ratio "
+#~ "will be less than the *1 ETH "
+#~ "= 312500 VNET* in the above "
+#~ "example."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If the sales progress reaches 50%, "
+#~ "audit ETH price as $150 , a "
+#~ "single transaction of 5 ETH can be"
+#~ " concluded:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If 5 ETH is split into multiple"
+#~ " transfers to the contract, not one"
+#~ " transaction, each transfer will trigger"
+#~ " a recalculation. The actual total "
+#~ "ratio will be less than the *1 "
+#~ "ETH = 312500 VNET* in the above"
+#~ " example."
 #~ msgstr ""
 
