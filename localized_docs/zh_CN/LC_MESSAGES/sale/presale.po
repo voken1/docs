@@ -145,3 +145,4 @@ msgstr "我们坚定地认为：扎实的使用价值，是交易价格的基础
 #: ../../sale/presale.rst:80
 msgid "The pre-sale contract will be released soon."
 msgstr "预售合约即将发布"
+
