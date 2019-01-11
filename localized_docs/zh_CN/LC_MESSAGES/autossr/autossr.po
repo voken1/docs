@@ -1,26 +1,25 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2017-2019, Vision Network Project
-# This file is distributed under the same license as the vision.network
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-05 16:26+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2019-01-10 19:19+0800\n"
+"PO-Revision-Date: 2019-01-11 05:14+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../autossr/autossr.rst:4
 msgid "Free ShadowsocksR"
-msgstr "免费 ShadowsocksR 服务"
+msgstr ""
 
 #: ../../autossr/autossr.rst:6
 msgid "**Telegram Channel:** https://t.me/autossr"
@@ -31,139 +30,76 @@ msgid "**Github:** https://github.com/VisionNetworkProject/AutoSSR"
 msgstr ""
 
 #: ../../autossr/autossr.rst:11
-#, fuzzy
 msgid ""
 "You can find several ShadowsocksR services here, we will check all the "
 "servers once per hour. and **THEY ARE FREE!!**"
-msgstr "你可以在这里找到免费可用的 ShadowsocksR 账号，我们将每小时一次检查这些服务器的工作状态。并且，**他们是免费的！！**"
+msgstr ""
 
 #: ../../autossr/autossr.rst:16
 msgid "Subscribe by URL"
-msgstr "通过一个 URL 订阅"
+msgstr ""
 
 #: ../../autossr/autossr.rst:18
-#, fuzzy
-msgid "Choose one or more URL below of the 3 levels, and add to your SSR client:"
-msgstr "在下方选择一个链接，复制粘贴到你的 SSR 客户端："
+msgid ""
+"Choose one or more URL below of the 3 levels, and add to your SSR client:"
+msgstr ""
 
 #: ../../autossr/autossr.rst:21
 msgid "LEVEL"
-msgstr "级别"
+msgstr ""
 
 #: ../../autossr/autossr.rst:21
 msgid "URL"
-msgstr "订阅链接"
+msgstr ""
 
 #: ../../autossr/autossr.rst:23
 msgid "**ONLINE**"
-msgstr "**在线**"
+msgstr ""
 
 #: ../../autossr/autossr.rst:23
 msgid "`https://git.io/autossr-online`"
 msgstr ""
 
 #: ../../autossr/autossr.rst:23
-#, fuzzy
 msgid "All the online servers, available more than one hour."
-msgstr "**online:** 当前在线，可用在至少最近 1 小时以上"
+msgstr ""
 
 #: ../../autossr/autossr.rst:25
 msgid "**STABLE**"
-msgstr "**稳定**"
+msgstr ""
 
 #: ../../autossr/autossr.rst:25
 msgid "`https://git.io/autossr-stable`"
 msgstr ""
 
 #: ../../autossr/autossr.rst:25
-#, fuzzy
 msgid "Available more the 12 hours, seems they are stable."
-msgstr "**stable:** 可用至少 12 小时以上，他们更稳定"
+msgstr ""
 
 #: ../../autossr/autossr.rst:27
 msgid "**RECENT**"
-msgstr "**近期**"
+msgstr ""
 
 #: ../../autossr/autossr.rst:27
 msgid "`https://git.io/autossr-recent`"
 msgstr ""
 
 #: ../../autossr/autossr.rst:27
-#, fuzzy
 msgid "Recent servers, active in 6 hours."
-msgstr "**recent:** 近期在线，6 小时内曾活跃"
+msgstr ""
 
 #: ../../autossr/autossr.rst:33
 msgid "Supported clients"
-msgstr "支持的客户端"
+msgstr ""
 
 #: ../../autossr/autossr.rst:35
 msgid "`Shadowrocket`_ on iOS"
-msgstr "`Shadowrocket`_ 在 iOS 上"
+msgstr ""
 
 #: ../../autossr/autossr.rst:36
 msgid "SSR/`SSRR`_ on Android"
-msgstr "SSR/`SSRR`_ 在 Android 上"
+msgstr ""
 
 #: ../../autossr/autossr.rst:37
 msgid "`ShadowsocksR`_ on windows"
-msgstr "`ShadowsocksR`_ 在 windows 上"
-
-#~ msgid "Telegram Channel: https://t.me/autossr"
-#~ msgstr ""
-
-#~ msgid "Telegram Channel:<br>https://t.me/autossr"
-#~ msgstr ""
-
-#~ msgid "Github:<br>https://github.com/VisionNetworkProject/AutoSSR"
-#~ msgstr ""
-
-#~ msgid "Free ShadowsocksR subscription"
-#~ msgstr ""
-
-#~ msgid "Use these URLs to subscribe"
-#~ msgstr ""
-
-#~ msgid "We will check all the servers once per hour, you can one or more below:"
-#~ msgstr ""
-
-#~ msgid "**STABLE**"
-#~ msgstr ""
-
-#~ msgid "**ONLINE**"
-#~ msgstr ""
-
-#~ msgid "**RECENT**"
-#~ msgstr ""
-
-#~ msgid "All the online servers, available more than one hour."
-#~ msgstr ""
-
-#~ msgid "Available more the 12 hours, seems they are stable."
-#~ msgstr ""
-
-#~ msgid "Recent servers, active in 6 hours."
-#~ msgstr ""
-
-#~ msgid "**ONLINE** [#online]_"
-#~ msgstr ""
-
-#~ msgid "**STABLE** [#stable]_"
-#~ msgstr ""
-
-#~ msgid "**RECENT** [#recent]_"
-#~ msgstr ""
-
-#~ msgid "Here are 3 levels: [online]_, [stable]_, and [recent]_."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can find several ShadowsocksR "
-#~ "services here, we will check all "
-#~ "the servers once per hour. and "
-#~ "**THEY ARE FREE!!**"
-#~ msgstr ""
-
-#~ msgid "There are 3 levels:"
-#~ msgstr "一共有 3 个稳定性级别可供选择"
-
+msgstr ""

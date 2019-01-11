@@ -1,46 +1,48 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2017-2019, Vision Network Project
-# This file is distributed under the same license as the vision.network
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Michael Brown <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10 19:08+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2019-01-10 19:19+0800\n"
+"PO-Revision-Date: 2019-01-11 05:18+0000\n"
+"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../sale/presale.rst:2
 msgid "$VNET Pre-Sale/Early-Bird"
 msgstr "$VNET 流量币早鸟预售"
 
 #: ../../sale/presale.rst:4
-#, fuzzy
 msgid ""
-"There is **18.6 billion VNET** would released by token sale, accounting "
-"for **53.14%** of the total supply. With our sincerity, we have designed "
-"contracts for sales on Ethereum blockchain platform, to make it clear and"
-" free to check anytime."
-msgstr "带着我们足够的诚意，$VNET 流量币的官方销售将全程在以太坊区块链网络上透明公开，共有 **186 亿** "
-"用于销售，占流量币全网总供应量的 **53.14%** 。"
+"There is **18.6 billion VNET** would released by token sale, accounting for "
+"**53.14%** of the total supply. With our sincerity, we have designed "
+"contracts for sales on Ethereum blockchain platform, to make it clear and "
+"free to check anytime."
+msgstr ""
+"带着我们足够的诚意，$VNET 流量币的官方销售将全程在以太坊区块链网络上透明公开，共有 **18.6 亿** 用于销售，占流量币全网总供应量的 "
+"**53.14%** 。"
 
 #: ../../sale/presale.rst:11
 msgid "Pre-sale/Early-bird phase is in progress"
 msgstr "早鸟预售进行中"
 
 #: ../../sale/presale.rst:13
-#, python-format
 msgid ""
-"16.13% of the token sale would be released in this phase, namely 3 "
-"billion VNET;"
+"16.13% of the token sale would be released in this phase, namely 3 billion "
+"VNET;"
 msgstr "本次早鸟预售将释放总销量份额的 16.13%，即 30 亿枚 VNET；"
 
 #: ../../sale/presale.rst:14
@@ -50,11 +52,11 @@ msgstr "单笔交易 1 ETH 起，至多不超过 100 ETH；"
 #: ../../sale/presale.rst:15
 msgid ""
 "The starting sales price of VNET is about 0.0013 USD, and the price will "
-"increase linearly with the sales progress. When the sales are closed at "
-"the end of this phase, price of VNET would be 0.0035 USD."
+"increase linearly with the sales progress. When the sales are closed at the "
+"end of this phase, price of VNET would be 0.0035 USD."
 msgstr ""
-"VNET 流量币的起始销售价格约为 0.0013 USD，价格将随销售进度线性递增，当本阶段销售截止，VNET 流量币的销售价格将为 0.0035"
-" USD。"
+"VNET 流量币的起始销售价格约为 0.0013 USD，价格将随销售进度线性递增，当本阶段销售截止，VNET 流量币的销售价格将为 0.0035 "
+"USD。"
 
 #: ../../sale/presale.rst:21
 msgid ""
@@ -87,8 +89,7 @@ msgstr "**ratioNext**: 下一笔兑换比值"
 
 #: ../../sale/presale.rst:48
 msgid ""
-"**ETHPriceAudit**: is the audit ETH price in USD, will be updated "
-"regularly"
+"**ETHPriceAudit**: is the audit ETH price in USD, will be updated regularly"
 msgstr "**ETHPriceAudit**: ETH 的当前审计价格，将随 ETH 的市场价不定期更新"
 
 #: ../../sale/presale.rst:49
@@ -112,7 +113,6 @@ msgid "For example:"
 msgstr "例如："
 
 #: ../../sale/presale.rst:57
-#, fuzzy
 msgid ""
 "If the sales progress reaches 50%, audit ETH price as $150, a single "
 "transaction of 5 ETH can be concluded:"
@@ -120,29 +120,28 @@ msgstr "在销售进度达到 50% 时，单笔购入 5 ETH ，ETH 的审计价�
 
 #: ../../sale/presale.rst:69
 msgid ""
-"That is, the exchange ratio is *1 ETH = 62,500 VNET* in this transaction."
-" Since this transaction is 5 ETH total, you can get *5 x 62,500 = 312,500"
-" VNET* [#note]_."
+"That is, the exchange ratio is *1 ETH = 62,500 VNET* in this transaction. "
+"Since this transaction is 5 ETH total, you can get *5 x 62,500 = 312,500 "
+"VNET* [#note]_."
 msgstr ""
-"即：兑换比例为 *1 ETH = 62,500 VNET* ，一次性购入 5 ETH，则此笔交易可获得 *5 x 62,500 = 312,500 VNET* [#note]_。"
+"即：兑换比例为 *1 ETH = 62,500 VNET* ，一次性购入 5 ETH，则此笔交易可获得 *5 x 62,500 = 312,500 "
+"VNET* [#note]_。"
 
 #: ../../sale/presale.rst:72
-#, fuzzy
 msgid ""
 "If 5 ETH is split into multiple transfers to the contract, not one "
-"transaction, each transfer will trigger a recalculation and the resulting"
-" VNET will be less than the *312500 VNET* in the above example."
+"transaction, each transfer will trigger a recalculation and the resulting "
+"VNET will be less than the *312500 VNET* in the above example."
 msgstr ""
-"如果 5 ETH 被拆分多次转账至合约，而不是同一笔交易，则每次转账都会触发一次比例的重新计算，实际获得的 VNET "
-"总量将略小于上述举例中的 *312500 VNET* 。"
+"如果 5 ETH 被拆分多次转账至合约，而不是同一笔交易，则每次转账都会触发一次比例的重新计算，实际获得的 VNET 总量将略小于上述举例中的 "
+"*312500 VNET* 。"
 
 #: ../../sale/presale.rst:78
 msgid ""
-"We firmly believe that solid use value is the basic support of the price."
-" That's true, simple and clear."
+"We firmly believe that solid use value is the basic support of the price. "
+"That's true, simple and clear."
 msgstr "我们坚定地认为：扎实的使用价值，是交易价格的基础支撑，不需要过多的粉饰。"
 
 #: ../../sale/presale.rst:80
 msgid "The pre-sale contract will be released soon."
 msgstr "预售合约即将发布"
-

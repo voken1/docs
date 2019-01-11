@@ -1,22 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, Vision Network Project
-# This file is distributed under the same license as the vision.network
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-25 19:13+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2019-01-10 19:19+0800\n"
+"PO-Revision-Date: 2019-01-11 05:18+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../whitepaper/background.rst:2
 msgid "Background"
@@ -28,8 +27,8 @@ msgstr ""
 
 #: ../../whitepaper/background.rst:5
 msgid ""
-"Traditional centralized CDN services have great optimization potential "
-"for cost and efficiency"
+"Traditional centralized CDN services have great optimization potential for "
+"cost and efficiency"
 msgstr ""
 
 #: ../../whitepaper/background.rst:6
@@ -44,7 +43,6 @@ msgstr ""
 
 #: ../../whitepaper/background.rst:8
 msgid ""
-"Users can participate in blockchain network collaboration even if they "
-"are not tech-savvy"
+"Users can participate in blockchain network collaboration even if they are "
+"not tech-savvy"
 msgstr ""
-

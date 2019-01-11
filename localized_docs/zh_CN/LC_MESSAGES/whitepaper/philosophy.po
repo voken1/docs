@@ -1,22 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, Vision Network Project
-# This file is distributed under the same license as the vision.network
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-25 19:13+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2019-01-10 19:19+0800\n"
+"PO-Revision-Date: 2019-01-11 05:19+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../whitepaper/philosophy.rst:2
 msgid "Our Philosophy - Yearning for freedom"
@@ -24,82 +23,79 @@ msgstr ""
 
 #: ../../whitepaper/philosophy.rst:4
 msgid ""
-"Free, open, equal, and shared are not just personal values and "
-"ideological preferences. These things are written in the basic protocols "
-"of the Internet and are the inevitable results of the design of early "
-"talents. A network can be as big as it is today, and there is **no "
-"central government**, **no parliament** and **political bureau**, not "
-"ideological and administrative relations at work, but a series of basic "
-"communication protocols."
+"Free, open, equal, and shared are not just personal values and ideological "
+"preferences. These things are written in the basic protocols of the Internet"
+" and are the inevitable results of the design of early talents. A network "
+"can be as big as it is today, and there is **no central government**, **no "
+"parliament** and **political bureau**, not ideological and administrative "
+"relations at work, but a series of basic communication protocols."
 msgstr ""
 
 #: ../../whitepaper/philosophy.rst:6
 msgid ""
-"An e-mail which is came from Microsoft can be sent to Gmail, because "
-"there are many intermediate servers that carry the delivery task. This "
-"delivery is neither a business task nor an administrative task. It does "
-"not bring direct commercial benefits. There is any administrative "
-"affiliation. The existence of this open network, just because if you want"
-" to participate in this game, you must accept these open game rules."
+"An e-mail which is came from Microsoft can be sent to Gmail, because there "
+"are many intermediate servers that carry the delivery task. This delivery is"
+" neither a business task nor an administrative task. It does not bring "
+"direct commercial benefits. There is any administrative affiliation. The "
+"existence of this open network, just because if you want to participate in "
+"this game, you must accept these open game rules."
 msgstr ""
 
 #: ../../whitepaper/philosophy.rst:8
 msgid ""
 "The giants on the Internet, such as Google and Facebook, are not the "
-"beneficiaries of the open architecture of the Internet. Whether it is "
-"from Pratt & Whitney, or from the perspective of providing more business "
+"beneficiaries of the open architecture of the Internet. Whether it is from "
+"Pratt & Whitney, or from the perspective of providing more business "
 "opportunities, the open and free Internet spirit will really benefit us."
 msgstr ""
 
 #: ../../whitepaper/philosophy.rst:10
 msgid ""
-"Perhaps not everyone agrees with these viewpoints. In some areas, for "
-"some reasons, ISP services are more like a large local area network. They"
-" are not as interconnected and open-minded as the original design of the "
-"Internet. As a group of technology geeks, although we can understand it, "
-"but we are more and more looking forward to enjoying an Internet "
-"infrastructure that is exactly the same as the original design, free, "
-"open, equal, and shared."
+"Perhaps not everyone agrees with these viewpoints. In some areas, for some "
+"reasons, ISP services are more like a large local area network. They are not"
+" as interconnected and open-minded as the original design of the Internet. "
+"As a group of technology geeks, although we can understand it, but we are "
+"more and more looking forward to enjoying an Internet infrastructure that is"
+" exactly the same as the original design, free, open, equal, and shared."
 msgstr ""
 
 #: ../../whitepaper/philosophy.rst:12
 msgid ""
-"Same like you, our team members also need accessibility, stable and "
-"fluent network communication services, explore the world through Google "
-"and Wikipedia, share our work and life times with friends all over the "
-"world on Facebook/Instagram, Using YouTube / Twitter to see a colorful "
-"world, you and us, can not only understand the latest technological "
-"trends, academic research, cutting-edge information, but also freely "
-"communicate, discuss and collaborate."
+"Same like you, our team members also need accessibility, stable and fluent "
+"network communication services, explore the world through Google and "
+"Wikipedia, share our work and life times with friends all over the world on "
+"Facebook/Instagram, Using YouTube / Twitter to see a colorful world, you and"
+" us, can not only understand the latest technological trends, academic "
+"research, cutting-edge information, but also freely communicate, discuss and"
+" collaborate."
 msgstr ""
 
 #: ../../whitepaper/philosophy.rst:14
 msgid ""
-"The Internet belongs to all those who construct and use it. The future of"
-" the Internet should not be abducted and controlled by any centralized "
+"The Internet belongs to all those who construct and use it. The future of "
+"the Internet should not be abducted and controlled by any centralized "
 "organization. The billions of people who use and participate in the "
-"Internet, and the experts who construct and maintain the Internet, they "
-"all should have the rights of freely browsing and speaking."
+"Internet, and the experts who construct and maintain the Internet, they all "
+"should have the rights of freely browsing and speaking."
 msgstr ""
 
 #: ../../whitepaper/philosophy.rst:16
 msgid ""
 "We are taking some actions to create a distributed, borderless, and "
-"accessible future network infrastructure through a series of technologies"
-" and standards to provide the basis for user mutual assistance services, "
-"including not only the most basic interconnection services, but also "
-"expect to build secure and shareable computing, storage and other "
-"services through either mature or innovative technology methods."
+"accessible future network infrastructure through a series of technologies "
+"and standards to provide the basis for user mutual assistance services, "
+"including not only the most basic interconnection services, but also expect "
+"to build secure and shareable computing, storage and other services through "
+"either mature or innovative technology methods."
 msgstr ""
 
 #: ../../whitepaper/philosophy.rst:18
 msgid ""
-"Of course, all of this, starting from barrier-free interconnection, "
-"expects your blessings and support, and welcomes the participation of all"
-" people with ideals to build a healthy basic ecological environment."
+"Of course, all of this, starting from barrier-free interconnection, expects "
+"your blessings and support, and welcomes the participation of all people "
+"with ideals to build a healthy basic ecological environment."
 msgstr ""
 
 #: ../../whitepaper/philosophy.rst:20
 msgid "-- by Michael 2018"
 msgstr ""
-

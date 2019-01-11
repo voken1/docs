@@ -1,67 +1,70 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, Vision Network Project
-# This file is distributed under the same license as the vision.network
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Michael Brown <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-08 19:47+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2019-01-10 19:19+0800\n"
+"PO-Revision-Date: 2019-01-11 05:14+0000\n"
+"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../index.rst:2
 msgid "Welcome to vision.network!"
 msgstr "欢迎来到 vision.network 远景网络！"
 
-#: ../../index.rst:5
+#: ../../index.rst:12
 msgid "**Official Website**"
 msgstr "**官方网站**"
 
-#: ../../index.rst:5
+#: ../../index.rst:12
 msgid "`English`_"
 msgstr "`英文版`_"
 
-#: ../../index.rst:5
+#: ../../index.rst:12
 msgid "`Chinese`_"
 msgstr "`中文版`_"
 
-#: ../../index.rst:7
+#: ../../index.rst:14
 msgid "**Telegram Group**"
 msgstr "**电报群组**"
 
-#: ../../index.rst:7
+#: ../../index.rst:14
 msgid "`English Group`_"
 msgstr "`英文交流组`_"
 
-#: ../../index.rst:7
+#: ../../index.rst:14
 msgid "`Chinese Group`_"
 msgstr "`中文交流组`_"
 
-#: ../../index.rst:9
+#: ../../index.rst:16
 msgid "**GitHub**"
 msgstr ""
 
-#: ../../index.rst:9
+#: ../../index.rst:16
 msgid "`VisionNetworkProject`_"
 msgstr ""
 
-#: ../../index.rst:20
+#: ../../index.rst:27
 msgid "$VNET Token Sale"
 msgstr "$VNET 流量币 Token Sale"
 
-#: ../../index.rst:28
+#: ../../index.rst:35
 msgid "Available services"
 msgstr "当前可用服务"
 
-#: ../../index.rst:35
+#: ../../index.rst:42
 msgid "Contracts on Ethereum"
 msgstr "以太坊智能合约"
