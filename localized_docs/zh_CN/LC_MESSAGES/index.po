@@ -59,7 +59,7 @@ msgstr "远景网络项目组"
 
 #: ../../index.rst:27
 msgid "Get $VNET Token"
-msgstr ""
+msgstr "获取 $VNET 流量币"
 
 #: ../../index.rst:35
 msgid "Available services"
@@ -71,4 +71,4 @@ msgstr "以太坊智能合约"
 
 #: ../../index.rst:49
 msgid "Contribute"
-msgstr ""
+msgstr "共建"
