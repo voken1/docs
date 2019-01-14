@@ -46,3 +46,9 @@ Welcome to vision.network!
    contracts/contracts
 
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Contribute
+
+   contribute
+
