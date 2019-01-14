@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-14 19:42+0800\n"
+"POT-Creation-Date: 2019-01-14 20:08+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -58,8 +58,8 @@ msgid "`VisionNetworkProject`_"
 msgstr "远景网络项目组"
 
 #: ../../index.rst:27
-msgid "$VNET Token Sale"
-msgstr "$VNET 流量币销售"
+msgid "Get $VNET Token"
+msgstr ""
 
 #: ../../index.rst:35
 msgid "Available services"

@@ -26,9 +26,9 @@ Welcome to vision.network!
 
 .. toctree::
    :maxdepth: 1
-   :caption: $VNET Token Sale
+   :caption: Get $VNET Token
 
-   sale/presale
+   token/presale
 
 
 
@@ -39,6 +39,7 @@ Welcome to vision.network!
    autossr/autossr
 
 
+
 .. toctree::
    :maxdepth: 2
    :caption: Contracts on Ethereum
@@ -46,9 +47,11 @@ Welcome to vision.network!
    contracts/contracts
 
 
+
 .. toctree::
    :maxdepth: 1
    :caption: Contribute
 
    contribute
+
 
