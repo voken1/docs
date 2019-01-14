@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-14 16:22+0800\n"
+"POT-Creation-Date: 2019-01-14 16:39+0800\n"
 "PO-Revision-Date: 2019-01-11 05:18+0000\n"
 "Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -128,17 +128,17 @@ msgstr "**VNETSold**: 已售出的 VNET 累计总量"
 msgid "**VNETSupply**: the total amount of VNET in this phase"
 msgstr "**VNETSupply**: 早鸟预售的 VNET 总量"
 
-#: ../../sale/presale.rst:63
-msgid "For example:"
-msgstr "例如："
-
 #: ../../sale/presale.rst:65
+msgid "For example"
+msgstr "例如"
+
+#: ../../sale/presale.rst:67
 msgid ""
 "If the sales progress reaches 50%, audit ETH price as $150, a single "
 "transaction of 20 ETH can be concluded:"
 msgstr "当销售进度达到 50% 时，单笔购入 20 ETH ，ETH 的审计价格以 $150 计算，则可根据公式得出："
 
-#: ../../sale/presale.rst:77
+#: ../../sale/presale.rst:79
 msgid ""
 "That is, the exchange ratio is *1 ETH = 62,500 VNET* in this transaction. "
 "Since this transaction is 20 ETH total, you can get *62,500 x 20 = 1,250,000"
@@ -147,7 +147,7 @@ msgstr ""
 "即，兑换比例为 *1 ETH = 62,500 VNET* ，一次性购入 20 ETH，则此笔交易可获得 *62,500 x 20 = "
 "1,250,000 VNET* [#example]_ 。"
 
-#: ../../sale/presale.rst:80
+#: ../../sale/presale.rst:82
 msgid ""
 "If 20 ETH is split into multiple transfers to the contract, not one "
 "transaction, each transfer will trigger a recalculation and the resulting "
@@ -156,12 +156,12 @@ msgstr ""
 "如果 20 ETH 被拆分多次转账至合约，而不是同一笔交易，则每次转账都会触发一次比例的重新计算，实际获得的 VNET 总量将略小于上述举例中的 "
 "*1,250,000 VNET* 。"
 
-#: ../../sale/presale.rst:87
+#: ../../sale/presale.rst:89
 msgid ""
 "We firmly believe that solid use value is the basic support of the price. "
 "That's true, simple and clear."
 msgstr "我们坚定地认为：扎实的使用价值，是交易价格的基础支撑，不需要过多的粉饰。"
 
-#: ../../sale/presale.rst:89
+#: ../../sale/presale.rst:91
 msgid "The pre-sale contract will be released soon."
 msgstr "预售合约即将发布"
