@@ -13,16 +13,24 @@ Pre-sale/Early-bird phase is in progress
 - 16.13% of the token sale would be released in this phase, namely 3 billion VNET;
 - 1 ETH minimum per transaction, up to 100 ETH;
 - The starting sales price of VNET is about 0.0013 USD, and the price will increase
-  linearly with the sales progress. When the sales are closed at the end of this phase,
-  price of VNET would be 0.0035 USD.
+  linearly [#increase]_ with the sales progress. When the sales are closed at the end of this phase,
+  price of VNET would be 0.0035 USD;
+- A transaction amount greater than or equal to 10 ETH will have a special interest [#10eth]_.
 
 .. NOTE::
 
-   **Increase linearly** means, the sales price increases as the sales progress.
-   After each transaction finished, the contract will recalculate next conversion ratio
-   according to the actual sales progress.
+   About **Increase linearly** and **Special interest**:
 
-   **In short, the sooner you buy, the lower price you get.**
+   .. [#increase] **Increase linearly** means, the sales price increases as the sales progress.
+      After each transaction finished, the contract will recalculate next conversion ratio
+      according to the actual sales progress.
+
+      **In short, the sooner you buy, the lower price you get.**
+
+   .. [#10eth] **Special interest:** We have reserved 175 million VNET as a consumption pool in
+      the distribution plan. For special user contribution awards and sales promotions, the white
+      list of individual or organizational users will be charged to the consumer pool contract
+      account until used up.
 
 
 ETH/VNET exchange ratio calculation formula:
@@ -52,14 +60,16 @@ Where,
 - **VNETSupply**: the total amount of VNET in this phase
 
 
-For example:
+
+For example
+-----------
 
 If the sales progress reaches 50%, audit ETH price as $150, a single transaction
-of 5 ETH can be concluded:
+of 20 ETH can be concluded:
 
-.. image:: /_static/presale/5eth.svg
+.. image:: /_static/presale/eth2vnet.svg
    :width: 50 %
-   :alt: formula.gif
+   :alt: eth2vnet.gif
    :align: center
 
 |
@@ -67,11 +77,12 @@ of 5 ETH can be concluded:
 .. \frac{150.00}{0.0013+ \left (0.0035-0.0013 \right )\cdot \frac{50}{100}} = 62500
 
 That is, the exchange ratio is *1 ETH = 62,500 VNET* in this transaction. Since this transaction
-is 5 ETH total, you can get *5 x 62,500 = 312,500 VNET* [#note]_.
+is 20 ETH total, you can get *62,500 x 20 = 1,250,000 VNET* [#example]_.
 
-.. [#note] If 5 ETH is split into multiple transfers to the contract, not one transaction,
+.. [#example] If 20 ETH is split into multiple transfers to the contract, not one transaction,
    each transfer will trigger a recalculation and the resulting VNET will be less than the
-   *312500 VNET* in the above example.
+   *1,250,000 VNET* in the above example.
+
 
 
 We firmly believe that solid use value is the basic support of the price. That's true, simple and clear.

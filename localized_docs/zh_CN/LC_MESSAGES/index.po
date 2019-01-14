@@ -55,11 +55,11 @@ msgstr ""
 
 #: ../../index.rst:16
 msgid "`VisionNetworkProject`_"
-msgstr ""
+msgstr "远景网络项目组"
 
 #: ../../index.rst:27
 msgid "$VNET Token Sale"
-msgstr "$VNET 流量币 Token Sale"
+msgstr "$VNET 流量币销售"
 
 #: ../../index.rst:35
 msgid "Available services"

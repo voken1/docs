@@ -1,22 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2017-2019, Vision Network Project
-# This file is distributed under the same license as the vision.network
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-05 14:49+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2019-01-14 16:22+0800\n"
+"PO-Revision-Date: 2019-01-11 05:18+0000\n"
+"Language-Team: English (https://www.transifex.com/vision_network/teams/95092/en/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../whitepaper/design_principle.rst:2
 msgid "Design concept and design principle"
@@ -28,11 +27,11 @@ msgstr ""
 
 #: ../../whitepaper/design_principle.rst:7
 msgid ""
-"Although the fresh definition is indeed easier to catch the eyeballs, but"
-" that is not what we want. Innovation-driven development is a complex "
-"system engineering. In the Vision Network system solutions and ecosystem,"
-" we advocate and encourage innovation that can solve practical problems, "
-"improve efficiency, reduce costs, and solve problems."
+"Although the fresh definition is indeed easier to catch the eyeballs, but "
+"that is not what we want. Innovation-driven development is a complex system "
+"engineering. In the Vision Network system solutions and ecosystem, we "
+"advocate and encourage innovation that can solve practical problems, improve"
+" efficiency, reduce costs, and solve problems."
 msgstr ""
 
 #: ../../whitepaper/design_principle.rst:11
@@ -41,8 +40,8 @@ msgstr ""
 
 #: ../../whitepaper/design_principle.rst:13
 msgid ""
-"In the field of distributed node-to-node networks, encryption and privacy"
-" protection and blockchain technology, many predecessors have already "
+"In the field of distributed node-to-node networks, encryption and privacy "
+"protection and blockchain technology, many predecessors have already "
 "completed a lot of meaningful work, some of which have matured technical "
 "solutions that have been actually verified and stable in production "
 "environment."
@@ -52,14 +51,13 @@ msgstr ""
 msgid ""
 "For example, the DHT technology, represented by S/Kademlia DHT, has "
 "completed many generations of updates, the intranet penetration and node "
-"discovery and online / offline updating, the reverse proxy technology, "
-"and the distributed file sharing system represented by BitTorrent, the "
-"directed acyclic graph DAG, the Merkle tree, the asymmetric encryption "
-"and decryption technology represented by RSA / ElGamal / ECC, the virtual"
-" private network and proxy technology represented by OpenVPN and "
-"Shadowsocks(r), the secure transmission technology represented by SSL/TLS"
-" and IPsec, blockchain data structure and so on, these are very precious "
-"experience and resources."
+"discovery and online / offline updating, the reverse proxy technology, and "
+"the distributed file sharing system represented by BitTorrent, the directed "
+"acyclic graph DAG, the Merkle tree, the asymmetric encryption and decryption"
+" technology represented by RSA / ElGamal / ECC, the virtual private network "
+"and proxy technology represented by OpenVPN and Shadowsocks(r), the secure "
+"transmission technology represented by SSL/TLS and IPsec, blockchain data "
+"structure and so on, these are very precious experience and resources."
 msgstr ""
 
 #: ../../whitepaper/design_principle.rst:19
@@ -70,10 +68,10 @@ msgstr ""
 
 #: ../../whitepaper/design_principle.rst:21
 msgid ""
-"The Vision Network will prioritize mature and stable technology "
-"solutions, appropriate integration and innovation, provide services for "
-"practical and concrete applications, and cost-effectively solve specific "
-"problems in specific real-life scenes."
+"The Vision Network will prioritize mature and stable technology solutions, "
+"appropriate integration and innovation, provide services for practical and "
+"concrete applications, and cost-effectively solve specific problems in "
+"specific real-life scenes."
 msgstr ""
 
 #: ../../whitepaper/design_principle.rst:25
@@ -83,9 +81,7 @@ msgstr ""
 #: ../../whitepaper/design_principle.rst:27
 msgid ""
 "Unrestrained valuation expansion is not the original intention of Vision "
-"Network. From the point of view of ecological currency, the value scale "
-"is stable, the low cost is convenient to hold, the convenience of "
-"circulation and the convenience of payment have more practical "
-"significance."
+"Network. From the point of view of ecological currency, the value scale is "
+"stable, the low cost is convenient to hold, the convenience of circulation "
+"and the convenience of payment have more practical significance."
 msgstr ""
-

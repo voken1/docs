@@ -1,22 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2017-2019, Vision Network Project
-# This file is distributed under the same license as the vision.network
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10 19:10+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2019-01-14 16:22+0800\n"
+"PO-Revision-Date: 2019-01-11 05:18+0000\n"
+"Language-Team: English (https://www.transifex.com/vision_network/teams/95092/en/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../sale/presale.rst:2
 msgid "$VNET Pre-Sale/Early-Bird"
@@ -24,10 +23,10 @@ msgstr ""
 
 #: ../../sale/presale.rst:4
 msgid ""
-"There is **18.6 billion VNET** would released by token sale, accounting "
-"for **53.14%** of the total supply. With our sincerity, we have designed "
-"contracts for sales on Ethereum blockchain platform, to make it clear and"
-" free to check anytime."
+"There is **18.6 billion VNET** would released by token sale, accounting for "
+"**53.14%** of the total supply. With our sincerity, we have designed "
+"contracts for sales on Ethereum blockchain platform, to make it clear and "
+"free to check anytime."
 msgstr ""
 
 #: ../../sale/presale.rst:11
@@ -35,10 +34,9 @@ msgid "Pre-sale/Early-bird phase is in progress"
 msgstr ""
 
 #: ../../sale/presale.rst:13
-#, python-format
 msgid ""
-"16.13% of the token sale would be released in this phase, namely 3 "
-"billion VNET;"
+"16.13% of the token sale would be released in this phase, namely 3 billion "
+"VNET;"
 msgstr ""
 
 #: ../../sale/presale.rst:14
@@ -48,213 +46,106 @@ msgstr ""
 #: ../../sale/presale.rst:15
 msgid ""
 "The starting sales price of VNET is about 0.0013 USD, and the price will "
-"increase linearly with the sales progress. When the sales are closed at "
-"the end of this phase, price of VNET would be 0.0035 USD."
+"increase linearly [#increase]_ with the sales progress. When the sales are "
+"closed at the end of this phase, price of VNET would be 0.0035 USD;"
 msgstr ""
 
-#: ../../sale/presale.rst:21
+#: ../../sale/presale.rst:18
+msgid ""
+"A transaction amount greater than or equal to 10 ETH will have a special "
+"interest [#10eth]_."
+msgstr ""
+
+#: ../../sale/presale.rst:22
+msgid "About **Increase linearly** and **Special interest**:"
+msgstr ""
+
+#: ../../sale/presale.rst:24
 msgid ""
 "**Increase linearly** means, the sales price increases as the sales "
 "progress. After each transaction finished, the contract will recalculate "
 "next conversion ratio according to the actual sales progress."
 msgstr ""
 
-#: ../../sale/presale.rst:25
+#: ../../sale/presale.rst:28
 msgid "**In short, the sooner you buy, the lower price you get.**"
 msgstr ""
 
-#: ../../sale/presale.rst:28
+#: ../../sale/presale.rst:30
+msgid ""
+"**Special interest:** We have reserved 175 million VNET as a consumption "
+"pool in the distribution plan. For special user contribution awards and "
+"sales promotions, the white list of individual or organizational users will "
+"be charged to the consumer pool contract account until used up."
+msgstr ""
+
+#: ../../sale/presale.rst:36
 msgid "ETH/VNET exchange ratio calculation formula:"
 msgstr ""
 
-#: ../../sale/presale.rst:37
+#: ../../sale/presale.rst:45
 msgid "Formula expression in LaTex:"
 msgstr ""
 
-#: ../../sale/presale.rst:45
+#: ../../sale/presale.rst:53
 msgid "Where,"
 msgstr ""
 
-#: ../../sale/presale.rst:47
+#: ../../sale/presale.rst:55
 msgid "**ratioNext**: is the exchange ratio in the next transaction"
 msgstr ""
 
-#: ../../sale/presale.rst:48
+#: ../../sale/presale.rst:56
 msgid ""
-"**ETHPriceAudit**: is the audit ETH price in USD, will be updated "
-"regularly"
-msgstr ""
-
-#: ../../sale/presale.rst:49
-msgid "**VNETPriceStart**: sales start price"
-msgstr ""
-
-#: ../../sale/presale.rst:50
-msgid "**VNETPriceTarget**: end of sale price"
-msgstr ""
-
-#: ../../sale/presale.rst:51
-msgid "**VNETSold**: total amount of VNET sold"
-msgstr ""
-
-#: ../../sale/presale.rst:52
-msgid "**VNETSupply**: the total amount of VNET in this phase"
-msgstr ""
-
-#: ../../sale/presale.rst:55
-msgid "For example:"
+"**ETHPriceAudit**: is the audit ETH price in USD, will be updated regularly"
 msgstr ""
 
 #: ../../sale/presale.rst:57
+msgid "**VNETPriceStart**: sales start price"
+msgstr ""
+
+#: ../../sale/presale.rst:58
+msgid "**VNETPriceTarget**: end of sale price"
+msgstr ""
+
+#: ../../sale/presale.rst:59
+msgid "**VNETSold**: total amount of VNET sold"
+msgstr ""
+
+#: ../../sale/presale.rst:60
+msgid "**VNETSupply**: the total amount of VNET in this phase"
+msgstr ""
+
+#: ../../sale/presale.rst:63
+msgid "For example:"
+msgstr ""
+
+#: ../../sale/presale.rst:65
 msgid ""
 "If the sales progress reaches 50%, audit ETH price as $150, a single "
-"transaction of 5 ETH can be concluded:"
+"transaction of 20 ETH can be concluded:"
 msgstr ""
 
-#: ../../sale/presale.rst:69
+#: ../../sale/presale.rst:77
 msgid ""
-"That is, the exchange ratio is *1 ETH = 62,500 VNET* in this transaction."
-" Since this transaction is 5 ETH total, you can get *5 x 62,500 = 312,500"
-" VNET* [#note]_."
-msgstr ""
-
-#: ../../sale/presale.rst:72
-msgid ""
-"If 5 ETH is split into multiple transfers to the contract, not one "
-"transaction, each transfer will trigger a recalculation and the resulting"
-" VNET will be less than the *312500 VNET* in the above example."
-msgstr ""
-
-#: ../../sale/presale.rst:78
-msgid ""
-"We firmly believe that solid use value is the basic support of the price."
-" That's true, simple and clear."
+"That is, the exchange ratio is *1 ETH = 62,500 VNET* in this transaction. "
+"Since this transaction is 20 ETH total, you can get *62,500 x 20 = 1,250,000"
+" VNET* [#example]_."
 msgstr ""
 
 #: ../../sale/presale.rst:80
-msgid "The pre-sale contract will be released soon."
+msgid ""
+"If 20 ETH is split into multiple transfers to the contract, not one "
+"transaction, each transfer will trigger a recalculation and the resulting "
+"VNET will be less than the *1,250,000 VNET* in the above example."
 msgstr ""
 
-#~ msgid "Expression in LaTex:"
-#~ msgstr ""
+#: ../../sale/presale.rst:87
+msgid ""
+"We firmly believe that solid use value is the basic support of the price. "
+"That's true, simple and clear."
+msgstr ""
 
-#~ msgid ""
-#~ "15.87% of the total supply would "
-#~ "be released in the pre-sale/early-"
-#~ "bird phase, namely 2 billion VNET;"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The starting sales price of VNET "
-#~ "is about 0.0013 USD, and the price"
-#~ " will increase linearly with the "
-#~ "sales progress. When the sales are "
-#~ "closed at this stage, the sales "
-#~ "price of VNET would be 0.0026 USD."
-#~ msgstr ""
-
-#~ msgid "Formula expression in LaTex:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**increase linearly** means, the sales "
-#~ "price VNET increases as the sales "
-#~ "progress. After each transaction finished, "
-#~ "the contract will recalculate next "
-#~ "conversion ratio according to the "
-#~ "percentage of the actual sales progress."
-#~ " **In short, the sooner you buy, "
-#~ "the lower price you get.**"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**Increase linearly** means, the sales "
-#~ "price VNET increases as the sales "
-#~ "progress. After each transaction finished, "
-#~ "the contract will recalculate next "
-#~ "conversion ratio according to the actual"
-#~ " sales progress. **In short, the "
-#~ "sooner you buy, the lower price "
-#~ "you get.**"
-#~ msgstr ""
-
-#~ msgid "How much VNET is 1 ETH worth in the next transaction:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "15.87% of the total supply would "
-#~ "be released in this phase, namely "
-#~ "2 billion VNET;"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "The starting sales price of VNET "
-#~ "is about 0.0013 USD, and the price"
-#~ " will increase linearly with the "
-#~ "sales progress. When the sales are "
-#~ "closed at the end of this phase,"
-#~ " price of VNET would be 0.0026 "
-#~ "USD."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "**Increase linearly** means, the sales "
-#~ "price VNET increases as the sales "
-#~ "progress. After each transaction finished, "
-#~ "the contract will recalculate next "
-#~ "conversion ratio according to the actual"
-#~ " sales progress."
-#~ msgstr ""
-
-#~ msgid "**rationNext**: is the exchange ratio in the next transaction"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "There is 18.6 billion VNET would "
-#~ "released by token sale, accounting for"
-#~ " 53.14% of the total supply. With "
-#~ "our sincerity, we have designed "
-#~ "contracts for sales on Ethereum "
-#~ "blockchain platform, to make it clear"
-#~ " and free to check anytime."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "That is, the exchange ratio is 1"
-#~ " ETH=62,500 VNET at this time. Since"
-#~ " this transaction is 5 ETH total, "
-#~ "you can get *5 x 62,500 = "
-#~ "312,500 VNET* [#note]_."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If 5 ETH is split into multiple"
-#~ " transfers to the contract, not one"
-#~ " transaction,"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "each transfer will trigger a "
-#~ "recalculation. The actual total ratio "
-#~ "will be less than the *1 ETH "
-#~ "= 312500 VNET* in the above "
-#~ "example."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If the sales progress reaches 50%, "
-#~ "audit ETH price as $150 , a "
-#~ "single transaction of 5 ETH can be"
-#~ " concluded:"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If 5 ETH is split into multiple"
-#~ " transfers to the contract, not one"
-#~ " transaction, each transfer will trigger"
-#~ " a recalculation. The actual total "
-#~ "ratio will be less than the *1 "
-#~ "ETH = 312500 VNET* in the above"
-#~ " example."
-#~ msgstr ""
-
+#: ../../sale/presale.rst:89
+msgid "The pre-sale contract will be released soon."
+msgstr ""

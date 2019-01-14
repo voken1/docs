@@ -1,22 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2017-2019, Vision Network Project
-# This file is distributed under the same license as the vision.network
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-05 16:26+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2019-01-14 16:22+0800\n"
+"PO-Revision-Date: 2019-01-11 05:14+0000\n"
+"Language-Team: English (https://www.transifex.com/vision_network/teams/95092/en/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../autossr/autossr.rst:4
 msgid "Free ShadowsocksR"
@@ -41,7 +40,8 @@ msgid "Subscribe by URL"
 msgstr ""
 
 #: ../../autossr/autossr.rst:18
-msgid "Choose one or more URL below of the 3 levels, and add to your SSR client:"
+msgid ""
+"Choose one or more URL below of the 3 levels, and add to your SSR client:"
 msgstr ""
 
 #: ../../autossr/autossr.rst:21
@@ -103,81 +103,3 @@ msgstr ""
 #: ../../autossr/autossr.rst:37
 msgid "`ShadowsocksR`_ on windows"
 msgstr ""
-
-#~ msgid "Telegram Channel: https://t.me/autossr"
-#~ msgstr ""
-
-#~ msgid "Telegram Channel:<br>https://t.me/autossr"
-#~ msgstr ""
-
-#~ msgid "Github:<br>https://github.com/VisionNetworkProject/AutoSSR"
-#~ msgstr ""
-
-#~ msgid "Free ShadowsocksR subscription"
-#~ msgstr ""
-
-#~ msgid "Use these URLs to subscribe"
-#~ msgstr ""
-
-#~ msgid "We will check all the servers once per hour, you can one or more below:"
-#~ msgstr ""
-
-#~ msgid "**STABLE**"
-#~ msgstr ""
-
-#~ msgid "**ONLINE**"
-#~ msgstr ""
-
-#~ msgid "**RECENT**"
-#~ msgstr ""
-
-#~ msgid "All the online servers, available more than one hour."
-#~ msgstr ""
-
-#~ msgid "Available more the 12 hours, seems they are stable."
-#~ msgstr ""
-
-#~ msgid "Recent servers, active in 6 hours."
-#~ msgstr ""
-
-#~ msgid "**ONLINE** [#online]_"
-#~ msgstr ""
-
-#~ msgid "**STABLE** [#stable]_"
-#~ msgstr ""
-
-#~ msgid "**RECENT** [#recent]_"
-#~ msgstr ""
-
-#~ msgid "Here are 3 levels: [online]_, [stable]_, and [recent]_."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can find several ShadowsocksR "
-#~ "services here, we will check all "
-#~ "the servers once per hour. and "
-#~ "**THEY ARE FREE!!**"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "You can find several ShadowsocksR "
-#~ "services here, we will check all "
-#~ "the servers once per hour. and "
-#~ "THEY ARE FREE!!"
-#~ msgstr ""
-
-#~ msgid "There are 3 levels:"
-#~ msgstr ""
-
-#~ msgid "**online:** All the online servers, available more than one hour."
-#~ msgstr ""
-
-#~ msgid "**stable:** Available more the 12 hours, seems they are stable."
-#~ msgstr ""
-
-#~ msgid "**recent:** Recent servers, active in 6 hours."
-#~ msgstr ""
-
-#~ msgid "Choose one or more URL below, and add to your SSR client:"
-#~ msgstr ""
-
