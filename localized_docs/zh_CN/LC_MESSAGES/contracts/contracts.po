@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10 19:19+0800\n"
+"POT-Creation-Date: 2019-01-15 16:45+0800\n"
 "PO-Revision-Date: 2019-01-11 05:18+0000\n"
 "Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -25,81 +25,97 @@ msgstr ""
 msgid "Contracts on Ethereum"
 msgstr "以太坊智能合约"
 
-#: ../../contracts/contracts.rst:5
+#: ../../contracts/contracts.rst:4
+msgid "All contracts:"
+msgstr ""
+
+#: ../../contracts/contracts.rst:9
 msgid "VNET Token"
 msgstr "VNET Token 主合约"
 
-#: ../../contracts/contracts.rst:7
+#: ../../contracts/contracts.rst:11
 msgid "The main Contract of VNET Token:"
 msgstr "VNET Token 主合约："
 
-#: ../../contracts/contracts.rst:9
+#: ../../contracts/contracts.rst:13
 msgid "Could set a release timestamp constraint when mint"
 msgstr "铸币时可以设置锁仓终点时间约束"
 
-#: ../../contracts/contracts.rst:10
+#: ../../contracts/contracts.rst:14
 msgid "Allow admin to rescue other ERC20 tokens"
 msgstr "允许急救取回收到的误转的其它 ERC20 代币"
 
-#: ../../contracts/contracts.rst:12
+#: ../../contracts/contracts.rst:16
 msgid "The address is `0x3F13A8039D33FbF19467183e3B4249E7a4c212F5`_"
 msgstr "合约地址 `0x3F13A8039D33FbF19467183e3B4249E7a4c212F5`_"
 
-#: ../../contracts/contracts.rst:19
-msgid "Team Fund"
-msgstr "Team Fund 团队持币基金"
-
-#: ../../contracts/contracts.rst:21
-msgid "The Contract which held 12% of the total VNET Tokens for the team:"
-msgstr "占 VNET Token 总量 12%："
-
 #: ../../contracts/contracts.rst:23
-msgid "Locked for 3 years."
-msgstr "锁定 3 年"
+msgid "Pre-sale/Early-bird"
+msgstr ""
 
 #: ../../contracts/contracts.rst:25
-msgid "The address is `0xA94adE3d44a6BB69bB115751B4A999C7B6761D71`_"
-msgstr "合约地址 `0xA94adE3d44a6BB69bB115751B4A999C7B6761D71`_"
+msgid "Pre-sale/Early-bird contract with increase linearly price."
+msgstr ""
 
-#: ../../contracts/contracts.rst:32
-msgid "Business Fund"
-msgstr "Business Fund 社区激励与商业拓展基金"
+#: ../../contracts/contracts.rst:27
+msgid "The address is `0x85a9c7d5aB7e2ccF0Aa2e5Aeee2B319e69BD32d7`_"
+msgstr ""
 
 #: ../../contracts/contracts.rst:34
-msgid ""
-"The Contract which held 18.89% of the total VNET Tokens, would be used for:"
-msgstr "占 VNET Token 总量的 18.89%，将备用于："
-
-#: ../../contracts/contracts.rst:36
-msgid "Exchange listing"
-msgstr "$VNET 流量币的交易所挂牌"
-
-#: ../../contracts/contracts.rst:37
-msgid "Service node incentive"
-msgstr "生态前期的服务节点激励"
-
-#: ../../contracts/contracts.rst:38
-msgid "Community construction and maintenance"
-msgstr "社区建设与维护"
-
-#: ../../contracts/contracts.rst:39
-msgid "etc."
-msgstr "其它奖励"
-
-#: ../../contracts/contracts.rst:41
-msgid "The address is `0x8fC420202F43Ce952445961c15c5A5B1C80cE50A`_"
-msgstr "合约地址 `0x8fC420202F43Ce952445961c15c5A5B1C80cE50A`_"
-
-#: ../../contracts/contracts.rst:48
 msgid "Airdrop"
 msgstr "Airdrop 空投"
 
-#: ../../contracts/contracts.rst:50
+#: ../../contracts/contracts.rst:36
 msgid ""
 "Just call the contract (send 0 ETH here), and get 100-200 VNET Tokens for "
 "free."
 msgstr "转账 0 ETH 至合约地址，自动免费获得 100-200 VNET"
 
-#: ../../contracts/contracts.rst:52
+#: ../../contracts/contracts.rst:38
 msgid "The address is `0x0e3d9B8AA451F398E4D7ef5Be299367949943028`_"
 msgstr "合约地址 `0x0e3d9B8AA451F398E4D7ef5Be299367949943028`_"
+
+#: ../../contracts/contracts.rst:45
+msgid "Team Fund"
+msgstr "Team Fund 团队持币基金"
+
+#: ../../contracts/contracts.rst:47
+msgid "The Contract which held 12% of the total VNET Tokens for the team:"
+msgstr "占 VNET Token 总量 12%："
+
+#: ../../contracts/contracts.rst:49
+msgid "Locked for 3 years."
+msgstr "锁定 3 年"
+
+#: ../../contracts/contracts.rst:51
+msgid "The address is `0xA94adE3d44a6BB69bB115751B4A999C7B6761D71`_"
+msgstr "合约地址 `0xA94adE3d44a6BB69bB115751B4A999C7B6761D71`_"
+
+#: ../../contracts/contracts.rst:58
+msgid "Business Fund"
+msgstr "Business Fund 社区激励与商业拓展基金"
+
+#: ../../contracts/contracts.rst:60
+msgid ""
+"The Contract which held 18.89% of the total VNET Tokens, would be used for:"
+msgstr "占 VNET Token 总量的 18.89%，将备用于："
+
+#: ../../contracts/contracts.rst:62
+msgid "Exchange listing"
+msgstr "$VNET 流量币的交易所挂牌"
+
+#: ../../contracts/contracts.rst:63
+msgid "Service node incentive"
+msgstr "生态前期的服务节点激励"
+
+#: ../../contracts/contracts.rst:64
+msgid "Community construction and maintenance"
+msgstr "社区建设与维护"
+
+#: ../../contracts/contracts.rst:65
+msgid "etc."
+msgstr "其它奖励"
+
+#: ../../contracts/contracts.rst:67
+msgid "The address is `0x8fC420202F43Ce952445961c15c5A5B1C80cE50A`_"
+msgstr "合约地址 `0x8fC420202F43Ce952445961c15c5A5B1C80cE50A`_"

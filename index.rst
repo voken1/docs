@@ -28,8 +28,9 @@ Welcome to vision.network!
    :maxdepth: 1
    :caption: Get $VNET Token
 
-   token/airdrop
    token/presale
+   token/airdrop
+   token/airdrop_by_invitation
 
 
 
