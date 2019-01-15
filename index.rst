@@ -36,6 +36,14 @@ Welcome to vision.network!
 
 .. toctree::
    :maxdepth: 1
+   :caption: Reports
+
+   reports/summary2018
+
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: Available services
 
    autossr/autossr

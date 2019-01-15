@@ -1,3 +1,6 @@
+.. _airdrop-by-invitation-lable:
+
+
 $VNET Airdrop by invitation
 ===========================
 

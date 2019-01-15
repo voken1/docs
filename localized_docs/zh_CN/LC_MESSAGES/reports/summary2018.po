@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-15 21:25+0800\n"
+"PO-Revision-Date: 2019-01-15 13:27+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../reports/summary2018.rst:2
+msgid "Summary 2018"
+msgstr ""
+
+#: ../../reports/summary2018.rst:4
+msgid "What we have done in 2018:"
+msgstr ""
+
+#: ../../reports/summary2018.rst:7
+msgid "2018 Q1:"
+msgstr ""
+
+#: ../../reports/summary2018.rst:7
+msgid "Feasibility and technical demonstration completed"
+msgstr ""
+
+#: ../../reports/summary2018.rst:12
+msgid "2018 Q2:"
+msgstr ""
+
+#: ../../reports/summary2018.rst:10
+msgid "Vision Network Whitepaper v1.0.0 - v1.0.4"
+msgstr ""
+
+#: ../../reports/summary2018.rst:11
+msgid "`VNET Token Contract`_ on Ethereum blockchain platform"
+msgstr ""
+
+#: ../../reports/summary2018.rst:12
+msgid "`Official website`_ and keep it updating later"
+msgstr ""
+
+#: ../../reports/summary2018.rst:18
+msgid "2018 Q3:"
+msgstr ""
+
+#: ../../reports/summary2018.rst:15
+msgid "Delayed :ref:`presale-lable` Phase of Token Sale"
+msgstr ""
+
+#: ../../reports/summary2018.rst:16
+msgid "Canceled :ref:`airdrop-by-invitation-lable`"
+msgstr ""
+
+#: ../../reports/summary2018.rst:17
+msgid "Launched `257 nodes(servers)` for `VNP2PNET` test net"
+msgstr ""
+
+#: ../../reports/summary2018.rst:18
+msgid "`vnVPN Alpha Server side v0.1.0 on Linux` released"
+msgstr ""
+
+#: ../../reports/summary2018.rst:35
+msgid "2018 Q4:"
+msgstr ""
+
+#: ../../reports/summary2018.rst:21
+msgid "`vnVPN Alpha Client side v0.1.0 on Windows` released"
+msgstr ""
+
+#: ../../reports/summary2018.rst:22
+msgid "`vnTUNNEL` based on `Shadowsocks`_ original protocol implemented"
+msgstr ""
+
+#: ../../reports/summary2018.rst:23
+msgid "`vnVPN Alpha Server side v0.1.1 on Linux` released"
+msgstr ""
+
+#: ../../reports/summary2018.rst:24
+msgid "`vnVPN Alpha Server side v0.1.1 on Windows` released"
+msgstr ""
+
+#: ../../reports/summary2018.rst:25
+msgid "`RSA encrypted`_ `P2P`_ communication implemented"
+msgstr ""
+
+#: ../../reports/summary2018.rst:26
+msgid "`vnVPN Alpha Server side v0.1.2 on Linux` released"
+msgstr ""
+
+#: ../../reports/summary2018.rst:27
+msgid "`vnVPN Alpha Server side v0.1.2 on Windows` released"
+msgstr ""
+
+#: ../../reports/summary2018.rst:28
+msgid "`vnP2PNET` Server nodes networking and synchronization implemented"
+msgstr ""
+
+#: ../../reports/summary2018.rst:29
+msgid "`vnVPN Alpha Server side v0.2.0 on Linux` released"
+msgstr ""
+
+#: ../../reports/summary2018.rst:30
+msgid "`vnVPN Alpha Server side v0.2.0 on Windows` released"
+msgstr ""
+
+#: ../../reports/summary2018.rst:31
+msgid "`NAT`_ over `UDP`_ for `vnTUNNEL` implemented"
+msgstr ""
+
+#: ../../reports/summary2018.rst:32
+msgid "`vnVPN Alpha Server side v0.3.0 on Linux` released"
+msgstr ""
+
+#: ../../reports/summary2018.rst:33
+msgid "`vnVPN Alpha Server side v0.3.0 on Windows` released"
+msgstr ""
+
+#: ../../reports/summary2018.rst:34
+msgid ""
+":ref:`autossr-lable` (A free `ShadowsocksR`_ subscription updating tool) "
+"released"
+msgstr ""

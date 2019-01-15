@@ -1,3 +1,5 @@
+.. _presale-lable:
+
 $VNET Pre-Sale/Early-Bird
 =========================
 
