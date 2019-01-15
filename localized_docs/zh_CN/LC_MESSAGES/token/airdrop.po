@@ -47,7 +47,7 @@ msgstr "预期用户覆盖："
 
 #: ../../token/airdrop.rst:11
 msgid "About 300,000 users."
-msgstr "大约 30 万用户。"
+msgstr "大约 30 万用户"
 
 #: ../../token/airdrop.rst:14
 msgid "Significance:"

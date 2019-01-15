@@ -8,14 +8,6 @@ on Ethereum blockchain platform, to make it clear and free to check anytime.
 
 
 
-
-Contract address
-----------------
-
-`0x85a9c7d5aB7e2ccF0Aa2e5Aeee2B319e69BD32d7`
-
-
-
 Pre-sale/Early-bird phase is in progress
 ----------------------------------------
 
@@ -98,5 +90,22 @@ We firmly believe that solid use value is the basic support of the price. That's
 --------------------------------------------------------------------------------------------------------
 
 The pre-sale contract will be released soon.
+
+
+
+Contract
+--------
+
+.. image:: /_static/contract/qrcode_presale.svg
+   :width: 35 %
+   :alt: qrcode_presale.svg
+
+`0x85a9c7d5aB7e2ccF0Aa2e5Aeee2B319e69BD32d7`
+
+Send ETH to the address above, you will receive VNET automatically.
+
+.. NOTE::
+
+   Set gas limit to `90,000`, the rest will be returned once transaction finished.
 
 

@@ -23,7 +23,7 @@ Contract
 
 .. image:: /_static/contract/qrcode_airdrop.svg
    :width: 35 %
-   :alt: eth2vnet.gif
+   :alt: qrcode_airdrop.svg
 
 `0x0e3d9B8AA451F398E4D7ef5Be299367949943028`
 
