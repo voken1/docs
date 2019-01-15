@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-14 20:48+0800\n"
+"POT-Creation-Date: 2019-01-15 15:22+0800\n"
 "PO-Revision-Date: 2019-01-14 12:36+0000\n"
 "Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -22,19 +22,67 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../token/airdrop.rst:2
-msgid "$VNET Airdrop"
-msgstr "$VNET 流量币空投"
+msgid "$VNET Airdrop via contract"
+msgstr "$VNET 流量币合约空投"
 
-#: ../../token/airdrop.rst:4
+#: ../../token/airdrop.rst:5
+msgid "Total amount:"
+msgstr "总量："
+
+#: ../../token/airdrop.rst:5
+msgid "50 Million VNET"
+msgstr "5000 万 VNET"
+
+#: ../../token/airdrop.rst:8
+msgid "Per quantity:"
+msgstr "每份数量："
+
+#: ../../token/airdrop.rst:8
+msgid "100-200 VNET (randomly)"
+msgstr "100-200 VNET（随机）"
+
+#: ../../token/airdrop.rst:11
+msgid "Users covered expected:"
+msgstr "预期用户覆盖："
+
+#: ../../token/airdrop.rst:11
+msgid "About 300,000 users."
+msgstr "大约 30 万用户。"
+
+#: ../../token/airdrop.rst:14
+msgid "Significance:"
+msgstr "意义："
+
+#: ../../token/airdrop.rst:14
+msgid ""
+"Promote visibility and consensus in the process of gradual maturity of the "
+"**Vision Network**."
+msgstr "在 Vision Network 网络效应逐渐成熟的过程中，更促进知名度和共识的达成。"
+
+#: ../../token/airdrop.rst:19
+msgid "Looking forward to:"
+msgstr "期待："
+
+#: ../../token/airdrop.rst:17
+msgid ""
+"Share, spread and popularize the **Vision Network** concept, and to let more"
+" people know."
+msgstr "分享、传播、普及 Vision Network 理念，让更多人认识远景网络。"
+
+#: ../../token/airdrop.rst:22
+msgid "Contract"
+msgstr "以太坊智能合约"
+
+#: ../../token/airdrop.rst:24
+msgid "`0x0e3d9B8AA451F398E4D7ef5Be299367949943028`"
+msgstr ""
+
+#: ../../token/airdrop.rst:26
 msgid ""
 "Just send 0 ETH to the Airdrop Contract, you will receive 100-200 VNET. The "
 "total amount is 50,000,000, first come first served."
 msgstr "发送 0 ETH 到空投合约，免费获得 100-200 VNET 流量币。总量 50,000,000 先到先得。"
 
-#: ../../token/airdrop.rst:7
-msgid "Airdrop Contract Address: `0x0e3d9B8AA451F398E4D7ef5Be299367949943028`"
-msgstr "空投合约地址： `0x0e3d9B8AA451F398E4D7ef5Be299367949943028`"
-
-#: ../../token/airdrop.rst:11
-msgid "Gas limit 90,000, the rest will be returned automatically."
-msgstr "转账时 Gas 数量填 90,000，剩余部分将会自动退回。"
+#: ../../token/airdrop.rst:31
+msgid "Set gas limit to `90,000`, the rest will be returned automatically."
+msgstr "请将 `gas limit` 设置为 `90,000` ，剩余部分将自动退回。"

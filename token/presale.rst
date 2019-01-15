@@ -1,9 +1,18 @@
 $VNET Pre-Sale/Early-Bird
 =========================
 
+
 There is **18.6 billion VNET** would released by token sale, accounting for **53.14%**
 of the total supply. With our sincerity, we have designed contracts for sales
 on Ethereum blockchain platform, to make it clear and free to check anytime.
+
+
+
+
+Contract address
+----------------
+
+`0x85a9c7d5aB7e2ccF0Aa2e5Aeee2B319e69BD32d7`
 
 
 
@@ -35,7 +44,7 @@ Pre-sale/Early-bird phase is in progress
 
 ETH/VNET exchange ratio calculation formula:
 
-.. image:: /_static/presale/formula.svg
+.. image:: /_static/contract/formula.svg
    :width: 80 %
    :alt: formula.gif
    :align: center
@@ -67,7 +76,7 @@ For example
 If the sales progress reaches 50%, audit ETH price as $150, a single transaction
 of 20 ETH can be concluded:
 
-.. image:: /_static/presale/eth2vnet.svg
+.. image:: /_static/contract/eth2vnet.svg
    :width: 50 %
    :alt: eth2vnet.gif
    :align: center
