@@ -39,6 +39,7 @@ Welcome to vision.network!
    :caption: Available services
 
    autossr/autossr
+   reports/vnvpn_alpha
 
 
 
