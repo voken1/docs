@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10 19:19+0800\n"
+"POT-Creation-Date: 2019-01-16 18:21+0800\n"
 "PO-Revision-Date: 2019-01-11 05:19+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../whitepaper/philosophy.rst:2
-msgid "Our Philosophy - Yearning for freedom"
+msgid "Our Philosophy: Yearning for freedom"
 msgstr ""
 
 #: ../../whitepaper/philosophy.rst:4
@@ -31,25 +31,27 @@ msgid ""
 "relations at work, but a series of basic communication protocols."
 msgstr ""
 
-#: ../../whitepaper/philosophy.rst:6
-msgid ""
-"An e-mail which is came from Microsoft can be sent to Gmail, because there "
-"are many intermediate servers that carry the delivery task. This delivery is"
-" neither a business task nor an administrative task. It does not bring "
-"direct commercial benefits. There is any administrative affiliation. The "
-"existence of this open network, just because if you want to participate in "
-"this game, you must accept these open game rules."
-msgstr ""
-
-#: ../../whitepaper/philosophy.rst:8
-msgid ""
-"The giants on the Internet, such as Google and Facebook, are not the "
-"beneficiaries of the open architecture of the Internet. Whether it is from "
-"Pratt & Whitney, or from the perspective of providing more business "
-"opportunities, the open and free Internet spirit will really benefit us."
-msgstr ""
-
 #: ../../whitepaper/philosophy.rst:10
+msgid ""
+"An e-mail which is came from Microsoft [#Microsoft]_ can be sent to Gmail "
+"[#Gmail]_, because there are many intermediate servers that carry the "
+"delivery task. This delivery is neither a business task nor an "
+"administrative task. It does not bring direct commercial benefits. There is "
+"any administrative affiliation. The existence of this open network, just "
+"because if you want to participate in this game, you must accept these open "
+"game rules."
+msgstr ""
+
+#: ../../whitepaper/philosophy.rst:17
+msgid ""
+"The giants on the Internet, such as Google [#Google]_ and Facebook "
+"[#Facebook]_, are not the beneficiaries of the open architecture of the "
+"Internet. Whether it is from Pratt & Whitney, or from the perspective of "
+"providing more business opportunities, the open and free Internet spirit "
+"will really benefit us."
+msgstr ""
+
+#: ../../whitepaper/philosophy.rst:22
 msgid ""
 "Perhaps not everyone agrees with these viewpoints. In some areas, for some "
 "reasons, ISP services are more like a large local area network. They are not"
@@ -59,18 +61,19 @@ msgid ""
 " exactly the same as the original design, free, open, equal, and shared."
 msgstr ""
 
-#: ../../whitepaper/philosophy.rst:12
+#: ../../whitepaper/philosophy.rst:29
 msgid ""
 "Same like you, our team members also need accessibility, stable and fluent "
-"network communication services, explore the world through Google and "
-"Wikipedia, share our work and life times with friends all over the world on "
-"Facebook/Instagram, Using YouTube / Twitter to see a colorful world, you and"
-" us, can not only understand the latest technological trends, academic "
-"research, cutting-edge information, but also freely communicate, discuss and"
-" collaborate."
+"network communication services, explore the world through Google [#Google]_ "
+"and Wikipedia [#Wikipedia]_, share our work and life times with friends all "
+"over the world on Facebook [#Facebook]_ / Instagram [#Instagram]_, Using "
+"YouTube YouTube [#YouTube]_ / Twitter [#Twitter]_ to see a colorful world, "
+"you and us, can not only understand the latest technological trends, "
+"academic research, cutting-edge information, but also freely communicate, "
+"discuss and collaborate."
 msgstr ""
 
-#: ../../whitepaper/philosophy.rst:14
+#: ../../whitepaper/philosophy.rst:37
 msgid ""
 "The Internet belongs to all those who construct and use it. The future of "
 "the Internet should not be abducted and controlled by any centralized "
@@ -79,7 +82,7 @@ msgid ""
 "should have the rights of freely browsing and speaking."
 msgstr ""
 
-#: ../../whitepaper/philosophy.rst:16
+#: ../../whitepaper/philosophy.rst:42
 msgid ""
 "We are taking some actions to create a distributed, borderless, and "
 "accessible future network infrastructure through a series of technologies "
@@ -89,13 +92,45 @@ msgid ""
 "either mature or innovative technology methods."
 msgstr ""
 
-#: ../../whitepaper/philosophy.rst:18
+#: ../../whitepaper/philosophy.rst:48
 msgid ""
 "Of course, all of this, starting from barrier-free interconnection, expects "
 "your blessings and support, and welcomes the participation of all people "
 "with ideals to build a healthy basic ecological environment."
 msgstr ""
 
-#: ../../whitepaper/philosophy.rst:20
+#: ../../whitepaper/philosophy.rst:52
 msgid "-- by Michael 2018"
+msgstr ""
+
+#: ../../whitepaper/philosophy.rst:54
+msgid "**Microsoft** https://www.microsoft.com/"
+msgstr ""
+
+#: ../../whitepaper/philosophy.rst:55
+msgid "**Gmail** https://www.gmail.com/"
+msgstr ""
+
+#: ../../whitepaper/philosophy.rst:56
+msgid "**Google** https://www.google.com/"
+msgstr ""
+
+#: ../../whitepaper/philosophy.rst:57
+msgid "**Facebook** https://www.facebook.com/"
+msgstr ""
+
+#: ../../whitepaper/philosophy.rst:58
+msgid "**Wikipedia** https://www.wikipedia.com/"
+msgstr ""
+
+#: ../../whitepaper/philosophy.rst:59
+msgid "**Instagram** https://www.instagram.com/"
+msgstr ""
+
+#: ../../whitepaper/philosophy.rst:60
+msgid "**YouTube** https://www.youtube.com/"
+msgstr ""
+
+#: ../../whitepaper/philosophy.rst:61
+msgid "**Twitter** https://twitter.com/"
 msgstr ""

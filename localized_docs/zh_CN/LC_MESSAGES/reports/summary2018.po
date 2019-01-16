@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Michael Brown <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 21:25+0800\n"
+"POT-Creation-Date: 2019-01-16 18:21+0800\n"
 "PO-Revision-Date: 2019-01-15 13:27+0000\n"
+"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,114 +23,151 @@ msgstr ""
 
 #: ../../reports/summary2018.rst:2
 msgid "Summary 2018"
-msgstr ""
+msgstr "2018 年度简要总结"
 
 #: ../../reports/summary2018.rst:4
 msgid "What we have done in 2018:"
-msgstr ""
+msgstr "我们在 2018 年已经取得的进展："
 
 #: ../../reports/summary2018.rst:7
 msgid "2018 Q1:"
-msgstr ""
+msgstr "2018 年 1 季度："
 
 #: ../../reports/summary2018.rst:7
 msgid "Feasibility and technical demonstration completed"
-msgstr ""
+msgstr "功能特性与技术可行性论证完成"
 
 #: ../../reports/summary2018.rst:12
 msgid "2018 Q2:"
-msgstr ""
+msgstr "2018 年 2 季度："
 
 #: ../../reports/summary2018.rst:10
 msgid "Vision Network Whitepaper v1.0.0 - v1.0.4"
-msgstr ""
+msgstr "远景网络项目白皮书 v1.0.0 至 1.0.4 版本更新"
 
 #: ../../reports/summary2018.rst:11
-msgid "`VNET Token Contract`_ on Ethereum blockchain platform"
-msgstr ""
+msgid "VNET Token Contract [#token]_ on Ethereum blockchain platform"
+msgstr "$VNET 流量币主合约 [#token]_ 在以太坊区块链平台"
 
 #: ../../reports/summary2018.rst:12
 msgid "`Official website`_ and keep it updating later"
-msgstr ""
+msgstr "`官方网站`_ 并陆续更新"
 
 #: ../../reports/summary2018.rst:18
 msgid "2018 Q3:"
-msgstr ""
+msgstr "2018 年 3 季度："
 
 #: ../../reports/summary2018.rst:15
 msgid "Delayed :ref:`presale-lable` Phase of Token Sale"
-msgstr ""
+msgstr "推迟 :ref:`presale-lable`"
 
 #: ../../reports/summary2018.rst:16
 msgid "Canceled :ref:`airdrop-by-invitation-lable`"
-msgstr ""
+msgstr "取消 :ref:`airdrop-by-invitation-lable`"
 
 #: ../../reports/summary2018.rst:17
-msgid "Launched `257 nodes(servers)` for `VNP2PNET` test net"
-msgstr ""
+msgid "Launched `257 nodes(servers)` for `vnP2PNET` test net"
+msgstr "为 `vnP2PNET` 启动 `257 个节点服务器` 用以组建测试期的分布式网络"
 
 #: ../../reports/summary2018.rst:18
 msgid "`vnVPN Alpha Server side v0.1.0 on Linux` released"
-msgstr ""
+msgstr "`vnVPN Alpha 服务端内测 Linux 版 v0.1.0` 完成"
 
 #: ../../reports/summary2018.rst:35
 msgid "2018 Q4:"
-msgstr ""
+msgstr "2018 年 4 季度："
 
 #: ../../reports/summary2018.rst:21
 msgid "`vnVPN Alpha Client side v0.1.0 on Windows` released"
-msgstr ""
+msgstr "`vnVPN Alpha 客户端内测 Windows 版 v0.1.0` 完成"
 
 #: ../../reports/summary2018.rst:22
-msgid "`vnTUNNEL` based on `Shadowsocks`_ original protocol implemented"
-msgstr ""
+msgid ""
+"`vnTUNNEL` based on Shadowsocks [#Shadowsocks]_ original protocol "
+"implemented"
+msgstr "基于 Shadowsocks [#Shadowsocks]_ 原版协议重构并改进的 `vnTUNNEL` 完成"
 
 #: ../../reports/summary2018.rst:23
 msgid "`vnVPN Alpha Server side v0.1.1 on Linux` released"
-msgstr ""
+msgstr "`vnVPN Alpha 服务端内测 Linux 版 v0.1.1` 完成"
 
 #: ../../reports/summary2018.rst:24
 msgid "`vnVPN Alpha Server side v0.1.1 on Windows` released"
-msgstr ""
+msgstr "`vnVPN Alpha 客户端内测 Windows 版 v0.1.1` 完成"
 
 #: ../../reports/summary2018.rst:25
-msgid "`RSA encrypted`_ `P2P`_ communication implemented"
-msgstr ""
+msgid "RSA encrypted [#RSA]_ P2P [#P2P]_ communication implemented"
+msgstr "使用 RSA [#RSA]_ 非对称加密的 P2P 点对点通信 [#P2P]_ 通信功能实现"
 
 #: ../../reports/summary2018.rst:26
 msgid "`vnVPN Alpha Server side v0.1.2 on Linux` released"
-msgstr ""
+msgstr "`vnVPN Alpha 服务端内测 Linux 版 v0.1.2` 完成"
 
 #: ../../reports/summary2018.rst:27
 msgid "`vnVPN Alpha Server side v0.1.2 on Windows` released"
-msgstr ""
+msgstr "`vnVPN Alpha 客户端内测 Windows 版 v0.1.2` 完成"
 
 #: ../../reports/summary2018.rst:28
 msgid "`vnP2PNET` Server nodes networking and synchronization implemented"
-msgstr ""
+msgstr "`vnP2PNET` 服务节点的组网与同步通信功能完成"
 
 #: ../../reports/summary2018.rst:29
 msgid "`vnVPN Alpha Server side v0.2.0 on Linux` released"
-msgstr ""
+msgstr "`vnVPN Alpha 服务端内测 Linux 版 v0.2.0` 完成"
 
 #: ../../reports/summary2018.rst:30
 msgid "`vnVPN Alpha Server side v0.2.0 on Windows` released"
-msgstr ""
+msgstr "`vnVPN Alpha 客户端内测 Windows 版 v0.2.0` 完成"
 
 #: ../../reports/summary2018.rst:31
-msgid "`NAT`_ over `UDP`_ for `vnTUNNEL` implemented"
-msgstr ""
+msgid ""
+"TCP [#TCP]_ NAT traversal [#NAT]_ over UDP [#UDP]_ for `vnTUNNEL` "
+"implemented"
+msgstr "为 `vnTUNNEL` 经由 UDP [#UDP]_ 开启 TCP [#TCP]_ NAT 内网穿透 [#NAT]_ 完成"
 
 #: ../../reports/summary2018.rst:32
 msgid "`vnVPN Alpha Server side v0.3.0 on Linux` released"
-msgstr ""
+msgstr "`vnVPN Alpha 服务端内测 Linux 版 v0.3.0` 完成"
 
 #: ../../reports/summary2018.rst:33
 msgid "`vnVPN Alpha Server side v0.3.0 on Windows` released"
-msgstr ""
+msgstr "`vnVPN Alpha 客户端内测 Windows 版 v0.3.0` 完成"
 
 #: ../../reports/summary2018.rst:34
 msgid ""
-":ref:`autossr-lable` (A free `ShadowsocksR`_ subscription updating tool) "
-"released"
+":ref:`autossr-lable` (A free ShadowsocksR [#ShadowsocksR]_ subscription "
+"updating tool) released"
 msgstr ""
+":ref:`autossr-lable` （一个可供免费使用的 ShadowsocksR [#ShadowsocksR]_ 订阅更新工具）发布"
+
+#: ../../reports/summary2018.rst:37
+msgid "`VNET Token Contract on etherscan.io`_"
+msgstr "`$VNET 流量币主合约 on etherscan.io`_"
+
+#: ../../reports/summary2018.rst:38
+msgid "`Shadowsocks on GitHub`_"
+msgstr "`GitHub：Shadowsocks`_"
+
+#: ../../reports/summary2018.rst:39
+msgid "`RSA encrypted on WikiPedia`_"
+msgstr "`维基百科：RSA 加密`_"
+
+#: ../../reports/summary2018.rst:40
+msgid "`P2P, Peer-to-peer on WikiPedia`_"
+msgstr "`维基百科：P2P 点对点网络`_"
+
+#: ../../reports/summary2018.rst:41
+msgid "`TCP, Transmission Control Protocol on WikiPedia`_"
+msgstr "`维基百科：TCP 传输控制协议`_"
+
+#: ../../reports/summary2018.rst:42
+msgid "`NAT traversal on WikiPedia`_"
+msgstr "`维基百科：NAT 内网穿透`_"
+
+#: ../../reports/summary2018.rst:43
+msgid "`UDP, User Datagram Protocol on WikiPedia`_"
+msgstr "`维基百科：UDP 用户数据报协议`_"
+
+#: ../../reports/summary2018.rst:44
+msgid "`ShadowsocksR on GitHub`_"
+msgstr "`GitHub：ShadowsocksR`_"

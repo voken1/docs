@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:45+0800\n"
+"POT-Creation-Date: 2019-01-16 18:21+0800\n"
 "PO-Revision-Date: 2019-01-11 05:18+0000\n"
 "Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -51,15 +51,15 @@ msgstr "合约地址 `0x3F13A8039D33FbF19467183e3B4249E7a4c212F5`_"
 
 #: ../../contracts/contracts.rst:23
 msgid "Pre-sale/Early-bird"
-msgstr ""
+msgstr "早鸟预售"
 
 #: ../../contracts/contracts.rst:25
 msgid "Pre-sale/Early-bird contract with increase linearly price."
-msgstr ""
+msgstr "价格线性递增的早鸟预售合约。"
 
 #: ../../contracts/contracts.rst:27
 msgid "The address is `0x85a9c7d5aB7e2ccF0Aa2e5Aeee2B319e69BD32d7`_"
-msgstr ""
+msgstr "合约地址  `0x85a9c7d5aB7e2ccF0Aa2e5Aeee2B319e69BD32d7`_"
 
 #: ../../contracts/contracts.rst:34
 msgid "Airdrop"

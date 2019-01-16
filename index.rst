@@ -26,12 +26,21 @@ Welcome to vision.network!
 
 .. toctree::
    :maxdepth: 1
-   :caption: Get $VNET Token
+   :caption: First steps
+
+   whitepaper/summary
+   whitepaper/philosophy
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: $VNET Token
 
    token/presale
    token/airdrop
    token/airdrop_by_invitation
-
+..   token/vnet
 
 
 .. toctree::
