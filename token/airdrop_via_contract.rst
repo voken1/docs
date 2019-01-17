@@ -1,3 +1,5 @@
+.. _airdrop-via-contract-lable:
+
 $VNET Airdrop via contract
 ==========================
 
@@ -32,4 +34,4 @@ is 50,000,000, first come first served.
 
 .. NOTE::
 
-   Set gas limit to `90,000`, the rest will be returned automatically.
+   Set `gas limit` to `90,000`, the rest will be returned automatically.

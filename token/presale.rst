@@ -91,7 +91,7 @@ is 20 ETH total, you can get *62,500 x 20 = 1,250,000 VNET* [#example]_.
 We firmly believe that solid use value is the basic support of the price. That's true, simple and clear.
 --------------------------------------------------------------------------------------------------------
 
-The pre-sale contract will be released soon.
+......
 
 
 

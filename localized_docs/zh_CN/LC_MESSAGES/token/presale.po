@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-15 16:17+0800\n"
+"POT-Creation-Date: 2019-01-17 13:01+0800\n"
 "PO-Revision-Date: 2019-01-14 12:13+0000\n"
 "Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -21,11 +21,11 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../token/presale.rst:2
+#: ../../token/presale.rst:4
 msgid "$VNET Pre-Sale/Early-Bird"
 msgstr "$VNET 流量币早鸟预售"
 
-#: ../../token/presale.rst:5
+#: ../../token/presale.rst:7
 msgid ""
 "There is **18.6 billion VNET** would released by token sale, accounting for "
 "**53.14%** of the total supply. With our sincerity, we have designed "
@@ -35,21 +35,21 @@ msgstr ""
 "带着我们足够的诚意，$VNET 流量币的官方销售将全程在以太坊区块链网络上透明公开，共有 **18.6 亿** 用于销售，占流量币全网总供应量的 "
 "**53.14%** 。"
 
-#: ../../token/presale.rst:12
+#: ../../token/presale.rst:14
 msgid "Pre-sale/Early-bird phase is in progress"
 msgstr "早鸟预售进行中"
 
-#: ../../token/presale.rst:14
+#: ../../token/presale.rst:16
 msgid ""
 "16.13% of the token sale would be released in this phase, namely 3 billion "
 "VNET;"
 msgstr "本次早鸟预售将释放总销量份额的 16.13%，即 30 亿枚 VNET；"
 
-#: ../../token/presale.rst:15
+#: ../../token/presale.rst:17
 msgid "1 ETH minimum per transaction, up to 100 ETH;"
 msgstr "单笔交易 1 ETH 起，至多不超过 100 ETH；"
 
-#: ../../token/presale.rst:16
+#: ../../token/presale.rst:18
 msgid ""
 "The starting sales price of VNET is about 0.0013 USD, and the price will "
 "increase linearly [#increase]_ with the sales progress. When the sales are "
@@ -58,17 +58,17 @@ msgstr ""
 "VNET 流量币的起始销售价格为 0.0013 USD，价格将随销售进度线性递增 [#increase]_ ，当本阶段销售截止，VNET "
 "流量币的销售价格将为 0.0035 USD；"
 
-#: ../../token/presale.rst:19
+#: ../../token/presale.rst:21
 msgid ""
 "A transaction amount greater than or equal to 10 ETH will have a special "
 "interest [#10eth]_."
 msgstr "单笔交易金额大于等于 10 ETH 将享有特别权益 [#10eth]_ 。"
 
-#: ../../token/presale.rst:23
+#: ../../token/presale.rst:25
 msgid "About **Increase linearly** and **Special interest**:"
 msgstr "关于 **线性递增** 和 **特别权益** ："
 
-#: ../../token/presale.rst:25
+#: ../../token/presale.rst:27
 msgid ""
 "**Increase linearly** means, the sales price increases as the sales "
 "progress. After each transaction finished, the contract will recalculate "
@@ -77,11 +77,11 @@ msgstr ""
 "关于 **价格线性递增** 指的是：VNET "
 "的销售价格随着销售进度逐渐递增。智能合约将在每笔交易完成后，按照实际销售进度（已售量/总量）的百分比计算并确定下一笔交易的兑换比例。"
 
-#: ../../token/presale.rst:29
+#: ../../token/presale.rst:31
 msgid "**In short, the sooner you buy, the lower price you get.**"
 msgstr "**即：越早购买，单价越低，增值空间越大。**"
 
-#: ../../token/presale.rst:31
+#: ../../token/presale.rst:33
 msgid ""
 "**Special interest:** We have reserved 175 million VNET as a consumption "
 "pool in the distribution plan. For special user contribution awards and "
@@ -91,54 +91,54 @@ msgstr ""
 "**特别权益：** 在 VNET Token 分配计划中我们预留了 1.75 亿 VNET "
 "作为消费池，用于特殊用户供献福利和销售促销，白名单个人或组织用户的流量币都将由消费池的合约账户支出，用完为止。"
 
-#: ../../token/presale.rst:37
+#: ../../token/presale.rst:39
 msgid "ETH/VNET exchange ratio calculation formula:"
 msgstr "ETH/VNET 兑换比例计算公式："
 
-#: ../../token/presale.rst:46
+#: ../../token/presale.rst:48
 msgid "Formula expression in LaTex:"
 msgstr ""
 
-#: ../../token/presale.rst:54
+#: ../../token/presale.rst:56
 msgid "Where,"
 msgstr "其中，"
 
-#: ../../token/presale.rst:56
+#: ../../token/presale.rst:58
 msgid "**ratioNext**: is the exchange ratio in the next transaction"
 msgstr "**ratioNext**: 下一笔兑换比值"
 
-#: ../../token/presale.rst:57
+#: ../../token/presale.rst:59
 msgid ""
 "**ETHPriceAudit**: is the audit ETH price in USD, will be updated regularly"
 msgstr "**ETHPriceAudit**: ETH 的当前审计价格，将随 ETH 的市场价不定期更新"
 
-#: ../../token/presale.rst:58
+#: ../../token/presale.rst:60
 msgid "**VNETPriceStart**: sales start price"
 msgstr "**VNETPriceStart**: VNET 早鸟预售的销售起始价格"
 
-#: ../../token/presale.rst:59
+#: ../../token/presale.rst:61
 msgid "**VNETPriceTarget**: end of sale price"
 msgstr "**VNETPriceTarget**: VNET 早鸟预售的销售终止价格"
 
-#: ../../token/presale.rst:60
+#: ../../token/presale.rst:62
 msgid "**VNETSold**: total amount of VNET sold"
 msgstr "**VNETSold**: 已售出的 VNET 累计总量"
 
-#: ../../token/presale.rst:61
+#: ../../token/presale.rst:63
 msgid "**VNETSupply**: the total amount of VNET in this phase"
 msgstr "**VNETSupply**: 早鸟预售的 VNET 总量"
 
-#: ../../token/presale.rst:66
+#: ../../token/presale.rst:68
 msgid "For example"
 msgstr "例如"
 
-#: ../../token/presale.rst:68
+#: ../../token/presale.rst:70
 msgid ""
 "If the sales progress reaches 50%, audit ETH price as $150, a single "
 "transaction of 20 ETH can be concluded:"
 msgstr "当销售进度达到 50% 时，单笔购入 20 ETH ，ETH 的审计价格以 $150 计算，则可根据公式得出："
 
-#: ../../token/presale.rst:80
+#: ../../token/presale.rst:82
 msgid ""
 "That is, the exchange ratio is *1 ETH = 62,500 VNET* in this transaction. "
 "Since this transaction is 20 ETH total, you can get *62,500 x 20 = 1,250,000"
@@ -147,7 +147,7 @@ msgstr ""
 "即，兑换比例为 *1 ETH = 62,500 VNET* ，一次性购入 20 ETH，则此笔交易可获得 *62,500 x 20 = "
 "1,250,000 VNET* [#example]_ 。"
 
-#: ../../token/presale.rst:83
+#: ../../token/presale.rst:85
 msgid ""
 "If 20 ETH is split into multiple transfers to the contract, not one "
 "transaction, each transfer will trigger a recalculation and the resulting "
@@ -156,29 +156,25 @@ msgstr ""
 "如果 20 ETH 被拆分多次转账至合约，而不是同一笔交易，则每次转账都会触发一次比例的重新计算，实际获得的 VNET 总量将略小于上述举例中的 "
 "*1,250,000 VNET* 。"
 
-#: ../../token/presale.rst:90
+#: ../../token/presale.rst:92
 msgid ""
 "We firmly believe that solid use value is the basic support of the price. "
 "That's true, simple and clear."
 msgstr "我们坚定地认为：扎实的使用价值，是交易价格的基础支撑，不需要过多的粉饰。"
 
-#: ../../token/presale.rst:92
-msgid "The pre-sale contract will be released soon."
-msgstr "预售合约即将发布"
-
-#: ../../token/presale.rst:97
+#: ../../token/presale.rst:99
 msgid "Contract"
 msgstr "以太坊智能合约"
 
-#: ../../token/presale.rst:103
+#: ../../token/presale.rst:105
 msgid "`0x85a9c7d5aB7e2ccF0Aa2e5Aeee2B319e69BD32d7`"
 msgstr ""
 
-#: ../../token/presale.rst:105
+#: ../../token/presale.rst:107
 msgid "Send ETH to the address above, you will receive VNET automatically."
 msgstr "发送 ETH 到上边的合约地址，你将会自动收到兑换的 VNET。"
 
-#: ../../token/presale.rst:109
+#: ../../token/presale.rst:111
 msgid ""
 "Set gas limit to `90,000`, the rest will be returned once transaction "
 "finished."

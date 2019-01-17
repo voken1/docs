@@ -38,7 +38,7 @@ Welcome to vision.network!
    :caption: $VNET Token
 
    token/presale
-   token/airdrop
+   token/airdrop_via_contract
    token/airdrop_by_invitation
 ..   token/vnet
 
