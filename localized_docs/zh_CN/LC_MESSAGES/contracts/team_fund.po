@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Michael Brown <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-17 13:29+0800\n"
+"PO-Revision-Date: 2019-01-17 05:20+0000\n"
+"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contracts/team_fund.rst:2
+msgid "Team Fund"
+msgstr "Team Fund 团队持币基金"
+
+#: ../../contracts/team_fund.rst:4
+msgid "The Contract which held 12% of the total VNET Tokens for the team:"
+msgstr "占 VNET Token 总量 12%："
+
+#: ../../contracts/team_fund.rst:6
+msgid "Locked for 3 years."
+msgstr "锁定 3 年"
+
+#: ../../contracts/team_fund.rst:8
+msgid "The address is `0xA94adE3d44a6BB69bB115751B4A999C7B6761D71`_"
+msgstr "合约地址 `0xA94adE3d44a6BB69bB115751B4A999C7B6761D71`_"

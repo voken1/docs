@@ -64,7 +64,11 @@ Welcome to vision.network!
    :maxdepth: 2
    :caption: Contracts on Ethereum
 
-   contracts/contracts
+   contracts/vnet
+   contracts/presale
+   contracts/airdrop
+   contracts/team_fund
+   contracts/business_fund
 
 
 
