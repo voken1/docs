@@ -1,3 +1,5 @@
+.. _philosophy:
+
 Our Philosophy: Yearning for freedom
 ====================================
 
@@ -25,6 +27,11 @@ open-minded as the original design of the Internet. As a group of technology gee
 although we can understand it, but we are more and more looking forward to enjoying an
 Internet infrastructure that is exactly the same as the original design, free, open,
 equal, and shared.
+
+.. image:: /_static/icons.png
+   :width: 100 %
+   :alt: icons.png
+   :align: center
 
 Same like you, our team members also need accessibility, stable and fluent network
 communication services, explore the world through Google [#Google]_ and Wikipedia [#Wikipedia]_,
