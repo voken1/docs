@@ -1,0 +1,201 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"PO-Revision-Date: 2019-01-19 08:46+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../whitepaper/more.rst:2
+msgid "More"
+msgstr ""
+
+#: ../../whitepaper/more.rst:5
+msgid "Thinking about Tor Network"
+msgstr ""
+
+#: ../../whitepaper/more.rst:7
+msgid ""
+"After the PRISM incident, privacy protection has been increasingly focused "
+"and respected by every user who needs network security communications."
+msgstr ""
+
+#: ../../whitepaper/more.rst:11
+msgid ""
+"Tor, The Onion Router, is an open source, free software for anonymous "
+"communications. The project was initially sponsored by the Naval Research "
+"Laboratory. It can help users communicate and browse. Tor anonymously on the"
+" Internet through the way of Entry node, Middle node and Exit Node multi-"
+"layer proxy, which makes the user’s true source IP untraceable."
+msgstr ""
+
+#: ../../whitepaper/more.rst:19
+msgid ""
+"Obviously, the design of vnVPN has naturally satisfied the technical "
+"foundation for preventing tracking, anonymous browsing and communication. If"
+" VISION goes one step further and implements a multi-proxy application "
+"vnTOR, vnTOR has obvious advantages over the original Tor network. In other "
+"words, an ecosystem that uses VNET Token can motivate the participation of "
+"nodes (more service nodes participate, not just use and claimants), and "
+"network quality and service quality are more stable and more efficient."
+msgstr ""
+
+#: ../../whitepaper/more.rst:30
+msgid "2016 Movie Snowden:"
+msgstr ""
+
+#: ../../whitepaper/more.rst:29
+msgid "http://storetorrents.com/hash/3937111709900E5D58C2C8945D9ABE63365C4545"
+msgstr ""
+
+#: ../../whitepaper/more.rst:30
+msgid "http://storetorrents.com/hash/44BB5BBE5AFCFFD391DEC35EC9359AE07022F2B8"
+msgstr ""
+
+#: ../../whitepaper/more.rst:43
+msgid "Edward Snowden:"
+msgstr ""
+
+#: ../../whitepaper/more.rst:42
+msgid "`Edward Snowden - WikiPedia(English)`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:43
+msgid "`Edward Snowden - WikiPedia(Chinese)`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:51
+msgid "PRISM:"
+msgstr ""
+
+#: ../../whitepaper/more.rst:50
+msgid "`PRISM - WikiPedia(English)`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:51
+msgid "`PRISM - WikiPedia(Chinese)`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:60
+msgid "Tor:"
+msgstr ""
+
+#: ../../whitepaper/more.rst:58
+msgid "`torproject.org`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:59
+msgid "`Tor - WikiPedia(English)`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:60
+msgid "`Tor - WikiPedia(Chinese)`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:69
+msgid "vnTOR, Extensible anonymous network service"
+msgstr ""
+
+#: ../../whitepaper/more.rst:71
+msgid ""
+"Obviously, Tor has great value and reference value for the exploration and "
+"implementation of the network's anonymity and neutrality, and we believe "
+"that the crux of the problem that currently leads to the slow and unsuitable"
+" use of the Tor network lies in the no incentives. Most of the users who "
+"participate in Tor are requesters. They are online when they use it, and "
+"they don't keep running when they are not used. As a result, the number of "
+"service nodes is in the state of shortage of demand for a long time."
+msgstr ""
+
+#: ../../whitepaper/more.rst:73
+msgid ""
+"According to the actual development of the Vision Network project and "
+"opinions of the community, we may develop and implement the vnTOR multi-"
+"proxy function in the later period (the user selects the number of proxy "
+"layers and pays the corresponding VNET to drive two or more nodes to "
+"participate in the routing of data packets. The user can know the node_id of"
+" the service node on the path, and the service node is only responsible for "
+"completing the data packet routing between the adjacent nodes. The user's "
+"source IP is invisible to both the intermediate node and the target "
+"website.). It can even be connected to Tor. The network is open, allowing "
+"users to visit the address with an .onion suffix, even you can use Hidden "
+"Wiki and the Torch search engine."
+msgstr ""
+
+#: ../../whitepaper/more.rst:75
+msgid ""
+"Of course, this part of the work in the future is likely to involve more "
+"implementable developers in the design and application by rewarding VNET "
+"Token."
+msgstr ""
+
+#: ../../whitepaper/more.rst:80
+msgid "The Hidden Wiki:"
+msgstr ""
+
+#: ../../whitepaper/more.rst:79
+msgid "`The Hidden Wiki - WikiPedia(English)`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:80
+msgid "`The Hidden Wiki - WikiPedia(Chinese)`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:88
+msgid "Torch:"
+msgstr ""
+
+#: ../../whitepaper/more.rst:87
+msgid "`Search engines - Tor onion services`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:88
+msgid "`List of Tor onion services`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:99
+msgid "Dark net / Deep web:"
+msgstr ""
+
+#: ../../whitepaper/more.rst:95
+msgid "`Dark net - WikiPedia(English)`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:96
+msgid "`Dark net - WikiPedia(Chinese)`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:98
+msgid "`Deep web - WikiPedia(English)`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:99
+msgid "`Deep web - WikiPedia(Chinese)`_"
+msgstr ""
+
+#: ../../whitepaper/more.rst:109
+msgid ""
+"Future services based on Vision Network will also be settled using VNET "
+"Token"
+msgstr ""
+
+#: ../../whitepaper/more.rst:111
+msgid ""
+"Benefit from the stable value anchor design of VNET Token, which makes VNET "
+"closer to the true currency (value scale is stable, convenient to hold and "
+"circulate). In a sense, not only the software and services officially "
+"developed by Vision Network. With the promotion of development support "
+"policies and support funds, more third-party software will also use VNET for"
+" service settlement."
+msgstr ""

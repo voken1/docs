@@ -1,0 +1,157 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"PO-Revision-Date: 2019-01-19 08:47+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:2
+msgid "$VNET Token and plan of distribution"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:7
+msgid "Use it, invest it, not hype it"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:9
+msgid ""
+"This is also our **blockchain technology application** value philosophy."
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:11
+msgid ""
+"We are building an increasingly mature system, in which VNET Token will be "
+"the only measure of value and means of payment in such a sustainable and "
+"healthy environment. It is clear that the basic design of 1 VNET = 100GB "
+"after ecological maturity will ensure that the price of VNET is not destined"
+" to deviate too much from the anchoring of its actual use value. We expect "
+"users with real demands to buy VNET through exchanges or other channels and "
+"use it for appropriate network services. Of course, the value logic of VNET "
+"is so clear that proper investment is also a good choice."
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:15
+msgid ""
+"Total 35 billion, absolute majority amount will be handed over to the users"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:17
+msgid ""
+"The team and the early investors held only 22% of the total, in which the "
+"project team held 12% total using an open smart contract address and locked "
+"all balance for 3 years, while the balance of the early investors is locked "
+"up by 80%."
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:19
+msgid ""
+"78% of VNET will ultimately be held by users, with 53.11% of sales being the"
+" largest share, while the remaining 18.89% will be used for community "
+"rewards, and 5% for application development support plan."
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:23
+msgid "Plan of distribution"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:26
+msgid "**Team fund**"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:26
+msgid "12%"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:26
+msgid "100% locked for 3 years, till 2019.06.3"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:28
+msgid "**Early Investors**"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:28
+msgid "10%"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:28
+msgid "80% locked for 1 year, till 2021.06.30"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:30
+msgid "**Air Drops**"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:30
+#: ../../whitepaper/token_and_distribution_plan.rst:44
+msgid "0.5%"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:30
+msgid ""
+"It is used to reward the Ethereum community users and promotion before the "
+"public sale, etc."
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:33
+msgid "**Token Sale**"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:33
+msgid "53.11%"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:33
+msgid "17.14% for directed private sale, 35.97% for public sale."
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:36
+msgid "**DAPPs Support Plan**"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:36
+msgid "5%"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:36
+msgid ""
+"It is used to enrich Vision Network ecology, foster and encourage developers"
+" to build more decentralized application services."
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:40
+msgid "**Community and business**"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:40
+msgid "18.89%"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:40
+msgid ""
+"It is used for exchange listing, service node incentive, community "
+"construction and maintenance, etc."
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:44
+msgid "**Consumption pool**"
+msgstr ""
+
+#: ../../whitepaper/token_and_distribution_plan.rst:44
+msgid ""
+"For special user contribution awards and sales promotions, the white list of"
+" individual or organizational users will be charged to the consumer pool "
+"contract account until they are used up."
+msgstr ""

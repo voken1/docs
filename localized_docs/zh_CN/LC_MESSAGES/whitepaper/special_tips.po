@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Michael Brown <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"PO-Revision-Date: 2019-01-19 08:47+0000\n"
+"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../whitepaper/special_tips.rst:2
+msgid "Special tips"
+msgstr "特别注意"
+
+#: ../../whitepaper/special_tips.rst:4
+msgid ""
+"**The Vision Network team will not ask users to transfer their VNET Token to"
+" any wallet address and non-source verified smart contract address at any "
+"time. Please pay attention to the security of assets.**"
+msgstr ""
+"**Vision Network 团队不会在任何时候以任何方式诱惑用户将持有的 VNET Token "
+"转入任何钱包地址和未经源码验证的智能合约地址，请每位用户注意安全保护并防止受骗。**"

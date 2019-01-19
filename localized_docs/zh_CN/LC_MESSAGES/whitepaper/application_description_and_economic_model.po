@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10 19:19+0800\n"
+"POT-Creation-Date: 2019-01-19 16:56+0800\n"
 "PO-Revision-Date: 2019-01-11 05:18+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -21,6 +21,873 @@ msgstr ""
 msgid "Application description and economic model"
 msgstr ""
 
-#: ../../whitepaper/application_description_and_economic_model.rst:4
-msgid "..."
+#: ../../whitepaper/application_description_and_economic_model.rst:6
+msgid "A Distributed Extensible Virtual Network"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:14
+msgid ""
+"The existing infrastructures in the world is physically connected. While "
+"ISPs (Internet Service Providers) provide users with network access "
+"services, they can centralize blockades and block your access. The Vision "
+"Network uses distributed peer-to-peer network technology to build a "
+"distributed, intelligent virtual network on the physical layer and ISP "
+"network layer through a large number of nodes, which can surely connect the "
+"whole world."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:21
+msgid ""
+"The Vision Network provides distributed services such as VPN, CDN, DNS, and "
+"DDoS defense. The VNET Token with stable value scale will be used in the "
+"ecology and produce an incentive effect. Everyone can participate in "
+"distributed network construction. We believe the Vision Network, a "
+"distributed Internet infrastructure will make the Internet more open, more "
+"equal, more stable, more efficient, safer and freer."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:28
+msgid ""
+"**1 VNET Token = 100 GB client network traffic (price at IDC is $8.0 – "
+"8.5)**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:30
+msgid ""
+"The user running the service node makes use of idle network resources to "
+"earn VNET, and the user or organization that needs the service uses VNET "
+"exchange to settle through the vnCHAIN blockchain."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:37
+msgid "Turn user's idle network resources into cash"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:39
+msgid ""
+"The vast majority of home broadband networks use less than 3% of the full-"
+"year network, a large number of network resources are idle. These idle "
+"resource fragments can be combined through technical means and can generate "
+"huge value."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:43
+msgid ""
+"With the help of Vision Network, users participating in the ecology can "
+"easily run VISION node programs on computers, routers, TV boxes, and even "
+"mobile devices, even if they do not have the professional technical ability "
+"to share idle network resources. The longer the time is online, the more "
+"VNET Token can be obtained, which can be used to exchange the services you "
+"need in the ecology, or sell them on the exchange to turn your idle network "
+"resources into cash."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:54
+msgid "VPN, Virtual Private Network"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:56
+msgid ""
+"Virtual Private Network, abbreviated as VPN, is commonly used to connect "
+"private networks between large and medium-sized enterprises or groups. It is"
+" a kind of way that can use open network (usually Internet) to transmit "
+"network information of intranet. VPN uses cryptographic tunneling protocol "
+"to realize accurate and secure transmission of information."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:62
+msgid ""
+"In some regional networks where access is selectively restricted or blocked,"
+" because classic proxy services (such as HTTP proxy or Socks5 proxy, tec.) "
+"have been nearly impossible to use, VPN technology has almost become the "
+"preferred choice for cross the network blockages."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:70
+msgid "Using VPN to cross the network blockades -- obvious rigid demands"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:72
+msgid ""
+"Just in China, **several tens of millions of users** with rigid demands have"
+" not been satisfied. They need services like Google, Wikipedia, Facebook, "
+"Twitter, and access to professional websites in many fields. They are "
+"mainly:"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:76
+msgid "Scientists and scholars"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:77
+msgid "Companies engaged in scientific research"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:78
+msgid "International trade practitioners"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:79
+msgid "Foreigner in China, for working, studying or traveling."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:80
+msgid "Design Company, Film Company, Designer"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:81
+msgid "Foreign-funded enterprise employees (mainly mobile office needs)"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:82
+msgid "Overseas game users"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:83
+msgid "Crypto-currency investors / holders / developers"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:84
+msgid "Others"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:86
+msgid ""
+"The network environment in China mainland is quite typical, the demand is "
+"concentrated and universal. Actually, not only in China mainland, but also "
+"in many parts of the world. For example, North America, Europe, and North "
+"Asia, there are also restrictions or speed limits or blockings."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:93
+msgid "Current situation and problems of traditional VPN"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:95
+msgid ""
+"At present, the main way for users to go through the network blockade is to "
+"buy the VPN services provided by commercial software on a monthly basis, and"
+" very few users with technical ability may build their own servers."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:99
+msgid ""
+"These companies and software services are affected by various factors, such "
+"as clear organization, limited server IP concentration, and unstable service"
+" due to the upgrading of the blockade technology, business policies, ethics,"
+" speed limit or even close the company, and so on is not uncommon."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:108
+#: ../../whitepaper/application_description_and_economic_model.rst:153
+msgid "vnVPN"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:110
+msgid ""
+"A decentralized distributed VPN service with unlimited nodes can cross the "
+"blockade, and avoid DNS pollution. Rigid demand, huge base, clear technical "
+"path."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:113
+msgid ""
+"The business logic of matching supply and demand is similar to shared "
+"economy models such as Ube. The technical advantage is that there is no need"
+" to set up a centralized intermediary organization, vnVPN create a "
+"decentralized platform based on blockchain and code rule. The contract is "
+"settled automatically, the node inside the wall pays the VNET Token as the "
+"demand side, and the outside node uses the idle bandwidth as the service "
+"party to provide the encrypted trafficproxy service and automatically accept"
+" the VNET Token settlement, and use the PoT consensus based on the traffic. "
+"Online service, blockchain settlement."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:124
+msgid "What can vnVPN helps you?"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:128
+msgid "Cross the network blockade"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:127
+msgid ""
+"Without restriction, you can access any content. No matter where you are, "
+"vnVPN can always help you connect to anywhere of the Internet easily."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:137
+msgid "Use wireless networks anywhere safely"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:131
+msgid ""
+"The widely used wireless hotspots not only bring convenience to users, but "
+"also bury the security problems. People who use the same network can easily "
+"eavesdrop on unprotected communications."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:135
+msgid ""
+"If you are in a bank, airport, hotel, restaurant, coffee shop, hospital, "
+"shopping mall, or any other public network, using vnVPN will allow all your "
+"communications to use secure encrypted tunnels and avoid being hacked."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:141
+msgid "One-touch connection"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:140
+msgid ""
+"The vnVPN interface is concise and clean, with one-click connection and easy"
+" to use, it does not require complex configuration and can be kept running "
+"in the background."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:147
+msgid "Smart routing"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:144
+msgid ""
+"Smart offload mode can automatically determine whether the access is smooth."
+" Only when the communication is blocked, the vnVPN network proxy is "
+"activated to save the traffic cost."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:150
+msgid "Advantages of the vnVPN"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:153
+msgid "Traditional VPN"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:153
+msgid "Non VPN"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:155
+msgid "**Cross the network blockade**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:155
+#: ../../whitepaper/application_description_and_economic_model.rst:157
+#: ../../whitepaper/application_description_and_economic_model.rst:159
+#: ../../whitepaper/application_description_and_economic_model.rst:169
+#: ../../whitepaper/application_description_and_economic_model.rst:171
+#: ../../whitepaper/application_description_and_economic_model.rst:242
+#: ../../whitepaper/application_description_and_economic_model.rst:244
+#: ../../whitepaper/application_description_and_economic_model.rst:312
+#: ../../whitepaper/application_description_and_economic_model.rst:320
+#: ../../whitepaper/application_description_and_economic_model.rst:322
+msgid "**Yes**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:155
+msgid "Yes"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:155
+#: ../../whitepaper/application_description_and_economic_model.rst:157
+#: ../../whitepaper/application_description_and_economic_model.rst:159
+#: ../../whitepaper/application_description_and_economic_model.rst:169
+#: ../../whitepaper/application_description_and_economic_model.rst:171
+#: ../../whitepaper/application_description_and_economic_model.rst:242
+#: ../../whitepaper/application_description_and_economic_model.rst:244
+#: ../../whitepaper/application_description_and_economic_model.rst:320
+#: ../../whitepaper/application_description_and_economic_model.rst:322
+msgid "No"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:157
+msgid "**Privacy protection**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:157
+#: ../../whitepaper/application_description_and_economic_model.rst:312
+msgid "Part"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:159
+msgid "**Never breakdown**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:159
+#: ../../whitepaper/application_description_and_economic_model.rst:161
+#: ../../whitepaper/application_description_and_economic_model.rst:163
+#: ../../whitepaper/application_description_and_economic_model.rst:165
+#: ../../whitepaper/application_description_and_economic_model.rst:167
+#: ../../whitepaper/application_description_and_economic_model.rst:169
+#: ../../whitepaper/application_description_and_economic_model.rst:171
+#: ../../whitepaper/application_description_and_economic_model.rst:242
+#: ../../whitepaper/application_description_and_economic_model.rst:244
+msgid "/"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:161
+msgid "**Payment methods**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:161
+msgid "**By traffic**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:161
+msgid "Monthly/yearly"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:163
+#: ../../whitepaper/application_description_and_economic_model.rst:236
+msgid "**Speed limit**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:163
+#: ../../whitepaper/application_description_and_economic_model.rst:236
+msgid "**Fast**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:163
+#: ../../whitepaper/application_description_and_economic_model.rst:236
+msgid "Relatively fast"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:165
+#: ../../whitepaper/application_description_and_economic_model.rst:240
+#: ../../whitepaper/application_description_and_economic_model.rst:318
+msgid "**Price level**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:165
+#: ../../whitepaper/application_description_and_economic_model.rst:240
+msgid "**Cheap**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:165
+#: ../../whitepaper/application_description_and_economic_model.rst:240
+#: ../../whitepaper/application_description_and_economic_model.rst:314
+msgid "Expensive"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:167
+#: ../../whitepaper/application_description_and_economic_model.rst:234
+msgid "**Number of nodes**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:167
+#: ../../whitepaper/application_description_and_economic_model.rst:234
+#: ../../whitepaper/application_description_and_economic_model.rst:316
+msgid "**Unlimited**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:167
+msgid "Limited"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:169
+#: ../../whitepaper/application_description_and_economic_model.rst:242
+msgid "**Users can participate**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:171
+msgid "**Traffic is permanently valid**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:174
+msgid ""
+"Traversing regional technology blockages using global user dynamic IP "
+"communications"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:175
+msgid "Built-in vnDNS service to eliminate centralized DNS pollution"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:176
+msgid "User privacy protection mechanism"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:177
+msgid "Infinite node"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:178
+msgid ""
+"Zero management of service nodes, turn user's idle network resources into "
+"cash"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:179
+msgid ""
+"Zero configuration of demand node, automatic update, smart proxy routing "
+"with vnPAC"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:180
+msgid "Traffic is permanently valid with no limit"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:185
+msgid "CDN, Content Distribution Network"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:187
+msgid ""
+"CDN is the content distribution network. By setting up node servers "
+"everywhere in the network, users can get the required content near the them,"
+" make the content more quickly and more stable, solve the situation of "
+"Internet network congestion, and improve the speed of communications to the "
+"web site."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:195
+msgid "Cost and efficiency demands of CDN service"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:197
+msgid ""
+"Traditional centralized CDN services rely on IDC or cloud service providers."
+" The number of nodes is limited, the servers and bandwidth resources are "
+"expensive. The website has to pay too much for it, however the efficiency "
+"and the user experience are also limited."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:205
+#: ../../whitepaper/application_description_and_economic_model.rst:232
+msgid "vnCDN"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:207
+msgid ""
+"A decentralized distributed content of the accelerated distribution "
+"services, with unlimited nodes, it will be faster, has better prices and "
+"transparent measurement."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:211
+msgid ""
+"The traditional centralized CDN service has great potential in optimizing "
+"efficiency and cost. Due to the limitation of IDC and cloud service "
+"providers, not only the number of nodes is limited, but also the traffic is "
+"expensive. Its central main operation is also often accused of data fraud "
+"and fuzzy accounting opaque."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:216
+msgid ""
+"The vnCDN combines blockchain technology, distributed network and "
+"traditional CDN technology to share a huge user base with vnVPN, truly "
+"global infinite nodes, and more users can easily access computers, routers, "
+"TV boxes, mobile devices, or even just a RaspberryPI device running VISION "
+"node programs, taking advantage of the unlimited traffic and cost advantages"
+" of home bandwidth, sharing their idle bandwidth and storage, generating "
+"revenue, making Internet acceleration nodes ubiquitous. It also provides "
+"more affordable, faster, more nodes and transparent, metrological "
+"distributed CDN services for website owners who need to accelerate."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:229
+msgid "Advantages of the vnCDN"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:232
+msgid "Traditional CDN"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:232
+msgid "Direct to host"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:234
+msgid "Dozens"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:234
+msgid "Only one"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:236
+#: ../../whitepaper/application_description_and_economic_model.rst:238
+#: ../../whitepaper/application_description_and_economic_model.rst:240
+msgid "Normal"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:238
+msgid "**Efficiency**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:238
+msgid "**High**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:238
+msgid "Relatively high"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:244
+msgid "**Open SDK**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:247
+msgid "Efficiency and user experience increased by more than 10 times"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:248
+msgid "Sharing a huge user base with vnVPN, truly global infinite nodes"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:249
+msgid ""
+"Allow users to use idle resources to participate in caching and "
+"distribution, and to obtain the traffic mining benefits of the PoT consensus"
+" mechanism"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:251
+msgid "Family VS. IDC，cost advantage of killer level"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:252
+msgid ""
+"Provide SDK to the admin management of the website, based on blockchain, the"
+" data is true and transparent, there is no possibility of fraud"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:258
+msgid "DDoS Attack"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:260
+msgid ""
+"Distributed Denial-of-Service Attack, abbreviated as DDoS attack or DDoS, "
+"also called flood attack, is a network attack method in which a hacker uses "
+"a plurality of hacked computers to forge a large number of normal requests. "
+"The target is to exhaust computer's network or the system resources, "
+"temporarily interrupting or stopping the service, causing its normal users "
+"to lose connections."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:269
+msgid "DDoS Defense"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:271
+msgid ""
+"Through hacker intrusion detection, multi-authentication and filtering of "
+"traffic is designed to filter traffic that blocks network bandwidth and "
+"allow normal access traffic to pass through, protecting the target computer,"
+" website or service."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:279
+msgid "The situation and problems of traditional DDoS Defense"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:281
+msgid ""
+"DDoS Defense is one of the major cost for services such as websites and "
+"APPs."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:283
+msgid ""
+"Because of intermittent demand, self-built protective server resources are "
+"too expensive to afford, so generally purchasing professional services is "
+"the only choice. The service provider provides traffic cleaning and "
+"protection services by setting up Access Gateway. The service provider is "
+"not much, Monopoly Competition Market."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:289
+msgid ""
+"Generally speaking, it consists of a monthly service fee and a resource "
+"consumption cost. Even if it is an entry-level service, it will cost about a"
+" few thousand dollars per month. This is simply the basic cost regardless of"
+" whether or not there is an attack, and the cost of resource consumption "
+"once the attack occurs is much more expensive."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:297
+#: ../../whitepaper/application_description_and_economic_model.rst:310
+msgid "vnDDoS Defense"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:299
+msgid ""
+"vnDDoS takes full advantage of large number of distributed nodes and low "
+"cost by using idle bandwidth to provide hybrid DDoS defense solutions and "
+"services."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:302
+msgid ""
+"More nodes, lower prices, traffic-based payments, and reliable services."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:307
+msgid "The advantage of vnDDoS security system"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:310
+msgid "Traditional DDoS Defense"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:312
+msgid "**Pay for used**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:314
+msgid "**monthly fee**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:314
+msgid "**None**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:316
+msgid "**Nodes**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:316
+msgid "Hundreds"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:318
+msgid "**Lower**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:318
+msgid "Much higher"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:320
+msgid "**Users participation**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:322
+msgid "**SDK support**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:328
+#: ../../whitepaper/application_description_and_economic_model.rst:365
+msgid "Proof of Traffic"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:330
+msgid ""
+"Compared with the workload of **Proof of Work**, it is proved that the "
+"accounting method of PoW does not require equipment competition or power "
+"consumption, but writes the ratio of VNET Token to network traffic flow "
+"resource service as a constant definition in the underlying code."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:340
+msgid "VNET Token -- Unique ticket in the Vision Network ecosystem"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:342
+msgid ""
+"VNET Token is the unique ticket in the Vision Network ecosystem, also known "
+"as VNET, which uses **Proof of Traffic** consensus mechanism. It is the "
+"native asset on the vnCHAIN."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:345
+msgid ""
+"At the beginning of the project, VNET will be strictly based on the ERC20 "
+"token standard, the smart contract is created on the Ethereum network. After"
+" the vnCHAIN main network is officially installed and stabilized, the image "
+"will be migrated through signature verification."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:353
+msgid "1 VNET Token = 100GB client traffic flow"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:355
+msgid ""
+"In the underlying code, we defined per unit of VNET as the client traffic of"
+" 100GBytes in the Vision Network, that is: **1 VNET Token = 100GB client "
+"traffic flow.**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:362
+msgid "PoT vs. PoW"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:365
+msgid "Proof of work"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:367
+msgid "**Hardware requirements**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:367
+msgid "**Low**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:367
+msgid "Higher and higher"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:369
+msgid "**Power consumption**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:369
+msgid "**Very economical**"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:369
+msgid "Extremely wasteful"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:372
+msgid ""
+"Equipment competition and power waste are recognized by the PoW consensus "
+"mechanism as the two major persistent diseases."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:375
+msgid ""
+"From the beginning of CPU mining, going through GPUs, FPGAs, and so on, "
+"generation after generation of ASIC chip mining machines that were "
+"createdfor the mining priced thousands of dollars, these constantly updating"
+" equipment, in addition to the internal friction of the accounting rights, "
+"and there is no other value for humanity."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:382
+msgid ""
+"The consumption of electricity is even more fearless. According to "
+"DigiConomist, 2017, bitcoin mining consumes 30 billion kilowatts of "
+"electricity, accounts for 0.13% of global electricity consumption, exceeds "
+"the national electricity consumption of dozens of countries, and showing a "
+"rising trend year by year."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:395
+msgid ""
+"The Vision Network pioneered the definition of the **Proof of Traffic** "
+"consensus mechanism, the VISION node has only a very low performance "
+"requirement for the device, rather than a more meaningful power race. A "
+"Raspberry Pi (see attached, only consumes 1 degree of electric power per "
+"week) which priced $35, is enough to meet the hardware requirements of a "
+"node, and higher computing performance will not bring about a linear "
+"increase in revenue."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:402
+msgid ""
+"In the age of the Internet, bandwidth and traffic are **clearly valued and "
+"easily measurable resources**. Quantifying the traffic services provided by "
+"nodes as universal equivalents that are more **currency means** not only a "
+"solid value base but also VNET Token’s dollar price is more stable, and can "
+"effectively avoid the news pricing, PR pricing, emotional pricing. And on "
+"the other way, it effectively avoids unrestrained price speculation at the "
+"same time."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:414
+msgid "Raspberry Pi:"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:412
+msgid "`Raspberrypi.org`_"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:413
+msgid "`Raspberry Pi - WikiPedia(English)`_"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:414
+msgid "`Raspberry Pi - WikiPedia(Chinese)`_"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:423
+msgid "The price of resource in an IDC"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:425
+msgid ""
+"For 100GB network traffic, there is a price reference for mature IDC, with "
+"Amazon Web Services AWS, for example, priced at about **$8.50** per 100GB "
+"traffic and Google Cloud Platform GCP at about **$8.0**."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:429
+msgid ""
+"Accelerating traffic is more expensive, while ordinary traffic is cheaper."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:431
+msgid ""
+"CDN needs node storage and outlet traffic, and VPN service needs both "
+"downlink and uplink traffic to complete proxy forwarding, that is, the "
+"client traffic of 100GB is about equal to the node traffic of 200GB (100GB "
+"upstream 100GB downlink)."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:436
+msgid ""
+"Therefore, 100 GB client traffic flow, anchored to 1 VNET, also coincides "
+"with the actual intrinsic use value."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:442
+msgid "AWS Amazon Web Services:"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:441
+msgid "`AWS Direct Connect pricing`_"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:442
+msgid "`AWS CloudFront Pricing`_"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:446
+msgid "GCP Google Cloud Platform:"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:445
+msgid "`GCP Interconnect Pricing`_"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:446
+msgid "`GCP CDN Pricing`_"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:456
+msgid ""
+"The VNET Token dollar price should increase to the internal value gradually "
+"and be relatively stable"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:458
+msgid ""
+"We believe that the legal currency will not disappear in the short term, and"
+" that long-standing habits will allow more people to use the fiat currency "
+"to price products or services. At the same time, we expect that the VNET "
+"Token value scale after ecological maturity is relatively stable (that is, "
+"the legal currency price is relatively stable), and the basic setting of 1 "
+"VNET = 100 GB can ensure that the market circulation price of VNET Token "
+"gradually matures with the ecological value in practical use value."
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:463
+msgid ""
+"Official server nodes around the world would provide initial ecological "
+"services to users"
+msgstr ""
+
+#: ../../whitepaper/application_description_and_economic_model.rst:470
+msgid ""
+"In the initial stage of ecological start-up, the official server nodes in 86"
+" IDCs around the world will provide stable services to users. As time goes "
+"on, more node programs will be run by users, and the ecology will become "
+"more mature."
 msgstr ""

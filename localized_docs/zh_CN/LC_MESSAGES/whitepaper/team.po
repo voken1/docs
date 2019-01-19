@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"PO-Revision-Date: 2019-01-19 08:47+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../whitepaper/team.rst:2
+msgid "Team"
+msgstr ""
+
+#: ../../whitepaper/team.rst:4
+msgid ""
+"Given the special nature of vnVPN applications in the Vision Network, we had"
+" to choose to temporarily keep team members anonymous and retain the right "
+"to disclose the true identity of team members."
+msgstr ""
+
+#: ../../whitepaper/team.rst:6
+msgid ""
+"Currently, Vision Network has gathered a group of like-minded and capable "
+"technology geeks and business design geniuses. Project sponsor Michael is a "
+"serial entrepreneur who specializes in cross-border, and is also an "
+"excellent architect. Our team includes members of the Microsoft P2P project,"
+" the master engineer of the underlying communications protocol for a well-"
+"known international router, and the digital technology elite from Google, "
+"IBM and Oracle. The backbone is already full-time on the Vision Network team"
+" and some members work part-time."
+msgstr ""
+
+#: ../../whitepaper/team.rst:8
+msgid ""
+"If you are interested in participating in our project, please send E-mail to"
+" join@vision.network"
+msgstr ""

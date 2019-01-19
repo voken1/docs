@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Michael Brown <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"PO-Revision-Date: 2019-01-19 08:46+0000\n"
+"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../whitepaper/conclusion.rst:2
+msgid "Conclusion"
+msgstr "结语"
+
+#: ../../whitepaper/conclusion.rst:4
+msgid ""
+"Vision Network takes the whole network interworking service vnVPN as the "
+"breakthrough point, the demand is rigid, the cardinality is huge, the "
+"technical path is clear, in view of the network blockade restriction "
+"question and so on, provides the systematic solution and the ecological "
+"incentive mechanism. It is easy to quickly form user and ecological "
+"advantages, which is helpful to further promote vnCDN content accelerated "
+"distribution services and more service applications. Vision Network, a "
+"distributed extensible virtual network is growing into a distributed "
+"Internet infrastructure."
+msgstr ""
+"Vision Network 以全网互通服务 vnVPN "
+"为切入点，刚性需求、基数庞大、技术路径清晰，针对网络封锁限制等问题，提供体系化的解决方案和生态激励支持，形成的用户和生态优势，有助于进一步推进 "
+"vnCDN 内容加速分发服务和更多服务应用，具有良好延展设计的 Vision Network，正在逐步发展为具有成长性的分布式互联网基础设施。"
+
+#: ../../whitepaper/conclusion.rst:6
+msgid ""
+"VNET Token's value anchoring rules, which define the clear value scale in "
+"the codes, will lead to relatively stable dollar price of the VNET Token. It"
+" is the unique ticket in the Vision Network ecosystem, and it is more likely"
+" to make it a cross-ecological and easy-to-use generic equivalent."
+msgstr ""
+"VNET Token的价值锚定规则，在代码底层定义了其清晰的价值尺度，导向 VNET "
+"法币对价的相对稳定，作为生态服务凭证的同时，更有可能使其作为跨生态的、更易用的一般等价物。"

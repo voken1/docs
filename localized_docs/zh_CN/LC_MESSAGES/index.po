@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 18:21+0800\n"
+"POT-Creation-Date: 2019-01-19 16:56+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -25,58 +25,97 @@ msgstr ""
 msgid "Welcome to vision.network!"
 msgstr "欢迎来到 vision.network 远景网络！"
 
-#: ../../index.rst:12
+#: ../../index.rst:11
+msgid ""
+"Vision Network is a distributed extensible virtual network, based on the "
+"physical network layer and the ISP network layer."
+msgstr "Vision Network 远景网络是在物理网络层、ISP 网络层之上构建的分布式智能虚拟网络。"
+
+#: ../../index.rst:14
+msgid ""
+"Vision Network is based on blockchain technology, which provides distributed"
+" services such as VPN, CDN, DNS, and DDoS defense. The :ref:`vnet_token` "
+"with stable value scale will be used in the ecology and produce an incentive"
+" effect. Everyone can participate in distributed network construction. We "
+"believe the Vision Network, a distributed Internet infrastructure will make "
+"the Internet more open, more equal, more stable, more efficient, safer and "
+"freer."
+msgstr ""
+"提供分布式的 VPN、CDN、DNS、DDoS 防御等一系列分布式服务，使用价值尺度稳定的 :ref:`vnet_token` "
+"作为生态“货币”激励，是由全球无限节点参与构建的、具有成长性的分布式互联网基础设施，使互联网更开放、更平等、更稳定、更高效、更安全、更自由。"
+
+#: ../../index.rst:20
+msgid ":ref:`philosophy`"
+msgstr ""
+
+#: ../../index.rst:25
+msgid "Contacts"
+msgstr "官方渠道"
+
+#: ../../index.rst:28
 msgid "**Official Website**"
 msgstr "**官方网站**"
 
-#: ../../index.rst:12
+#: ../../index.rst:28
 msgid "`English`_"
 msgstr "`英文版`_"
 
-#: ../../index.rst:12
+#: ../../index.rst:28
 msgid "`Chinese`_"
 msgstr "`中文版`_"
 
-#: ../../index.rst:14
+#: ../../index.rst:30
 msgid "**Telegram Group**"
 msgstr "**电报群组**"
 
-#: ../../index.rst:14
+#: ../../index.rst:30
 msgid "`English Group`_"
 msgstr "`英文交流组`_"
 
-#: ../../index.rst:14
+#: ../../index.rst:30
 msgid "`Chinese Group`_"
 msgstr "`中文交流组`_"
 
-#: ../../index.rst:16
+#: ../../index.rst:32
 msgid "**GitHub**"
 msgstr "**GitHub**"
 
-#: ../../index.rst:16
+#: ../../index.rst:32
 msgid "`VisionNetworkProject`_"
 msgstr "`远景网络项目组`_"
 
-#: ../../index.rst:27
-msgid "First steps"
-msgstr "起步入门"
+#: ../../index.rst:34
+msgid "**Documents**"
+msgstr "**项目文档**"
 
-#: ../../index.rst:36
+#: ../../index.rst:34
+msgid "`English Docs`_"
+msgstr "`英文文档`_"
+
+#: ../../index.rst:34
+msgid "`Chinese Docs`_"
+msgstr "`中文文档`_"
+
+#: ../../index.rst:49
+msgid "News"
+msgstr "最新消息"
+
+#: ../../index.rst:59
 msgid "$VNET Token"
 msgstr "$VNET 流量币"
 
-#: ../../index.rst:46
-msgid "Reports"
-msgstr "进度总结"
-
-#: ../../index.rst:54
+#: ../../index.rst:71
 msgid "Available services"
 msgstr "当前可用服务"
 
-#: ../../index.rst:63
+#: ../../index.rst:82
 msgid "Contracts on Ethereum"
 msgstr "以太坊智能合约"
 
-#: ../../index.rst:71
+#: ../../index.rst:96
 msgid "Contribute"
 msgstr "共建"
+
+#: ../../index.rst:106
+msgid "Whitepaper v1.0.4"
+msgstr "白皮书 v1.0.4"

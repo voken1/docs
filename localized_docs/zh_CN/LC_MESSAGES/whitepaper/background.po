@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Michael Brown <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-10 19:19+0800\n"
+"POT-Creation-Date: 2019-01-19 16:56+0800\n"
 "PO-Revision-Date: 2019-01-11 05:18+0000\n"
+"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,30 +23,30 @@ msgstr ""
 
 #: ../../whitepaper/background.rst:2
 msgid "Background"
-msgstr ""
+msgstr "背景"
 
 #: ../../whitepaper/background.rst:4
 msgid "Regional network blockades"
-msgstr ""
+msgstr "区域性网络封锁，翻墙难度和成本增加"
 
 #: ../../whitepaper/background.rst:5
 msgid ""
 "Traditional centralized CDN services have great optimization potential for "
 "cost and efficiency"
-msgstr ""
+msgstr "传统中心化 CDN 价格昂贵、节点有限，成本和效率都有巨大的优化潜力"
 
 #: ../../whitepaper/background.rst:6
 msgid "Distributed network technology matures"
-msgstr ""
+msgstr "分布式网络技术成熟"
 
 #: ../../whitepaper/background.rst:7
 msgid ""
 "In recent years, the blockchain and cryptocurrency technology have made "
 "rapid development"
-msgstr ""
+msgstr "近年来区块链技术、加密货币技术的长足发展"
 
 #: ../../whitepaper/background.rst:8
 msgid ""
 "Users can participate in blockchain network collaboration even if they are "
 "not tech-savvy"
-msgstr ""
+msgstr "更多用户即使不懂技术也能参与到区块链网络协作中来"
