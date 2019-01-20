@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Michael Brown <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:56+0800\n"
 "PO-Revision-Date: 2019-01-19 08:46+0000\n"
+"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,17 +23,17 @@ msgstr ""
 
 #: ../../whitepaper/more.rst:2
 msgid "More"
-msgstr ""
+msgstr "更多……"
 
 #: ../../whitepaper/more.rst:5
 msgid "Thinking about Tor Network"
-msgstr ""
+msgstr "关于 Tor 网络和多重代理的思考"
 
 #: ../../whitepaper/more.rst:7
 msgid ""
 "After the PRISM incident, privacy protection has been increasingly focused "
 "and respected by every user who needs network security communications."
-msgstr ""
+msgstr "经历了斯诺登 PRISM 棱镜事件后，隐私保护已越来越多的被每一个需要网络安全通信的用户所关注和重视。"
 
 #: ../../whitepaper/more.rst:11
 msgid ""
@@ -39,6 +43,9 @@ msgid ""
 " Internet through the way of Entry node, Middle node and Exit Node multi-"
 "layer proxy, which makes the user’s true source IP untraceable."
 msgstr ""
+"Tor 洋葱路由 The Onion "
+"Router，是开源的、实现匿名通信的自由软件，项目最初由美国海军研究实验室赞助，可以帮助用户在互联网上匿名地交流和浏览。Tor 通过入口节点 "
+"Entry Node、中间节点 Middle Node、出口节点 Exit Node 多层代理的方式，使得用户的真实来源 IP 不可被追踪。"
 
 #: ../../whitepaper/more.rst:19
 msgid ""
@@ -50,10 +57,13 @@ msgid ""
 "nodes (more service nodes participate, not just use and claimants), and "
 "network quality and service quality are more stable and more efficient."
 msgstr ""
+"显然，vnVPN 的设计已经天然满足了防止被追踪窥视、匿名浏览和通信的技术基础，如果 VISION 深入一步，实现一套多重代理应用 vnTOR，那么 "
+"vnTOR 相对原有 Tor 网络有显而易见的优势 —— 激励机制。也就是说，使用 VNET Token "
+"作为通行凭证的生态系统更能激励节点的参与动力（更多的服务节点参与，而不仅仅是使用和索取者），网络质量和服务品质会更稳定更高效率。"
 
 #: ../../whitepaper/more.rst:30
 msgid "2016 Movie Snowden:"
-msgstr ""
+msgstr "2016 电影《斯诺登 Snowden》"
 
 #: ../../whitepaper/more.rst:29
 msgid "http://storetorrents.com/hash/3937111709900E5D58C2C8945D9ABE63365C4545"
@@ -65,7 +75,7 @@ msgstr ""
 
 #: ../../whitepaper/more.rst:43
 msgid "Edward Snowden:"
-msgstr ""
+msgstr "爱德华·斯诺登 Edward Snowden"
 
 #: ../../whitepaper/more.rst:42
 msgid "`Edward Snowden - WikiPedia(English)`_"
@@ -77,7 +87,7 @@ msgstr ""
 
 #: ../../whitepaper/more.rst:51
 msgid "PRISM:"
-msgstr ""
+msgstr "PRISM 棱镜计划"
 
 #: ../../whitepaper/more.rst:50
 msgid "`PRISM - WikiPedia(English)`_"
@@ -105,7 +115,7 @@ msgstr ""
 
 #: ../../whitepaper/more.rst:69
 msgid "vnTOR, Extensible anonymous network service"
-msgstr ""
+msgstr "vnTOR 可扩展的匿名网络访问服务"
 
 #: ../../whitepaper/more.rst:71
 msgid ""
@@ -117,6 +127,9 @@ msgid ""
 "they don't keep running when they are not used. As a result, the number of "
 "service nodes is in the state of shortage of demand for a long time."
 msgstr ""
+"显然，Tor 为实现网络的匿名和中立做出的探索和实现具有巨大的价值和参考意义，而我们认为目前导致 Tor "
+"网络缓慢不易用的问题症结主要在于“缺乏激励机制” ，即大多数运行节点参与 "
+"Tor的用户多是使用者和索取者，使用时才在线，不用时就退出程序不保持运行，从而导致服务节点数量稀缺，Tor 节点长期处于供不应求的状态。"
 
 #: ../../whitepaper/more.rst:73
 msgid ""
@@ -132,13 +145,17 @@ msgid ""
 "users to visit the address with an .onion suffix, even you can use Hidden "
 "Wiki and the Torch search engine."
 msgstr ""
+"我们将根据 Vision Network 项目的实际发展情况和社区意见，后期有可能开发实现 vnTOR多重代理功能（即由用户选择代理层数，支付相应的 "
+"VNET 来驱动两个或更多节点参与数据包的路由传递，用户可以知道路径上服务节点的 "
+"node_id，而服务节点只需负责在相邻节点间完成数据包路由传递，用户的来源 IP 对中间节点和目标网站都是不可见的），甚至还可以与 Tor "
+"网络打通，允许用户访问洋葱网络独有 .onion 后缀的网页、使用 The Hidden Wiki 和 Torch 搜索引擎等。"
 
 #: ../../whitepaper/more.rst:75
 msgid ""
 "Of course, this part of the work in the future is likely to involve more "
 "implementable developers in the design and application by rewarding VNET "
 "Token."
-msgstr ""
+msgstr "当然，未来这部分工作也有可能通过奖励 VNET Token 的方式，让更多有实现能力的开发者参与到设计和实用中来。"
 
 #: ../../whitepaper/more.rst:80
 msgid "The Hidden Wiki:"
@@ -154,7 +171,7 @@ msgstr ""
 
 #: ../../whitepaper/more.rst:88
 msgid "Torch:"
-msgstr ""
+msgstr "Torch 搜索引擎："
 
 #: ../../whitepaper/more.rst:87
 msgid "`Search engines - Tor onion services`_"
@@ -166,7 +183,7 @@ msgstr ""
 
 #: ../../whitepaper/more.rst:99
 msgid "Dark net / Deep web:"
-msgstr ""
+msgstr "Dark net 暗网 / Deep web 深网："
 
 #: ../../whitepaper/more.rst:95
 msgid "`Dark net - WikiPedia(English)`_"
@@ -188,7 +205,7 @@ msgstr ""
 msgid ""
 "Future services based on Vision Network will also be settled using VNET "
 "Token"
-msgstr ""
+msgstr "基于 Vision Network 的未来服务也将使用 VNET 进行结算"
 
 #: ../../whitepaper/more.rst:111
 msgid ""
@@ -199,3 +216,5 @@ msgid ""
 "policies and support funds, more third-party software will also use VNET for"
 " service settlement."
 msgstr ""
+"受益于 VNET Token 稳定的价值锚定设计，使得 VNET 在某种意义上更接近于真正的“货币”（价值尺度稳定、方便持有和流通），不仅是 "
+"Vision Network 官方开发的软件和服务，在开发扶植政策和扶植基金的推动下，更多的第三方软件也将使用 VNET 来进行服务结算。"

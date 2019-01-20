@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Michael Brown <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 16:56+0800\n"
 "PO-Revision-Date: 2019-01-11 05:18+0000\n"
+"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,11 +23,11 @@ msgstr ""
 
 #: ../../whitepaper/application_description_and_economic_model.rst:2
 msgid "Application description and economic model"
-msgstr ""
+msgstr "应用说明与经济模型"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:6
 msgid "A Distributed Extensible Virtual Network"
-msgstr ""
+msgstr "分布式的智能虚拟网络"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:14
 msgid ""
@@ -35,6 +39,9 @@ msgid ""
 "network layer through a large number of nodes, which can surely connect the "
 "whole world."
 msgstr ""
+"全球现有的物理层网络已经互联互通，而 ISP （网络服务提供商）为用户提供网络接入服务的同时也可以中心化地实施封锁、阻断用户的一些访问。Vision "
+"Network 可以通过无限的用户节点，使用 P2PNET 分布式端对端网络技术在物理层网络和 ISP "
+"网络层之上，构建一层分布式的智能虚拟网络，连通全世界。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:21
 msgid ""
@@ -45,23 +52,25 @@ msgid ""
 "distributed Internet infrastructure will make the Internet more open, more "
 "equal, more stable, more efficient, safer and freer."
 msgstr ""
+"Vision Network 提供分布式的 VPN、CDN、DNS、DDoS 防御等一系列分布式服务，基于区块链技术、使用价值尺度稳定的 VNET "
+"Token 作为生态“货币”激励，是由全球无限节点参与构建的、具有成长性的分布式互联网基础设施，使互联网更开放、更平等、更稳定、更高效、更安全、更自由。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:28
 msgid ""
 "**1 VNET Token = 100 GB client network traffic (price at IDC is $8.0 – "
 "8.5)**"
-msgstr ""
+msgstr "**1 VNET Token = 100 GB 用户端流量（IDC价值约 8.0 – 8.5 美金）**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:30
 msgid ""
 "The user running the service node makes use of idle network resources to "
 "earn VNET, and the user or organization that needs the service uses VNET "
 "exchange to settle through the vnCHAIN blockchain."
-msgstr ""
+msgstr "运行服务节点的用户利用闲置的网络资源赚取 VNET，需求服务的用户或组织则使用 VNET 兑换，通过 vnCHAIN 区块链结算。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:37
 msgid "Turn user's idle network resources into cash"
-msgstr ""
+msgstr "用户闲置的网络资源变现"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:39
 msgid ""
@@ -70,6 +79,7 @@ msgid ""
 "resource fragments can be combined through technical means and can generate "
 "huge value."
 msgstr ""
+"绝大多数的家庭宽带全年网络的综合使用率不足 3%，有大量的网络资源处于闲置状态，这些闲置的资源碎片通过技术手段拼合起来，可以产生巨大的价值。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:43
 msgid ""
@@ -81,10 +91,13 @@ msgid ""
 "need in the ecology, or sell them on the exchange to turn your idle network "
 "resources into cash."
 msgstr ""
+"在 Vision Network 的帮助下，参与生态的用户即使不具备专业的技术能力，也可以方便地在电脑、路由器、电视盒、甚至是移动设备上运行 "
+"VISION 节点程序，分享闲置的网络资源，在线时间越长，获得的 VNET Token "
+"越多，可以用来兑换生态中自己所需的服务，或是在交易所卖出，实现将闲置的网络资源变现。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:54
 msgid "VPN, Virtual Private Network"
-msgstr ""
+msgstr "VPN 虚拟私人网络"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:56
 msgid ""
@@ -94,6 +107,9 @@ msgid ""
 "network information of intranet. VPN uses cryptographic tunneling protocol "
 "to realize accurate and secure transmission of information."
 msgstr ""
+"Virtual Private Network，缩写为 "
+"VPN，常见应用于连接大中型企业或团体与团体间的私人网络的通讯方法。是一种可以使用公开网络（通常是互联网）来传送内部网的网络信息的途径，VPN "
+"利用加密隧道协议来实现信息的准确、保密、安全传输。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:62
 msgid ""
@@ -102,10 +118,12 @@ msgid ""
 "have been nearly impossible to use, VPN technology has almost become the "
 "preferred choice for cross the network blockages."
 msgstr ""
+"在一些访问被选择性限制或屏蔽的区域性网络中，由于常见的代理服务（如 HTTP 代理或Socks5代理等）早已几近无法使用，VPN "
+"技术也几乎成了穿越网络封锁（俗称“翻墙”或“梯子”）的首选。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:70
 msgid "Using VPN to cross the network blockades -- obvious rigid demands"
-msgstr ""
+msgstr "使用 VPN 穿越网络封锁 —— 显而易见的刚性需求"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:72
 msgid ""
@@ -114,42 +132,44 @@ msgid ""
 "Twitter, and access to professional websites in many fields. They are "
 "mainly:"
 msgstr ""
+"仅以中国大陆为例， **数千万刚性需求用户** 尚未得到良好满足，他们需要 "
+"Google、维基百科、Facebook、Twitter、和访问一些不同领域专业网站等服务，他们主要是："
 
 #: ../../whitepaper/application_description_and_economic_model.rst:76
 msgid "Scientists and scholars"
-msgstr ""
+msgstr "科学家和学者"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:77
 msgid "Companies engaged in scientific research"
-msgstr ""
+msgstr "从事科学研究的公司"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:78
 msgid "International trade practitioners"
-msgstr ""
+msgstr "外贸行业从业者"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:79
 msgid "Foreigner in China, for working, studying or traveling."
-msgstr ""
+msgstr "在华的外国人（工作、留学、旅游）"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:80
 msgid "Design Company, Film Company, Designer"
-msgstr ""
+msgstr "设计公司、影视公司，设计师"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:81
 msgid "Foreign-funded enterprise employees (mainly mobile office needs)"
-msgstr ""
+msgstr "外资企业员工（主要是移动办公需求）"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:82
 msgid "Overseas game users"
-msgstr ""
+msgstr "海外游戏用户"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:83
 msgid "Crypto-currency investors / holders / developers"
-msgstr ""
+msgstr "加密货币投资人、使用者与相关开发人员"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:84
 msgid "Others"
-msgstr ""
+msgstr "其它"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:86
 msgid ""
@@ -158,17 +178,19 @@ msgid ""
 "in many parts of the world. For example, North America, Europe, and North "
 "Asia, there are also restrictions or speed limits or blockings."
 msgstr ""
+"中国大陆的网络环境比较典型，需求集中且具有普遍性，而其实不仅在中国大陆，代理和翻墙需求在世界很多地区也有存在，例如北美、欧洲和亚洲北部也存在 ISP "
+"选择性的对一些国际线路的直接访问限速或阻断的情况。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:93
 msgid "Current situation and problems of traditional VPN"
-msgstr ""
+msgstr "传统中心化 VPN 现状与问题"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:95
 msgid ""
 "At present, the main way for users to go through the network blockade is to "
 "buy the VPN services provided by commercial software on a monthly basis, and"
 " very few users with technical ability may build their own servers."
-msgstr ""
+msgstr "目前用户穿越网络封锁的途径主要是按月按年购买商业化软件提供的 VPN 服务，极少有技术能力的用户也有可能自己搭建服务器。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:99
 msgid ""
@@ -177,6 +199,8 @@ msgid ""
 " due to the upgrading of the blockade technology, business policies, ethics,"
 " speed limit or even close the company, and so on is not uncommon."
 msgstr ""
+"定位于提供“翻墙”服务（有些也自称“加速器”）的公司和软件服务，由于主体组织明确、服务器有限、IP "
+"集中，同时受封锁技术升级（也俗称“墙越来越高”）、经营政策、从业道德等多方面因素影响，服务不稳定、不易持续、限流限速甚至携款跑路等情况也是屡见不鲜。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:108
 #: ../../whitepaper/application_description_and_economic_model.rst:153
@@ -188,7 +212,7 @@ msgid ""
 "A decentralized distributed VPN service with unlimited nodes can cross the "
 "blockade, and avoid DNS pollution. Rigid demand, huge base, clear technical "
 "path."
-msgstr ""
+msgstr "vnVPN 定位为去中心化的、全网在线节点自动撮合的翻墙服务应用，刚性需求、基数庞大、技术路径清晰。 "
 
 #: ../../whitepaper/application_description_and_economic_model.rst:113
 msgid ""
@@ -202,31 +226,35 @@ msgid ""
 " the VNET Token settlement, and use the PoT consensus based on the traffic. "
 "Online service, blockchain settlement."
 msgstr ""
+"撮合供需的商业逻辑与 Uber 和滴滴出行等共享经济模式相似，技术上的优势是并不需要设置一个中心化的中介机构，vnVPN "
+"打造一个基于区块链的去中心化平台，代码法制、合约自动结算，墙内节点作为需求方支付 VNET Token "
+"使用翻墙服务，墙外节点作为服务方使用闲置带宽提供加密的流量代理服务并自动接受 VNET Token 结算，使用基于流量的 PoT "
+"共识，在线服务，链上结算。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:124
 msgid "What can vnVPN helps you?"
-msgstr ""
+msgstr "vnVPN 可以为你做什么？"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:128
 msgid "Cross the network blockade"
-msgstr ""
+msgstr "穿越网络封锁"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:127
 msgid ""
 "Without restriction, you can access any content. No matter where you are, "
 "vnVPN can always help you connect to anywhere of the Internet easily."
-msgstr ""
+msgstr "不受任何限制地访问被封锁或被过滤的在线内容。无论你是长期生活在某地或是正在旅行，vnVPN允许你自由连接到互联网世界的任何角落。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:137
 msgid "Use wireless networks anywhere safely"
-msgstr ""
+msgstr "在任何地方安全地使用无线网络"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:131
 msgid ""
 "The widely used wireless hotspots not only bring convenience to users, but "
 "also bury the security problems. People who use the same network can easily "
 "eavesdrop on unprotected communications."
-msgstr ""
+msgstr "广泛使用的 WiFi 无线热点为用户带来方便的同时也埋下了安全隐患，处在使用相同网络的人可以轻松地窃听未受保护的用户访问。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:135
 msgid ""
@@ -234,44 +262,45 @@ msgid ""
 "shopping mall, or any other public network, using vnVPN will allow all your "
 "communications to use secure encrypted tunnels and avoid being hacked."
 msgstr ""
+"如果你身处银行、机场、酒店、餐厅、网吧、咖啡店、医院、商场或任何其他公共网络，使用 vnVPN 可以让你的所有访问使用安全的加密隧道，而避免被黑客入侵。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:141
 msgid "One-touch connection"
-msgstr ""
+msgstr "一键连接"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:140
 msgid ""
 "The vnVPN interface is concise and clean, with one-click connection and easy"
 " to use, it does not require complex configuration and can be kept running "
 "in the background."
-msgstr ""
+msgstr "vnVPN 无需复杂配置，保持后台运行即可，界面简洁干净，一键连接，简单易用。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:147
 msgid "Smart routing"
-msgstr ""
+msgstr "智能分流"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:144
 msgid ""
 "Smart offload mode can automatically determine whether the access is smooth."
 " Only when the communication is blocked, the vnVPN network proxy is "
 "activated to save the traffic cost."
-msgstr ""
+msgstr "vnVPN 智能分流模式可以自动判断访问是否通畅，只有访问受阻时才使用 vnVPN 网络代理，节约流量费用。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:150
 msgid "Advantages of the vnVPN"
-msgstr ""
+msgstr "vnVPN 的优势"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:153
 msgid "Traditional VPN"
-msgstr ""
+msgstr "传统 VPN "
 
 #: ../../whitepaper/application_description_and_economic_model.rst:153
 msgid "Non VPN"
-msgstr ""
+msgstr "无 VPN"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:155
 msgid "**Cross the network blockade**"
-msgstr ""
+msgstr "**穿越封锁**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:155
 #: ../../whitepaper/application_description_and_economic_model.rst:157
@@ -284,11 +313,11 @@ msgstr ""
 #: ../../whitepaper/application_description_and_economic_model.rst:320
 #: ../../whitepaper/application_description_and_economic_model.rst:322
 msgid "**Yes**"
-msgstr ""
+msgstr "**是**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:155
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:155
 #: ../../whitepaper/application_description_and_economic_model.rst:157
@@ -300,20 +329,20 @@ msgstr ""
 #: ../../whitepaper/application_description_and_economic_model.rst:320
 #: ../../whitepaper/application_description_and_economic_model.rst:322
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:157
 msgid "**Privacy protection**"
-msgstr ""
+msgstr "**隐私保护**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:157
 #: ../../whitepaper/application_description_and_economic_model.rst:312
 msgid "Part"
-msgstr ""
+msgstr "部分"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:159
 msgid "**Never breakdown**"
-msgstr ""
+msgstr "**永不宕机**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:159
 #: ../../whitepaper/application_description_and_economic_model.rst:161
@@ -329,109 +358,109 @@ msgstr ""
 
 #: ../../whitepaper/application_description_and_economic_model.rst:161
 msgid "**Payment methods**"
-msgstr ""
+msgstr "**付费方式**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:161
 msgid "**By traffic**"
-msgstr ""
+msgstr "**按量计费**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:161
 msgid "Monthly/yearly"
-msgstr ""
+msgstr "按月 / 按年"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:163
 #: ../../whitepaper/application_description_and_economic_model.rst:236
 msgid "**Speed limit**"
-msgstr ""
+msgstr "**速度限制**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:163
 #: ../../whitepaper/application_description_and_economic_model.rst:236
 msgid "**Fast**"
-msgstr ""
+msgstr "**不限**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:163
 #: ../../whitepaper/application_description_and_economic_model.rst:236
 msgid "Relatively fast"
-msgstr ""
+msgstr "潜规则暗限"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:165
 #: ../../whitepaper/application_description_and_economic_model.rst:240
 #: ../../whitepaper/application_description_and_economic_model.rst:318
 msgid "**Price level**"
-msgstr ""
+msgstr "**价格**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:165
 #: ../../whitepaper/application_description_and_economic_model.rst:240
 msgid "**Cheap**"
-msgstr ""
+msgstr "**便宜**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:165
 #: ../../whitepaper/application_description_and_economic_model.rst:240
 #: ../../whitepaper/application_description_and_economic_model.rst:314
 msgid "Expensive"
-msgstr ""
+msgstr "贵"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:167
 #: ../../whitepaper/application_description_and_economic_model.rst:234
 msgid "**Number of nodes**"
-msgstr ""
+msgstr "**节点数**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:167
 #: ../../whitepaper/application_description_and_economic_model.rst:234
 #: ../../whitepaper/application_description_and_economic_model.rst:316
 msgid "**Unlimited**"
-msgstr ""
+msgstr "**无限**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:167
 msgid "Limited"
-msgstr ""
+msgstr "有限"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:169
 #: ../../whitepaper/application_description_and_economic_model.rst:242
 msgid "**Users can participate**"
-msgstr ""
+msgstr "**用户参与**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:171
 msgid "**Traffic is permanently valid**"
-msgstr ""
+msgstr "**流量不限有效期**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:174
 msgid ""
 "Traversing regional technology blockages using global user dynamic IP "
 "communications"
-msgstr ""
+msgstr "使用全球用户动态 IP 之间的通信，穿越区域性技术封锁"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:175
 msgid "Built-in vnDNS service to eliminate centralized DNS pollution"
-msgstr ""
+msgstr "内置 vnDNS 服务，杜绝中心化的 DNS 污染影响"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:176
 msgid "User privacy protection mechanism"
-msgstr ""
+msgstr "完善的用户隐私保护机制"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:177
 msgid "Infinite node"
-msgstr ""
+msgstr "无限节点"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:178
 msgid ""
 "Zero management of service nodes, turn user's idle network resources into "
 "cash"
-msgstr ""
+msgstr "墙外服务节点提供服务，零管理，将闲置带宽资源变现"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:179
 msgid ""
 "Zero configuration of demand node, automatic update, smart proxy routing "
 "with vnPAC"
-msgstr ""
+msgstr "墙内需求节点使用服务，零配置，vnPAC 技术自动实时更新、分流自动代理"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:180
 msgid "Traffic is permanently valid with no limit"
-msgstr ""
+msgstr "流量永久有效，没有使用时间限制"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:185
 msgid "CDN, Content Distribution Network"
-msgstr ""
+msgstr "CDN 内容分发网络"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:187
 msgid ""
@@ -441,10 +470,12 @@ msgid ""
 "Internet network congestion, and improve the speed of communications to the "
 "web site."
 msgstr ""
+"CDN 即内容分发网络，通过在网络各处设置节点服务器，使用户可就近取得所需内容，使内容传输更快、更稳定，解决 "
+"Internet网络拥挤的状况，提高用户访问网站的响应速度。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:195
 msgid "Cost and efficiency demands of CDN service"
-msgstr ""
+msgstr "CDN 成本与效率需求"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:197
 msgid ""
@@ -453,6 +484,8 @@ msgid ""
 "expensive. The website has to pay too much for it, however the efficiency "
 "and the user experience are also limited."
 msgstr ""
+"传统中心化的 CDN 服务，依赖于 IDC 机房或云服务商，节点数量有限、服务器和带宽资源昂贵，采用了 CDN "
+"加速技术的网站虽然用户访问速度有一定提升，网站主体却需要为此支付过于高昂的成本，效率和用户体验的提升也有限。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:205
 #: ../../whitepaper/application_description_and_economic_model.rst:232
@@ -464,7 +497,7 @@ msgid ""
 "A decentralized distributed content of the accelerated distribution "
 "services, with unlimited nodes, it will be faster, has better prices and "
 "transparent measurement."
-msgstr ""
+msgstr "去中心化的、全网在线节点自动撮合的内容加速分发服务，速度更快、节点更多、价格更优、计量透明。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:211
 msgid ""
@@ -474,6 +507,8 @@ msgid ""
 "expensive. Its central main operation is also often accused of data fraud "
 "and fuzzy accounting opaque."
 msgstr ""
+"传统中心化的 CDN 服务，在效率和成本上均有很大的优化空间，由于受 IDC 和云服务商的限制，不但节点数量有限、流 "
+"量昂贵，其中心化的主体运营方式也经常被指责数据做假和计费模糊不透明。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:216
 msgid ""
@@ -487,77 +522,80 @@ msgid ""
 "more affordable, faster, more nodes and transparent, metrological "
 "distributed CDN services for website owners who need to accelerate."
 msgstr ""
+"vnCDN 将区块链技术、分布式网络与传统的 CDN 技术相融合，与 vnVPN "
+"共享庞大的用户基础、真正的全球化无限节点，更多的用户可以方便地在电脑、路由器、电视盒、移动设备、甚至仅仅几十美金树莓派上运行 VISION "
+"节点程序，利用家庭带宽不限流量和成本优势，分享自己的闲置带宽与存储并获得收益，使互联网加速节点无处不在，同时也让需要加速的网站主获得价格更优、速度更快、节点更多、计量透明的分布式CDN服务。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:229
 msgid "Advantages of the vnCDN"
-msgstr ""
+msgstr "vnCDN 的优势"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:232
 msgid "Traditional CDN"
-msgstr ""
+msgstr "传统 CDN"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:232
 msgid "Direct to host"
-msgstr ""
+msgstr "直连"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:234
 msgid "Dozens"
-msgstr ""
+msgstr "几十个"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:234
 msgid "Only one"
-msgstr ""
+msgstr "一个"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:236
 #: ../../whitepaper/application_description_and_economic_model.rst:238
 #: ../../whitepaper/application_description_and_economic_model.rst:240
 msgid "Normal"
-msgstr ""
+msgstr "一般"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:238
 msgid "**Efficiency**"
-msgstr ""
+msgstr "**效率**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:238
 msgid "**High**"
-msgstr ""
+msgstr "**高**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:238
 msgid "Relatively high"
-msgstr ""
+msgstr "较高"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:244
 msgid "**Open SDK**"
-msgstr ""
+msgstr "**SDK 支持**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:247
 msgid "Efficiency and user experience increased by more than 10 times"
-msgstr ""
+msgstr "效率与用户体验 10 倍以上的提升"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:248
 msgid "Sharing a huge user base with vnVPN, truly global infinite nodes"
-msgstr ""
+msgstr "与 vnVPN 共享庞大的用户基础、真正的全球化无限节点"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:249
 msgid ""
 "Allow users to use idle resources to participate in caching and "
 "distribution, and to obtain the traffic mining benefits of the PoT consensus"
 " mechanism"
-msgstr ""
+msgstr "允许用户利用闲置资源参与缓存和分发，获取 PoT 共识的“流量挖矿”收益"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:251
 msgid "Family VS. IDC，cost advantage of killer level"
-msgstr ""
+msgstr "Family VS. IDC，杀手级的成本优势"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:252
 msgid ""
 "Provide SDK to the admin management of the website, based on blockchain, the"
 " data is true and transparent, there is no possibility of fraud"
-msgstr ""
+msgstr "提供 SDK 给网站主管理接入，基于区块链、数据真实透明，没有造假可能"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:258
 msgid "DDoS Attack"
-msgstr ""
+msgstr "DDoS 洪水攻击"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:260
 msgid ""
@@ -568,10 +606,12 @@ msgid ""
 "temporarily interrupting or stopping the service, causing its normal users "
 "to lose connections."
 msgstr ""
+"Distributed Denial-of-Service Attack，缩写为 DDoS attack 或 "
+"DDoS，即分布式阻断服务攻击，也称洪水攻击，是一种网络黑客使用多台已被攻陷的电脑伪造大量正常访问的网络攻击手法，其目的在于使目标计算机的网络或系统资源耗尽，使服务暂时中断或停止，导致其正常用户无法访问。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:269
 msgid "DDoS Defense"
-msgstr ""
+msgstr "DDoS 安全防护"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:271
 msgid ""
@@ -579,17 +619,17 @@ msgid ""
 "traffic is designed to filter traffic that blocks network bandwidth and "
 "allow normal access traffic to pass through, protecting the target computer,"
 " website or service."
-msgstr ""
+msgstr "通过入侵检测，多重验证并过滤流量，旨在将堵塞网络带宽的流量过滤，放行正常的访问流量通过，从而保护目标计算机、网站或服务。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:279
 msgid "The situation and problems of traditional DDoS Defense"
-msgstr ""
+msgstr "传统 DDoS 安全防护的现状与问题"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:281
 msgid ""
 "DDoS Defense is one of the major cost for services such as websites and "
 "APPs."
-msgstr ""
+msgstr "DDoS 安全防护是网站与 APP 等服务的重要成本负担之一。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:283
 msgid ""
@@ -598,7 +638,7 @@ msgid ""
 "the only choice. The service provider provides traffic cleaning and "
 "protection services by setting up Access Gateway. The service provider is "
 "not much, Monopoly Competition Market."
-msgstr ""
+msgstr "间歇需求，自建防护资源昂贵，所以一般只能采购专业服务。由服务商通过设置堡垒机等提供流量清洗和防护服务，服务商数量有限，定价暴利、待价而沽："
 
 #: ../../whitepaper/application_description_and_economic_model.rst:289
 msgid ""
@@ -608,72 +648,73 @@ msgid ""
 " whether or not there is an attack, and the cost of resource consumption "
 "once the attack occurs is much more expensive."
 msgstr ""
+"一般由按月服务费与资源消耗费用两部分构成，而一般即使是入门级的服务，每月也在大约几千美金附近，这仅是不论是否有被攻击都要支付的基础费用；而一旦攻击发生时的资源消耗费用则更加昂贵。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:297
 #: ../../whitepaper/application_description_and_economic_model.rst:310
 msgid "vnDDoS Defense"
-msgstr ""
+msgstr "vnDDoS 安全防护"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:299
 msgid ""
 "vnDDoS takes full advantage of large number of distributed nodes and low "
 "cost by using idle bandwidth to provide hybrid DDoS defense solutions and "
 "services."
-msgstr ""
+msgstr "充分利用分布式网络节点数量优势，与闲置带宽的成本优势，提供的混合式 DDoS 安全防护方案与服务。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:302
 msgid ""
 "More nodes, lower prices, traffic-based payments, and reliable services."
-msgstr ""
+msgstr "节点更多、价格更低、服务透明、按量付费。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:307
 msgid "The advantage of vnDDoS security system"
-msgstr ""
+msgstr "vnDDoS 安全防护优势"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:310
 msgid "Traditional DDoS Defense"
-msgstr ""
+msgstr "传统 DDoS 防护"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:312
 msgid "**Pay for used**"
-msgstr ""
+msgstr "**按资源消耗付费**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:314
 msgid "**monthly fee**"
-msgstr ""
+msgstr "**按月服务费**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:314
 msgid "**None**"
-msgstr ""
+msgstr "**免费**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:316
 msgid "**Nodes**"
-msgstr ""
+msgstr "**节点数**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:316
 msgid "Hundreds"
-msgstr ""
+msgstr "数百个"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:318
 msgid "**Lower**"
-msgstr ""
+msgstr "**便宜**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:318
 msgid "Much higher"
-msgstr ""
+msgstr "昂贵"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:320
 msgid "**Users participation**"
-msgstr ""
+msgstr "**用户参与**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:322
 msgid "**SDK support**"
-msgstr ""
+msgstr "**SDK 支持**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:328
 #: ../../whitepaper/application_description_and_economic_model.rst:365
 msgid "Proof of Traffic"
-msgstr ""
+msgstr "Proof of Traffic 流量共识 PoT"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:330
 msgid ""
@@ -682,10 +723,12 @@ msgid ""
 "consumption, but writes the ratio of VNET Token to network traffic flow "
 "resource service as a constant definition in the underlying code."
 msgstr ""
+"相比于 **Proof of Work 工作量证明 PoW** 的记账方式，PoT 并不需要装备竞赛，也不比拼电力消耗，而是在底层代码中将 VNET "
+"Token 与流量资源服务的比例写为常量定义。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:340
 msgid "VNET Token -- Unique ticket in the Vision Network ecosystem"
-msgstr ""
+msgstr "流量币 VNET —— 生态系统中的唯一通证"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:342
 msgid ""
@@ -693,6 +736,8 @@ msgid ""
 "as VNET, which uses **Proof of Traffic** consensus mechanism. It is the "
 "native asset on the vnCHAIN."
 msgstr ""
+"VNET Token 是 Vision Network 远景网络生态系统中的唯一通证，采用 Proof of Traffic 流量共识，是 "
+"vnCHAIN 区块链上的原生资产，也可简称为流量币 VNET。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:345
 msgid ""
@@ -701,10 +746,12 @@ msgid ""
 " the vnCHAIN main network is officially installed and stabilized, the image "
 "will be migrated through signature verification."
 msgstr ""
+"项目初期， VNET 将严格基于以太网络 Ethereum 的 ERC20 代币标准，使用以太坊的智能合约发行，待 vnCHAIN "
+"主网正式上线稳定后再通过签名验证的方式进行映像迁移。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:353
 msgid "1 VNET Token = 100GB client traffic flow"
-msgstr ""
+msgstr "1 VNET Token = 100GB 用户端流量"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:355
 msgid ""
@@ -712,44 +759,46 @@ msgid ""
 " 100GBytes in the Vision Network, that is: **1 VNET Token = 100GB client "
 "traffic flow.**"
 msgstr ""
+"我们在底层代码中定义了每 1 单位 VNET 对应的权益为 Vision Network 中 100GBytes 的用户端流量，即 **1 VNET "
+"Token = 100 GB 用户端流量**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:362
 msgid "PoT vs. PoW"
-msgstr ""
+msgstr "PoT vs. PoW 的优势"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:365
 msgid "Proof of work"
-msgstr ""
+msgstr "Proof of Work 工作量证明 PoW"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:367
 msgid "**Hardware requirements**"
-msgstr ""
+msgstr "**硬件要求**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:367
 msgid "**Low**"
-msgstr ""
+msgstr "**低**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:367
 msgid "Higher and higher"
-msgstr ""
+msgstr "越来越高"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:369
 msgid "**Power consumption**"
-msgstr ""
+msgstr "**电量消耗**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:369
 msgid "**Very economical**"
-msgstr ""
+msgstr "**极低**"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:369
 msgid "Extremely wasteful"
-msgstr ""
+msgstr "极高且浪费"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:372
 msgid ""
 "Equipment competition and power waste are recognized by the PoW consensus "
 "mechanism as the two major persistent diseases."
-msgstr ""
+msgstr "装备竞赛和电力浪费是 PoW 共识公认的两大顽疾。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:375
 msgid ""
@@ -759,6 +808,8 @@ msgid ""
 " equipment, in addition to the internal friction of the accounting rights, "
 "and there is no other value for humanity."
 msgstr ""
+"从 CPU 开始，经历 GPU、FPGA 至今，一代又一代专为挖矿而生的动辄几千美金一台的 ASIC "
+"芯片矿机，这些不断更新换代的设备，除了记账权争夺的内耗，并没有为人类带来其它价值。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:382
 msgid ""
@@ -768,6 +819,8 @@ msgid ""
 "the national electricity consumption of dozens of countries, and showing a "
 "rising trend year by year."
 msgstr ""
+"电力的消耗则更是无畏，根据 DigiConomist 公布，2017 年比特币挖矿消耗的电能达到了 300 亿度，占全球耗电量的 "
+"0.13%，超过几十个国家的全国年用电量，而且呈现逐年上涨的趋势。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:395
 msgid ""
@@ -779,6 +832,8 @@ msgid ""
 "node, and higher computing performance will not bring about a linear "
 "increase in revenue."
 msgstr ""
+"Vision Network 首创定义了 PoT 流量共识，相对于没有更多意义的算力竞赛，vnet 节点对设备只有极低的性能需求，一个 35 "
+"美金的树莓派（见附，每周仅耗电 1 度左右）即足够满足节点的运行需求，更高的计算性能并不会带来收益的线性增加。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:402
 msgid ""
@@ -790,10 +845,12 @@ msgid ""
 "the other way, it effectively avoids unrestrained price speculation at the "
 "same time."
 msgstr ""
+"在互联网时代，带宽和流量是“价值明确且容易计量”的资源，将节点提供的流量服务定量地视为更有“货币”意义的一般等价物，不仅有扎实的价值基础，同时也能使 "
+"VNET Token 的法币标价更稳定，还能有效避免此前常见的数字货币被“新闻定价”、“公关定价”、“情绪定价”或无节制的恶意炒作。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:414
 msgid "Raspberry Pi:"
-msgstr ""
+msgstr "树莓派："
 
 #: ../../whitepaper/application_description_and_economic_model.rst:412
 msgid "`Raspberrypi.org`_"
@@ -801,15 +858,15 @@ msgstr ""
 
 #: ../../whitepaper/application_description_and_economic_model.rst:413
 msgid "`Raspberry Pi - WikiPedia(English)`_"
-msgstr ""
+msgstr "`维基百科：树莓派（英文）`_"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:414
 msgid "`Raspberry Pi - WikiPedia(Chinese)`_"
-msgstr ""
+msgstr "`维基百科：树莓派（中文）`_"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:423
 msgid "The price of resource in an IDC"
-msgstr ""
+msgstr "IDC 的服务资源价格"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:425
 msgid ""
@@ -817,11 +874,13 @@ msgid ""
 "Amazon Web Services AWS, for example, priced at about **$8.50** per 100GB "
 "traffic and Google Cloud Platform GCP at about **$8.0**."
 msgstr ""
+"100GB 的网络流量，有成熟 IDC 的价格可参照，以亚马逊云 AWS 为例，每 100GB 流量定价约为 **8.50 美元** 左右，而谷歌云 "
+"GCP 则为 **8.0 美元** 左右。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:429
 msgid ""
 "Accelerating traffic is more expensive, while ordinary traffic is cheaper."
-msgstr ""
+msgstr "加速流量较贵，而普通流量更便宜。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:431
 msgid ""
@@ -830,16 +889,18 @@ msgid ""
 "client traffic of 100GB is about equal to the node traffic of 200GB (100GB "
 "upstream 100GB downlink)."
 msgstr ""
+"CDN 需要节点的存储和出口流量，而由于 VPN 服务同时需要节点的下行和上行流量才能完成代理转发，即 100GB 的用户端流量约等于 "
+"200GB的节点流量（100GB 上行 100GB 下行）。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:436
 msgid ""
 "Therefore, 100 GB client traffic flow, anchored to 1 VNET, also coincides "
 "with the actual intrinsic use value."
-msgstr ""
+msgstr "所以，100GB 的用户端流量，锚定为 1 VNET，也恰好符合实际的内在使用价值。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:442
 msgid "AWS Amazon Web Services:"
-msgstr ""
+msgstr "AWS 亚马逊云服务："
 
 #: ../../whitepaper/application_description_and_economic_model.rst:441
 msgid "`AWS Direct Connect pricing`_"
@@ -851,7 +912,7 @@ msgstr ""
 
 #: ../../whitepaper/application_description_and_economic_model.rst:446
 msgid "GCP Google Cloud Platform:"
-msgstr ""
+msgstr "GCP 谷歌云服务："
 
 #: ../../whitepaper/application_description_and_economic_model.rst:445
 msgid "`GCP Interconnect Pricing`_"
@@ -865,7 +926,7 @@ msgstr ""
 msgid ""
 "The VNET Token dollar price should increase to the internal value gradually "
 "and be relatively stable"
-msgstr ""
+msgstr "VNET Token 法币价格应逐渐回归且相对稳定"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:458
 msgid ""
@@ -877,12 +938,15 @@ msgid ""
 "VNET = 100 GB can ensure that the market circulation price of VNET Token "
 "gradually matures with the ecological value in practical use value."
 msgstr ""
+"我们认为短期内法定货币并不会消失，而长久的习惯也让更多人习以为常地以法定货币来为产品或服务标价。同时，我们期望生态成熟后的 VNET Token "
+"价值尺度相对稳定（即法币标价相对稳定），1 VNET = 100 GB 的基础设定可以在实际使用价值上保证 VNET Token "
+"的市场流通价格随着生态的日趋成熟而逐渐回归。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:463
 msgid ""
 "Official server nodes around the world would provide initial ecological "
 "services to users"
-msgstr ""
+msgstr "遍布全球的官方服务器节点为用户提供生态初期的服务"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:470
 msgid ""
@@ -891,3 +955,4 @@ msgid ""
 "on, more node programs will be run by users, and the ecology will become "
 "more mature."
 msgstr ""
+"生态启动初期，遍布全球86个数据中心的官方服务器节点，将为用户提供稳定服务，随着时间的推移，更多的节点程序将由用户主动运行，生态将走向越发成熟。"
