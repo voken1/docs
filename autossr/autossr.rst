@@ -43,6 +43,6 @@ Supported clients
 
 
 Guides
-======
+------
 
 - :ref:`guide_for_shadowrocket`
