@@ -31,7 +31,7 @@ What we have done in 2018:
    - TCP [#TCP]_ NAT traversal [#NAT]_ over UDP [#UDP]_ for `vnTUNNEL` implemented
    - `vnVPN Alpha Server side v0.3.0 on Linux` released
    - `vnVPN Alpha Server side v0.3.0 on Windows` released
-   - :ref:`autossr-lable` (A free ShadowsocksR [#ShadowsocksR]_ subscription updating tool) released
+   - :ref:`autossr` (A free ShadowsocksR [#ShadowsocksR]_ subscription updating tool) released
 
 
 .. [#token] `VNET Token Contract on etherscan.io`_

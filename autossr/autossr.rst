@@ -1,7 +1,7 @@
-.. _autossr-lable:
+.. _autossr:
 
-Free ShadowsocksR
-=================
+AutoSSR: Free ShadowsocksR
+==========================
 
 - **Telegram Channel:** https://t.me/autossr
 - **Github:** https://github.com/VisionNetworkProject/AutoSSR
@@ -41,3 +41,8 @@ Supported clients
 .. _ShadowsocksR: https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 
 
+
+Guides
+======
+
+- :ref:`guide_for_shadowrocket`

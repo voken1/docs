@@ -76,6 +76,14 @@ Contacts
    reports/vnvpn_alpha
 
 
+.. _guide:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Guides
+
+   guide/shadowrocket
+
 
 .. _contracts:
 
