@@ -46,3 +46,5 @@ Guides
 ------
 
 - :ref:`guide_for_shadowrocket`
+- :ref:`guide_for_ssrr`
+

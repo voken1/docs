@@ -83,6 +83,7 @@ Contacts
    :caption: Guides
 
    guide/shadowrocket
+   guide/ssrr
 
 
 .. _contracts:

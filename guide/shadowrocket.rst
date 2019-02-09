@@ -1,7 +1,7 @@
 .. _guide_for_shadowrocket:
 
-Guide for Shadowrocket on iOS
-=============================
+Hot to use AutoSSR by Shadowrocket on iOS
+=========================================
 
 How to subscribe :ref:`autossr` in `Shadowrocket`_ on iOS
 
@@ -12,10 +12,10 @@ How to subscribe :ref:`autossr` in `Shadowrocket`_ on iOS
 Install in App Store
 --------------------
 
-Install `Shadowrocket`_ in **App Store**:
+Search and install `Shadowrocket`_ in **App Store**:
 
 .. image:: /_static/shadowrocket/store.png
-   :width: 80 %
+   :width: 60 %
    :alt: store.png
    :align: center
 
@@ -23,7 +23,7 @@ Install `Shadowrocket`_ in **App Store**:
 Open it:
 
 .. image:: /_static/shadowrocket/desktop.png
-   :width: 80 %
+   :width: 60 %
    :alt: desktop.png
    :align: center
 
@@ -35,7 +35,7 @@ Add AutoSSR Subscribe
 Click the add sign in the top right corner to add subscribe:
 
 .. image:: /_static/shadowrocket/main.png
-   :width: 80 %
+   :width: 60 %
    :alt: main.png
    :align: center
 
@@ -43,13 +43,13 @@ Click the add sign in the top right corner to add subscribe:
 Change the **type** to **Subscribe**:
 
 .. image:: /_static/shadowrocket/add.png
-   :width: 80 %
+   :width: 60 %
    :alt: add.png
    :align: center
 
 
 .. image:: /_static/shadowrocket/type.png
-   :width: 80 %
+   :width: 60 %
    :alt: type.png
    :align: center
 
@@ -60,7 +60,7 @@ the **stable** and **online** is recommended, we choose the stable one here
 you can give it a name in the **Remark** blank, then press **Done**:
 
 .. image:: /_static/shadowrocket/stable.png
-   :width: 80 %
+   :width: 60 %
    :alt: stable.png
    :align: center
 
@@ -69,7 +69,7 @@ You can see the servers in the list now, make a **Pint Test** and choose the fas
 then turn on the switch.
 
 .. image:: /_static/shadowrocket/list.png
-   :width: 80 %
+   :width: 60 %
    :alt: list.png
    :align: center
 
@@ -77,7 +77,7 @@ then turn on the switch.
 It is connected now.
 
 .. image:: /_static/shadowrocket/connected.png
-   :width: 80 %
+   :width: 60 %
    :alt: connected.png
    :align: center
 
@@ -96,13 +96,13 @@ To enable the rules, follow the steps below:
 Make sure the **Global Routing** is set to **Config**:
 
 .. image:: /_static/shadowrocket/routing.png
-   :width: 80 %
+   :width: 60 %
    :alt: routing.png
    :align: center
 
 
 .. image:: /_static/shadowrocket/routing_config.png
-   :width: 80 %
+   :width: 60 %
    :alt: routing_config.png
    :align: center
 
@@ -110,7 +110,7 @@ Make sure the **Global Routing** is set to **Config**:
 Then go to the **Config** page, press the add sign:
 
 .. image:: /_static/shadowrocket/config_main.png
-   :width: 80 %
+   :width: 60 %
    :alt: config_main.png
    :align: center
 
@@ -122,7 +122,7 @@ it is provided in `lhie1/Rules <https://github.com/lhie1/Rules>`_.
 Paste the **URL** and press **Download**:
 
 .. image:: /_static/shadowrocket/config_add.png
-   :width: 80 %
+   :width: 60 %
    :alt: config_add.png
    :align: center
 
@@ -130,13 +130,13 @@ Paste the **URL** and press **Download**:
 Now you can see it, press and choose **Use Config**:
 
 .. image:: /_static/shadowrocket/config_list.png
-   :width: 80 %
+   :width: 60 %
    :alt: config_list.png
    :align: center
 
 
 .. image:: /_static/shadowrocket/config_use.png
-   :width: 80 %
+   :width: 60 %
    :alt: config_use.png
    :align: center
 
@@ -145,7 +145,7 @@ OKay, there is a **Shadowrocket.conf** in the **LOCAL FILES** already,
 and it is in use.
 
 .. image:: /_static/shadowrocket/config_listed.png
-   :width: 80 %
+   :width: 60 %
    :alt: config_listed.png
    :align: center
 
@@ -160,7 +160,7 @@ you can be free from the annoyance of most ads while browsing.
 To the **Setting** page, get in the **Certificate** item:
 
 .. image:: /_static/shadowrocket/setting.png
-   :width: 80 %
+   :width: 60 %
    :alt: setting.png
    :align: center
 
@@ -168,7 +168,7 @@ To the **Setting** page, get in the **Certificate** item:
 **Generate a New Certificate**:
 
 .. image:: /_static/shadowrocket/ca_gen.png
-   :width: 80 %
+   :width: 60 %
    :alt: ca_gen.png
    :align: center
 
@@ -176,7 +176,7 @@ To the **Setting** page, get in the **Certificate** item:
 Press **Install CA Certificate to System**,
 
 .. image:: /_static/shadowrocket/ca_menu.png
-   :width: 80 %
+   :width: 60 %
    :alt: ca_menu.png
    :align: center
 
@@ -184,7 +184,7 @@ Press **Install CA Certificate to System**,
 Safari will lead you to the system settings,
 
 .. image:: /_static/shadowrocket/safari_to.png
-   :width: 80 %
+   :width: 60 %
    :alt: safari_to.png
    :align: center
 
@@ -192,13 +192,13 @@ Safari will lead you to the system settings,
 Install it:
 
 .. image:: /_static/shadowrocket/setting_ca.png
-   :width: 80 %
+   :width: 60 %
    :alt: setting_ca.png
    :align: center
 
 
 .. image:: /_static/shadowrocket/ca_install.png
-   :width: 80 %
+   :width: 60 %
    :alt: ca_install.png
    :align: center
 
@@ -206,19 +206,19 @@ Install it:
 Press **Done** and back to `Shadowrocket`_:
 
 .. image:: /_static/shadowrocket/ca_installed.png
-   :width: 80 %
+   :width: 60 %
    :alt: ca_installed.png
    :align: center
 
 
 .. image:: /_static/shadowrocket/safari_back.png
-   :width: 80 %
+   :width: 60 %
    :alt: safari_back.png
    :align: center
 
 
 .. image:: /_static/shadowrocket/ca_done.png
-   :width: 80 %
+   :width: 60 %
    :alt: ca_done.png
    :align: center
 
@@ -226,7 +226,7 @@ Press **Done** and back to `Shadowrocket`_:
 It is ready for working, now. Connect and enjoy!
 
 .. image:: /_static/shadowrocket/connected.png
-   :width: 80 %
+   :width: 60 %
    :alt: connected.png
    :align: center
 
