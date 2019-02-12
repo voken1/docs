@@ -22,30 +22,30 @@ The team and the early investors held only 22% of the total, in which the projec
 Plan of distribution
 --------------------
 
-+----------------------------+--------+---------------------------------------------------+
-| **Team fund**              | 12%    | 100% locked for 3 years, till 2019.06.3           |
-+----------------------------+--------+---------------------------------------------------+
-| **Early Investors**        | 10%    | 80% locked for 1 year, till 2021.06.30            |
-+----------------------------+--------+---------------------------------------------------+
-| **Air Drops**              | 0.5%   | It is used to reward the Ethereum community users |
-|                            |        | and promotion before the public sale, etc.        |
-+----------------------------+--------+---------------------------------------------------+
-| **Token Sale**             | 53.11% | 17.14% for directed private sale,                 |
-|                            |        | 35.97% for public sale.                           |
-+----------------------------+--------+---------------------------------------------------+
-| **DAPPs Support Plan**     | 5%     | It is used to enrich Vision Network ecology,      |
-|                            |        | foster and encourage developers to build more     |
-|                            |        | decentralized application services.               |
-+----------------------------+--------+---------------------------------------------------+
-| **Community and business** | 18.89% | It is used for exchange listing,                  |
-|                            |        | service node incentive,                           |
-|                            |        | community construction and maintenance, etc.      |
-+----------------------------+--------+---------------------------------------------------+
-| **Consumption pool**       | 0.5%   | For special user contribution awards and          |
-|                            |        | sales promotions, the white list of individual or |
-|                            |        | organizational users will be charged to the       |
-|                            |        | consumer pool contract account until they         |
-|                            |        | are used up.                                      |
-+----------------------------+--------+---------------------------------------------------+
+Team fund 12%
+   100% locked for 3 years, till 2021.06.30
 
+Early Investors 10%
+   80% locked for 1 year, till 2019.06.30
+
+Air Drops 0.5%
+   It is used to reward the Ethereum community users
+   and promotion before the public sale, etc.
+
+Token Sale 53.11%
+   17.14% for directed private sale, 35.97% for public sale.
+
+DAPPs Support Plan 5%
+   It is used to enrich Vision Network ecology,
+   foster and encourage developers
+   to build more decentralized application services.
+
+Community and business 18.89%
+   It is used for exchange listing, service node incentive,
+   community construction and maintenance, etc.
+
+Consumption pool 0.5%
+   For special user contribution awards and sales promotions,
+   the white list of individual or organizational users will be
+   charged to the consumer pool contract account until they are used up.
 

@@ -97,15 +97,6 @@ Allow one-to-many bindings and untying of vnWallet and vnNODE:
 vnSDK
 -----
 
-vnSDK is the first end user application built on a vnP2PNET network
-(and encapsulates vnRPC remote procedure call protocol),
-which defines a series of standards and provides convenient interfaces for end users.
-It can take advantage of the advantage of vnCHAIN block chain.
-At the same time, give VISION the potential to expand its business in the future.
-Both official applications and future involvement of more partners or organizations
-in the development of VISION applications will facilitate the vnSDK
-and will make the entire ecosystem more open and rich.
-
 The vnSDK is the first end-user application built on a vnP2PNET
 (encapsulating the vnRPC at the same time).
 This development kit defines a set of standards and provides a convenient interface
@@ -174,13 +165,6 @@ Deep Packet Inspection:
 
 vnTUNNEL, Dynamic encrypted tunnel
 ----------------------------------
-
-Based on the mature OpenVPN,
-the obfuscation feature similar to Shadowsocks(r) has been added.
-A proprietary protocol for continuous connection has been developed
-that can use both UDP and TCP modes, dynamic certificate encryption,
-and good bandwidth conditions at the service node. Under the circumstances,
-shorter delays and higher response efficiencies can be achieved.
 
 Based on the mature OpenVPN,
 we add the obfuscation feature like Shadowsocks(r),
