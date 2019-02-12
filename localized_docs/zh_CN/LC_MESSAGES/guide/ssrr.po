@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 15:25+0800\n"
+"POT-Creation-Date: 2019-02-12 16:23+0800\n"
 "PO-Revision-Date: 2019-02-12 07:29+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,115 +23,124 @@ msgstr ""
 
 #: ../../guide/ssrr.rst:4
 msgid "How to use AutoSSR by SSRR on Android"
-msgstr ""
+msgstr "如何通过 SSRR 客户端在安卓手机上使用 AutoSSR 免费服务"
 
 #: ../../guide/ssrr.rst:6
 msgid "How to subscribe :ref:`autossr` in `SSRR`_ on Android"
-msgstr ""
+msgstr "如何通过 `SSRR`_ 客户端在 iOS 上使用 :ref:`autossr`"
 
 #: ../../guide/ssrr.rst:13
 msgid "Download and install"
-msgstr ""
+msgstr "下载并安装"
 
 #: ../../guide/ssrr.rst:15
 msgid "You can touch this link for `Download shadowsocksr-android-3.5.3.apk`_"
-msgstr ""
+msgstr "你可以点击这里 `下载 shadowsocksr-android-3.5.3.apk`_"
 
 #: ../../guide/ssrr.rst:25
 msgid "Launch it:"
-msgstr ""
+msgstr "运行它"
 
 #: ../../guide/ssrr.rst:35
 msgid "Add AutoSSR Subscribe"
-msgstr ""
+msgstr "添加 AutoSSR 订阅"
 
 #: ../../guide/ssrr.rst:37
 msgid "Go to the profiles:"
-msgstr ""
+msgstr "配置界面"
 
 #: ../../guide/ssrr.rst:45
 msgid "Add SSR Subscription:"
-msgstr ""
+msgstr "添加 SSR 订阅"
 
 #: ../../guide/ssrr.rst:53
 msgid ""
 "Fill the blank, with one of the links of :ref:`autossr`, the **stable** and "
-"**online** is recommended, we choose the stable one here **https://git.io"
-"/autossr-stable**, then press **OK**:"
-msgstr ""
+"**online** is recommended, we choose the stable one here:"
+msgstr "填入由 :ref:`autossr` 提供的订阅链接，**稳定** 和 **在线** 是推荐的，在这里我们选取 **稳定** 的订阅地址"
 
-#: ../../guide/ssrr.rst:63
+#: ../../guide/ssrr.rst:60
+msgid "then press **OK**:"
+msgstr "按 **确定**"
+
+#: ../../guide/ssrr.rst:68
 msgid "Save and update:"
-msgstr ""
+msgstr "确定并升级"
 
-#: ../../guide/ssrr.rst:71
+#: ../../guide/ssrr.rst:76
 msgid "Choose one:"
-msgstr ""
+msgstr "选择一个服务器"
 
-#: ../../guide/ssrr.rst:79
+#: ../../guide/ssrr.rst:84
 msgid "Connect:"
-msgstr ""
+msgstr "连接"
 
-#: ../../guide/ssrr.rst:87
+#: ../../guide/ssrr.rst:92
 msgid "It is **connected** now."
-msgstr ""
+msgstr "现在是 **已连接** 状态"
 
-#: ../../guide/ssrr.rst:89
+#: ../../guide/ssrr.rst:94
 msgid "If you want to check it:"
-msgstr ""
+msgstr "你可以检查连接"
 
-#: ../../guide/ssrr.rst:96
+#: ../../guide/ssrr.rst:101
 msgid "Here is the result."
-msgstr ""
+msgstr "这里是结果"
 
-#: ../../guide/ssrr.rst:104
+#: ../../guide/ssrr.rst:109
 msgid "Enjoy!!"
 msgstr ""
 
-#: ../../guide/ssrr.rst:109
+#: ../../guide/ssrr.rst:114
 msgid "How to choose and use rules"
-msgstr ""
+msgstr "如何选择和使用分流规则"
 
-#: ../../guide/ssrr.rst:111
+#: ../../guide/ssrr.rst:116
 msgid ""
 "A suitable rule configuration can help you optimize routing paths, increase "
 "speed and save traffic. If you want this feature, there is a wonderful "
 "repository `lhie1/Rules <https://github.com/lhie1/Rules>`_. Great thanks to "
 "`lhie1 <https://github.com/lhie1>`_."
 msgstr ""
+"一个合适的规则配置可以帮助你优化路由路径，提高连接速度和切省流量支出。如果你希望启用这个特性，这里有一个优秀的代码仓库 `lhie1/Rules "
+"<https://github.com/lhie1/Rules>`_ ，非常感谢 `lhie1 <https://github.com/lhie1>`_"
 
-#: ../../guide/ssrr.rst:116
+#: ../../guide/ssrr.rst:121
 msgid "To enable the rules, follow the steps below:"
-msgstr ""
+msgstr "启用这些规则，按如下步骤"
 
-#: ../../guide/ssrr.rst:118
+#: ../../guide/ssrr.rst:123
 msgid "Swipe up to **Feature Settings - Route**:"
-msgstr ""
+msgstr "滑动至 **功能设置 - 路由**"
 
-#: ../../guide/ssrr.rst:126
+#: ../../guide/ssrr.rst:131
 msgid "Choose **Customize ACL File**:"
-msgstr ""
+msgstr "选择 **自定义 ACL 文件**"
 
-#: ../../guide/ssrr.rst:134
+#: ../../guide/ssrr.rst:139
+msgid "For `SSRR`_, the ACL File"
+msgstr "对于 `SSRR`_ 客户端，ACL 文件如下"
+
+#: ../../guide/ssrr.rst:145
 msgid ""
-"For `SSRR`_, the ACL File "
-"**https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl** is "
-"recommended, it is provided in `Android SSR ACL in lhie1/Rules "
+"is recommended, it is provided in `Android SSR ACL in lhie1/Rules "
 "<https://github.com/lhie1/Rules#android-ssr-acl>`_."
 msgstr ""
+"是推荐的，它由 `Android SSR ACL in lhie1/Rules <https://github.com/lhie1/Rules"
+"#android-ssr-acl>`_ 提供"
 
-#: ../../guide/ssrr.rst:138
+#: ../../guide/ssrr.rst:148
 msgid "Paste the **URL** and press **OK**:"
-msgstr ""
+msgstr "粘帖 **URL** 并按 **确定**"
 
-#: ../../guide/ssrr.rst:152
+#: ../../guide/ssrr.rst:162
 msgid "Well done."
-msgstr ""
+msgstr "好了"
 
-#: ../../guide/ssrr.rst:156
+#: ../../guide/ssrr.rst:166
 msgid "Keep it connected"
-msgstr ""
+msgstr "保持连接"
 
-#: ../../guide/ssrr.rst:158
+#: ../../guide/ssrr.rst:168
 msgid "Keep it connected, and you are free to visit everywhere."
-msgstr ""
+msgstr "保持连接状态，你已经可以自由访问了"

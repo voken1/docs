@@ -51,8 +51,13 @@ Add SSR Subscription:
 
 
 Fill the blank, with one of the links of :ref:`autossr`,
-the **stable** and **online** is recommended, we choose the stable one here
-**https://git.io/autossr-stable**, then press **OK**:
+the **stable** and **online** is recommended, we choose the stable one here:
+
+.. code-block:: text
+
+   https://git.io/autossr-stable
+
+then press **OK**:
 
 .. image:: /_static/ssrr/subscribe_add.png
    :width: 60 %
@@ -132,7 +137,12 @@ Choose **Customize ACL File**:
 
 
 For `SSRR`_, the ACL File
-**https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl** is recommended,
+
+.. code-block:: text
+
+   https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl
+
+is recommended,
 it is provided in `Android SSR ACL in lhie1/Rules <https://github.com/lhie1/Rules#android-ssr-acl>`_.
 
 Paste the **URL** and press **OK**:

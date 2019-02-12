@@ -55,9 +55,14 @@ Change the **type** to **Subscribe**:
 
 
 Fill the **URL** blank, with one of the links of :ref:`autossr`,
-the **stable** and **online** is recommended, we choose the stable one here
-**https://git.io/autossr-stable**, at the same time,
-you can give it a name in the **Remark** blank, then press **Done**:
+the **stable** and **online** is recommended, we choose the stable one here:
+
+.. code-block:: text
+
+   https://git.io/autossr-stable
+
+At the same time, you can give it a name in the **Remark** blank,
+then press **Done**:
 
 .. image:: /_static/shadowrocket/stable.png
    :width: 60 %
@@ -115,9 +120,14 @@ Then go to the **Config** page, press the add sign:
    :align: center
 
 
-For `Shadowrocket`_, this remote file
-**https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf** is recommended,
-it is provided in `lhie1/Rules <https://github.com/lhie1/Rules>`_.
+For `Shadowrocket`_, this remote file:
+
+.. code-block:: text
+
+   https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf
+
+
+is recommended, it is provided in `lhie1/Rules <https://github.com/lhie1/Rules>`_.
 
 Paste the **URL** and press **Download**:
 

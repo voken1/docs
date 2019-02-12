@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 15:25+0800\n"
+"POT-Creation-Date: 2019-02-12 16:23+0800\n"
 "PO-Revision-Date: 2019-02-12 07:29+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +23,7 @@ msgstr ""
 
 #: ../../views/internet_in_china.rst:2
 msgid "About Internet in China mainland"
-msgstr ""
+msgstr "关于中国的互联网"
 
 #: ../../views/internet_in_china.rst:0
 msgid "ref"
@@ -31,7 +35,7 @@ msgstr ""
 
 #: ../../views/internet_in_china.rst:10
 msgid "Chinese Edition provided only"
-msgstr ""
+msgstr "此资料只提供中文版"
 
 #: ../../views/internet_in_china.rst:12
 msgid ""
@@ -40,13 +44,15 @@ msgid ""
 "political opinions. We only quote a paragraph of `racaljk`_ (he also shows "
 "to some extent our point of view)."
 msgstr ""
+"关于中国的互联网审查，众说纷纭，关于维护互联网的中立性，我们不发表任何政治见解，仅引用 `racaljk`_ "
+"的一段文字（认为此也能一定程度上说出了我们的观点）"
 
 #: ../../views/internet_in_china.rst:18
 msgid ""
 "The information in this paragraph is only for China. Only mainland residents"
 " have a reading significance, so no longer provide English materials, please"
 " understand."
-msgstr ""
+msgstr "由本段资料只对中国大陆居民有阅读意义，所以不再另提供英文翻译资料，敬请谅解。"
 
 #: ../../views/internet_in_china.rst:22
 msgid "-- Michael"
@@ -54,7 +60,7 @@ msgstr ""
 
 #: ../../views/internet_in_china.rst:30
 msgid "The text is quoted as follows"
-msgstr ""
+msgstr "援引正文如下"
 
 #: ../../views/internet_in_china.rst:32
 msgid ""
