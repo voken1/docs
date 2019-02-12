@@ -73,6 +73,7 @@ Contacts
    :caption: Available services
 
    autossr/autossr
+   services/optss
    reports/vnvpn_alpha
 
 
@@ -84,6 +85,7 @@ Contacts
 
    guide/shadowrocket
    guide/ssrr
+
 
 
 .. _contracts:
