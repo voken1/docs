@@ -77,6 +77,7 @@ Contacts
    reports/vnvpn_alpha
 
 
+
 .. _guide:
 
 .. toctree::
@@ -85,6 +86,16 @@ Contacts
 
    guide/shadowrocket
    guide/ssrr
+
+
+
+.. _references:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: References and views
+
+   views/internet_in_china
 
 
 
@@ -134,11 +145,4 @@ Contacts
    whitepaper/special_tips
    whitepaper/official_website
 
-
-
-.. _references:
-
-.. toctree::
-   :maxdepth: 1
-   :caption: References
 
