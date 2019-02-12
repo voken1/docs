@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Michael Brown <michael@vision.network>, 2019
+# VISION official <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 18:21+0800\n"
+"POT-Creation-Date: 2019-02-12 15:25+0800\n"
 "PO-Revision-Date: 2019-01-15 13:27+0000\n"
-"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -135,10 +135,9 @@ msgstr "`vnVPN Alpha 客户端内测 Windows 版 v0.3.0` 完成"
 
 #: ../../reports/summary2018.rst:34
 msgid ""
-":ref:`autossr-lable` (A free ShadowsocksR [#ShadowsocksR]_ subscription "
-"updating tool) released"
+":ref:`autossr` (A free ShadowsocksR [#ShadowsocksR]_ subscription updating "
+"tool) released"
 msgstr ""
-":ref:`autossr-lable` （一个可供免费使用的 ShadowsocksR [#ShadowsocksR]_ 订阅更新工具）发布"
 
 #: ../../reports/summary2018.rst:37
 msgid "`VNET Token Contract on etherscan.io`_"

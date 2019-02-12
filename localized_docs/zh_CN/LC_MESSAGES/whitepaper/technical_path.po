@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"POT-Creation-Date: 2019-02-12 15:25+0800\n"
 "PO-Revision-Date: 2019-01-19 08:47+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,21 +23,21 @@ msgstr ""
 
 #: ../../whitepaper/technical_path.rst:2
 msgid "Technical path"
-msgstr ""
+msgstr "技术路径"
 
 #: ../../whitepaper/technical_path.rst:6
 msgid "vnP2PNET and vnNODE"
-msgstr ""
+msgstr "vnP2PNET 与 vnNODE"
 
 #: ../../whitepaper/technical_path.rst:8
 msgid "Distributed peer-to-peer networks, all over the world."
-msgstr ""
+msgstr "分布式端对端对等网络、遍布全球的用户节点。"
 
 #: ../../whitepaper/technical_path.rst:10
 msgid ""
 "vnP2PNET is the basis for the interconnection and interoperability of nodes "
 "in the entire the Vision Network."
-msgstr ""
+msgstr "vnP2PNET 是 Vision Network 全网节点互联互通、高效协作的基础。"
 
 #: ../../whitepaper/technical_path.rst:12
 msgid ""
@@ -43,6 +47,8 @@ msgid ""
 "such as BitTorrent, BitCoin and Ethereum and have been validated and "
 "basically mature."
 msgstr ""
+"遍布全球的 vnNODE用户节点在一系列协议和规则标准基础上运行，构成了 vnP2PNET 分布式端对端对等网络，这些技术在 "
+"BitTorrent、BitCoin、Ethereum 等多个场景和系统中正在使用且已得到有效验证并且已经基本成熟。"
 
 #: ../../whitepaper/technical_path.rst:19
 msgid "P2PNET:"
@@ -74,7 +80,7 @@ msgstr ""
 
 #: ../../whitepaper/technical_path.rst:39
 msgid "BitCoin:"
-msgstr ""
+msgstr "比特币："
 
 #: ../../whitepaper/technical_path.rst:36
 msgid "`bitcoin.org`_"
@@ -82,19 +88,19 @@ msgstr ""
 
 #: ../../whitepaper/technical_path.rst:37
 msgid "`Bitcoin Whitepaper`_"
-msgstr ""
+msgstr "`比特币白皮书`_"
 
 #: ../../whitepaper/technical_path.rst:38
 msgid "`Bitcoin - WikiPedia(English)`_"
-msgstr ""
+msgstr "`维基百科：比特币（英文）`_"
 
 #: ../../whitepaper/technical_path.rst:39
 msgid "`Bitcoin - WikiPedia(Chinese)`_"
-msgstr ""
+msgstr "`维基百科：比特币（中文）`_"
 
 #: ../../whitepaper/technical_path.rst:51
 msgid "Ethereum:"
-msgstr ""
+msgstr "以太坊："
 
 #: ../../whitepaper/technical_path.rst:48
 msgid "`ethereum.org`_"
@@ -106,15 +112,15 @@ msgstr ""
 
 #: ../../whitepaper/technical_path.rst:50
 msgid "`Ethereum - WikiPedia(English)`_"
-msgstr ""
+msgstr "`维基百科：以太坊（英文）`_"
 
 #: ../../whitepaper/technical_path.rst:51
 msgid "`Ethereum - WikiPedia(Chinese)`_"
-msgstr ""
+msgstr "`维基百科：以太坊（中文）`_"
 
 #: ../../whitepaper/technical_path.rst:61
 msgid "vnCHAIN, Blockchain"
-msgstr ""
+msgstr "vnCHAIN 区块链"
 
 #: ../../whitepaper/technical_path.rst:63
 msgid ""
@@ -127,17 +133,20 @@ msgid ""
 "of course, nodes can also choose to save the full height of blocks (the "
 "default is to save blocks and snapshots for 255 days)."
 msgstr ""
+"vnCHAIN 主链的设计和实施都将尽量简洁，以保持 vnNODE 节点对运算和存储资源的最低需求。最新 vnPAC "
+"规则的存储更新、清算结算、合约执行将发生在 vnCHAIN 主链上，而过期数据则被视为冗余，会自动备份至其它共生的去中心化系统（如 IPFS、EOS "
+"等）以供查询，当然，节点也可以选择保存完整高度的区块公账（默认保存255天的区块数据和快照）"
 
 #: ../../whitepaper/technical_path.rst:72
 msgid ""
 "vnCHAIN uses the PoT consensus mechanism and the random accounting strategy,"
 " and there is no possibility of computing competition, which further reduces"
 " the requirements on node hardware and increases scalability."
-msgstr ""
+msgstr "vnCHAIN 使用 PoT 共识与随机记账策略，不存在“算力竞赛”的可能，进一步减低了对节点硬件的要求，同时提高了扩展性。"
 
 #: ../../whitepaper/technical_path.rst:79
 msgid "Allow one-to-many bindings and untying of vnWallet and vnNODE"
-msgstr ""
+msgstr "允许 vnWallet 与 vnNODE 一对多绑定与解绑"
 
 #: ../../whitepaper/technical_path.rst:81
 msgid ""
@@ -145,10 +154,12 @@ msgid ""
 " and vnNODE use mutually independent private and public keys, and vnWallet "
 "and vnNODE can transfer freely between themselves."
 msgstr ""
+"采用 vnWallet 钱包与 vnNODE 节点平行的逻辑结构设计，vnWallet 和 vnNODE 使用相互独立的私钥与公钥，vnWallet 与"
+" vnNODE 间可以相互自由转账。"
 
 #: ../../whitepaper/technical_path.rst:85
 msgid "Allow one-to-many bindings and untying of vnWallet and vnNODE:"
-msgstr ""
+msgstr "允许 vnWallet 与 vnNODE 一对多绑定与解绑："
 
 #: ../../whitepaper/technical_path.rst:87
 msgid ""
@@ -156,6 +167,8 @@ msgid ""
 "After the binding, the VNET Tokens for both vnNODE cost and revenue will be "
 "automatically included in the address of the corresponding vnWallet."
 msgstr ""
+"允许 vnWallet 与 vnNODE 同时签名授权绑定关联关系，绑定后，vnNODE 花费与收入的VNET Token 都将自动计入对应 "
+"vnWallet 的 address"
 
 #: ../../whitepaper/technical_path.rst:90
 msgid ""
@@ -164,6 +177,8 @@ msgid ""
 "are no longer associated with the past vnWallet, but only belongs to the "
 "vnNODE's own address."
 msgstr ""
+"允许由 vnWallet 单方签名授权发起解绑 vnNODE 操作，解绑后，vnNODE 的花费和收入不再和 vnWallet 关联，而只属于 "
+"vnNODE 自己的 address"
 
 #: ../../whitepaper/technical_path.rst:98
 msgid "vnSDK"
@@ -180,6 +195,10 @@ msgid ""
 " development of VISION applications will facilitate the vnSDK and will make "
 "the entire ecosystem more open and rich."
 msgstr ""
+"vnSDK 软件开发工具包是第一个建立在 vnP2PNET 网络上的终端用户应用程序（同时封装 vnRPC "
+"远程过程调用协议），这个开发包定义一系列标准并为终端用户提供方便的接口，可以利用 vnCHAIN 区块链的优势，同时赋予 VISION "
+"未来扩大业务规模的潜能。不论是官方应用，还是未来有更多伙伴或组织参与到 VISION 的应用开发中来，vnSDK "
+"都将提供更多便利并会促进整个生态系统更开放、更丰富。"
 
 #: ../../whitepaper/technical_path.rst:109
 msgid ""
@@ -193,14 +212,18 @@ msgid ""
 " convenience and will promote the entire ecosystem to be more open and "
 "colorful."
 msgstr ""
+"vnSDK 软件开发工具包是第一个建立在 vnP2PNET 网络上的终端用户应用程序（同时封装 vnRPC "
+"远程过程调用协议），这个开发包定义一系列标准并为终端用户提供方便的接口，可以利用 vnCHAIN 区块链的优势，同时赋予 VISION "
+"未来扩大业务规模的潜能。不论是官方应用，还是未来有更多伙伴或组织参与到 VISION 的应用开发中来，vnSDK "
+"都将提供更多便利并会促进整个生态系统更开放、更丰富。"
 
 #: ../../whitepaper/technical_path.rst:122
 msgid "vnVPN model and principle"
-msgstr ""
+msgstr "vnVPN 模型与原理"
 
 #: ../../whitepaper/technical_path.rst:132
 msgid "vnFREE non-state protocol"
-msgstr ""
+msgstr "vnFREE 无状态协议"
 
 #: ../../whitepaper/technical_path.rst:134
 msgid ""
@@ -211,6 +234,8 @@ msgid ""
 " to the traffic characteristics of HTTPS and it is difficult to be detected "
 "by DPI deep packet inspection."
 msgstr ""
+"独家算法的 vnFREE 无状态协议，基于 TCP，可以实现服务节点的秒级切换，无需像传统 VPN 一样等待软件断开再重新连接，军事级别的 "
+"AES-256 加密，再经过叠加混淆处理后的数据包，与 HTTPS 的流量特征更相似，从而很难被 DPI 深度包检测发现。"
 
 #: ../../whitepaper/technical_path.rst:144
 msgid "TCP:"

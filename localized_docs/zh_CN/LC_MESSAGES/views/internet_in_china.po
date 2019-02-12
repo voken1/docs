@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-12 15:25+0800\n"
+"PO-Revision-Date: 2019-02-12 07:29+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../views/internet_in_china.rst:2
+msgid "About Internet in China mainland"
+msgstr ""
+
+#: ../../views/internet_in_china.rst:0
+msgid "ref"
+msgstr ""
+
+#: ../../views/internet_in_china.rst:4
+msgid "《 `关于中国的互联网`_ 》"
+msgstr ""
+
+#: ../../views/internet_in_china.rst:10
+msgid "Chinese Edition provided only"
+msgstr ""
+
+#: ../../views/internet_in_china.rst:12
+msgid ""
+"About China's Internet censorship, there are different opinions. Regarding "
+"the maintenance of the neutrality of the Internet, we do not publish any "
+"political opinions. We only quote a paragraph of `racaljk`_ (he also shows "
+"to some extent our point of view)."
+msgstr ""
+
+#: ../../views/internet_in_china.rst:18
+msgid ""
+"The information in this paragraph is only for China. Only mainland residents"
+" have a reading significance, so no longer provide English materials, please"
+" understand."
+msgstr ""
+
+#: ../../views/internet_in_china.rst:22
+msgid "-- Michael"
+msgstr ""
+
+#: ../../views/internet_in_china.rst:30
+msgid "The text is quoted as follows"
+msgstr ""
+
+#: ../../views/internet_in_china.rst:32
+msgid ""
+"网络审查在各个国家都普遍存在着，它并不仅存在于中国。在全球的局势对中国都不利的当下， "
+"当局会过滤掉影响、危害到中国长远发展的信息，此时国家安全的意义更加重大。"
+msgstr ""
+
+#: ../../views/internet_in_china.rst:35
+msgid ""
+"互联网上存在着大量终究不现实的、不客观的，甚至自相矛盾的抹黑当局政府言论， "
+"它们背后一般有西方政府或非政府组织资金支持。这些媒体包括但不限于一些港媒、境外网站。"
+msgstr ""
+
+#: ../../views/internet_in_china.rst:38
+msgid ""
+"我们希望您能在遇到此类言论和见解时，不要不加思考地、情绪一度被煽动而不能克制地、 "
+"盲目地相信这些片面或者歪曲事实的东西，而是要事实求是地思考，要摆脱情绪绑架的怪诞思维去理解。"
+msgstr ""
+
+#: ../../views/internet_in_china.rst:41
+msgid ""
+"我们需要了解到，中国的发展总基调是“稳中求进”，中国社会的最核心问题就是稳定。 失去稳定的中国将会是一盘散沙，面临分裂和肢解的危险。 "
+"我们希望您了解当今中国发展的根本保证是什么，发展的过程中哪部分是主旋律， 哪些是噪音；哪些是进取的，哪些是会开历史倒车的。 我们需要维新，而不是革命。"
+msgstr ""
+
+#: ../../views/internet_in_china.rst:47
+msgid ""
+"我们应该清醒和全面地认识问题，偏信西方媒体的言论、缺乏对国家的信任是不可取的。 "
+"您的数据安全和隐私对您尤为重要。若这些信息不应当被西方掌握时，它对国家和民族的命运更为重要。 "
+"出于此原因，当局可能会限制您的行为，我们不会也无法干预当局的任何政策和决定。"
+msgstr ""
+
+#: ../../views/internet_in_china.rst:51
+msgid "所以，我们希望您在使用不论任何组织提供的“翻墙”服务时，不要盲目地攻击当局的做法。"
+msgstr ""

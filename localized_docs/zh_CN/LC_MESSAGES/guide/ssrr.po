@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-12 15:25+0800\n"
+"PO-Revision-Date: 2019-02-12 07:29+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../guide/ssrr.rst:4
+msgid "How to use AutoSSR by SSRR on Android"
+msgstr ""
+
+#: ../../guide/ssrr.rst:6
+msgid "How to subscribe :ref:`autossr` in `SSRR`_ on Android"
+msgstr ""
+
+#: ../../guide/ssrr.rst:13
+msgid "Download and install"
+msgstr ""
+
+#: ../../guide/ssrr.rst:15
+msgid "You can touch this link for `Download shadowsocksr-android-3.5.3.apk`_"
+msgstr ""
+
+#: ../../guide/ssrr.rst:25
+msgid "Launch it:"
+msgstr ""
+
+#: ../../guide/ssrr.rst:35
+msgid "Add AutoSSR Subscribe"
+msgstr ""
+
+#: ../../guide/ssrr.rst:37
+msgid "Go to the profiles:"
+msgstr ""
+
+#: ../../guide/ssrr.rst:45
+msgid "Add SSR Subscription:"
+msgstr ""
+
+#: ../../guide/ssrr.rst:53
+msgid ""
+"Fill the blank, with one of the links of :ref:`autossr`, the **stable** and "
+"**online** is recommended, we choose the stable one here **https://git.io"
+"/autossr-stable**, then press **OK**:"
+msgstr ""
+
+#: ../../guide/ssrr.rst:63
+msgid "Save and update:"
+msgstr ""
+
+#: ../../guide/ssrr.rst:71
+msgid "Choose one:"
+msgstr ""
+
+#: ../../guide/ssrr.rst:79
+msgid "Connect:"
+msgstr ""
+
+#: ../../guide/ssrr.rst:87
+msgid "It is **connected** now."
+msgstr ""
+
+#: ../../guide/ssrr.rst:89
+msgid "If you want to check it:"
+msgstr ""
+
+#: ../../guide/ssrr.rst:96
+msgid "Here is the result."
+msgstr ""
+
+#: ../../guide/ssrr.rst:104
+msgid "Enjoy!!"
+msgstr ""
+
+#: ../../guide/ssrr.rst:109
+msgid "How to choose and use rules"
+msgstr ""
+
+#: ../../guide/ssrr.rst:111
+msgid ""
+"A suitable rule configuration can help you optimize routing paths, increase "
+"speed and save traffic. If you want this feature, there is a wonderful "
+"repository `lhie1/Rules <https://github.com/lhie1/Rules>`_. Great thanks to "
+"`lhie1 <https://github.com/lhie1>`_."
+msgstr ""
+
+#: ../../guide/ssrr.rst:116
+msgid "To enable the rules, follow the steps below:"
+msgstr ""
+
+#: ../../guide/ssrr.rst:118
+msgid "Swipe up to **Feature Settings - Route**:"
+msgstr ""
+
+#: ../../guide/ssrr.rst:126
+msgid "Choose **Customize ACL File**:"
+msgstr ""
+
+#: ../../guide/ssrr.rst:134
+msgid ""
+"For `SSRR`_, the ACL File "
+"**https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl** is "
+"recommended, it is provided in `Android SSR ACL in lhie1/Rules "
+"<https://github.com/lhie1/Rules#android-ssr-acl>`_."
+msgstr ""
+
+#: ../../guide/ssrr.rst:138
+msgid "Paste the **URL** and press **OK**:"
+msgstr ""
+
+#: ../../guide/ssrr.rst:152
+msgid "Well done."
+msgstr ""
+
+#: ../../guide/ssrr.rst:156
+msgid "Keep it connected"
+msgstr ""
+
+#: ../../guide/ssrr.rst:158
+msgid "Keep it connected, and you are free to visit everywhere."
+msgstr ""

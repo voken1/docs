@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Michael Brown <michael@vision.network>, 2019
+# VISION official <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"POT-Creation-Date: 2019-02-12 15:25+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
-"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -108,14 +108,22 @@ msgstr "$VNET 流量币"
 msgid "Available services"
 msgstr "当前可用服务"
 
-#: ../../index.rst:82
+#: ../../index.rst:83
+msgid "Guides"
+msgstr ""
+
+#: ../../index.rst:94
+msgid "References and views"
+msgstr ""
+
+#: ../../index.rst:104
 msgid "Contracts on Ethereum"
 msgstr "以太坊智能合约"
 
-#: ../../index.rst:96
+#: ../../index.rst:118
 msgid "Contribute"
 msgstr "共建"
 
-#: ../../index.rst:106
+#: ../../index.rst:128
 msgid "Whitepaper v1.0.4"
 msgstr "白皮书 v1.0.4"
