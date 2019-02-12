@@ -1,6 +1,6 @@
 .. _guide_for_ssrr:
 
-Hot to use AutoSSR by SSRR on Android
+How to use AutoSSR by SSRR on Android
 =====================================
 
 How to subscribe :ref:`autossr` in `SSRR`_ on Android

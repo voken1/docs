@@ -1,6 +1,6 @@
 .. _guide_for_shadowrocket:
 
-Hot to use AutoSSR by Shadowrocket on iOS
+How to use AutoSSR by Shadowrocket on iOS
 =========================================
 
 How to subscribe :ref:`autossr` in `Shadowrocket`_ on iOS
