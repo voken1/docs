@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 15:25+0800\n"
+"POT-Creation-Date: 2019-02-12 16:23+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -110,11 +110,11 @@ msgstr "当前可用服务"
 
 #: ../../index.rst:83
 msgid "Guides"
-msgstr ""
+msgstr "使用与操作指导"
 
 #: ../../index.rst:94
 msgid "References and views"
-msgstr ""
+msgstr "推荐阅读与观点"
 
 #: ../../index.rst:104
 msgid "Contracts on Ethereum"
