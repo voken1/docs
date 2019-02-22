@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-22 15:05+0800\n"
+"POT-Creation-Date: 2019-02-22 20:34+0800\n"
 "PO-Revision-Date: 2019-02-22 07:11+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -17,6 +17,10 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../views/value_and_price.rst:2
-msgid "About Value and Price"
+#: ../../views/value_and_price.rst:4
+msgid "About Value and Price (TODO)"
+msgstr ""
+
+#: ../../views/value_and_price.rst:6
+msgid "TODO"
 msgstr ""

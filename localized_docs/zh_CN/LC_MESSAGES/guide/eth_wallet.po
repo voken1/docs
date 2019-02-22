@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-22 20:34+0800\n"
+"PO-Revision-Date: 2019-02-22 11:51+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../guide/eth_wallet.rst:4
+msgid "How to use an ETH wallet"
+msgstr "如何使用 ETH 钱包"
+
+#: ../../guide/eth_wallet.rst:8
+msgid "What is ETH wallet? How should we choose one?"
+msgstr "什么是 ETH 以太坊钱包？我们应该使用哪些钱包呢？"
+
+#: ../../guide/eth_wallet.rst:10
+msgid ""
+"At first, ETH is the crypto-currency used in the Ethereum Platform - which "
+"is an open sourced software platform based on blockchain technology that "
+"enables developers to build and deploy decentralized applications."
+msgstr ""
+"首先，ETH 是 Ethereum 以太坊发行的一种加密货币。以太坊则是一个建立在区块链技术之上的 "
+"去中心化应用平台。任何人都可以在平台中建立和使用通过区块链技术运行的去中心化应用。"
+
+#: ../../guide/eth_wallet.rst:15
+msgid ""
+"ETH wallet is a kind of crypto-currency wallet, you can use it to receive, "
+"send and store your ETHs."
+msgstr "ETH 钱包是加密货币钱包的一种，你可以用它来存储、发送和接收你的 ETH。"
+
+#: ../../guide/eth_wallet.rst:18
+msgid "Here are some popular ETH wallets:"
+msgstr "在这里介绍几款比较好用的以太坊钱包："
+
+#: ../../guide/eth_wallet.rst:23
+msgid "MEW (MyEtherWallet)"
+msgstr ""
+
+#: ../../guide/eth_wallet.rst:25
+msgid ""
+"**MyEtherWallet** is one of the most popular Ethereum wallet on the "
+"internet. It's a web application with friendly interface, easy to use. Most "
+"importantly, that's an open source wallet, everyone can check the codes."
+msgstr "**MyEtherWallet** 是一款网络上很受欢迎的以太坊钱包，操作简单，只需打开网页即可使用，钱包代码开源，可供大家审视。"
+
+#: ../../guide/eth_wallet.rst:29 ../../guide/eth_wallet.rst:51
+#: ../../guide/eth_wallet.rst:72
+msgid "Official Link："
+msgstr "官网："
+
+#: ../../guide/eth_wallet.rst:31
+msgid "https://www.myetherwallet.com/"
+msgstr ""
+
+#: ../../guide/eth_wallet.rst:33 ../../guide/eth_wallet.rst:55
+#: ../../guide/eth_wallet.rst:76
+msgid "How to use："
+msgstr "使用教程："
+
+#: ../../guide/eth_wallet.rst:35
+msgid "`Guide for MEW (English)`_"
+msgstr "`MEW 英文指导`_"
+
+#: ../../guide/eth_wallet.rst:36
+msgid "`Guide for MEW (Chinese) 1`_"
+msgstr "`MEW 中文指导 1`_"
+
+#: ../../guide/eth_wallet.rst:37
+msgid "`Guide for MEW (Chinese) 2`_"
+msgstr "`MEW 中文指导 2`_"
+
+#: ../../guide/eth_wallet.rst:47
+msgid "imToken"
+msgstr ""
+
+#: ../../guide/eth_wallet.rst:49
+msgid "**imToken** is a feature-rich digital mobile asset light-wallet."
+msgstr "**imToken** 是个移动端钱包，操作简便，容易上手，功能齐全，在imToken上生成的钱包私钥保存在手机本地，平台方并无备份。"
+
+#: ../../guide/eth_wallet.rst:53
+msgid "https://token.im/"
+msgstr ""
+
+#: ../../guide/eth_wallet.rst:57
+msgid "`Guide for imToken (English)`_"
+msgstr "`imToken 英文指导`_"
+
+#: ../../guide/eth_wallet.rst:58
+msgid "`Guide for imToken (Chinese)`_"
+msgstr "`imToken 中文指导`_"
+
+#: ../../guide/eth_wallet.rst:66
+msgid "Parity"
+msgstr ""
+
+#: ../../guide/eth_wallet.rst:68
+msgid ""
+"Parity is a full node wallet, which means that you store the blockchain on "
+"your computer. The wallet is available for Ubuntu, OS X, Docker and Windows."
+msgstr "**Parity** 是一款使用人数很多，也很成熟的一款以太坊全节点钱包。"
+
+#: ../../guide/eth_wallet.rst:74
+msgid "https://www.parity.io/"
+msgstr ""
+
+#: ../../guide/eth_wallet.rst:78
+msgid "`Guide for Parity (English) 1`_"
+msgstr "`Parity 英文指导 1`_"
+
+#: ../../guide/eth_wallet.rst:79
+msgid "`Guide for Parity (English) 2`_"
+msgstr "`Parity 英文指导 2`_"
+
+#: ../../guide/eth_wallet.rst:80
+msgid "`Guide for Parity (Chinese)`_"
+msgstr "`Parity 中文指导`_"
+
+#: ../../guide/eth_wallet.rst:89
+msgid "PAY ATTENTION"
+msgstr "特别注意"
+
+#: ../../guide/eth_wallet.rst:91
+msgid "KEEP YOUR PRIVATE KEY SECURE AND BACK UP YOUR WALLETS PROPERLY"
+msgstr "妥善保存您的私钥，妥善备份您的钱包"

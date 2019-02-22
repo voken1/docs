@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-22 15:05+0800\n"
+"POT-Creation-Date: 2019-02-22 20:34+0800\n"
 "PO-Revision-Date: 2019-02-22 07:10+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -18,5 +18,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../guide/gas.rst:4
-msgid "What should the `gas limit`/`gas price` be set to?"
+msgid "How to set `gas limit` and `gas price`? (TODO)"
+msgstr ""
+
+#: ../../guide/gas.rst:6
+msgid "TODO"
 msgstr ""

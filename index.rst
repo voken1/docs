@@ -87,6 +87,7 @@ Contacts
    guide/shadowrocket
    guide/ssrr
    guide/telegram
+   guide/eth_wallet
    guide/gas
 
 
