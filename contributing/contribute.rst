@@ -7,10 +7,26 @@ You are here to help on Vision Network? That's awesome.
 
 
 
+Development
+-----------
+
+If you want to help us with code development,
+the specific plan will be announced after the completion of the `vnCORE` module.
+However, joining in our chat group is also welcomed.
+
+
+Global Community
+----------------
+
+- :ref:`community_partner`
+
+
+
 Helping on translations
 -----------------------
 
 If you wish to contribute translations, please do so on `Transifex`_.
 
 .. _Transifex: https://www.transifex.com/projects/p/visionnetwork-docs/
+
 

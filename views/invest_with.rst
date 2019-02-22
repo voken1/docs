@@ -1,4 +1,7 @@
-Invest with your global vision
-==============================
+.. _invest_with:
 
+Invest with your global vision (TODO)
+=====================================
+
+TODO
 

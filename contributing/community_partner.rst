@@ -1,3 +1,6 @@
+.. _community_partner:
+
+
 Global Community Partner PLAN
 =============================
 

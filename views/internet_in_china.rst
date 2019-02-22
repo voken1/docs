@@ -1,3 +1,5 @@
+.. _internet_in_china:
+
 About Internet in China mainland
 ================================
 

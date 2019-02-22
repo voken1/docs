@@ -86,6 +86,8 @@ Contacts
 
    guide/shadowrocket
    guide/ssrr
+   guide/telegram
+   guide/gas
 
 
 
@@ -96,6 +98,9 @@ Contacts
    :caption: References and views
 
    views/internet_in_china
+   views/minimalist_principles.rst
+   views/value_and_price.rst
+   views/invest_with.rst
 
 
 
