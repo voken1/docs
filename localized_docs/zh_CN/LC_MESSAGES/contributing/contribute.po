@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-22 15:05+0800\n"
+"PO-Revision-Date: 2019-02-22 07:10+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contributing/contribute.rst:2
+msgid "Contributing to Vision Network"
+msgstr "参与远景网络共建"
+
+#: ../../contributing/contribute.rst:4
+msgid "You are here to help on Vision Network? That's awesome."
+msgstr "你是在这里准备帮助共建 Vision Network 远景网络吗？ 棒极了！"
+
+#: ../../contributing/contribute.rst:11
+msgid "Helping on translations"
+msgstr "帮助翻译文档"
+
+#: ../../contributing/contribute.rst:13
+msgid "If you wish to contribute translations, please do so on `Transifex`_."
+msgstr "如果您想翻译文档，请至 `Transifex`_"

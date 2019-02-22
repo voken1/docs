@@ -1,0 +1,214 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-22 15:05+0800\n"
+"PO-Revision-Date: 2019-02-22 07:10+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contributing/community_partner.rst:2
+msgid "Global Community Partner PLAN"
+msgstr "全球社区合伙人招募计划"
+
+#: ../../contributing/community_partner.rst:4
+msgid ""
+"**VISION** is one of the most anticipated multi-tier applications of "
+"blockchain infrastructure with practical scenarios, and we are preparing "
+"community activities offline, knowledge dissemination, question-answering "
+"and consensus building. In order to steadily expand community influence, the"
+" global community partner plan is now officially launched, mainly involving "
+"city and regional community partners, WeChat community partners, Telgram "
+"community partners, and the popularization and promotion of vision "
+"**freedom**, **sharing**, **high efficiency**, hand in hand, to help users "
+"in the early stage of the project to take the lead, to obtain greater "
+"opportunities."
+msgstr ""
+"**VISION** 是目前最值得期待的具有实际场景的区块链基础设施 + "
+"多层应用的项目，我们正在筹备线下各地的社区活动，知识普及、解决疑问并推进共识，为了稳步扩大社区影响力，现正式开启全球社区合伙人招募行动，主要包括各城市和区域社区合伙人、微信社区合伙人、电报社区合伙人，普及并推广"
+" VISION “ **自由**、**共享**、**高效**”的理念，携手前行，帮助社区用户在项目前期拔得头筹，获得更大机会。"
+
+#: ../../contributing/community_partner.rst:19
+msgid "Phase#1: 30 Million VNET budget"
+msgstr "第 1 期 3000 万 VNET 预算"
+
+#: ../../contributing/community_partner.rst:21
+msgid "Uses include but are not limited to:"
+msgstr "用途包括但不限于："
+
+#: ../../contributing/community_partner.rst:23
+msgid "VNET candies support for offline salons"
+msgstr "线下活动的 VNET 糖果支持"
+
+#: ../../contributing/community_partner.rst:24
+msgid "VNET reward for sharing online or offline"
+msgstr "线上或线下主题分享的 VNET 奖励"
+
+#: ../../contributing/community_partner.rst:25
+msgid "VNET reward for Telegram or WeChat Group and maintenance"
+msgstr "电报或微信建群与维护的 VNET 奖励"
+
+#: ../../contributing/community_partner.rst:26
+msgid "VNET reward for online social platform"
+msgstr "线上社交平台传播的 VNET 奖励"
+
+#: ../../contributing/community_partner.rst:30
+msgid "Requirements of community partners"
+msgstr "社区合伙人具体要求"
+
+#: ../../contributing/community_partner.rst:32
+msgid "Good knowledge in blockchain field"
+msgstr "对区块链行业有较高的认知与知识积累"
+
+#: ../../contributing/community_partner.rst:33
+msgid "Have resources or familiar with how to run a community"
+msgstr "熟悉如何运营社区或者拥有一定资源"
+
+#: ../../contributing/community_partner.rst:34
+msgid ""
+"strong leadership, charisma, ability to bring together and sustain community"
+msgstr "具备领导力、号召力，能够凝聚社群、维护社群发展"
+
+#: ../../contributing/community_partner.rst:35
+msgid ""
+"Passion, quick thinking, strong language ability, strong sense of "
+"responsibility"
+msgstr "思维敏捷、热爱交际、语言能力强、责任心强"
+
+#: ../../contributing/community_partner.rst:39
+msgid "Recognition of vision and its development prospects"
+msgstr "认可并看好 VISION 理念与发展前景"
+
+#: ../../contributing/community_partner.rst:42
+msgid "Community partner duties"
+msgstr "社区合伙人职责"
+
+#: ../../contributing/community_partner.rst:44
+msgid "Build online groups and maintain them on a continuous basis"
+msgstr "组建线上交流群组并持续维护"
+
+#: ../../contributing/community_partner.rst:45
+msgid "Holding offline meetings, special sessions, etc."
+msgstr "定期举办线下行业交流会、主题分享会等"
+
+#: ../../contributing/community_partner.rst:46
+msgid "Attend parties and share VISION and ideas"
+msgstr "参加行业聚会并分享 VISION 项目与理念"
+
+#: ../../contributing/community_partner.rst:47
+msgid "Show views through social networks or the media"
+msgstr "通过社交网络或媒体发表个人观点"
+
+#: ../../contributing/community_partner.rst:48
+msgid "Others (free play)"
+msgstr "其它（可自由发挥）"
+
+#: ../../contributing/community_partner.rst:51
+msgid "More rights and supports"
+msgstr "更多权益与支持"
+
+#: ../../contributing/community_partner.rst:53
+msgid "Partners will receive financial, technical and material supports"
+msgstr "合伙人将获得资金、技术与物料支持"
+
+#: ../../contributing/community_partner.rst:54
+msgid "Priority in obtaining project quota"
+msgstr "优先获取项目份额"
+
+#: ../../contributing/community_partner.rst:55
+msgid ""
+"Well-performing community partners will be officially listed as partners, "
+"and we will mobilize more resources to support their personal development."
+msgstr "表现优秀的社区合伙人将正式列入合伙人公示名录、享有多项权益，VISION 也将会调动更多资源支持其个人发展"
+
+#: ../../contributing/community_partner.rst:60
+msgid "Contact us"
+msgstr "联系我们"
+
+#: ../../contributing/community_partner.rst:62
+msgid "E-mail us your resume"
+msgstr "将您的简介发送邮件给我们"
+
+#: ../../contributing/community_partner.rst:64
+msgid "E-mail Address:"
+msgstr "邮件地址："
+
+#: ../../contributing/community_partner.rst:66
+msgid "joinus@vision.network"
+msgstr ""
+
+#: ../../contributing/community_partner.rst:68
+msgid "Content:"
+msgstr "内容："
+
+#: ../../contributing/community_partner.rst:70
+msgid "Your name"
+msgstr "姓名或称呼"
+
+#: ../../contributing/community_partner.rst:71
+msgid "Your country / region"
+msgstr "您的国家或地域"
+
+#: ../../contributing/community_partner.rst:72
+msgid "Your twitter and your telegram username"
+msgstr "您的 Twitter 和 Telegram 用户名"
+
+#: ../../contributing/community_partner.rst:73
+msgid "Your career & job"
+msgstr "您的经历和工作"
+
+#: ../../contributing/community_partner.rst:74
+msgid "Your resource"
+msgstr "您的相关资源"
+
+#: ../../contributing/community_partner.rst:75
+msgid "Your idea & plan"
+msgstr "您的想法与计划"
+
+#: ../../contributing/community_partner.rst:76
+msgid "Your suggests"
+msgstr "您对 VISION 的建议"
+
+#: ../../contributing/community_partner.rst:77
+msgid "And anything you wanna say"
+msgstr "任何您想说的话 ^_^"
+
+#: ../../contributing/community_partner.rst:79
+msgid "Then we will reply the mail or contact you"
+msgstr "我们会正式回复您的邮件"
+
+#: ../../contributing/community_partner.rst:81
+msgid "You will get a mail reply, and we may contact you by Telegram."
+msgstr "您将会收到我们的正式邮件回复，同时也可能直接联系你"
+
+#: ../../contributing/community_partner.rst:83
+msgid "The only official contact David Wells's Telegram"
+msgstr "官方指定联系人的 Telegram 账号"
+
+#: ../../contributing/community_partner.rst:85
+msgid "https://t.me/DavidWellsHK"
+msgstr ""
+
+#: ../../contributing/community_partner.rst:87
+msgid ""
+"Join us, take part in community ecological construction, walk with "
+"outstanding people"
+msgstr "加入我们，参与社区生态建设，与优秀者同行"
+
+#: ../../contributing/community_partner.rst:89
+msgid "Waiting for you."
+msgstr "期待您的加入"

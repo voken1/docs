@@ -119,7 +119,8 @@ Contacts
    :maxdepth: 1
    :caption: Contribute
 
-   contribute
+   contributing/contribute
+   contributing/community_partner
 
 
 
