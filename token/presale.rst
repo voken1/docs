@@ -1,8 +1,7 @@
-.. _presale-lable:
+.. _presale:
 
-$VNET Pre-Sale/Early-Bird
-=========================
-
+$VNET Pre-Sale/Early-Bird (In progress...)
+==========================================
 
 There is **18.6 billion VNET** would released by token sale, accounting for **53.14%**
 of the total supply. With our sincerity, we have designed contracts for sales

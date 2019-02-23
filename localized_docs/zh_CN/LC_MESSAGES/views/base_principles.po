@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-23 20:22+0800\n"
-"PO-Revision-Date: 2019-02-22 08:05+0000\n"
+"PO-Revision-Date: 2019-02-23 12:27+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,10 +17,10 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../guide/telegram.rst:4
-msgid "Use `Telegram` to protect your instant messaging SECURITY (#TODO)"
+#: ../../views/base_principles.rst:4
+msgid "BASE PRINCIPLES (#TODO)"
 msgstr ""
 
-#: ../../guide/telegram.rst:6
+#: ../../views/base_principles.rst:6
 msgid "TODO"
 msgstr ""

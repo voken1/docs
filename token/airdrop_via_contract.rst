@@ -1,7 +1,7 @@
-.. _airdrop-via-contract-lable:
+.. _airdrop-via-contract:
 
-$VNET Airdrop via contract
-==========================
+$VNET Airdrop via contract (In progress...)
+===========================================
 
 Total amount:
    50 Million VNET

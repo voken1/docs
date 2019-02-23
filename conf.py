@@ -141,7 +141,7 @@ gettext_compact = False
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-# html_logo = 'logo.svg'
+# html_logo = '_static/logo.svg'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_theme_options = {
     # 'logo_only': True,

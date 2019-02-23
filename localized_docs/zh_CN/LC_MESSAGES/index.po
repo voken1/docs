@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 16:23+0800\n"
+"POT-Creation-Date: 2019-02-23 21:37+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -65,65 +65,81 @@ msgid "`Chinese`_"
 msgstr "`中文版`_"
 
 #: ../../index.rst:30
+msgid "**Official News**"
+msgstr "**官方新闻频道**"
+
+#: ../../index.rst:30
+msgid "`Telegram News Channel`_"
+msgstr "`官方电报新闻频道`_"
+
+#: ../../index.rst:32
+msgid "**Twitter**"
+msgstr "**推特**"
+
+#: ../../index.rst:32
+msgid "`Twitter`_"
+msgstr "`推特 $VNET`_"
+
+#: ../../index.rst:34
 msgid "**Telegram Group**"
 msgstr "**电报群组**"
 
-#: ../../index.rst:30
+#: ../../index.rst:34
 msgid "`English Group`_"
 msgstr "`英文交流组`_"
 
-#: ../../index.rst:30
+#: ../../index.rst:34
 msgid "`Chinese Group`_"
 msgstr "`中文交流组`_"
 
-#: ../../index.rst:32
+#: ../../index.rst:36
 msgid "**GitHub**"
 msgstr "**GitHub**"
 
-#: ../../index.rst:32
+#: ../../index.rst:36
 msgid "`VisionNetworkProject`_"
 msgstr "`远景网络项目组`_"
 
-#: ../../index.rst:34
+#: ../../index.rst:38
 msgid "**Documents**"
 msgstr "**项目文档**"
 
-#: ../../index.rst:34
+#: ../../index.rst:38
 msgid "`English Docs`_"
 msgstr "`英文文档`_"
 
-#: ../../index.rst:34
+#: ../../index.rst:38
 msgid "`Chinese Docs`_"
 msgstr "`中文文档`_"
 
-#: ../../index.rst:49
+#: ../../index.rst:55
 msgid "News"
 msgstr "最新消息"
 
-#: ../../index.rst:59
+#: ../../index.rst:65
 msgid "$VNET Token"
 msgstr "$VNET 流量币"
 
-#: ../../index.rst:71
+#: ../../index.rst:77
 msgid "Available services"
 msgstr "当前可用服务"
 
-#: ../../index.rst:83
+#: ../../index.rst:89
 msgid "Guides"
 msgstr "使用与操作指导"
 
-#: ../../index.rst:94
+#: ../../index.rst:103
 msgid "References and views"
 msgstr "推荐阅读与观点"
 
-#: ../../index.rst:104
+#: ../../index.rst:117
 msgid "Contracts on Ethereum"
 msgstr "以太坊智能合约"
 
-#: ../../index.rst:118
+#: ../../index.rst:131
 msgid "Contribute"
 msgstr "共建"
 
-#: ../../index.rst:128
+#: ../../index.rst:142
 msgid "Whitepaper v1.0.4"
 msgstr "白皮书 v1.0.4"

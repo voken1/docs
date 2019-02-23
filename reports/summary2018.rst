@@ -12,8 +12,8 @@ What we have done in 2018:
    - `Official website`_ and keep it updating later
 
 2018 Q3:
-   - Delayed :ref:`presale-lable` Phase of Token Sale
-   - Canceled :ref:`airdrop-by-invitation-lable`
+   - Delayed :ref:`presale` Phase of Token Sale
+   - Canceled :ref:`airdrop-by-invitation`
    - Launched `257 nodes(servers)` for `vnP2PNET` test net
    - `vnVPN Alpha Server side v0.1.0 on Linux` released
 

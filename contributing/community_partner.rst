@@ -63,7 +63,6 @@ Contact us
 ----------
 
 E-mail us your resume
-
    E-mail Address:
 
    - joinus@vision.network
@@ -80,14 +79,11 @@ E-mail us your resume
    - And anything you wanna say
 
 Then we will reply the mail or contact you
-
    You will get a mail reply, and we may contact you by Telegram.
 
 The only official contact David Wells's Telegram
-
    https://t.me/DavidWellsHK
 
 Join us, take part in community ecological construction, walk with outstanding people
-
    Waiting for you.
 

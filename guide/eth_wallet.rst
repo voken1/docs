@@ -3,11 +3,13 @@
 How to use an ETH wallet
 ========================
 
+Here are some guides for some famous ETH wallet
+
+
 
 What is ETH wallet? How should we choose one?
 ---------------------------------------------
 
-At first,
 ETH is the crypto-currency used in the Ethereum Platform - which is
 an open sourced software platform based on blockchain technology
 that enables developers to build and deploy decentralized applications.
@@ -62,6 +64,7 @@ How to use：
 .. _Guide for imToken (Chinese): https://zhuanlan.zhihu.com/p/32362239
 
 
+
 Parity
 ------
 
@@ -85,8 +88,10 @@ How to use：
 .. _Guide for Parity (Chinese): http://8btc.com/article-4540-1.html
 
 
+
 PAY ATTENTION
 -------------
 
 KEEP YOUR PRIVATE KEY SECURE AND BACK UP YOUR WALLETS PROPERLY
+
 

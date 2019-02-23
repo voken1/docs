@@ -27,6 +27,10 @@ Contacts
 +----------------------+------------------+------------------+
 | **Official Website** | `English`_       | `Chinese`_       |
 +----------------------+------------------+------------------+
+| **Official News**    | `Telegram News Channel`_            |
++----------------------+------------------+------------------+
+| **Twitter**          | `Twitter`_                          |
++----------------------+------------------+------------------+
 | **Telegram Group**   | `English Group`_ | `Chinese Group`_ |
 +----------------------+------------------+------------------+
 | **GitHub**           | `VisionNetworkProject`_             |
@@ -36,6 +40,8 @@ Contacts
 
 .. _English: https://vision.network/en
 .. _Chinese: https://vision.network/zh-cn
+.. _Telegram News Channel: https://t.me/vision_news
+.. _Twitter: https://twitter.com/ThinkwithVNET
 .. _VisionNetworkProject: https://github.com/VisionNetworkProject
 .. _English Group: https://t.me/visionProject
 .. _Chinese Group: https://t.me/visionCN
@@ -72,7 +78,7 @@ Contacts
    :maxdepth: 1
    :caption: Available services
 
-   autossr/autossr
+   services/autossr
    services/optss
    reports/vnvpn_alpha
 
@@ -99,9 +105,11 @@ Contacts
    :caption: References and views
 
    views/internet_in_china
-   views/minimalist_principles.rst
-   views/value_and_price.rst
-   views/invest_with.rst
+   views/most_important
+   views/base_principles
+   views/value_vs_price
+   views/price_formed
+   views/invest_with
 
 
 

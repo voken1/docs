@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-23 20:22+0800\n"
+"POT-Creation-Date: 2019-02-23 21:54+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -21,101 +21,101 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../autossr/autossr.rst:4
+#: ../../services/autossr.rst:4
 msgid "AutoSSR: FREE ShadowsocksR"
 msgstr "AutoSSR：免费 ShadowsocksR 服务"
 
-#: ../../autossr/autossr.rst:6
+#: ../../services/autossr.rst:6
 msgid "**Telegram Channel:** https://t.me/autossr"
 msgstr "**电报频道：** https://t.me/autossr"
 
-#: ../../autossr/autossr.rst:7
+#: ../../services/autossr.rst:7
 msgid "**Github:** https://github.com/VisionNetworkProject/AutoSSR"
 msgstr ""
 
-#: ../../autossr/autossr.rst:11
+#: ../../services/autossr.rst:11
 msgid ""
 "You can find several ShadowsocksR services here, we will check all the "
 "servers once per hour. and **THEY ARE FREE!!**"
 msgstr "你可以在这里找到一些 ShadowsocksR 服务账号，我们会每小时检查这些服务器的状态一次，并且 **这一切都是免费的！！**"
 
-#: ../../autossr/autossr.rst:16
+#: ../../services/autossr.rst:16
 msgid "Subscribe by URL"
 msgstr "使用链接订阅"
 
-#: ../../autossr/autossr.rst:18
+#: ../../services/autossr.rst:18
 msgid ""
 "Choose one or more URL below of the 3 levels, and add to your SSR client:"
 msgstr "在以下 3 个链接中的一个或多个，并且添加至你的 SSR 客户端："
 
-#: ../../autossr/autossr.rst:21
+#: ../../services/autossr.rst:21
 msgid "LEVEL"
 msgstr "级别"
 
-#: ../../autossr/autossr.rst:21
+#: ../../services/autossr.rst:21
 msgid "URL"
 msgstr "链接"
 
-#: ../../autossr/autossr.rst:23
+#: ../../services/autossr.rst:23
 msgid "**ONLINE**"
 msgstr "**在线**"
 
-#: ../../autossr/autossr.rst:23
+#: ../../services/autossr.rst:23
 msgid "`https://git.io/autossr-online`"
 msgstr ""
 
-#: ../../autossr/autossr.rst:23
+#: ../../services/autossr.rst:23
 msgid "All the online servers, available more than one hour."
 msgstr "所有在线的服务器，在线时间大于 1 小时以上。"
 
-#: ../../autossr/autossr.rst:25
+#: ../../services/autossr.rst:25
 msgid "**STABLE**"
 msgstr "**稳定**"
 
-#: ../../autossr/autossr.rst:25
+#: ../../services/autossr.rst:25
 msgid "`https://git.io/autossr-stable`"
 msgstr ""
 
-#: ../../autossr/autossr.rst:25
+#: ../../services/autossr.rst:25
 msgid "Available more the 12 hours, seems they are stable."
 msgstr "在线时间大于 12 小时，这些服务器更稳定。"
 
-#: ../../autossr/autossr.rst:27
+#: ../../services/autossr.rst:27
 msgid "**RECENT**"
 msgstr "**最近**"
 
-#: ../../autossr/autossr.rst:27
+#: ../../services/autossr.rst:27
 msgid "`https://git.io/autossr-recent`"
 msgstr ""
 
-#: ../../autossr/autossr.rst:27
+#: ../../services/autossr.rst:27
 msgid "Recent servers, active in 6 hours."
 msgstr "近 6 小时活跃过的服务器。"
 
-#: ../../autossr/autossr.rst:33
+#: ../../services/autossr.rst:33
 msgid "Supported clients"
 msgstr "支持的客户端"
 
-#: ../../autossr/autossr.rst:35
+#: ../../services/autossr.rst:35
 msgid "`Shadowrocket`_ on iOS"
 msgstr "`Shadowrocket`_ 在 iOS 上"
 
-#: ../../autossr/autossr.rst:36
+#: ../../services/autossr.rst:36
 msgid "SSR/`SSRR`_ on Android"
 msgstr "SSR/`SSRR`_ 在安卓上"
 
-#: ../../autossr/autossr.rst:37
+#: ../../services/autossr.rst:37
 msgid "`ShadowsocksR`_ on windows"
 msgstr "`ShadowsocksR`_ 在 Windows 上"
 
-#: ../../autossr/autossr.rst:46
+#: ../../services/autossr.rst:46
 msgid "Guides"
 msgstr "使用指导"
 
-#: ../../autossr/autossr.rst:48
+#: ../../services/autossr.rst:48
 msgid ":ref:`guide_for_shadowrocket`"
 msgstr ""
 
-#: ../../autossr/autossr.rst:49
+#: ../../services/autossr.rst:49
 msgid ":ref:`guide_for_ssrr`"
 msgstr ""

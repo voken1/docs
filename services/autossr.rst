@@ -1,6 +1,6 @@
 .. _autossr:
 
-AutoSSR: Free ShadowsocksR
+AutoSSR: FREE ShadowsocksR
 ==========================
 
 - **Telegram Channel:** https://t.me/autossr

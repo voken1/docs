@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-22 20:34+0800\n"
+"POT-Creation-Date: 2019-02-23 20:22+0800\n"
 "PO-Revision-Date: 2019-02-22 07:11+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../views/invest_with.rst:4
-msgid "Invest with your global vision (TODO)"
+msgid "DO INVEST with your global vision (#TODO)"
 msgstr ""
 
 #: ../../views/invest_with.rst:6

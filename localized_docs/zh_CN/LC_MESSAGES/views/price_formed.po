@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-23 20:22+0800\n"
-"PO-Revision-Date: 2019-02-22 08:05+0000\n"
+"POT-Creation-Date: 2019-02-23 21:54+0800\n"
+"PO-Revision-Date: 2019-02-23 13:57+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,10 +17,10 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../guide/telegram.rst:4
-msgid "Use `Telegram` to protect your instant messaging SECURITY (#TODO)"
+#: ../../views/price_formed.rst:5
+msgid "How is the market price of a crypto-currency formed (#TODO)"
 msgstr ""
 
-#: ../../guide/telegram.rst:6
+#: ../../views/price_formed.rst:7
 msgid "TODO"
 msgstr ""
