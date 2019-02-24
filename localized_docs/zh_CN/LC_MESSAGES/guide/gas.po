@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-23 20:22+0800\n"
+"POT-Creation-Date: 2019-02-24 10:43+0800\n"
 "PO-Revision-Date: 2019-02-22 07:10+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,9 +22,61 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../guide/gas.rst:4
-msgid "How to set `gas limit` and `gas price` (#TODO)"
-msgstr ""
+msgid "How to set `gas limit` and `gas price`"
+msgstr "如何设置 `Gas limit` 和 `Gas price`"
 
 #: ../../guide/gas.rst:6
-msgid "TODO"
+msgid "It is quite simple and easy."
+msgstr "这是相当简单且容易的。"
+
+#: ../../guide/gas.rst:11
+msgid "Gas limit"
+msgstr "Gas limit - Gas 数量"
+
+#: ../../guide/gas.rst:13
+msgid "As a **BRIEF SUMMARY**:"
+msgstr "简要概述："
+
+#: ../../guide/gas.rst:15
+msgid ""
+"Gas is metering and fuel for using the Ethereum. `Gas limit` is the maximum "
+"number of gas used to manually set up an Ethereum transaction."
+msgstr "Gas 是使用以太坊的计量和燃料。`Gas limit` 即是手动设置一笔以太坊交易的最大 gas 数量。"
+
+#: ../../guide/gas.rst:19
+msgid ""
+"In most contract transactions related to **Vision Network**, setting **Gas "
+"limit to 100,000 Gwei** is completely feasible. Gas will not be wasted, the "
+"actual miner fee will only be calculated on demand, and the remaining "
+"portion will be automatically returned to the wallet balance."
 msgstr ""
+"在与 **Vision Network 远景网络** 相关的大多数合约交易中，**将 Gas limit 设置为 100,000** 是完全可行的。而 "
+"Gas 并不会被浪费，实际的矿工费是按需计算，剩余部分将会被自动退回到钱包余额。"
+
+#: ../../guide/gas.rst:27
+msgid ""
+"There is an article here `Ethereum, Gas, Fuel & Fees. (English, by Joseph "
+"Chow)`_, that can be used as an extended reading material."
+msgstr ""
+"这里有一篇文章 `Ethereum, Gas, Fuel & Fees. (English, by Joseph Chow)`_，可用作扩展阅读材料。"
+
+#: ../../guide/gas.rst:35
+msgid "Gas price"
+msgstr "Gas price - Gas 价格"
+
+#: ../../guide/gas.rst:37
+msgid "`Gas price` is the price of gas, its unit is `gwei`."
+msgstr "`Gas price` 就是 gas 的价格，它的单位是 `gwei`。"
+
+#: ../../guide/gas.rst:39
+msgid ""
+"Generally speaking, the higher the price is set, the faster the Ethereum "
+"miners will process your transaction. But reasonable settings can avoid "
+"unnecessary waste without having to grab time."
+msgstr "一般来说，价格设置越高，以太坊矿工就会越快的处理您的交易。而在不必要抢时间的情况下，合理的设置能够避免不必要的浪费。"
+
+#: ../../guide/gas.rst:44
+msgid ""
+"There is a website `ETH Gas Station`_ you should know, you can read the "
+"current `Gas price` easily."
+msgstr "`ETH Gas Station`_ 这个工具网站能让你很容易的读到当前最新的 `Gas price`。"
