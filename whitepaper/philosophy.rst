@@ -3,7 +3,7 @@
 Our Philosophy: Yearning for freedom
 ====================================
 
-Free, open, equal, and shared are not just personal values and ideological preferences.
+Freedom, equality, openness, sharing are not just personal values and ideological preferences.
 These things are written in the basic protocols of the Internet and are the inevitable
 results of the design of early talents. A network can be as big as it is today, and there
 is **no central government**, **no parliament** and **political bureau**, not ideological

@@ -106,7 +106,7 @@ Contacts
 
    views/internet_in_china
    views/most_important
-   views/base_principles
+   views/basic_principles
    views/value_vs_price
    views/price_formed
    views/invest_with
