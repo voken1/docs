@@ -1,10 +1,7 @@
 .. _basic_principles:
 
-BASIC PRINCIPLES (Occam's razor)
-================================
-
-Basic principles
-----------------
+BASIC PRINCIPLES
+================
 
 1. Freedom, equality, openness, sharing, is the basic gene of the Internet,
    communication security and privacy protection are the basic rights of users.

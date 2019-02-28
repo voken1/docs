@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-27 16:36+0800\n"
+"POT-Creation-Date: 2019-02-28 22:24+0800\n"
 "PO-Revision-Date: 2019-02-27 08:27+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -22,35 +22,31 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../views/basic_principles.rst:4
-msgid "BASIC PRINCIPLES (Occam's razor)"
-msgstr "基础原则（奥卡姆剃刀）"
-
-#: ../../views/basic_principles.rst:7
-msgid "Basic principles"
+msgid "BASIC PRINCIPLES"
 msgstr "基础原则"
 
-#: ../../views/basic_principles.rst:9
+#: ../../views/basic_principles.rst:6
 msgid ""
 "Freedom, equality, openness, sharing, is the basic gene of the Internet, "
 "communication security and privacy protection are the basic rights of users."
 msgstr "自由、平等、开放、自由是互联网的基础基因，通信安全和隐私保护是用户的基本权利。"
 
-#: ../../views/basic_principles.rst:11
+#: ../../views/basic_principles.rst:8
 msgid "Service generates real value."
 msgstr "服务产生价值。"
 
-#: ../../views/basic_principles.rst:12
+#: ../../views/basic_principles.rst:9
 msgid "Time proves."
 msgstr "时间会证明一切。"
 
-#: ../../views/basic_principles.rst:16
+#: ../../views/basic_principles.rst:13
 msgid "Related important rules"
 msgstr "其它相关的重要规律"
 
-#: ../../views/basic_principles.rst:18
+#: ../../views/basic_principles.rst:15
 msgid "The more dispersed the token, the better the ecological health."
 msgstr "Token 越分散，生态越健康。"
 
-#: ../../views/basic_principles.rst:19
+#: ../../views/basic_principles.rst:16
 msgid "..."
 msgstr ""
