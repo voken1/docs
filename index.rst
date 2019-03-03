@@ -134,7 +134,9 @@ Contacts
    :caption: Contribute
 
    contributing/contribute
+   contributing/chat
    contributing/community_partner
+   contributing/issue
 
 
 

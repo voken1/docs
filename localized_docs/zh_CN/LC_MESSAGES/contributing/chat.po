@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-03 22:09+0800\n"
+"PO-Revision-Date: 2019-03-03 13:33+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contributing/chat.rst:4
+msgid "Chatting in group"
+msgstr "讨论组中的聊天交流"
+
+#: ../../contributing/chat.rst:6
+msgid ""
+"Our main discussion group is created on the Telegram, the links are as "
+"follows. You can click or copy to the Telegram client to open it:"
+msgstr "我们的主要讨论组是在 Telegram 上创建的，链接如下，您可以直接点击或复制到 Telegram 客户端里打开进入："
+
+#: ../../contributing/chat.rst:11
+msgid "Groups:"
+msgstr "讨论组链接："
+
+#: ../../contributing/chat.rst:13
+msgid "English: https://t.me/visionProject"
+msgstr "英文讨论组 https://t.me/visionProject"
+
+#: ../../contributing/chat.rst:14
+msgid "Chinese: https://t.me/visionCN"
+msgstr "中文讨论组 https://t.me/visionCN"
+
+#: ../../contributing/chat.rst:17
+msgid "Telegram Apps:"
+msgstr "Telegram 客户端："
+
+#: ../../contributing/chat.rst:19
+msgid "`Telegram for Android`_"
+msgstr "`Telegram 安卓客户端`_"
+
+#: ../../contributing/chat.rst:20
+msgid "`Telegram for iPhone/iPad`_"
+msgstr ""
+
+#: ../../contributing/chat.rst:21
+msgid "`Telegram for Windows Phone`_"
+msgstr ""
+
+#: ../../contributing/chat.rst:22
+msgid "`Telegram Web-version`_"
+msgstr "`Telegram 网页版`_"
+
+#: ../../contributing/chat.rst:23
+msgid "`Telegram for MacOS`_"
+msgstr "`Telegram 苹果电脑 Mac 端`_"
+
+#: ../../contributing/chat.rst:24
+msgid "`Telegram Desktop for Windows/Mac/Linux`_"
+msgstr "`Telegram 桌面版 for Windows/Mac/Linux`_"
