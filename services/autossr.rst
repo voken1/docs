@@ -3,12 +3,13 @@
 AutoSSR: FREE ShadowsocksR
 ==========================
 
-- **Telegram Channel:** https://t.me/autossr
 - **Github:** https://github.com/VisionNetworkProject/AutoSSR
 
 .. NOTE::
 
-   You can find several ShadowsocksR services here, we will check all the servers once per hour. and **THEY ARE FREE!!**
+   You can find several ShadowsocksR services here,
+   we will check all the servers once per hour,
+   and **THEY ARE FREE!!**
 
 
 
