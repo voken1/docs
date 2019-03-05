@@ -32,8 +32,8 @@ msgid ""
 "contracts for sales on Ethereum blockchain platform, to make it clear and "
 "free to check anytime."
 msgstr ""
-"带着我们足够的诚意，$VNET 流量币的官方销售将全程在以太坊区块链网络上透明公开，共有 **18.6 亿** 用于销售，占流量币全网总供应量的 "
-"**53.14%** 。"
+"带着我们足够的诚意，$VNET 流量币的官方销售将全程在以太坊区块链网络上透明公开，共有 **186 亿** 用于销售，占流量币全网总供应量的 "
+"**53.14%** 。（译注：VNET 总发行量 350 亿）"
 
 #: ../../token/presale.rst:13
 msgid "Pre-sale/Early-bird phase is in progress"

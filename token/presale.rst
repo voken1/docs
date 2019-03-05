@@ -71,7 +71,7 @@ of 20 ETH can be concluded:
 
 .. image:: /_static/contract/eth2vnet.svg
    :width: 50 %
-   :alt: eth2vnet.gif
+   :alt: eth2vnet.svg
    :align: center
 
 |
@@ -98,7 +98,7 @@ We firmly believe that solid use value is the basic support of the price. That's
 Contract
 --------
 
-.. image:: /_static/contract/qrcode_presale.svg
+.. image:: /_static/contract/qrcode_presale.png
    :width: 35 %
    :alt: qrcode_presale.png
 
