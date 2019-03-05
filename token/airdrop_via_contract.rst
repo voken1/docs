@@ -1,7 +1,7 @@
 .. _airdrop-via-contract:
 
-$VNET Airdrop via contract (In progress...)
-===========================================
+$VNET Airdrop via contract
+==========================
 
 Total amount:
    50 Million VNET

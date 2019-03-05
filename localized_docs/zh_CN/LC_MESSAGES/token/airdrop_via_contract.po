@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-03 22:09+0800\n"
+"POT-Creation-Date: 2019-03-05 22:19+0800\n"
 "PO-Revision-Date: 2019-01-17 02:53+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -22,8 +22,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../token/airdrop_via_contract.rst:4
-msgid "$VNET Airdrop via contract (In progress...)"
-msgstr "$VNET 流量币合约空投（正在进行）"
+msgid "$VNET Airdrop via contract"
+msgstr "$VNET 流量币合约空投"
 
 #: ../../token/airdrop_via_contract.rst:7
 msgid "Total amount:"

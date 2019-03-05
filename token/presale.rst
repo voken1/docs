@@ -1,7 +1,7 @@
 .. _presale:
 
-$VNET Pre-Sale/Early-Bird (In progress...)
-==========================================
+$VNET Pre-Sale/Early-Bird
+=========================
 
 There is **18.6 billion VNET** would released by token sale, accounting for **53.14%**
 of the total supply. With our sincerity, we have designed contracts for sales
@@ -60,6 +60,16 @@ Where,
 - **VNETPriceTarget**: end of sale price
 - **VNETSold**: total amount of VNET sold
 - **VNETSupply**: the total amount of VNET in this phase
+
+
+Audit ETH price: Use 1 ETH as $150 USD
+--------------------------------------
+
+Using ETH as the payment medium,
+we will adjust the **Audit ETH price**
+according to the latest price in the trading market to ensure
+that VNET is relatively stable against legal tender
+at different times during the pre-sale phase.
 
 
 
