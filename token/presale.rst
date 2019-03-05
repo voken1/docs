@@ -14,9 +14,9 @@ Pre-sale/Early-bird phase is in progress
 
 - 16.13% of the token sale would be released in this phase, namely 3 billion VNET;
 - 1 ETH minimum per transaction, up to 100 ETH;
-- The starting sales price of VNET is about 0.0013 USD, and the price will increase
+- The starting sales price of VNET is about 0.0026 USD, and the price will increase
   linearly [#increase]_ with the sales progress. When the sales are closed at the end of this phase,
-  price of VNET would be 0.0035 USD;
+  price of VNET would be 0.0065 USD;
 - A transaction amount greater than or equal to 10 ETH will have a special interest [#10eth]_.
 
 .. NOTE::
@@ -76,14 +76,15 @@ of 20 ETH can be concluded:
 
 |
 
-.. \frac{150.00}{0.0013+ \left (0.0035-0.0013 \right )\cdot \frac{50}{100}} = 62500
+.. \frac{150.00}{0.0026+ \left (0.0065-0.0026 \right )\cdot \frac{50}{100}} = 32967.03
 
-That is, the exchange ratio is *1 ETH = 62,500 VNET* in this transaction. Since this transaction
-is 20 ETH total, you can get *62,500 x 20 = 1,250,000 VNET* [#example]_.
+
+That is, the exchange ratio is **1 ETH = 32,967.03 VNET** in this transaction. Since this transaction
+is **20 ETH** total, you can get **32,967.03 x 20 = 659,340.6 VNET** [#example]_.
 
 .. [#example] If 20 ETH is split into multiple transfers to the contract, not one transaction,
    each transfer will trigger a recalculation and the resulting VNET will be less than the
-   *1,250,000 VNET* in the above example.
+   *659,340.6 VNET* in the above example.
 
 
 
@@ -99,9 +100,9 @@ Contract
 
 .. image:: /_static/contract/qrcode_presale.svg
    :width: 35 %
-   :alt: qrcode_presale.svg
+   :alt: qrcode_presale.png
 
-`0x85a9c7d5aB7e2ccF0Aa2e5Aeee2B319e69BD32d7`
+`0x652729577D5c5a13060F81c256AA79aDb264F188`
 
 Send ETH to the address above, you will receive VNET automatically.
 

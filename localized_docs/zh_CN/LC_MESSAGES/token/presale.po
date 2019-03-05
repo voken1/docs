@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-23 21:54+0800\n"
+"POT-Creation-Date: 2019-03-05 15:50+0800\n"
 "PO-Revision-Date: 2019-01-14 12:13+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -51,12 +51,12 @@ msgstr "单笔交易 1 ETH 起，至多不超过 100 ETH；"
 
 #: ../../token/presale.rst:17
 msgid ""
-"The starting sales price of VNET is about 0.0013 USD, and the price will "
+"The starting sales price of VNET is about 0.0026 USD, and the price will "
 "increase linearly [#increase]_ with the sales progress. When the sales are "
-"closed at the end of this phase, price of VNET would be 0.0035 USD;"
+"closed at the end of this phase, price of VNET would be 0.0065 USD;"
 msgstr ""
-"VNET 流量币的起始销售价格为 0.0013 USD，价格将随销售进度线性递增 [#increase]_ ，当本阶段销售截止，VNET "
-"流量币的销售价格将为 0.0035 USD；"
+"VNET 流量币的起始销售价格为 $0.0026 USD，价格将随销售进度线性递增 [#increase]_ ，当本阶段销售截止，VNET "
+"流量币的销售价格将为 $0.0065 USD；"
 
 #: ../../token/presale.rst:20
 msgid ""
@@ -138,47 +138,47 @@ msgid ""
 "transaction of 20 ETH can be concluded:"
 msgstr "当销售进度达到 50% 时，单笔购入 20 ETH ，ETH 的审计价格以 $150 计算，则可根据公式得出："
 
-#: ../../token/presale.rst:81
+#: ../../token/presale.rst:82
 msgid ""
-"That is, the exchange ratio is *1 ETH = 62,500 VNET* in this transaction. "
-"Since this transaction is 20 ETH total, you can get *62,500 x 20 = 1,250,000"
-" VNET* [#example]_."
+"That is, the exchange ratio is **1 ETH = 32,967.03 VNET** in this "
+"transaction. Since this transaction is **20 ETH** total, you can get "
+"**32,967.03 x 20 = 659,340.6 VNET** [#example]_."
 msgstr ""
-"即，兑换比例为 *1 ETH = 62,500 VNET* ，一次性购入 20 ETH，则此笔交易可获得 *62,500 x 20 = "
-"1,250,000 VNET* [#example]_ 。"
+"即，兑换比例为 **1 ETH = 32,967.03 VNET** ，一次性购入 **20 ETH**，则此笔交易可获得 **32,967.03 x "
+"20 = 659,340.6 VNET** [#example]_ 。"
 
-#: ../../token/presale.rst:84
+#: ../../token/presale.rst:85
 msgid ""
 "If 20 ETH is split into multiple transfers to the contract, not one "
 "transaction, each transfer will trigger a recalculation and the resulting "
-"VNET will be less than the *1,250,000 VNET* in the above example."
+"VNET will be less than the *659,340.6 VNET* in the above example."
 msgstr ""
 "如果 20 ETH 被拆分多次转账至合约，而不是同一笔交易，则每次转账都会触发一次比例的重新计算，实际获得的 VNET 总量将略小于上述举例中的 "
-"*1,250,000 VNET* 。"
+"*659,340.6 VNET* 。"
 
-#: ../../token/presale.rst:91
+#: ../../token/presale.rst:92
 msgid ""
 "We firmly believe that solid use value is the basic support of the price. "
 "That's true, simple and clear."
 msgstr "我们坚定地认为：扎实的使用价值，是交易价格的基础支撑，不需要过多的粉饰。"
 
-#: ../../token/presale.rst:93
+#: ../../token/presale.rst:94
 msgid "..."
 msgstr ""
 
-#: ../../token/presale.rst:98
+#: ../../token/presale.rst:99
 msgid "Contract"
 msgstr "以太坊智能合约"
 
-#: ../../token/presale.rst:104
-msgid "`0x85a9c7d5aB7e2ccF0Aa2e5Aeee2B319e69BD32d7`"
+#: ../../token/presale.rst:105
+msgid "`0x652729577D5c5a13060F81c256AA79aDb264F188`"
 msgstr ""
 
-#: ../../token/presale.rst:106
+#: ../../token/presale.rst:107
 msgid "Send ETH to the address above, you will receive VNET automatically."
 msgstr "发送 ETH 到上边的合约地址，你将会自动收到兑换的 VNET。"
 
-#: ../../token/presale.rst:110
+#: ../../token/presale.rst:111
 msgid ""
 "Set gas limit to `90,000`, the rest will be returned once transaction "
 "finished."
