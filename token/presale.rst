@@ -44,10 +44,7 @@ ETH/VNET exchange ratio calculation formula:
 
 |
 
-Formula expression in LaTex:
-
-.. code-block:: latex
-
+.. Formula expression in LaTex:
    ratio_{Next} = \frac{ETHPrice_{Audit}}
    {VNETPrice_{Start}+ \left (VNETPrice_{Target}-VNETPrice_{Start} \right )
    \frac{VNET_{Sold}}{VNET_{Supply}}}

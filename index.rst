@@ -134,9 +134,21 @@ Contacts
    :caption: Contribute
 
    contributing/contribute
+   contributing/donate
    contributing/chat
    contributing/community_partner
+   contributing/join_the_test
    contributing/issue
+
+
+
+.. _policy:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Policy
+
+   policy/rules_in_chatting_group
 
 
 

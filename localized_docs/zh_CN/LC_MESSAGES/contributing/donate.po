@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-09 16:29+0800\n"
+"PO-Revision-Date: 2019-03-09 08:30+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contributing/donate.rst:4
+msgid "Donate"
+msgstr "捐赠支持"
+
+#: ../../contributing/donate.rst:6
+msgid ""
+"Investing, buying, and holding :ref:`vnet_token` is the best way to support "
+"us, and of course, you can donate any amount."
+msgstr "投资、购买和持有 :ref:`vnet_token` 即是对我们的最好支持方式，当然，您也可以自由捐赠任意金额。"
+
+#: ../../contributing/donate.rst:9
+msgid ""
+"Your purchase or donation will help us continue to deepen our development "
+"and upgrade the open ecosystem."
+msgstr "您的付款或捐赠将帮助我们继续深化开发并持续升级远景网络的开放生态。"
+
+#: ../../contributing/donate.rst:12
+msgid ""
+"You can participate in :ref:`presale`, or donate with crypto-currency ETH to"
+" the following address:"
+msgstr "您可以参加 :ref:`presale`，或使用加密货币 ETH 以太坊捐赠至如下地址： "
+
+#: ../../contributing/donate.rst:20
+msgid "**0x103D2335d03752B0E8167e412d152F41087C5878**"
+msgstr ""

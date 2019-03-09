@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-27 16:36+0800\n"
+"POT-Creation-Date: 2019-03-09 16:29+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -140,6 +140,10 @@ msgstr "以太坊智能合约"
 msgid "Contribute"
 msgstr "共建"
 
-#: ../../index.rst:143
+#: ../../index.rst:147
+msgid "Policy"
+msgstr ""
+
+#: ../../index.rst:157
 msgid "Whitepaper v1.0.4"
 msgstr "白皮书 v1.0.4"
