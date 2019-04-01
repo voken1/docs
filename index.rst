@@ -119,7 +119,6 @@ Contacts
    :caption: Contracts on Ethereum
 
    contracts/vnet
-   contracts/presale
    contracts/airdrop
    contracts/team_fund
    contracts/business_fund
