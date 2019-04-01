@@ -9,7 +9,7 @@ and of course, you can donate any amount.
 Your purchase or donation will help us continue to deepen our development
 and upgrade the open ecosystem.
 
-You can participate in :ref:`presale`, or donate with crypto-currency ETH
+You can participate in :ref:`sale`, or donate with crypto-currency ETH
 to the following address:
 
 

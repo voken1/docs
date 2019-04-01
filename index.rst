@@ -66,9 +66,8 @@ Contacts
    :maxdepth: 1
    :caption: $VNET Token
 
-   token/presale
+   token/sale
    token/airdrop_via_contract
-   token/airdrop_by_invitation
 
 
 

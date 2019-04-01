@@ -55,11 +55,11 @@ Change the **type** to **Subscribe**:
 
 
 Fill the **URL** blank, with one of the links of :ref:`autossr`,
-the **stable** and **online** is recommended, we choose the stable one here:
+the **stable** and **online** is recommended, we choose the online one here:
 
 .. code-block:: text
 
-   https://git.io/autossr-stable
+   https://git.io/autossr-online
 
 At the same time, you can give it a name in the **Remark** blank,
 then press **Done**:
