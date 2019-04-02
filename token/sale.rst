@@ -171,8 +171,8 @@ Lv.15  1%
 =====  ===============
 
 
-Sales Seasons and Top-Sales Reward: 15-65%
-------------------------------------------
+Seasons and Top-Sales Reward: 15-65%
+------------------------------------
 
 - The token sales is divided into 60,000 stages,
   and each 600 stages is defined as a **SEASON**,
@@ -181,8 +181,23 @@ Sales Seasons and Top-Sales Reward: 15-65%
   15%-65% of sales revenue will be used as **Top-Sales Reward** for each season.
 - Awards to TOP100 by ranking:
 
-
-<TBC...>
+==========  =====  ===  ==========
+Rank        Ratio  qty  Proportion
+==========  =====  ===  ==========
+TOP 1       10.0%  x1   10.0%
+TOP 2       6.0%   x1   6.0%
+TOP 3-5     5.0%   x3   15.0%
+TOP 6-10    3.0%   x5   15.0%
+TOP 11-20   1.0%   x10  10.0%
+TOP 21-30   0.9%   x10   9.0%
+TOP 31-40   0.8%   x10   8.0%
+TOP 41-50   0.7%   x10   7.0%
+TOP 51-60   0.6%   x10   6.0%
+TOP 61-70   0.5%   x10   5.0%
+TOP 71-80   0.4%   x10   4.0%
+TOP 81-90   0.3%   x10   3.0%
+TOP 91-100  0.2%   x10   2.0%
+==========  =====  ===  ==========
 
 
 About to start
