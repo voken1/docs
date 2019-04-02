@@ -56,10 +56,10 @@ Whenever a stage is finished, the exchange price increases by $0.00001 USD:
 | 15000        | 100,000 VNET | $0.15100       | $100 + $15,100 = **$15,100 USD**  |
 +--------------+--------------+----------------+-----------------------------------+
 
-After **RAPID-GROWTH/LIMITED-SALES PHASE** finished,
+After rapid-growth/limited-sales phase finished,
 **STEADY-GROWTH PHASE** automatically comes (45,000 stages total),
 $15,100 USD for each stage,
-until the exchange price reaches 1 VNET = $0.601:
+until the exchange price reaches 1 VNET = $0.601 USD:
 
 +--------------+-------------------+----------------+-----------------+
 | Stage Number | Sales Volume      | Exchange Price | Sales Amount    |
@@ -106,24 +106,86 @@ at different times during the token sale phase.
 Whitelist
 ---------
 
-- Anyone who use ETH to exchange VNET in the `TokenSale Contract`
-  through a whitelisted wallet address can enjoy a reward of 100%,
-  and the non-white list wallet address does not enjoy any reward.
+- Anyone who use ETH to exchange VNET in the **TokenSale Contract**
+  through a whitelisted wallet address would enjoy a gift of **buy one and get one free**,
+  and the non-white list wallet address does not enjoy any.
 - Registering each white-list wallet address cost 1,000 VNET,
   and a referrer's wallet address is needed.
 - The referral chain data will be saved to Ethereum blockchain.
 - The VNET tokens used to register the whitelist
-  will be 100% returned to the community in 15 levels:
-  1000 VNET = 300 + 200 + 100 + 100 + 100 + 50 + 40 + 30 + 20 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10
+  will be 100% rewarded, up to 15 levels:
+
+=====  ================
+Level  Amount of reward
+=====  ================
+Lv.1   300 VNET
+Lv.2   200 VNET
+Lv.3   100 VNET
+Lv.4   100 VNET
+Lv.5   100 VNET
+Lv.6   50 VNET
+Lv.7   40 VNET
+Lv.8   30 VNET
+Lv.9   20 VNET
+Lv.10  10 VNET
+Lv.11  10 VNET
+Lv.12  10 VNET
+Lv.13  10 VNET
+Lv.14  10 VNET
+Lv.15  10 VNET
+=====  ================
 
 
-50%-100% of sales revenue will be returned to the community via ETH
--------------------------------------------------------------------
+50%-100% of sales revenue will be rewarded
+------------------------------------------
 
-TBC...
+In this sales plan, 50%-100% of sales revenue is designed as a **COMMUNITY REWARD**,
+35% of them are **Referral Reward** and the remaining 15%-65% are used as **Top-Sales Reward**.
 
 
-Sales referral reward: **50% ~ 100%**
--------------------------------------
+Sales Referral Reward: 35%
+--------------------------
 
-TBC...
+- Settled with ETH, transfer to the wallet addresses automatically and immediately.
+- According to the referral chain registered in the whitelist.
+- Up to 15 levels:
+
+=====  ===============
+Level  Referral reward
+=====  ===============
+Lv.1   6%
+Lv.2   6%
+Lv.3   5%
+Lv.4   4%
+Lv.5   3%
+Lv.6   2%
+Lv.7   1%
+Lv.8   1%
+Lv.9   1%
+Lv.10  1%
+Lv.11  1%
+Lv.12  1%
+Lv.13  1%
+Lv.14  1%
+Lv.15  1%
+=====  ===============
+
+
+Sales Seasons and Top-Sales Reward: 15-65%
+------------------------------------------
+
+- The token sales is divided into 60,000 stages,
+  and each 600 stages is defined as a **SEASON**,
+  that is also 1% of the entire progress.
+- With sales progress,
+  15%-65% of sales revenue will be used as **Top-Sales Reward** for each season.
+- Awards to TOP100 by ranking:
+
+
+<TBC...>
+
+
+About to start
+==============
+
+To be announced...
