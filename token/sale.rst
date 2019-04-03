@@ -98,9 +98,9 @@ at different times during the token sale phase.
 
 .. NOTE::
 
-   **Latest Audit ETH price: $150**
+   **Latest Audit ETH price: $170**
 
-   That means you can use 1 ETH as $150 USD.
+   That means you can use 1 ETH as $170 USD.
 
 
 Whitelist
