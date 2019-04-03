@@ -115,9 +115,9 @@ Whitelist
 - The VNET tokens used to register the whitelist
   will be 100% rewarded, up to 15 levels:
 
-=====  ================
-Level  Amount of reward
-=====  ================
+=====  ==================================
+Level  Amount of reward (1000 VNET Total)
+=====  ==================================
 Lv.1   300 VNET
 Lv.2   200 VNET
 Lv.3   100 VNET
@@ -133,7 +133,7 @@ Lv.12  10 VNET
 Lv.13  10 VNET
 Lv.14  10 VNET
 Lv.15  10 VNET
-=====  ================
+=====  ==================================
 
 
 50%-100% of sales revenue will be rewarded
@@ -150,9 +150,9 @@ Sales Referral Reward: 35%
 - According to the referral chain registered in the whitelist.
 - Up to 15 levels:
 
-=====  ===============
-Level  Referral reward
-=====  ===============
+=====  ===========================
+Level  Referral reward (35% Total)
+=====  ===========================
 Lv.1   6%
 Lv.2   6%
 Lv.3   5%
@@ -168,7 +168,7 @@ Lv.12  1%
 Lv.13  1%
 Lv.14  1%
 Lv.15  1%
-=====  ===============
+=====  ===========================
 
 
 Seasons and Top-Sales Reward: 15-65%
