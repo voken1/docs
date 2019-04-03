@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 21:18+0800\n"
+"POT-Creation-Date: 2019-04-03 16:59+0800\n"
 "PO-Revision-Date: 2019-01-19 08:47+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -104,41 +104,49 @@ msgid ""
 "public sale, etc."
 msgstr "用于回馈以太坊社区用户和公售前期的引流宣传等。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:36
-msgid "Token Sale 53.11%"
-msgstr "销售 53.11%"
+#: ../../whitepaper/token_and_distribution_plan.rst:38
+msgid "Consumption pool 0.5%"
+msgstr "消费池 0.5%"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:36
-msgid "17.14% for directed private sale, 35.97% for public sale."
-msgstr "定向销售（私募）份额占 17.14%，公开销售份额占比最大为 35.97%"
+msgid ""
+"For special user contribution awards and sales promotions, the list of "
+"individual or organizational users will be charged to the consumer pool "
+"contract account until they are used up."
+msgstr "用于特殊用户贡献福利和公售辅助促销，名单列表中的个人或组织用户的流量币都将由消费池合约账户支出，用完为止。"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:43
+msgid "DAPPs Support Plan 10%"
+msgstr "应用开发扶植计划 10%"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:41
-msgid "DAPPs Support Plan 5%"
-msgstr "应用开发扶植计划 5%"
-
-#: ../../whitepaper/token_and_distribution_plan.rst:39
 msgid ""
 "It is used to enrich Vision Network ecology, foster and encourage developers"
 " to build more decentralized application services."
 msgstr "主要用于丰富 Vision Network 生态，扶植和激励社区开发者建立更多去中心化应用服务。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:45
-msgid "Community and business 18.89%"
-msgstr "社区激励和商业拓展 18.89%"
+#: ../../whitepaper/token_and_distribution_plan.rst:46
+msgid "Token Sale 20.49%"
+msgstr "TokenSale 流量币销售 20.49%"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:44
+#: ../../whitepaper/token_and_distribution_plan.rst:46
+msgid "For public sale and whitelist awards."
+msgstr "流量币销售和白名单奖励。"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:49
+msgid "Miner 20.50%"
+msgstr "挖扩 20.50%"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:49
+msgid "For service nodes."
+msgstr "服务节点奖励"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:53
+msgid "Community and business 26.01%"
+msgstr "社区激励和商业拓展 26.01%"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:52
 msgid ""
-"It is used for exchange listing, service node incentive, community "
-"construction and maintenance, etc."
-msgstr "主要用于流量币的交易所挂牌、生态前期的服务节点激励、社区建设与维护等。"
-
-#: ../../whitepaper/token_and_distribution_plan.rst:50
-msgid "Consumption pool 0.5%"
-msgstr "消费池 0.5%"
-
-#: ../../whitepaper/token_and_distribution_plan.rst:48
-msgid ""
-"For special user contribution awards and sales promotions, the white list of"
-" individual or organizational users will be charged to the consumer pool "
-"contract account until they are used up."
-msgstr "用于特殊用户贡献福利和公售辅助促销，白名单个人或组织用户的流量币都将由消费池合约账户支出，用完为止。"
+"It is used for exchange listing, community construction and maintenance, "
+"etc."
+msgstr "主要用于流量币的交易所挂牌、生态前期激励、社区建设与维护等。"

@@ -1,0 +1,632 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-03 16:59+0800\n"
+"PO-Revision-Date: 2019-04-01 09:40+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../token/sale.rst:4
+msgid "$VNET TokenSale (About to start)"
+msgstr ""
+
+#: ../../token/sale.rst:6
+msgid ""
+":ref:`vnet_token` has accurate service value and usage value anchoring. You "
+"can spend 1 VNET to exchange 100GB traffic to use the Internet without "
+"obstacles, or earn VNET by selling/sharing your idle bandwidth."
+msgstr ""
+
+#: ../../token/sale.rst:10
+msgid ""
+"We introduced whitelist and referral mechanisms in the TokenSale rules. "
+"There is an exciting plan that everyone who has an Ethereum wallet address "
+"can participate in."
+msgstr ""
+
+#: ../../token/sale.rst:15
+msgid ""
+"For a huge, unmet, just-needed market, this is a win-win solution for the "
+"whole system. The sooner you participate in the purchase, the more you get "
+"and enjoy the benefits of ecological growth. If you are willing to "
+"participate in community promotion, popularize consensus, and expand your "
+"users, you will receive additional rewards."
+msgstr ""
+
+#: ../../token/sale.rst:25
+msgid "Service Value & Usage Value ANCHORING"
+msgstr ""
+
+#: ../../token/sale.rst:27
+msgid "**1 VNET = 100GB** client traffic, solid usage value"
+msgstr ""
+
+#: ../../token/sale.rst:28
+msgid ""
+"100GB is worth about **$8.0 ~ $8.5** in mature IDCs and cloud service "
+"platforms, such as AWS and GCP"
+msgstr ""
+
+#: ../../token/sale.rst:33
+msgid "Incremental sales price: $0.001 ~ $0.601 USD"
+msgstr ""
+
+#: ../../token/sale.rst:35
+msgid ""
+"Starting at **1 VNET = $0.001 USD**, until the price rises to **1 VNET = "
+"$0.601**"
+msgstr ""
+
+#: ../../token/sale.rst:37
+msgid "Total sales are divided into 60,000 stages, each step of $0.00001 USD."
+msgstr ""
+
+#: ../../token/sale.rst:39
+msgid ""
+"In the very first phase, named **RAPID-GROWTH PHASE**, which is divided into"
+" 15,000 stages, each selling 100,000 VNET, for a total of 1.5 billion VNET."
+msgstr ""
+
+#: ../../token/sale.rst:43
+msgid ""
+"Whenever a stage is finished, the exchange price increases by $0.00001 USD:"
+msgstr ""
+
+#: ../../token/sale.rst:46 ../../token/sale.rst:65
+msgid "Stage Number"
+msgstr ""
+
+#: ../../token/sale.rst:46 ../../token/sale.rst:65
+msgid "Sales Volume"
+msgstr ""
+
+#: ../../token/sale.rst:46 ../../token/sale.rst:65
+msgid "Exchange Price"
+msgstr ""
+
+#: ../../token/sale.rst:46 ../../token/sale.rst:65
+msgid "Sales Amount"
+msgstr ""
+
+#: ../../token/sale.rst:48
+msgid "0"
+msgstr ""
+
+#: ../../token/sale.rst:48 ../../token/sale.rst:50 ../../token/sale.rst:52
+#: ../../token/sale.rst:54 ../../token/sale.rst:56
+msgid "100,000 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:48
+msgid "$0.00100"
+msgstr ""
+
+#: ../../token/sale.rst:48
+msgid "$100 + $0 = **$100 USD**"
+msgstr ""
+
+#: ../../token/sale.rst:50
+msgid "1"
+msgstr ""
+
+#: ../../token/sale.rst:50
+msgid "$0.00101"
+msgstr ""
+
+#: ../../token/sale.rst:50
+msgid "$100 + $1 = **$101 USD**"
+msgstr ""
+
+#: ../../token/sale.rst:52
+msgid "2"
+msgstr ""
+
+#: ../../token/sale.rst:52
+msgid "$0.00102"
+msgstr ""
+
+#: ../../token/sale.rst:52
+msgid "$100 + $2 = **$102 USD**"
+msgstr ""
+
+#: ../../token/sale.rst:54 ../../token/sale.rst:54 ../../token/sale.rst:54
+#: ../../token/sale.rst:73 ../../token/sale.rst:73 ../../token/sale.rst:73
+msgid "..."
+msgstr ""
+
+#: ../../token/sale.rst:56
+msgid "15000"
+msgstr ""
+
+#: ../../token/sale.rst:56
+msgid "$0.15100"
+msgstr ""
+
+#: ../../token/sale.rst:56
+msgid "$100 + $15,100 = **$15,100 USD**"
+msgstr ""
+
+#: ../../token/sale.rst:59
+msgid ""
+"After rapid-growth phase finished, **STEADY-GROWTH PHASE** automatically "
+"comes (45,000 stages total), $15,100 USD for each stage, until the exchange "
+"price reaches 1 VNET = $0.601 USD:"
+msgstr ""
+
+#: ../../token/sale.rst:67
+msgid "15001"
+msgstr ""
+
+#: ../../token/sale.rst:67
+msgid "99993.377922 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:67
+msgid "$0.15101"
+msgstr ""
+
+#: ../../token/sale.rst:67 ../../token/sale.rst:69 ../../token/sale.rst:71
+#: ../../token/sale.rst:73 ../../token/sale.rst:75
+msgid "**$15100 USD**"
+msgstr ""
+
+#: ../../token/sale.rst:69
+msgid "15002"
+msgstr ""
+
+#: ../../token/sale.rst:69
+msgid "99986.756721 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:69
+msgid "$0.15102"
+msgstr ""
+
+#: ../../token/sale.rst:71
+msgid "15003"
+msgstr ""
+
+#: ../../token/sale.rst:71
+msgid "99980.136397 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:71
+msgid "$0.15103"
+msgstr ""
+
+#: ../../token/sale.rst:75
+msgid "60000"
+msgstr ""
+
+#: ../../token/sale.rst:75
+msgid "25124.792013 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:75
+msgid "$0.60100"
+msgstr ""
+
+#: ../../token/sale.rst:80
+msgid "Ethereum Contract: 7.172 billion VNET for Sale"
+msgstr ""
+
+#: ../../token/sale.rst:82
+msgid ""
+"There is **7.172 billion VNET** would released accounting for **20.49%** of "
+"the total supply."
+msgstr ""
+
+#: ../../token/sale.rst:85
+msgid ""
+"All VNET tokens for sale would be stored in an open-sourced Ethereum "
+"contract, to make sure it is clear and free to check anytime. Crypto-"
+"currency ETH will be used as the only trading medium to complete the sale."
+msgstr ""
+
+#: ../../token/sale.rst:91
+msgid "Dynamic Audit ETH price"
+msgstr ""
+
+#: ../../token/sale.rst:93
+msgid ""
+"Using ETH as the payment medium, we will adjust the **Audit ETH price** "
+"according to the latest price in the trading market to ensure that VNET is "
+"relatively stable against legal tender at different times during the token "
+"sale phase."
+msgstr ""
+
+#: ../../token/sale.rst:101
+msgid "**Latest Audit ETH price: $150**"
+msgstr ""
+
+#: ../../token/sale.rst:103
+msgid "That means you can use 1 ETH as $150 USD."
+msgstr ""
+
+#: ../../token/sale.rst:107
+msgid "Whitelist"
+msgstr ""
+
+#: ../../token/sale.rst:109
+msgid ""
+"Anyone who use ETH to exchange VNET in the **TokenSale Contract** through a "
+"whitelisted wallet address would enjoy a gift of **buy one and get one "
+"free**, and the non-white list wallet address does not enjoy any."
+msgstr ""
+
+#: ../../token/sale.rst:112
+msgid ""
+"Registering each white-list wallet address cost 1,000 VNET, and a referrer's"
+" wallet address is needed."
+msgstr ""
+
+#: ../../token/sale.rst:114
+msgid "The referral chain data will be saved to Ethereum blockchain."
+msgstr ""
+
+#: ../../token/sale.rst:115
+msgid ""
+"The VNET tokens used to register the whitelist will be 100% rewarded, up to "
+"15 levels:"
+msgstr ""
+
+#: ../../token/sale.rst:119 ../../token/sale.rst:154
+msgid "Level"
+msgstr ""
+
+#: ../../token/sale.rst:119
+msgid "Amount of reward"
+msgstr ""
+
+#: ../../token/sale.rst:121 ../../token/sale.rst:156
+msgid "Lv.1"
+msgstr ""
+
+#: ../../token/sale.rst:121
+msgid "300 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:122 ../../token/sale.rst:157
+msgid "Lv.2"
+msgstr ""
+
+#: ../../token/sale.rst:122
+msgid "200 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:123 ../../token/sale.rst:158
+msgid "Lv.3"
+msgstr ""
+
+#: ../../token/sale.rst:123 ../../token/sale.rst:124 ../../token/sale.rst:125
+msgid "100 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:124 ../../token/sale.rst:159
+msgid "Lv.4"
+msgstr ""
+
+#: ../../token/sale.rst:125 ../../token/sale.rst:160
+msgid "Lv.5"
+msgstr ""
+
+#: ../../token/sale.rst:126 ../../token/sale.rst:161
+msgid "Lv.6"
+msgstr ""
+
+#: ../../token/sale.rst:126
+msgid "50 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:127 ../../token/sale.rst:162
+msgid "Lv.7"
+msgstr ""
+
+#: ../../token/sale.rst:127
+msgid "40 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:128 ../../token/sale.rst:163
+msgid "Lv.8"
+msgstr ""
+
+#: ../../token/sale.rst:128
+msgid "30 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:129 ../../token/sale.rst:164
+msgid "Lv.9"
+msgstr ""
+
+#: ../../token/sale.rst:129
+msgid "20 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:130 ../../token/sale.rst:165
+msgid "Lv.10"
+msgstr ""
+
+#: ../../token/sale.rst:130 ../../token/sale.rst:131 ../../token/sale.rst:132
+#: ../../token/sale.rst:133 ../../token/sale.rst:134 ../../token/sale.rst:135
+msgid "10 VNET"
+msgstr ""
+
+#: ../../token/sale.rst:131 ../../token/sale.rst:166
+msgid "Lv.11"
+msgstr ""
+
+#: ../../token/sale.rst:132 ../../token/sale.rst:167
+msgid "Lv.12"
+msgstr ""
+
+#: ../../token/sale.rst:133 ../../token/sale.rst:168
+msgid "Lv.13"
+msgstr ""
+
+#: ../../token/sale.rst:134 ../../token/sale.rst:169
+msgid "Lv.14"
+msgstr ""
+
+#: ../../token/sale.rst:135 ../../token/sale.rst:170
+msgid "Lv.15"
+msgstr ""
+
+#: ../../token/sale.rst:140
+msgid "50%-100% of sales revenue will be rewarded"
+msgstr ""
+
+#: ../../token/sale.rst:142
+msgid ""
+"In this sales plan, 50%-100% of sales revenue is designed as a **COMMUNITY "
+"REWARD**, 35% of them are **Referral Reward** and the remaining 15%-65% are "
+"used as **Top-Sales Reward**."
+msgstr ""
+
+#: ../../token/sale.rst:147
+msgid "Sales Referral Reward: 35%"
+msgstr ""
+
+#: ../../token/sale.rst:149
+msgid ""
+"Settled with ETH, transfer to the wallet addresses automatically and "
+"immediately."
+msgstr ""
+
+#: ../../token/sale.rst:150
+msgid "According to the referral chain registered in the whitelist."
+msgstr ""
+
+#: ../../token/sale.rst:151
+msgid "Up to 15 levels:"
+msgstr ""
+
+#: ../../token/sale.rst:154
+msgid "Referral reward"
+msgstr ""
+
+#: ../../token/sale.rst:156 ../../token/sale.rst:157
+msgid "6%"
+msgstr ""
+
+#: ../../token/sale.rst:158
+msgid "5%"
+msgstr ""
+
+#: ../../token/sale.rst:159
+msgid "4%"
+msgstr ""
+
+#: ../../token/sale.rst:160
+msgid "3%"
+msgstr ""
+
+#: ../../token/sale.rst:161
+msgid "2%"
+msgstr ""
+
+#: ../../token/sale.rst:162 ../../token/sale.rst:163 ../../token/sale.rst:164
+#: ../../token/sale.rst:165 ../../token/sale.rst:166 ../../token/sale.rst:167
+#: ../../token/sale.rst:168 ../../token/sale.rst:169 ../../token/sale.rst:170
+msgid "1%"
+msgstr ""
+
+#: ../../token/sale.rst:175
+msgid "Seasons and Top-Sales Reward: 15-65%"
+msgstr ""
+
+#: ../../token/sale.rst:177
+msgid ""
+"The token sales is divided into 60,000 stages, and each 600 stages is "
+"defined as a **SEASON**, that is also 1% of the entire progress."
+msgstr ""
+
+#: ../../token/sale.rst:180
+msgid ""
+"With sales progress, 15%-65% of sales revenue will be used as **Top-Sales "
+"Reward** for each season."
+msgstr ""
+
+#: ../../token/sale.rst:182
+msgid "Awards to TOP100 by ranking:"
+msgstr ""
+
+#: ../../token/sale.rst:185
+msgid "Rank"
+msgstr ""
+
+#: ../../token/sale.rst:185
+msgid "Ratio"
+msgstr ""
+
+#: ../../token/sale.rst:185
+msgid "qty"
+msgstr ""
+
+#: ../../token/sale.rst:185
+msgid "Proportion"
+msgstr ""
+
+#: ../../token/sale.rst:187
+msgid "TOP 1"
+msgstr ""
+
+#: ../../token/sale.rst:187 ../../token/sale.rst:187 ../../token/sale.rst:191
+msgid "10.0%"
+msgstr ""
+
+#: ../../token/sale.rst:187 ../../token/sale.rst:188
+msgid "x1"
+msgstr ""
+
+#: ../../token/sale.rst:188
+msgid "TOP 2"
+msgstr ""
+
+#: ../../token/sale.rst:188 ../../token/sale.rst:188 ../../token/sale.rst:195
+msgid "6.0%"
+msgstr ""
+
+#: ../../token/sale.rst:189
+msgid "TOP 3-5"
+msgstr ""
+
+#: ../../token/sale.rst:189 ../../token/sale.rst:196
+msgid "5.0%"
+msgstr ""
+
+#: ../../token/sale.rst:189
+msgid "x3"
+msgstr ""
+
+#: ../../token/sale.rst:189 ../../token/sale.rst:190
+msgid "15.0%"
+msgstr ""
+
+#: ../../token/sale.rst:190
+msgid "TOP 6-10"
+msgstr ""
+
+#: ../../token/sale.rst:190 ../../token/sale.rst:198
+msgid "3.0%"
+msgstr ""
+
+#: ../../token/sale.rst:190
+msgid "x5"
+msgstr ""
+
+#: ../../token/sale.rst:191
+msgid "TOP 11-20"
+msgstr ""
+
+#: ../../token/sale.rst:191
+msgid "1.0%"
+msgstr ""
+
+#: ../../token/sale.rst:191 ../../token/sale.rst:192 ../../token/sale.rst:193
+#: ../../token/sale.rst:194 ../../token/sale.rst:195 ../../token/sale.rst:196
+#: ../../token/sale.rst:197 ../../token/sale.rst:198 ../../token/sale.rst:199
+msgid "x10"
+msgstr ""
+
+#: ../../token/sale.rst:192
+msgid "TOP 21-30"
+msgstr ""
+
+#: ../../token/sale.rst:192
+msgid "0.9%"
+msgstr ""
+
+#: ../../token/sale.rst:192
+msgid "9.0%"
+msgstr ""
+
+#: ../../token/sale.rst:193
+msgid "TOP 31-40"
+msgstr ""
+
+#: ../../token/sale.rst:193
+msgid "0.8%"
+msgstr ""
+
+#: ../../token/sale.rst:193
+msgid "8.0%"
+msgstr ""
+
+#: ../../token/sale.rst:194
+msgid "TOP 41-50"
+msgstr ""
+
+#: ../../token/sale.rst:194
+msgid "0.7%"
+msgstr ""
+
+#: ../../token/sale.rst:194
+msgid "7.0%"
+msgstr ""
+
+#: ../../token/sale.rst:195
+msgid "TOP 51-60"
+msgstr ""
+
+#: ../../token/sale.rst:195
+msgid "0.6%"
+msgstr ""
+
+#: ../../token/sale.rst:196
+msgid "TOP 61-70"
+msgstr ""
+
+#: ../../token/sale.rst:196
+msgid "0.5%"
+msgstr ""
+
+#: ../../token/sale.rst:197
+msgid "TOP 71-80"
+msgstr ""
+
+#: ../../token/sale.rst:197
+msgid "0.4%"
+msgstr ""
+
+#: ../../token/sale.rst:197
+msgid "4.0%"
+msgstr ""
+
+#: ../../token/sale.rst:198
+msgid "TOP 81-90"
+msgstr ""
+
+#: ../../token/sale.rst:198
+msgid "0.3%"
+msgstr ""
+
+#: ../../token/sale.rst:199
+msgid "TOP 91-100"
+msgstr ""
+
+#: ../../token/sale.rst:199
+msgid "0.2%"
+msgstr ""
+
+#: ../../token/sale.rst:199
+msgid "2.0%"
+msgstr ""
+
+#: ../../token/sale.rst:204
+msgid "About to start"
+msgstr ""
+
+#: ../../token/sale.rst:206
+msgid "To be announced..."
+msgstr ""

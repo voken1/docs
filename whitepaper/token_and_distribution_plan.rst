@@ -32,20 +32,23 @@ Air Drops 0.5%
    It is used to reward the Ethereum community users
    and promotion before the public sale, etc.
 
-Token Sale 53.11%
-   17.14% for directed private sale, 35.97% for public sale.
+Consumption pool 0.5%
+   For special user contribution awards and sales promotions,
+   the list of individual or organizational users will be
+   charged to the consumer pool contract account until they are used up.
 
-DAPPs Support Plan 5%
+DAPPs Support Plan 10%
    It is used to enrich Vision Network ecology,
    foster and encourage developers
    to build more decentralized application services.
 
-Community and business 18.89%
-   It is used for exchange listing, service node incentive,
-   community construction and maintenance, etc.
+Token Sale 20.49%
+   For public sale and whitelist awards.
 
-Consumption pool 0.5%
-   For special user contribution awards and sales promotions,
-   the white list of individual or organizational users will be
-   charged to the consumer pool contract account until they are used up.
+Miner 20.50%
+   For service nodes.
+
+Community and business 26.01%
+   It is used for exchange listing,
+   community construction and maintenance, etc.
 
