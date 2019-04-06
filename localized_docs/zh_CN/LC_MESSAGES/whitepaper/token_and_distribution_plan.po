@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-03 16:59+0800\n"
+"POT-Creation-Date: 2019-04-04 21:45+0800\n"
 "PO-Revision-Date: 2019-01-19 08:47+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
@@ -91,8 +91,8 @@ msgid "Early Investors 10%"
 msgstr "早期投资者 10%"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:29
-msgid "80% locked for 1 year, till 2019.06.30"
-msgstr "80% 锁仓 1 年至 2019.06.30"
+msgid "80% locked for 1 year, till 2020.06.30"
+msgstr ""
 
 #: ../../whitepaper/token_and_distribution_plan.rst:33
 msgid "Air Drops 0.5%"

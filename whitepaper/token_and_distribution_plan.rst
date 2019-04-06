@@ -26,7 +26,7 @@ Team fund 12%
    100% locked for 3 years, till 2021.06.30
 
 Early Investors 10%
-   80% locked for 1 year, till 2019.06.30
+   80% locked for 1 year, till 2020.06.30
 
 Air Drops 0.5%
    It is used to reward the Ethereum community users

@@ -12,24 +12,25 @@ Roadmap
 
 2018.Q3
    - VNET Token Airdrop by Contract
-   - VNET Token Early-bird/Pre-Sale
-   - VNET Token Airdrop by Invitation
+   - VNET Token Early-bird/Pre-Sale (Canceled)
+   - VNET Token Airdrop by Invitation (Delayed)
    - 150-500 official nodes launched
 
 2018.Q4
    - vnVPN alpha
 
 2019.Q1
-   - VNET Token Directed Airdrop
-   - VNET Token Public Sale
+   - VNET Token Directed Airdrop (Delayed)
 
 2019.Q2
-   - vnP2PNET beta
+   - VNET Token Public Sale
+   - vnP2PNET alpha
 
 2019.Q3
-   - vnCHAIN beta
+   - vnSDK alpha
 
 2019.Q4
+   - vnCHAIN beta
    - vnSDK beta
    - vnVPN beta
    - Complete migration upgrade from ERC20 Token to vnCHAIN

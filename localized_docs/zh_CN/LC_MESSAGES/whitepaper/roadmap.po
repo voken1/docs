@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"POT-Creation-Date: 2019-04-04 21:45+0800\n"
 "PO-Revision-Date: 2019-01-19 08:47+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -54,11 +54,11 @@ msgid "VNET Token Airdrop by Contract"
 msgstr ""
 
 #: ../../whitepaper/roadmap.rst:15
-msgid "VNET Token Early-bird/Pre-Sale"
+msgid "VNET Token Early-bird/Pre-Sale (Canceled)"
 msgstr ""
 
 #: ../../whitepaper/roadmap.rst:16
-msgid "VNET Token Airdrop by Invitation"
+msgid "VNET Token Airdrop by Invitation (Delayed)"
 msgstr ""
 
 #: ../../whitepaper/roadmap.rst:17
@@ -73,24 +73,24 @@ msgstr ""
 msgid "vnVPN alpha"
 msgstr ""
 
-#: ../../whitepaper/roadmap.rst:24
+#: ../../whitepaper/roadmap.rst:23
 msgid "2019.Q1"
 msgstr ""
 
 #: ../../whitepaper/roadmap.rst:23
-msgid "VNET Token Directed Airdrop"
-msgstr ""
-
-#: ../../whitepaper/roadmap.rst:24
-msgid "VNET Token Public Sale"
+msgid "VNET Token Directed Airdrop (Delayed)"
 msgstr ""
 
 #: ../../whitepaper/roadmap.rst:27
 msgid "2019.Q2"
 msgstr ""
 
+#: ../../whitepaper/roadmap.rst:26
+msgid "VNET Token Public Sale"
+msgstr ""
+
 #: ../../whitepaper/roadmap.rst:27
-msgid "vnP2PNET beta"
+msgid "vnP2PNET alpha"
 msgstr ""
 
 #: ../../whitepaper/roadmap.rst:30
@@ -98,21 +98,25 @@ msgid "2019.Q3"
 msgstr ""
 
 #: ../../whitepaper/roadmap.rst:30
-msgid "vnCHAIN beta"
+msgid "vnSDK alpha"
 msgstr ""
 
-#: ../../whitepaper/roadmap.rst:35
+#: ../../whitepaper/roadmap.rst:36
 msgid "2019.Q4"
 msgstr ""
 
 #: ../../whitepaper/roadmap.rst:33
-msgid "vnSDK beta"
+msgid "vnCHAIN beta"
 msgstr ""
 
 #: ../../whitepaper/roadmap.rst:34
-msgid "vnVPN beta"
+msgid "vnSDK beta"
 msgstr ""
 
 #: ../../whitepaper/roadmap.rst:35
+msgid "vnVPN beta"
+msgstr ""
+
+#: ../../whitepaper/roadmap.rst:36
 msgid "Complete migration upgrade from ERC20 Token to vnCHAIN"
 msgstr ""

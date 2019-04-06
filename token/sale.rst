@@ -32,15 +32,15 @@ Service Value & Usage Value ANCHORING
 Incremental sales price: $0.001 ~ $0.601 USD
 --------------------------------------------
 
-Starting at **1 VNET = $0.001 USD**, until the price rises to **1 VNET = $0.601**
+Starting at **1 VNET = $0.001**, until the price rises to **1 VNET = $0.601**
 
-Total sales are divided into 60,000 stages, each step of $0.00001 USD.
+Total sales are divided into 60,000 stages, each step of $0.00001.
 
 In the very first phase, named **RAPID-GROWTH PHASE**,
 which is divided into 15,000 stages,
 each selling 100,000 VNET, for a total of 1.5 billion VNET.
 
-Whenever a stage is finished, the exchange price increases by $0.00001 USD:
+Whenever a stage is finished, the exchange price increases by $0.00001:
 
 +--------------+--------------+----------------+------------------------------+
 | Stage Number | Sales Volume | Exchange Price | Sales Amount                 |
@@ -59,7 +59,7 @@ Whenever a stage is finished, the exchange price increases by $0.00001 USD:
 After rapid-growth phase finished,
 **STEADY-GROWTH PHASE** automatically comes (45,000 stages total),
 $15,100 USD for each stage,
-until the exchange price reaches 1 VNET = $0.601 USD:
+until the exchange price reaches 1 VNET = $0.601:
 
 +--------------+-------------------+----------------+--------------+
 | Stage Number | Sales Volume      | Exchange Price | Sales Amount |
@@ -76,8 +76,8 @@ until the exchange price reaches 1 VNET = $0.601 USD:
 +--------------+-------------------+----------------+--------------+
 
 
-Ethereum Contract: 7.172 billion VNET for Sale
-----------------------------------------------
+7.172 billion VNET for Sale on Etheruem bolckchain
+--------------------------------------------------
 
 There is **7.172 billion VNET** would released
 accounting for **20.49%** of the total supply.
@@ -136,11 +136,11 @@ Lv.15  10 VNET
 =====  ==================================
 
 
-50%-100% of sales revenue will be rewarded
-------------------------------------------
+50% ~ 100% of sales revenue will be rewarded
+--------------------------------------------
 
-In this sales plan, 50%-100% of sales revenue is designed as a **COMMUNITY REWARD**,
-35% of them are **Referral Reward** and the remaining 15%-65% are used as **Top-Sales Reward**.
+In this sales plan, 50% ~ 100% of sales revenue is designed as a **COMMUNITY REWARD**,
+35% of them are **Referral Reward** and the remaining 15% ~ 65% are used as **Top-Sales Reward**.
 
 
 Sales Referral Reward: 35%
@@ -171,14 +171,14 @@ Lv.15  1%
 =====  ===========================
 
 
-Seasons and Top-Sales Reward: 15-65%
-------------------------------------
+Seasons and Top-Sales Reward: 15% ~ 65%
+---------------------------------------
 
 - The token sales is divided into 60,000 stages,
   and each 600 stages is defined as a **SEASON**,
   that is also 1% of the entire progress.
 - With sales progress,
-  15%-65% of sales revenue will be used as **Top-Sales Reward** for each season.
+  15% ~ 65% of sales revenue will be used as **Top-Sales Reward** for each season.
 - Awards to TOP100 by ranking:
 
 ==========  =====  ===  ==========
