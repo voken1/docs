@@ -32,7 +32,7 @@ msgid ""
 "can spend 1 VNET to exchange 100GB traffic to use the Internet without "
 "obstacles, or earn VNET by selling/sharing your idle bandwidth."
 msgstr ""
-":ref:`vnet_token`具有准确的服务价值和使用价值锚定。您可以花费 1 VNET 使用 100GB "
+":ref:`vnet_token` 具有准确的服务价值和使用价值锚定。您可以花费 1 VNET 使用 100GB "
 "无障碍国际互联网的流量服务，或通过贡献分享您的闲置带宽赚取 VNET。"
 
 #: ../../token/sale.rst:10
