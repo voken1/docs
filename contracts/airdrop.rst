@@ -1,9 +1,13 @@
-Airdrop
-=======
+.. _airdrop_contract:
 
-Just call the contract (send 0 ETH here), and get 100-200 VNET Tokens for free.
+Airdrop Contract
+================
 
-The address is `0x0e3d9B8AA451F398E4D7ef5Be299367949943028`_
+.. Contract address: ``0x..``
 
-.. _0x0e3d9B8AA451F398E4D7ef5Be299367949943028: https://etherscan.io/address/0x0e3d9b8aa451f398e4d7ef5be299367949943028
+Hold :ref:`voken` for :ref:`airdrop_via_contract`.
 
+
+------
+
+TBC.

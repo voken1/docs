@@ -1,7 +1,7 @@
 .. _eth_wallet:
 
-How to use an ETH wallet
-========================
+How to use an ETH wallet?
+=========================
 
 Here are some guides for some famous ETH wallet
 

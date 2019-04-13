@@ -19,16 +19,16 @@ intelligent virtual network on the physical layer and ISP network layer through
 a large number of nodes, which can surely connect the whole world.
 
 The Vision Network provides distributed services such as VPN, CDN, DNS, and DDoS defense.
-The VNET Token with stable value scale will be used in the ecology and produce
+The :ref:`voken` with stable value scale will be used in the ecology and produce
 an incentive effect. Everyone can participate in distributed network construction.
 We believe the Vision Network,
 a distributed Internet infrastructure will make the Internet more open,
 more equal, more stable, more efficient, safer and freer.
 
-**1 VNET Token = 100 GB client network traffic (price at IDC is $8.0 – 8.5)**
+**1 Voken = 100 GB client network traffic (price at IDC is $8.0 - 8.5)**
 
-The user running the service node makes use of idle network resources to earn VNET,
-and the user or organization that needs the service uses VNET exchange to settle
+The user running the service node makes use of idle network resources to earn Vokens,
+and the user or organization that needs the service uses Vokens exchange to settle
 through the vnCHAIN blockchain.
 
 
@@ -44,7 +44,7 @@ With the help of Vision Network,
 users participating in the ecology can easily run VISION node programs on computers,
 routers, TV boxes, and even mobile devices,
 even if they do not have the professional technical ability to share idle network resources.
-The longer the time is online, the more VNET Token can be obtained,
+The longer the time is online, the more Vokens can be obtained,
 which can be used to exchange the services you need in the ecology,
 or sell them on the exchange to turn your idle network resources into cash.
 
@@ -113,9 +113,9 @@ and avoid DNS pollution. Rigid demand, huge base, clear technical path.
 The business logic of matching supply and demand is similar to shared economy models such as Ube.
 The technical advantage is that there is no need to set up a centralized intermediary organization,
 vnVPN create a decentralized platform based on blockchain and code rule.
-The contract is settled automatically, the node inside the wall pays the VNET Token as the demand side,
+The contract is settled automatically, the node inside the wall pays the :ref:`voken` as the demand side,
 and the outside node uses the idle bandwidth as the service party to provide
-the encrypted trafficproxy service and automatically accept the VNET Token settlement,
+the encrypted trafficproxy service and automatically accept the :ref:`voken` settlement,
 and use the PoT consensus based on the traffic. Online service, blockchain settlement.
 
 
@@ -330,31 +330,32 @@ Proof of Traffic
 Compared with the workload of **Proof of Work**,
 it is proved that the accounting method of PoW does
 not require equipment competition or power consumption,
-but writes the ratio of VNET Token to network traffic flow resource service
+but writes the ratio of :ref:`voken` to network traffic flow resource service
 as a constant definition in the underlying code.
 
 
-.. _vnet_token:
+.. _voken:
 
-VNET Token -- Unique ticket in the Vision Network ecosystem
------------------------------------------------------------
+Voken -- Unique token in the Vision Network ecosystem
+-------------------------------------------------------
 
-VNET Token is the unique ticket in the Vision Network ecosystem, also known as VNET,
+``Voken`` is the unique token in the Vision Network ecosystem,
 which uses **Proof of Traffic** consensus mechanism. It is the native asset on the vnCHAIN.
 
-At the beginning of the project, VNET will be strictly based on the ERC20 token standard,
-the smart contract is created on the Ethereum network.
+At the beginning of the project,
+:ref:`voken` will be strictly based on the ERC20 token standard,
+it is created on the Ethereum network.
 After the vnCHAIN main network is officially installed and stabilized,
 the image will be migrated through signature verification.
 
 
 
-1 VNET Token = 100GB client traffic flow
-----------------------------------------
+1 Voken = 100GB client traffic flow
+------------------------------------
 
 In the underlying code,
-we defined per unit of VNET as the client traffic of 100GBytes in the Vision Network,
-that is: **1 VNET Token = 100GB client traffic flow.**
+we defined per unit of ``Voken`` as the client traffic of 100GBytes in the Vision Network,
+that is: **1 Voken = 100GB client traffic flow.**
 
 
 
@@ -403,7 +404,7 @@ In the age of the Internet,
 bandwidth and traffic are **clearly valued and easily measurable resources**.
 Quantifying the traffic services provided by nodes as universal equivalents
 that are more **currency means** not only a solid value base
-but also VNET Token’s dollar price is more stable,
+but also Voken’s dollar price is more stable,
 and can effectively avoid the news pricing, PR pricing, emotional pricing.
 And on the other way, it effectively avoids unrestrained price speculation at the same time.
 
@@ -433,7 +434,7 @@ and VPN service needs both downlink and uplink traffic to complete proxy forward
 that is, the client traffic of 100GB is about equal to the node traffic of 200GB
 (100GB upstream 100GB downlink).
 
-Therefore, 100 GB client traffic flow, anchored to 1 VNET,
+Therefore, 100 GB client traffic flow, anchored to 1 Voken,
 also coincides with the actual intrinsic use value.
 
 
@@ -452,10 +453,18 @@ GCP Google Cloud Platform:
 
 
 
-The VNET Token dollar price should increase to the internal value gradually and be relatively stable
-----------------------------------------------------------------------------------------------------
+The Voken dollar price should increase to the internal value gradually and be relatively stable
+-----------------------------------------------------------------------------------------------
 
-We believe that the legal currency will not disappear in the short term, and that long-standing habits will allow more people to use the fiat currency to price products or services. At the same time, we expect that the VNET Token value scale after ecological maturity is relatively stable (that is, the legal currency price is relatively stable), and the basic setting of 1 VNET = 100 GB can ensure that the market circulation price of VNET Token gradually matures with the ecological value in practical use value.
+We believe that the legal currency will not disappear in the short term,
+and that long-standing habits will allow more people
+to use the fiat currency to price products or services.
+At the same time, we expect that the Voken value scale
+after ecological maturity is relatively stable
+(that is, the legal currency price is relatively stable),
+and the basic setting of 1 Voken = 100 GB can ensure that
+the market circulation price of Voken gradually matures
+with the ecological value in practical use value.
 
 
 

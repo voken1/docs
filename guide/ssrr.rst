@@ -1,7 +1,7 @@
 .. _guide_for_ssrr:
 
-How to use AutoSSR by SSRR on Android
-=====================================
+How to use AutoSSR on Android?
+==============================
 
 How to subscribe :ref:`autossr` in `SSRR`_ on Android
 
@@ -51,10 +51,11 @@ Add SSR Subscription:
 
 
 Fill the blank, with one of the links of :ref:`autossr`,
-the **stable** and **online** is recommended, we choose the online one here:
+the **stable** and **online** is recommended, we choose the stable one here:
 
 .. code-block:: text
 
+   // copy this
    https://git.io/autossr-online
 
 then press **OK**:

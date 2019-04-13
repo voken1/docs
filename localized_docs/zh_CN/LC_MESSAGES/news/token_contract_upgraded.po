@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-11 18:06+0800\n"
+"PO-Revision-Date: 2019-04-11 14:18+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../news/token_contract_upgraded.rst:4
+msgid "Voken Main Contract Upgraded"
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:6
+msgid "A new main token contract had been deployed: :ref:`voken_contract`"
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:10
+msgid "The old contract was deprecated"
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:11
+msgid ""
+"The old ``VNET`` contract `0x...` snapshot in ``2019-04-1x 00:00:00 UTC``, "
+"the historical data was migrated to the new contract."
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:16
+msgid "The new token symbol named ``Voken``"
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:18
+msgid ""
+"Displayed in various wallet software such as `MetaMask`, `MyEtherWallet`, "
+"`imToken`, `etherscan.io` and Ethereum blockchain browser."
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:23
+msgid "Usage Value ANCHORING was not been changed"
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:25
+msgid ""
+"**1 Voken** corresponds to the use value of **100G client traffic** in the "
+"Vision.Network ecosystem."
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:30
+msgid "New contract was fully optimized"
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:32
+msgid ""
+"Benefiting from the new features brought by the two upgrades of xxx and xxx "
+"on Ethereum, **the efficiency of the new contract has been greatly "
+"improved**."
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:36
+msgid ""
+"The Ethereum **miner’s fee is greatly reduced** for Voken transfer, **up to "
+"30.19%**."
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:41
+msgid "Ready for whitelist registration"
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:43
+msgid ""
+"Ready for **sending 1001.0 Voken to register public sales whitelist**. (By "
+"sending 1001.0 Voken to the address in the whitelist, your address will "
+"**automatically registered**, and you can enjoy a **one-for-one privilege** "
+"during the public sale phase. The contract will automatically save the "
+"referral relationship chain and **settle the rewards in real time** "
+"according to the ratio of :ref:`voken_referral_program`.)"
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:53
+msgid "Whitelist qualification transfer is supported"
+msgstr ""
+
+#: ../../news/token_contract_upgraded.rst:55
+msgid ""
+"Without any application and approval process, just call the contract "
+"``function transferWhitelist(address account)`` directly."
+msgstr ""

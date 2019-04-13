@@ -11,10 +11,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-05 22:19+0800\n"
+"POT-Creation-Date: 2019-04-13 10:33+0800\n"
 "PO-Revision-Date: 2019-01-17 02:53+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,24 +22,24 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../token/airdrop_via_contract.rst:4
-msgid "$VNET Airdrop via contract"
-msgstr "$VNET 流量币合约空投"
+msgid "Voken Airdrop via contract"
+msgstr "Voken 合约空投"
 
 #: ../../token/airdrop_via_contract.rst:7
 msgid "Total amount:"
 msgstr "总量："
 
 #: ../../token/airdrop_via_contract.rst:7
-msgid "50 Million VNET"
-msgstr "5000 万 VNET"
+msgid "50 Million Vokens"
+msgstr "5000 万 Vokens"
 
 #: ../../token/airdrop_via_contract.rst:10
 msgid "Per quantity:"
 msgstr "每份数量："
 
 #: ../../token/airdrop_via_contract.rst:10
-msgid "100-200 VNET (randomly)"
-msgstr "100-200 VNET（随机）"
+msgid "100-200 Vokens (randomly)"
+msgstr "100-200 Vokens （随机）"
 
 #: ../../token/airdrop_via_contract.rst:13
 msgid "Users covered expected:"
@@ -56,8 +56,8 @@ msgstr "意义："
 #: ../../token/airdrop_via_contract.rst:16
 msgid ""
 "Promote visibility and consensus in the process of gradual maturity of the "
-"**Vision Network**."
-msgstr "在 Vision Network 网络效应逐渐成熟的过程中，更促进知名度和共识的达成。"
+"Vision Network."
+msgstr "在 Vision Network 网络效应逐渐成熟的过程中，促进知名度和共识。"
 
 #: ../../token/airdrop_via_contract.rst:21
 msgid "Looking forward to:"
@@ -65,24 +65,26 @@ msgstr "期待："
 
 #: ../../token/airdrop_via_contract.rst:19
 msgid ""
-"Share, spread and popularize the **Vision Network** concept, and to let more"
-" people know."
-msgstr "分享、传播、普及 **Vision Network** 理念，让更多人认识远景网络。"
+"Share, spread and popularize the Vision Network concept, and to let more "
+"people know."
+msgstr "分享、传播、普及 Vision Network 理念，让更多人认识远景网络。"
 
 #: ../../token/airdrop_via_contract.rst:24
 msgid "Contract"
 msgstr "以太坊智能合约"
 
 #: ../../token/airdrop_via_contract.rst:30
-msgid "`0x0e3d9B8AA451F398E4D7ef5Be299367949943028`"
+msgid "`0x..`"
 msgstr ""
 
 #: ../../token/airdrop_via_contract.rst:32
 msgid ""
-"Just send 0 ETH to the Airdrop Contract, you will receive 100-200 VNET. The "
-"total amount is 50,000,000, first come first served."
-msgstr "发送 0 ETH 到空投合约，免费获得 100-200 VNET 流量币。总量 50,000,000 先到先得。"
+"Just send **0 ETH** to :ref:`airdrop_contract`, you will receive **100-200 "
+"Vokens** randomly. The total amount is 50,000,000, first come first served."
+msgstr ""
+"发送 0 ETH 到 :ref:`airdrop_contract` ，免费获得 100-200 Vokens ，总量 50,000,000 先到先得。"
 
-#: ../../token/airdrop_via_contract.rst:37
-msgid "Set `gas limit` to `90,000`, the rest will be returned automatically."
-msgstr "请将 `gas limit` 设置为 `90,000` ，剩余部分将自动退回。"
+#: ../../token/airdrop_via_contract.rst:39
+msgid ""
+"Set ``gas limit`` to ``90,000``, the rest will be returned automatically."
+msgstr "请将 ``gas limit`` 设置为 ``90,000`` ，剩余部分将自动退回。"

@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Michael Brown <michael@vision.network>, 2019
+# VISION official <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"POT-Creation-Date: 2019-04-11 18:09+0800\n"
 "PO-Revision-Date: 2019-01-11 05:19+0000\n"
-"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -34,12 +34,12 @@ msgstr "Vision Network 远景网络是在物理网络层、ISP 网络层之上�
 #: ../../whitepaper/summary.rst:7
 msgid ""
 "Vision Network is based on blockchain technology, which provides distributed"
-" services such as VPN, CDN, DNS, and DDoS defense. The :ref:`vnet_token` "
-"with stable value scale will be used in the ecology and produce an incentive"
-" effect. Everyone can participate in distributed network construction. We "
+" services such as VPN, CDN, DNS, and DDoS defense. The :ref:`voken` with "
+"stable value scale will be used in the ecology and produce an incentive "
+"effect. Everyone can participate in distributed network construction. We "
 "believe the Vision Network, a distributed Internet infrastructure will make "
 "the Internet more open, more equal, more stable, more efficient, safer and "
 "freer."
 msgstr ""
-"提供分布式的 VPN、CDN、DNS、DDoS 防御等一系列分布式服务，使用价值尺度稳定的 :ref:`vnet_token` "
+"提供分布式的 VPN、CDN、DNS、DDoS 防御等一系列分布式服务，使用价值尺度稳定的 :ref:`voken` "
 "作为生态“货币”激励，是由全球无限节点参与构建的、具有成长性的分布式互联网基础设施，使互联网更开放、更平等、更稳定、更高效、更安全、更自由。"

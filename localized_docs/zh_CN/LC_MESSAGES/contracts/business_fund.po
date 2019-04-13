@@ -4,48 +4,47 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Michael Brown <michael@vision.network>, 2019
+# VISION official <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 13:29+0800\n"
+"POT-Creation-Date: 2019-04-13 17:50+0800\n"
 "PO-Revision-Date: 2019-01-17 05:19+0000\n"
-"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../contracts/business_fund.rst:2
-msgid "Business Fund"
-msgstr "Business Fund 社区激励与商业拓展基金"
-
 #: ../../contracts/business_fund.rst:4
-msgid ""
-"The Contract which held 18.89% of the total VNET Tokens, would be used for:"
-msgstr "占 VNET Token 总量的 18.89%，将备用于："
+msgid "Business Fund Contract"
+msgstr "商业拓展基金持币合约"
 
-#: ../../contracts/business_fund.rst:6
+#: ../../contracts/business_fund.rst:8
+msgid "Hold :ref:`voken` for business fund, would be used for:"
+msgstr "为商业拓展基金持有 :ref:`voken` ，将备用于："
+
+#: ../../contracts/business_fund.rst:10
 msgid "Exchange listing"
 msgstr "$VNET 流量币的交易所挂牌"
 
-#: ../../contracts/business_fund.rst:7
+#: ../../contracts/business_fund.rst:11
 msgid "Service node incentive"
 msgstr "生态前期的服务节点激励"
 
-#: ../../contracts/business_fund.rst:8
+#: ../../contracts/business_fund.rst:12
 msgid "Community construction and maintenance"
 msgstr "社区建设与维护"
 
-#: ../../contracts/business_fund.rst:9
+#: ../../contracts/business_fund.rst:13
 msgid "etc."
 msgstr "其它奖励"
 
-#: ../../contracts/business_fund.rst:11
-msgid "The address is `0x8fC420202F43Ce952445961c15c5A5B1C80cE50A`_"
-msgstr "合约地址 `0x8fC420202F43Ce952445961c15c5A5B1C80cE50A`_"
+#: ../../contracts/business_fund.rst:18
+msgid "TBC."
+msgstr "待续"

@@ -1,7 +1,7 @@
 .. _guide_for_gas:
 
-How to set `gas limit` and `gas price`
-======================================
+How to set ``gas limit`` and ``gas price``?
+===========================================
 
 It is quite simple and easy.
 
@@ -13,7 +13,7 @@ Gas limit
 As a **BRIEF SUMMARY**:
 
    Gas is metering and fuel for using the Ethereum.
-   `Gas limit` is the maximum number of gas used
+   ``Gas limit`` is the maximum number of gas used
    to manually set up an Ethereum transaction.
 
    In most contract transactions related to **Vision Network**,
@@ -34,7 +34,7 @@ that can be used as an extended reading material.
 Gas price
 ---------
 
-`Gas price` is the price of gas, its unit is `gwei`.
+``Gas price`` is the price of gas, its unit is ``gwei``.
 
 Generally speaking, the higher the price is set,
 the faster the Ethereum miners will process your transaction.
@@ -42,7 +42,7 @@ But reasonable settings can avoid unnecessary waste
 without having to grab time.
 
 There is a website `ETH Gas Station`_ you should know,
-you can read the current `Gas price` easily.
+you can read the current ``Gas price`` easily.
 
 .. _ETH Gas Station:
    https://ethgasstation.info/

@@ -1,0 +1,31 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-13 18:28+0800\n"
+"PO-Revision-Date: 2019-04-13 10:44+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../token/airdrop_to_eth_holders.rst:4
+msgid "Voken Airdrop to ETH Holders"
+msgstr "向 ETH 持有者空投"
+
+#: ../../token/airdrop_to_eth_holders.rst:6
+msgid ""
+"Will started in the 2019 Q2 via :ref:`airdrop_to_eth_holders_contract`."
+msgstr "将会在 2019 Q2 启动，通过 :ref:`airdrop_to_eth_holders_contract` 。"

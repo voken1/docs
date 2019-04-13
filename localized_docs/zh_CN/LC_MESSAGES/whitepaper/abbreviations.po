@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Michael Brown <michael@vision.network>, 2019
+# VISION official <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"POT-Creation-Date: 2019-04-13 00:18+0800\n"
 "PO-Revision-Date: 2019-01-19 08:45+0000\n"
-"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -33,10 +33,10 @@ msgstr "在 Vision Network 远景网络体系内的网站、文档以及各种�
 
 #: ../../whitepaper/abbreviations.rst:6
 msgid ""
-"Uppercase **VISION** abbreviation will be used to refer to the Vision "
+"Uppercase ``VISION`` abbreviation will be used to refer to the Vision "
 "Network, the entire project."
-msgstr "大写的 **VISION** 简称将用来指代 Vision Network 远景网络和整个项目。"
+msgstr "大写的 ``VISION`` 简称将用来指代 Vision Network 远景网络和整个项目。"
 
 #: ../../whitepaper/abbreviations.rst:7
-msgid "Uppercase **VNET** abbreviation used to refer to :ref:`vnet_token`"
-msgstr "大写的 **VNET** 简称用来称呼 :ref:`vnet_token`"
+msgid "Typo ``Voken`` and `Vokens` abbreviation used to refer to :ref:`voken`"
+msgstr "拼写 ``Voken`` 或 ``Vokens`` 简称用来称呼 :ref:`voken`"

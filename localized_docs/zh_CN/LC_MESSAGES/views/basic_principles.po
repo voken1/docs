@@ -11,10 +11,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-28 22:24+0800\n"
+"POT-Creation-Date: 2019-04-13 17:16+0800\n"
 "PO-Revision-Date: 2019-02-27 08:27+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -36,17 +36,7 @@ msgid "Service generates real value."
 msgstr "服务产生价值。"
 
 #: ../../views/basic_principles.rst:9
-msgid "Time proves."
-msgstr "时间会证明一切。"
-
-#: ../../views/basic_principles.rst:13
-msgid "Related important rules"
-msgstr "其它相关的重要规律"
-
-#: ../../views/basic_principles.rst:15
-msgid "The more dispersed the token, the better the ecological health."
-msgstr "Token 越分散，生态越健康。"
-
-#: ../../views/basic_principles.rst:16
-msgid "..."
-msgstr ""
+msgid ""
+"The user pays, and the service provider charges, **IT IS THE NATURAL TRADING"
+" SCENARIO**."
+msgstr "使用者付费，服务者收费， **这是天然的交易场景** 。"

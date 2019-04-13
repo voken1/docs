@@ -1,0 +1,461 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-11 18:06+0800\n"
+"PO-Revision-Date: 2019-04-11 14:19+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../policy/vtoken_referral_program.rst:4
+msgid "Voken Referral Program"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:6
+msgid ""
+"By sharing your whitelisted ETH wallet address, you will earn ETH and Voken."
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:9
+msgid ""
+"在您引荐注册白名单的 15 个推荐层级内， 您不但享有白名单注册奖励(15 levels, sum up to 1001 Voken)， 还可以赚取 "
+"Voken 公开销售过程中的分成奖励(15 levels, sums up to 35%)."
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:13
+msgid ""
+"Help improve the Vision Network ecosystem, strengthen the network, 传播共识, and"
+" **EARN ETH AND Voken**."
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:16
+msgid "Don't have an ETH wallet? Get one here: ..."
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:20
+msgid "Whitelist Registration Referrals Reward: 100%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:22
+msgid ""
+"Anyone who participate in the :ref:`voken_sale` by using a whitelisted ETH "
+"wallet address would enjoy a gift of **buy one and get one free**, and the "
+"non-white list wallet address does not enjoy any."
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:26
+msgid ""
+"Registering each whitelist wallet address cost **1,001 Voken**, and a "
+"referrer's wallet address is needed, which is already whitelisted."
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:29
+msgid ""
+"The referral relationship chain data will be saved to :ref:`voken_contract` "
+"on the Ethereum blockchain."
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:31
+msgid ""
+"The Voken tokens used to register the whitelist will be 100% rewarded, up to"
+" 15 levels:"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:35
+#: ../../policy/vtoken_referral_program.rst:65
+msgid "Level"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:35
+msgid "Amount of reward (1,001 Voken Total)"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:37
+#: ../../policy/vtoken_referral_program.rst:67
+msgid "Lv.1"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:37
+msgid "301 Voken"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:38
+#: ../../policy/vtoken_referral_program.rst:68
+msgid "Lv.2"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:38
+msgid "200 Voken"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:39
+#: ../../policy/vtoken_referral_program.rst:69
+msgid "Lv.3"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:39
+#: ../../policy/vtoken_referral_program.rst:40
+#: ../../policy/vtoken_referral_program.rst:41
+msgid "100 Voken"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:40
+#: ../../policy/vtoken_referral_program.rst:70
+msgid "Lv.4"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:41
+#: ../../policy/vtoken_referral_program.rst:71
+msgid "Lv.5"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:42
+#: ../../policy/vtoken_referral_program.rst:72
+msgid "Lv.6"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:42
+msgid "50 Voken"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:43
+#: ../../policy/vtoken_referral_program.rst:73
+msgid "Lv.7"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:43
+msgid "40 Voken"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:44
+#: ../../policy/vtoken_referral_program.rst:74
+msgid "Lv.8"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:44
+msgid "30 Voken"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:45
+#: ../../policy/vtoken_referral_program.rst:75
+msgid "Lv.9"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:45
+msgid "20 Voken"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:46
+#: ../../policy/vtoken_referral_program.rst:76
+msgid "Lv.10"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:46
+#: ../../policy/vtoken_referral_program.rst:47
+#: ../../policy/vtoken_referral_program.rst:48
+#: ../../policy/vtoken_referral_program.rst:49
+#: ../../policy/vtoken_referral_program.rst:50
+#: ../../policy/vtoken_referral_program.rst:51
+msgid "10 Voken"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:47
+#: ../../policy/vtoken_referral_program.rst:77
+msgid "Lv.11"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:48
+#: ../../policy/vtoken_referral_program.rst:78
+msgid "Lv.12"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:49
+#: ../../policy/vtoken_referral_program.rst:79
+msgid "Lv.13"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:50
+#: ../../policy/vtoken_referral_program.rst:80
+msgid "Lv.14"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:51
+#: ../../policy/vtoken_referral_program.rst:81
+msgid "Lv.15"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:56
+msgid "Sales Referral Reward: 35%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:58
+msgid ""
+"According to the referral relationship chain registered in the whitelist."
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:59
+msgid "During :ref:`voken_sale`"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:60
+msgid ""
+"Settled with ETH, will transfer to your wallet addresses automatically and "
+"immediately."
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:62
+msgid "Up to 15 levels:"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:65
+msgid "Referral reward (35% Total)"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:67
+#: ../../policy/vtoken_referral_program.rst:68
+msgid "6%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:69
+msgid "5%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:70
+msgid "4%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:71
+msgid "3%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:72
+msgid "2%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:73
+#: ../../policy/vtoken_referral_program.rst:74
+#: ../../policy/vtoken_referral_program.rst:75
+#: ../../policy/vtoken_referral_program.rst:76
+#: ../../policy/vtoken_referral_program.rst:77
+#: ../../policy/vtoken_referral_program.rst:78
+#: ../../policy/vtoken_referral_program.rst:79
+#: ../../policy/vtoken_referral_program.rst:80
+#: ../../policy/vtoken_referral_program.rst:81
+msgid "1%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:86
+msgid "Season Top-Sales Reward: 15%-65%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:88
+msgid "During to :ref:`voken_sale`"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:89
+msgid ""
+"Settled with ETH, will transfer to your wallet addresses after a season "
+"finished."
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:91
+msgid ""
+"The token sales is divided into 60,000 stages, and each 600 stages is "
+"defined as a **SEASON**, that is also 1% of the entire progress."
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:94
+msgid ""
+"With sales progress, 15% ~ 65% of sales revenue will be used as **Top-Sales "
+"Reward** for each season."
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:96
+msgid "Awards to TOP100 by ranking:"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:99
+msgid "Rank"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:99
+msgid "Ratio"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:99
+msgid "qty"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:99
+msgid "Proportion"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:101
+msgid "TOP 1"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:101
+#: ../../policy/vtoken_referral_program.rst:101
+#: ../../policy/vtoken_referral_program.rst:105
+msgid "10.0%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:101
+#: ../../policy/vtoken_referral_program.rst:102
+msgid "x1"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:102
+msgid "TOP 2"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:102
+#: ../../policy/vtoken_referral_program.rst:102
+#: ../../policy/vtoken_referral_program.rst:109
+msgid "6.0%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:103
+msgid "TOP 3-5"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:103
+#: ../../policy/vtoken_referral_program.rst:110
+msgid "5.0%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:103
+msgid "x3"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:103
+#: ../../policy/vtoken_referral_program.rst:104
+msgid "15.0%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:104
+msgid "TOP 6-10"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:104
+#: ../../policy/vtoken_referral_program.rst:112
+msgid "3.0%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:104
+msgid "x5"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:105
+msgid "TOP 11-20"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:105
+msgid "1.0%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:105
+#: ../../policy/vtoken_referral_program.rst:106
+#: ../../policy/vtoken_referral_program.rst:107
+#: ../../policy/vtoken_referral_program.rst:108
+#: ../../policy/vtoken_referral_program.rst:109
+#: ../../policy/vtoken_referral_program.rst:110
+#: ../../policy/vtoken_referral_program.rst:111
+#: ../../policy/vtoken_referral_program.rst:112
+#: ../../policy/vtoken_referral_program.rst:113
+msgid "x10"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:106
+msgid "TOP 21-30"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:106
+msgid "0.9%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:106
+msgid "9.0%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:107
+msgid "TOP 31-40"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:107
+msgid "0.8%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:107
+msgid "8.0%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:108
+msgid "TOP 41-50"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:108
+msgid "0.7%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:108
+msgid "7.0%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:109
+msgid "TOP 51-60"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:109
+msgid "0.6%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:110
+msgid "TOP 61-70"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:110
+msgid "0.5%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:111
+msgid "TOP 71-80"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:111
+msgid "0.4%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:111
+msgid "4.0%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:112
+msgid "TOP 81-90"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:112
+msgid "0.3%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:113
+msgid "TOP 91-100"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:113
+msgid "0.2%"
+msgstr ""
+
+#: ../../policy/vtoken_referral_program.rst:113
+msgid "2.0%"
+msgstr ""

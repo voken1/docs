@@ -11,10 +11,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-03 22:09+0800\n"
+"POT-Creation-Date: 2019-03-05 15:50+0800\n"
 "PO-Revision-Date: 2019-03-03 13:33+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -53,11 +53,11 @@ msgstr "`Telegram 安卓客户端`_"
 
 #: ../../contributing/chat.rst:20
 msgid "`Telegram for iPhone/iPad`_"
-msgstr ""
+msgstr "`Telegram 苹果手机或平板电脑客户端`_"
 
 #: ../../contributing/chat.rst:21
 msgid "`Telegram for Windows Phone`_"
-msgstr ""
+msgstr "`Telegram Windows 手机客户端`_"
 
 #: ../../contributing/chat.rst:22
 msgid "`Telegram Web-version`_"

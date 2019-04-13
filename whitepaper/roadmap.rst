@@ -11,19 +11,19 @@ Roadmap
    - Vision Network whitepaper v1.0 released
 
 2018.Q3
-   - VNET Token Airdrop by Contract
-   - VNET Token Early-bird/Pre-Sale (Canceled)
-   - VNET Token Airdrop by Invitation (Delayed)
+   - Voken Airdrop by Contract
+   - Voken Pre-Sale (Canceled)
+   - Voken Airdrop by Invitation (Canceled)
    - 150-500 official nodes launched
 
 2018.Q4
    - vnVPN alpha
 
 2019.Q1
-   - VNET Token Directed Airdrop (Delayed)
+   - Voken Directed Airdrop (Delayed)
 
 2019.Q2
-   - VNET Token Public Sale
+   - Voken Public Sale
    - vnP2PNET alpha
 
 2019.Q3
@@ -33,5 +33,6 @@ Roadmap
    - vnCHAIN beta
    - vnSDK beta
    - vnVPN beta
-   - Complete migration upgrade from ERC20 Token to vnCHAIN
 
+2020
+   - Complete migration upgrade from ERC20 Voken to vnCHAIN

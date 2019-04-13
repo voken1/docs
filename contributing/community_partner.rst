@@ -1,6 +1,5 @@
 .. _community_partner:
 
-
 Global Community Partner PLAN
 =============================
 
@@ -18,15 +17,15 @@ to help users in the early stage of the project to take the lead,
 to obtain greater opportunities.
 
 
-Phase#1: 30 Million VNET budget
--------------------------------
+Phase#1: 30 Million Vokens budget
+---------------------------------
 
 Uses include but are not limited to:
 
-- VNET candies support for offline salons
-- VNET reward for sharing online or offline
-- VNET reward for Telegram or WeChat Group and maintenance
-- VNET reward for online social platform
+- Voken candies support for offline salons
+- Voken reward for sharing online or offline
+- Voken reward for Telegram or WeChat Group and maintenance
+- Voken reward for online social platform
 
 
 Requirements of community partners

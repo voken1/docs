@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Michael Brown <michael@vision.network>, 2019
+# VISION official <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"POT-Creation-Date: 2019-04-13 17:50+0800\n"
 "PO-Revision-Date: 2019-01-11 05:18+0000\n"
-"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -40,11 +40,11 @@ msgstr ""
 "虽然包装一些新鲜的概念确实会比较容易抓眼球，但以包装为目的的创新并不是我们想要的，创新驱动发展是一项复杂的系统工程，在 Vision Network "
 "系统方案和生态系统中，我们提倡和鼓励能够解决实际问题的创新，提高效率、降低成本、解决问题。"
 
-#: ../../whitepaper/design_principle.rst:11
+#: ../../whitepaper/design_principle.rst:16
 msgid "Mature and secure technical solutions will have a higher priority"
 msgstr "优先使用安全、已验证成熟的技术方案"
 
-#: ../../whitepaper/design_principle.rst:13
+#: ../../whitepaper/design_principle.rst:18
 msgid ""
 "In the field of distributed node-to-node networks, encryption and privacy "
 "protection and blockchain technology, many predecessors have already "
@@ -54,7 +54,7 @@ msgid ""
 msgstr ""
 "在分布式节点间网络的通信、加密和隐私保护、区块链技术领域，已有很多前辈已完成过大量有意义的工作，其中不乏一些已经成熟的技术方案在业务场景中已经得到了实际验证且表现稳定。"
 
-#: ../../whitepaper/design_principle.rst:15
+#: ../../whitepaper/design_principle.rst:24
 msgid ""
 "For example, the DHT technology, represented by S/Kademlia DHT, has "
 "completed many generations of updates, the intranet penetration and node "
@@ -71,13 +71,13 @@ msgstr ""
 "为代表的非对称加密解密技术，以 OpenVPN 和 ShadowSocks(r) 为代表的虚拟私人网络与代理技术，以 SSL/TLS 和 IPsec "
 "为代表的安全传输技术，链式区块数据结构等等，这些都是非常保贵经验和资源。"
 
-#: ../../whitepaper/design_principle.rst:19
+#: ../../whitepaper/design_principle.rst:38
 msgid ""
 "With practical as the main purpose, technology should serve industry, "
 "concrete application in specific scenes"
 msgstr "技术服务于产业、场景、具体应用，以实用为主要目的"
 
-#: ../../whitepaper/design_principle.rst:21
+#: ../../whitepaper/design_principle.rst:40
 msgid ""
 "The Vision Network will prioritize mature and stable technology solutions, "
 "appropriate integration and innovation, provide services for practical and "
@@ -86,15 +86,16 @@ msgid ""
 msgstr ""
 "Vision Network 将优先选择成熟稳定的技术方案，恰当的融合与创新，为实际的具体应用服务，低成本高效率地解决现实场景中的具体问题。"
 
-#: ../../whitepaper/design_principle.rst:25
+#: ../../whitepaper/design_principle.rst:47
 msgid "Do not pursue the Token price increase"
 msgstr "不追求 Token 的无限涨幅"
 
-#: ../../whitepaper/design_principle.rst:27
+#: ../../whitepaper/design_principle.rst:49
 msgid ""
-"Unrestrained valuation expansion is not the original intention of Vision "
-"Network. From the point of view of ecological currency, the value scale is "
-"stable, the low cost is convenient to hold, the convenience of circulation "
-"and the convenience of payment have more practical significance."
+"Unrestrained valuation expansion is not the original intention of "
+":ref:`voken`. From the point of view of ecological currency, the value scale"
+" is stable, the low cost is convenient to hold, the convenience of "
+"circulation and the convenience of payment have more practical significance."
 msgstr ""
-"无节制的估值膨胀并不是 VNET 的设计初衷，从生态“货币”的角度来看，价值尺度稳定，低成本的方便持有、方便流通和方便支付才更具有实际意义。"
+"无节制的估值膨胀并不是 :ref:`voken` "
+"的设计初衷，从生态“货币”的角度来看，价值尺度稳定，低成本的方便持有、方便流通和方便支付才更具有实际意义。"

@@ -20,7 +20,7 @@ Obviously, the design of vnVPN has naturally satisfied the technical foundation
 for preventing tracking, anonymous browsing and communication.
 If VISION goes one step further and implements a multi-proxy application vnTOR,
 vnTOR has obvious advantages over the original Tor network.
-In other words, an ecosystem that uses VNET Token can motivate the participation of nodes
+In other words, an ecosystem that uses Voken can motivate the participation of nodes
 (more service nodes participate, not just use and claimants),
 and network quality and service quality are more stable and more efficient.
 
@@ -68,11 +68,34 @@ Tor:
 vnTOR, Extensible anonymous network service
 -------------------------------------------
 
-Obviously, Tor has great value and reference value for the exploration and implementation of the network's anonymity and neutrality, and we believe that the crux of the problem that currently leads to the slow and unsuitable use of the Tor network lies in the no incentives. Most of the users who participate in Tor are requesters. They are online when they use it, and they don't keep running when they are not used. As a result, the number of service nodes is in the state of shortage of demand for a long time.
+Obviously, Tor has great value and reference value for the exploration
+and implementation of the network's anonymity and neutrality,
+and we believe that the crux of the problem
+that currently leads to the slow and unsuitable use
+of the Tor network lies in the no incentives.
+Most of the users who participate in Tor are requesters.
+They are online when they use it,
+and they don't keep running when they are not used.
+As a result, the number of service nodes is in the state of shortage of demand for a long time.
 
-According to the actual development of the Vision Network project and opinions of the community, we may develop and implement the vnTOR multi-proxy function in the later period (the user selects the number of proxy layers and pays the corresponding VNET to drive two or more nodes to participate in the routing of data packets. The user can know the node_id of the service node on the path, and the service node is only responsible for completing the data packet routing between the adjacent nodes. The user's source IP is invisible to both the intermediate node and the target website.). It can even be connected to Tor. The network is open, allowing users to visit the address with an .onion suffix, even you can use Hidden Wiki and the Torch search engine.
+According to the actual development of the Vision Network project
+and opinions of the community,
+we may develop and implement the vnTOR multi-proxy function
+in the later period (the user selects the number of proxy layers
+and pays the corresponding Voler to drive two or more nodes
+to participate in the routing of data packets.
+The user can know the node_id of the service node on the path,
+and the service node is only responsible
+for completing the data packet routing between the adjacent nodes.
+The user's source IP is invisible to both the intermediate node and the target website.)
+It can even be connected to Tor.
+The network is open,
+allowing users to visit the address with an .onion suffix,
+even you can use Hidden Wiki and the Torch search engine.
 
-Of course, this part of the work in the future is likely to involve more implementable developers in the design and application by rewarding VNET Token.
+Of course, this part of the work in the future is likely
+to involve more implementable developers in the design
+and application by rewarding Vokens.
 
 
 The Hidden Wiki:
@@ -105,14 +128,13 @@ Dark net / Deep web:
 
 
 
-Future services based on Vision Network will also be settled using VNET Token
------------------------------------------------------------------------------
+Future services based on Vision Network will also be settled using Voken
+------------------------------------------------------------------------
 
-Benefit from the stable value anchor design of VNET Token,
-which makes VNET closer to the true currency
+Benefit from the stable value anchor design of Voken,
+which makes Voken closer to the true currency
 (value scale is stable, convenient to hold and circulate).
 In a sense, not only the software and services officially developed by Vision Network.
 With the promotion of development support policies and support funds,
-more third-party software will also use VNET for service settlement.
-
+more third-party software will also use Voken for service settlement.
 

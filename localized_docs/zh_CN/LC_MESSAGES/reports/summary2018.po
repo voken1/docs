@@ -11,162 +11,175 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-01 17:36+0800\n"
+"POT-Creation-Date: 2019-04-13 15:05+0800\n"
 "PO-Revision-Date: 2019-01-15 13:27+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../reports/summary2018.rst:2
+#: ../../reports/summary2018.rst:4
 msgid "Summary 2018"
 msgstr "2018 年度简要总结"
 
-#: ../../reports/summary2018.rst:4
-msgid "What we have done in 2018:"
-msgstr "我们在 2018 年已经取得的进展："
+#: ../../reports/summary2018.rst:6
+msgid ""
+"Affected by the crypto-currency market environment which is everybody knows,"
+" and we are not eager to start :ref:`voken_sale`, our team canceled or "
+"delayed most market moves."
+msgstr ""
+"受加密货币市场大环境的影响，这是每个人都知道的，并且我们并不急于启动 :ref:`voken_sale` ，团队取消或推延了大部分的市场动作。"
 
-#: ../../reports/summary2018.rst:7
-msgid "2018 Q1:"
-msgstr "2018 年 1 季度："
+#: ../../reports/summary2018.rst:10
+msgid "We had spent more time on the underlying technology development."
+msgstr "我们花费了更多时间在底层技术的研发上。"
 
-#: ../../reports/summary2018.rst:7
+#: ../../reports/summary2018.rst:12
+msgid "Here is a brief list what we had done in the year of 2018"
+msgstr "这里是 2018 年度的一个简要总结列表"
+
+#: ../../reports/summary2018.rst:15
+msgid "2018 Q1"
+msgstr ""
+
+#: ../../reports/summary2018.rst:15
 msgid "Feasibility and technical demonstration completed"
 msgstr "功能特性与技术可行性论证完成"
 
-#: ../../reports/summary2018.rst:12
-msgid "2018 Q2:"
-msgstr "2018 年 2 季度："
+#: ../../reports/summary2018.rst:20
+msgid "2018 Q2"
+msgstr ""
 
-#: ../../reports/summary2018.rst:10
+#: ../../reports/summary2018.rst:18
 msgid "Vision Network Whitepaper v1.0.0 - v1.0.4"
 msgstr "远景网络项目白皮书 v1.0.0 至 1.0.4 版本更新"
 
-#: ../../reports/summary2018.rst:11
-msgid "VNET Token Contract [#token]_ on Ethereum blockchain platform"
-msgstr "$VNET 流量币主合约 [#token]_ 在以太坊区块链平台"
+#: ../../reports/summary2018.rst:19
+msgid ""
+":ref:`voken_contract` on Ethereum blockchain platform (upgraded in Apr 2019)"
+msgstr "以太坊区块链平台上 :ref:`voken_contract` （2019 年 4 月完成升级）"
 
-#: ../../reports/summary2018.rst:12
+#: ../../reports/summary2018.rst:20
 msgid "`Official website`_ and keep it updating later"
 msgstr "`官方网站`_ 并陆续更新"
 
-#: ../../reports/summary2018.rst:18
-msgid "2018 Q3:"
-msgstr "2018 年 3 季度："
-
-#: ../../reports/summary2018.rst:15
-msgid "Delayed `pre-sale` Phase of Token Sale"
+#: ../../reports/summary2018.rst:27
+msgid "2018 Q3"
 msgstr ""
-
-#: ../../reports/summary2018.rst:16
-msgid "Canceled :ref:`airdrop-by-invitation`"
-msgstr ""
-
-#: ../../reports/summary2018.rst:17
-msgid "Launched `257 nodes(servers)` for `vnP2PNET` test net"
-msgstr "为 `vnP2PNET` 启动 `257 个节点服务器` 用以组建测试期的分布式网络"
-
-#: ../../reports/summary2018.rst:18
-msgid "`vnVPN Alpha Server side v0.1.0 on Linux` released"
-msgstr "`vnVPN Alpha 服务端内测 Linux 版 v0.1.0` 完成"
-
-#: ../../reports/summary2018.rst:35
-msgid "2018 Q4:"
-msgstr "2018 年 4 季度："
-
-#: ../../reports/summary2018.rst:21
-msgid "`vnVPN Alpha Client side v0.1.0 on Windows` released"
-msgstr "`vnVPN Alpha 客户端内测 Windows 版 v0.1.0` 完成"
-
-#: ../../reports/summary2018.rst:22
-msgid ""
-"`vnTUNNEL` based on Shadowsocks [#Shadowsocks]_ original protocol "
-"implemented"
-msgstr "基于 Shadowsocks [#Shadowsocks]_ 原版协议重构并改进的 `vnTUNNEL` 完成"
 
 #: ../../reports/summary2018.rst:23
-msgid "`vnVPN Alpha Server side v0.1.1 on Linux` released"
-msgstr "`vnVPN Alpha 服务端内测 Linux 版 v0.1.1` 完成"
+msgid "Delayed `Voken Pre-Sale`"
+msgstr "延迟了 `Voken Pre-Sale`"
 
 #: ../../reports/summary2018.rst:24
-msgid "`vnVPN Alpha Server side v0.1.1 on Windows` released"
-msgstr "`vnVPN Alpha 客户端内测 Windows 版 v0.1.1` 完成"
+msgid "Canceled `Voken Airdrop by invitation`"
+msgstr "取消了 `邀请空投`"
 
 #: ../../reports/summary2018.rst:25
-msgid "RSA encrypted [#RSA]_ P2P [#P2P]_ communication implemented"
-msgstr "使用 RSA [#RSA]_ 非对称加密的 P2P 点对点通信 [#P2P]_ 通信功能实现"
+msgid "Launched ``257 nodes(servers)`` for ``vnP2PNET`` test net"
+msgstr "为 ``vnP2PNET`` 启动 ``257 个节点服务器`` 用以组建测试期的分布式网络"
 
 #: ../../reports/summary2018.rst:26
-msgid "`vnVPN Alpha Server side v0.1.2 on Linux` released"
-msgstr "`vnVPN Alpha 服务端内测 Linux 版 v0.1.2` 完成"
+msgid "``vnVPN Alpha server-side v0.1.0 on Linux`` released"
+msgstr "``vnVPN Alpha 服务端内测 Linux 版 v0.1.0`` 完成"
 
 #: ../../reports/summary2018.rst:27
-msgid "`vnVPN Alpha Server side v0.1.2 on Windows` released"
-msgstr "`vnVPN Alpha 客户端内测 Windows 版 v0.1.2` 完成"
+msgid "``vnVPN Alpha server-side v0.1.0 on Windows`` released"
+msgstr "``vnVPN Alpha 服务端内测 Windows 版 v0.1.0`` 完成"
 
-#: ../../reports/summary2018.rst:28
-msgid "`vnP2PNET` Server nodes networking and synchronization implemented"
-msgstr "`vnP2PNET` 服务节点的组网与同步通信功能完成"
-
-#: ../../reports/summary2018.rst:29
-msgid "`vnVPN Alpha Server side v0.2.0 on Linux` released"
-msgstr "`vnVPN Alpha 服务端内测 Linux 版 v0.2.0` 完成"
+#: ../../reports/summary2018.rst:44
+msgid "2018 Q4"
+msgstr ""
 
 #: ../../reports/summary2018.rst:30
-msgid "`vnVPN Alpha Server side v0.2.0 on Windows` released"
-msgstr "`vnVPN Alpha 客户端内测 Windows 版 v0.2.0` 完成"
+msgid "A simple :ref:`optimized_shadowsocks` released"
+msgstr "一个简洁的 :ref:`optimized_shadowsocks` 发布"
 
 #: ../../reports/summary2018.rst:31
 msgid ""
-"TCP [#TCP]_ NAT traversal [#NAT]_ over UDP [#UDP]_ for `vnTUNNEL` "
+"``vnTUNNEL`` based on Shadowsocks [#Shadowsocks]_ original protocol "
 "implemented"
-msgstr "为 `vnTUNNEL` 经由 UDP [#UDP]_ 开启 TCP [#TCP]_ NAT 内网穿透 [#NAT]_ 完成"
+msgstr "基于 Shadowsocks [#Shadowsocks]_ 原版协议重构并改进的 ``vnTUNNEL`` 完成"
 
 #: ../../reports/summary2018.rst:32
-msgid "`vnVPN Alpha Server side v0.3.0 on Linux` released"
-msgstr "`vnVPN Alpha 服务端内测 Linux 版 v0.3.0` 完成"
+msgid "``vnVPN Alpha server-side v0.1.1 on Linux`` released"
+msgstr "``vnVPN Alpha 服务端内测 Linux 版 v0.1.1`` 完成"
 
 #: ../../reports/summary2018.rst:33
-msgid "`vnVPN Alpha Server side v0.3.0 on Windows` released"
-msgstr "`vnVPN Alpha 客户端内测 Windows 版 v0.3.0` 完成"
+msgid "``vnVPN Alpha server-side v0.1.1 on Windows`` released"
+msgstr "``vnVPN Alpha 服务端内测 Windows 版 v0.1.1`` 完成"
 
 #: ../../reports/summary2018.rst:34
+msgid "RSA encrypted [#RSA]_ P2P [#P2P]_ communication implemented"
+msgstr "使用 RSA [#RSA]_ 非对称加密的 P2P 点对点通信 [#P2P]_ 通信功能实现"
+
+#: ../../reports/summary2018.rst:35
+msgid "``vnVPN Alpha server-side v0.1.2 on Linux`` released"
+msgstr "``vnVPN Alpha 服务端内测 Linux 版 v0.1.2`` 完成"
+
+#: ../../reports/summary2018.rst:36
+msgid "``vnVPN Alpha server-side v0.1.2 on Windows`` released"
+msgstr "``vnVPN Alpha 服务端内测 Windows 版 v0.1.2`` 完成"
+
+#: ../../reports/summary2018.rst:37
+msgid "``vnP2PNET`` Server nodes networking and synchronization implemented"
+msgstr "``vnP2PNET`` 服务节点的组网与同步通信功能完成"
+
+#: ../../reports/summary2018.rst:38
+msgid "``vnVPN Alpha server-side v0.2.0 on Linux`` released"
+msgstr "``vnVPN Alpha 服务端内测 Linux 版 v0.2.0`` 完成"
+
+#: ../../reports/summary2018.rst:39
+msgid "``vnVPN Alpha server-side v0.2.0 on Windows`` released"
+msgstr "``vnVPN Alpha 服务端内测 Windows 版 v0.2.0`` 完成"
+
+#: ../../reports/summary2018.rst:40
+msgid ""
+"TCP [#TCP]_ NAT traversal [#NAT]_ over UDP [#UDP]_ for ``vnTUNNEL`` "
+"implemented"
+msgstr "为 ``vnTUNNEL`` 经由 UDP [#UDP]_ 开启 TCP [#TCP]_ NAT 内网穿透 [#NAT]_ 完成"
+
+#: ../../reports/summary2018.rst:41
+msgid "``vnVPN Alpha server-side v0.3.0 on Linux`` released"
+msgstr "``vnVPN Alpha 服务端内测 Linux 版 v0.3.0`` 完成"
+
+#: ../../reports/summary2018.rst:42
+msgid "``vnVPN Alpha server-side v0.3.0 on Windows`` released"
+msgstr "``vnVPN Alpha 服务端内测 Windows 版 v0.3.0`` 完成"
+
+#: ../../reports/summary2018.rst:43
 msgid ""
 ":ref:`autossr` (A free ShadowsocksR [#ShadowsocksR]_ subscription updating "
 "tool) released"
-msgstr ""
+msgstr ":ref:`autossr` （一个可供免费使用的 ShadowsocksR [#ShadowsocksR]_ 订阅更新工具）发布"
 
-#: ../../reports/summary2018.rst:37
-msgid "`VNET Token Contract on etherscan.io`_"
-msgstr "`$VNET 流量币主合约 on etherscan.io`_"
-
-#: ../../reports/summary2018.rst:38
+#: ../../reports/summary2018.rst:49
 msgid "`Shadowsocks on GitHub`_"
 msgstr "`GitHub：Shadowsocks`_"
 
-#: ../../reports/summary2018.rst:39
+#: ../../reports/summary2018.rst:50
 msgid "`RSA encrypted on WikiPedia`_"
 msgstr "`维基百科：RSA 加密`_"
 
-#: ../../reports/summary2018.rst:40
+#: ../../reports/summary2018.rst:51
 msgid "`P2P, Peer-to-peer on WikiPedia`_"
 msgstr "`维基百科：P2P 点对点网络`_"
 
-#: ../../reports/summary2018.rst:41
+#: ../../reports/summary2018.rst:52
 msgid "`TCP, Transmission Control Protocol on WikiPedia`_"
 msgstr "`维基百科：TCP 传输控制协议`_"
 
-#: ../../reports/summary2018.rst:42
+#: ../../reports/summary2018.rst:53
 msgid "`NAT traversal on WikiPedia`_"
 msgstr "`维基百科：NAT 内网穿透`_"
 
-#: ../../reports/summary2018.rst:43
+#: ../../reports/summary2018.rst:54
 msgid "`UDP, User Datagram Protocol on WikiPedia`_"
 msgstr "`维基百科：UDP 用户数据报协议`_"
 
-#: ../../reports/summary2018.rst:44
+#: ../../reports/summary2018.rst:55
 msgid "`ShadowsocksR on GitHub`_"
 msgstr "`GitHub：ShadowsocksR`_"

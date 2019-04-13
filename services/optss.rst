@@ -1,3 +1,5 @@
+.. _optimized_shadowsocks:
+
 Optimized shadowsocks
 =====================
 

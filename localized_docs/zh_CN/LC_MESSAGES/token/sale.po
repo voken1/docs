@@ -12,10 +12,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-06 18:35+0800\n"
+"POT-Creation-Date: 2019-04-13 12:31+0800\n"
 "PO-Revision-Date: 2019-04-01 09:40+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,624 +23,417 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../token/sale.rst:4
-msgid "$VNET TokenSale (About to start)"
-msgstr "$VNET 流量币销售规则（即将发售）"
+msgid "Voken Public-Sale (About to start)"
+msgstr "Voken 公开销售（即将开始）"
 
 #: ../../token/sale.rst:6
 msgid ""
-":ref:`vnet_token` has accurate service value and usage value anchoring. You "
-"can spend 1 VNET to exchange 100GB traffic to use the Internet without "
-"obstacles, or earn VNET by selling/sharing your idle bandwidth."
+":ref:`voken` has accurate service value and usage value anchoring. You can "
+"spend ``1 Voken`` to exchange ``100GB traffic`` to use the unblocked "
+"accessible Internet, or earn Vokens by selling/sharing your idle bandwidth."
 msgstr ""
-":ref:`vnet_token` 具有准确的服务价值和使用价值锚定。您可以花费 1 VNET 使用 100GB "
-"无障碍国际互联网的流量服务，或通过贡献分享您的闲置带宽赚取 VNET。"
+":ref:`voken` 具有准确的服务和使用价值锚定。您可以花费 ``1 Voken`` 使用 ``100GB 流量`` "
+"的无障碍互联网服务，也可以通过销售或分享您的闲置带宽赚取 Vokens 。"
 
-#: ../../token/sale.rst:10
-msgid ""
-"We introduced whitelist and referral mechanisms in the TokenSale rules. "
-"There is an exciting plan that everyone who has an Ethereum wallet address "
-"can participate in."
-msgstr "我们在销售规则中引入了白名单与推荐机制，任何人只要拥有以太坊钱包地址，都可以参与到这个激动人心的销售计划中来。"
-
-#: ../../token/sale.rst:15
-msgid ""
-"For a huge, unmet, just-needed market, this is a win-win solution for the "
-"whole system. The sooner you participate in the purchase, the more you get "
-"and enjoy the benefits of ecological growth. If you are willing to "
-"participate in community promotion, popularize consensus, and expand your "
-"users, you will receive additional rewards."
-msgstr ""
-"对于一个庞大的、未被满足的刚需市场而言，这个是一个共赢的解决方案。越早参与，获得和享受到的增长红利就越大。如果您有兴趣加入到社区推广、普及共识并拓展用户的行动中来，您还将获得更多额外的奖励。"
-
-#: ../../token/sale.rst:25
+#: ../../token/sale.rst:13
 msgid "Service Value & Usage Value ANCHORING"
 msgstr "服务价值与使用价值的锚定"
 
-#: ../../token/sale.rst:27
-msgid "**1 VNET = 100GB** client traffic, solid usage value"
-msgstr "**1 VNET = 100GB** 客户端流量，坚实的使用价值"
+#: ../../token/sale.rst:15
+msgid "**1 Voken = 100GB** client traffic, solid value base."
+msgstr "**1 Voken = 100GB** 客户端流量，坚实的价值基础。"
 
-#: ../../token/sale.rst:28
+#: ../../token/sale.rst:16
 msgid ""
-"100GB is worth about **$8.0 ~ $8.5** in mature IDCs and cloud service "
-"platforms, such as AWS and GCP"
-msgstr "在主流的 IDC 机房和云服务平台 100GB 资源价值大约 **$8.0 ~ $8.5 美金**，比如亚马逊的 AWS 和谷歌的 GCP"
+"100GB is worth about **$8.00 - 8.50 USD** in mature IDCs and cloud service "
+"platforms, such as `Amazon AWS`_ and `Google GCP`_."
+msgstr ""
+"在主流 IDC 服务商和云服务平台，100GB 价值约 **$8.00 - 8.50 美元** ，比如 `亚马逊 AWS`_ 和 `谷歌 GCP`_ 。"
 
-#: ../../token/sale.rst:33
-msgid "Incremental sales price: $0.001 ~ $0.601 USD"
-msgstr "销售价格递增区间：$0.001 ~ $0.601"
+#: ../../token/sale.rst:25
+msgid "About 7.5 billion Vokens for Sale"
+msgstr "销售约 75 亿 Vokens"
+
+#: ../../token/sale.rst:27
+msgid ""
+"There are about **7.5 billion Vokens** would released, accounting for "
+"**21.43%** of the total supply."
+msgstr "一共有约为 **75 亿 Vokens** 将被用于销售释放，相当于总量的 **21.43%** 。"
+
+#: ../../token/sale.rst:30
+msgid ""
+"All Vokens for sale were stored in an open-sourced "
+":ref:`voken_sale_contract` on the Ethereum blockchain, to make sure it is "
+"clear and free to check at anytime."
+msgstr ""
+"所有待售的 Vokens 流量币将被预存在一个在以太坊区块链上已开源的 :ref:`voken_sale_contract` "
+"中，以确保销售过程清晰并且可以在任何时间被查看。"
 
 #: ../../token/sale.rst:35
 msgid ""
-"Starting at **1 VNET = $0.001**, until the price rises to **1 VNET = "
-"$0.601**"
-msgstr "起售价为 **1 VNET = $0.001 USD**，直至价格达到 **1 VNET = $0.601** 时售罄"
+"Crypto-currency ETH will be used as the only trading medium to complete the "
+"sale."
+msgstr "加密货币 ETH 以太坊是用于完成销售的唯一支付媒介。"
 
-#: ../../token/sale.rst:37
+#: ../../token/sale.rst:39
+msgid "Incremental sales price: $0.001 - $0.601"
+msgstr "逐渐递增的销售价格 $0.001 - $0.601"
+
+#: ../../token/sale.rst:41
+msgid "Starting at **1 Voken = $0.001**, until the price reaches **$0.601**."
+msgstr "初始价格 **1Voken = $0.001 美元**，结束价格 **$0.601** 。"
+
+#: ../../token/sale.rst:43
 msgid "Total sales are divided into 60,000 stages, each step of $0.00001."
 msgstr "销售共分为 60,000 个阶段，每个阶段价格上涨 $0.00001 美元。"
 
-#: ../../token/sale.rst:39
+#: ../../token/sale.rst:45
 msgid ""
 "In the very first phase, named **RAPID-GROWTH PHASE**, which is divided into"
-" 15,000 stages, each selling 100,000 VNET, for a total of 1.5 billion VNET."
-msgstr "最初的 15,000 个阶段为 **快速成长期**，每个阶段销售 100,000 VNET，共出售 15 亿 VNET。"
+" 15,000 stages, each selling 100,000 Vokens, for a total of 1.5 billion "
+"Vokens."
+msgstr "最初的 15,000 个阶段为 **快速成长期**，每个阶段销售 100,000 Vokens，共出售 15 亿 Vokens。"
 
-#: ../../token/sale.rst:43
+#: ../../token/sale.rst:49
 msgid ""
 "Whenever a stage is finished, the exchange price increases by $0.00001:"
 msgstr "每完成一个销售阶段，兑换价格上涨 $0.00001 美元："
 
-#: ../../token/sale.rst:46 ../../token/sale.rst:65
+#: ../../token/sale.rst:52 ../../token/sale.rst:77
 msgid "Stage Number"
 msgstr "阶段"
 
-#: ../../token/sale.rst:46 ../../token/sale.rst:65
+#: ../../token/sale.rst:52 ../../token/sale.rst:77
 msgid "Sales Volume"
 msgstr "出售量"
 
-#: ../../token/sale.rst:46 ../../token/sale.rst:65
+#: ../../token/sale.rst:52 ../../token/sale.rst:77
 msgid "Exchange Price"
 msgstr "兑换价格"
 
-#: ../../token/sale.rst:46 ../../token/sale.rst:65
+#: ../../token/sale.rst:52 ../../token/sale.rst:77
 msgid "Sales Amount"
 msgstr "销售总额"
 
-#: ../../token/sale.rst:48
+#: ../../token/sale.rst:54
 msgid "0"
 msgstr ""
 
-#: ../../token/sale.rst:48 ../../token/sale.rst:50 ../../token/sale.rst:52
-#: ../../token/sale.rst:54 ../../token/sale.rst:56
-msgid "100,000 VNET"
+#: ../../token/sale.rst:54 ../../token/sale.rst:56 ../../token/sale.rst:58
+#: ../../token/sale.rst:62 ../../token/sale.rst:66 ../../token/sale.rst:68
+msgid "100,000 Vokens"
 msgstr ""
 
-#: ../../token/sale.rst:48
-msgid "$0.00100"
+#: ../../token/sale.rst:54
+msgid "**$0.00100**"
 msgstr ""
 
-#: ../../token/sale.rst:48
+#: ../../token/sale.rst:54
 msgid "$100 + $0 = **$100**"
 msgstr ""
 
-#: ../../token/sale.rst:50
+#: ../../token/sale.rst:56
 msgid "1"
 msgstr ""
 
-#: ../../token/sale.rst:50
+#: ../../token/sale.rst:56
 msgid "$0.00101"
 msgstr ""
 
-#: ../../token/sale.rst:50
+#: ../../token/sale.rst:56
 msgid "$100 + $1 = **$101**"
 msgstr ""
 
-#: ../../token/sale.rst:52
+#: ../../token/sale.rst:58
 msgid "2"
 msgstr ""
 
-#: ../../token/sale.rst:52
+#: ../../token/sale.rst:58
 msgid "$0.00102"
 msgstr ""
 
-#: ../../token/sale.rst:52
+#: ../../token/sale.rst:58
 msgid "$100 + $2 = **$102**"
 msgstr ""
 
-#: ../../token/sale.rst:54 ../../token/sale.rst:54 ../../token/sale.rst:54
-#: ../../token/sale.rst:73 ../../token/sale.rst:73 ../../token/sale.rst:73
+#: ../../token/sale.rst:60 ../../token/sale.rst:60 ../../token/sale.rst:60
+#: ../../token/sale.rst:60 ../../token/sale.rst:64 ../../token/sale.rst:64
+#: ../../token/sale.rst:64 ../../token/sale.rst:64 ../../token/sale.rst:85
+#: ../../token/sale.rst:85 ../../token/sale.rst:85 ../../token/sale.rst:85
+#: ../../token/sale.rst:89 ../../token/sale.rst:89 ../../token/sale.rst:89
+#: ../../token/sale.rst:89
 msgid "..."
 msgstr ""
 
-#: ../../token/sale.rst:56
+#: ../../token/sale.rst:62
+msgid "7500"
+msgstr ""
+
+#: ../../token/sale.rst:62
+msgid "$0.07600"
+msgstr ""
+
+#: ../../token/sale.rst:62
+msgid "$100 + $7500 = **$7,600**"
+msgstr ""
+
+#: ../../token/sale.rst:66
+msgid "14999"
+msgstr ""
+
+#: ../../token/sale.rst:66
+msgid "$0.15099"
+msgstr ""
+
+#: ../../token/sale.rst:66
+msgid "$100 + $15,100 = **$15,099**"
+msgstr ""
+
+#: ../../token/sale.rst:68
 msgid "15000"
 msgstr ""
 
-#: ../../token/sale.rst:56
+#: ../../token/sale.rst:68
 msgid "$0.15100"
 msgstr ""
 
-#: ../../token/sale.rst:56
+#: ../../token/sale.rst:68
 msgid "$100 + $15,100 = **$15,100**"
 msgstr ""
 
-#: ../../token/sale.rst:59
+#: ../../token/sale.rst:71
 msgid ""
-"After rapid-growth phase finished, **STEADY-GROWTH PHASE** automatically "
-"comes (45,000 stages total), $15,100 USD for each stage, until the exchange "
-"price reaches 1 VNET = $0.601:"
+"After the **rapid-growth phase** finished, the **STEADY-GROWTH PHASE** "
+"automatically comes (45,000 stages total), $15,100 USD for each stage, until"
+" the exchange price reaches **$0.601**:"
 msgstr ""
-"快速成长期结束后，将自动进入 **稳定增长期** （共 45,000 个阶段），每阶段销售额为 $15,100 美元，直至价格达到 1 VNET = "
-"$0.601 时售罄："
+"**快速成长期** 结束后，将自动进入 **稳定增长期** （共 45,000 个阶段），每阶段销售额为 $15,100 美元，直至价格达到 "
+"**$0.601** 时售罄："
 
-#: ../../token/sale.rst:67
+#: ../../token/sale.rst:79
 msgid "15001"
 msgstr ""
 
-#: ../../token/sale.rst:67
-msgid "99993.377922 VNET"
+#: ../../token/sale.rst:79
+msgid "99993.377922 Vokens"
 msgstr ""
 
-#: ../../token/sale.rst:67
+#: ../../token/sale.rst:79
 msgid "$0.15101"
 msgstr ""
 
-#: ../../token/sale.rst:67 ../../token/sale.rst:69 ../../token/sale.rst:71
-#: ../../token/sale.rst:73 ../../token/sale.rst:75
+#: ../../token/sale.rst:79 ../../token/sale.rst:81 ../../token/sale.rst:83
+#: ../../token/sale.rst:87 ../../token/sale.rst:91 ../../token/sale.rst:93
 msgid "**$15100**"
 msgstr ""
 
-#: ../../token/sale.rst:69
+#: ../../token/sale.rst:81
 msgid "15002"
 msgstr ""
 
-#: ../../token/sale.rst:69
-msgid "99986.756721 VNET"
+#: ../../token/sale.rst:81
+msgid "99986.756721 Vokens"
 msgstr ""
 
-#: ../../token/sale.rst:69
+#: ../../token/sale.rst:81
 msgid "$0.15102"
 msgstr ""
 
-#: ../../token/sale.rst:71
+#: ../../token/sale.rst:83
 msgid "15003"
 msgstr ""
 
-#: ../../token/sale.rst:71
-msgid "99980.136397 VNET"
+#: ../../token/sale.rst:83
+msgid "99980.136397 Vokens"
 msgstr ""
 
-#: ../../token/sale.rst:71
+#: ../../token/sale.rst:83
 msgid "$0.15103"
 msgstr ""
 
-#: ../../token/sale.rst:75
+#: ../../token/sale.rst:87
+msgid "37500"
+msgstr ""
+
+#: ../../token/sale.rst:87
+msgid "40159.574468 Vokens"
+msgstr ""
+
+#: ../../token/sale.rst:87
+msgid "$0.37600"
+msgstr ""
+
+#: ../../token/sale.rst:91
+msgid "59999"
+msgstr ""
+
+#: ../../token/sale.rst:91
+msgid "25125.210070 Vokens"
+msgstr ""
+
+#: ../../token/sale.rst:91
+msgid "$0.60099"
+msgstr ""
+
+#: ../../token/sale.rst:93
 msgid "60000"
 msgstr ""
 
-#: ../../token/sale.rst:75
-msgid "25124.792013 VNET"
+#: ../../token/sale.rst:93
+msgid "25124.792013 Vokens"
 msgstr ""
 
-#: ../../token/sale.rst:75
-msgid "$0.60100"
+#: ../../token/sale.rst:93
+msgid "**$0.60100**"
 msgstr ""
 
-#: ../../token/sale.rst:80
-msgid "7.172 billion VNET for Sale on Etheruem bolckchain"
-msgstr "通过以太坊合约公开销售 71.72 亿 VNET 流量币"
-
-#: ../../token/sale.rst:82
-msgid ""
-"There is **7.172 billion VNET** would released accounting for **20.49%** of "
-"the total supply."
-msgstr "共释放 **71.72 亿 VNET**，占总量的 **20.49%**。"
-
-#: ../../token/sale.rst:85
-msgid ""
-"All VNET tokens for sale would be stored in an open-sourced Ethereum "
-"contract, to make sure it is clear and free to check anytime. Crypto-"
-"currency ETH will be used as the only trading medium to complete the sale."
-msgstr ""
-"所有待售 VNET 存入开源的以太坊智能合约地址中，以确保过程的透明公开并可随时查看。加密货币 **ETH** 将作为整个销售过程中的唯一支付媒介。"
-
-#: ../../token/sale.rst:91
+#: ../../token/sale.rst:98
 msgid "Dynamic Audit ETH price"
 msgstr "动态的 ETH 审计价格"
 
-#: ../../token/sale.rst:93
+#: ../../token/sale.rst:100
 msgid ""
 "Using ETH as the payment medium, we will adjust the **Audit ETH price** "
-"according to the latest price in the trading market to ensure that VNET is "
-"relatively stable against legal tender at different times during the token "
-"sale phase."
+"dynamically, according to the latest price in the trading market, in order "
+"to ensure that Voken is relatively stable against legal tender at different "
+"times during the whole sale phase."
 msgstr ""
-"由于使用 ETH 作为支付媒介，我们将根据最新的市场情况动态的调整 **ETH 审计价格**，以保证销售过程中 VNET 与法币兑换价格的相对稳定。"
+"由于使用 ETH 以太坊作为支付媒介，我们将根据最新的市场情况动态的调整 **ETH 审计价格** ，以保证销售过程中 Voken "
+"校于法币的兑换价格相对稳定。"
 
-#: ../../token/sale.rst:101
-msgid "**Latest Audit ETH price: $170**"
-msgstr " **最新 ETH 审计价格为：$170 美元**"
+#: ../../token/sale.rst:106
+msgid ""
+"**Latest Audit ETH price: $170**, That means you can use 1 ETH as $170 USD."
+msgstr "**最新的 ETH 审计价格是 $170 美元** ，这意味着你可以把每 1 ETH 当作 $170 美元来使用。"
 
-#: ../../token/sale.rst:103
-msgid "That means you can use 1 ETH as $170 USD."
-msgstr " 这意味着您可以将 1 ETH 当做 $170 美元来使用。"
+#: ../../token/sale.rst:110
+msgid "Per transaction"
+msgstr "每笔交易"
 
-#: ../../token/sale.rst:107
+#: ../../token/sale.rst:112
+msgid "Minimum: 0.1 ETH"
+msgstr "最低：0.1 ETH"
+
+#: ../../token/sale.rst:113
+msgid "Maximum: 100 ETH"
+msgstr "最高：100 ETH"
+
+#: ../../token/sale.rst:117
+msgid "Bonus"
+msgstr "额外奖励"
+
+#: ../../token/sale.rst:119
+msgid "A single transaction ``> 10 ETH`` will receive **10% bonus**."
+msgstr "单笔转账 ``> 10 ETH`` 将收到 **10% 额外奖励** 。"
+
+#: ../../token/sale.rst:123
 msgid "Whitelist"
 msgstr "白名单"
 
-#: ../../token/sale.rst:109
+#: ../../token/sale.rst:125
 msgid ""
-"Anyone who use ETH to exchange VNET in the **TokenSale Contract** through a "
-"whitelisted wallet address would enjoy a gift of **buy one and get one "
-"free**, and the non-white list wallet address does not enjoy any."
-msgstr "通过白名单中的钱包地址在 **销售合约** 中购买 VNET 可享受 **买一送一** 的优惠，未在白名单列表中的钱包地址则不享受此待遇。"
-
-#: ../../token/sale.rst:112
-msgid ""
-"Registering each white-list wallet address cost 1,000 VNET, and a referrer's"
-" wallet address is needed."
-msgstr "注册一个白名单需要使用 1,000 VNET，并需要一个推荐人的钱包地址才能注册。"
-
-#: ../../token/sale.rst:114
-msgid "The referral chain data will be saved to Ethereum blockchain."
-msgstr "推荐关系链数据都将保存在以太坊区块链中。"
-
-#: ../../token/sale.rst:115
-msgid ""
-"The VNET tokens used to register the whitelist will be 100% rewarded, up to "
-"15 levels:"
-msgstr "用于注册白名单的 VNET 将 100% 全部奖励给推荐关系链最近的 15 级："
-
-#: ../../token/sale.rst:119 ../../token/sale.rst:154
-msgid "Level"
-msgstr "层级"
-
-#: ../../token/sale.rst:119
-msgid "Amount of reward (1000 VNET Total)"
-msgstr "奖励（共 1000 VNET）"
-
-#: ../../token/sale.rst:121 ../../token/sale.rst:156
-msgid "Lv.1"
-msgstr ""
-
-#: ../../token/sale.rst:121
-msgid "300 VNET"
-msgstr ""
-
-#: ../../token/sale.rst:122 ../../token/sale.rst:157
-msgid "Lv.2"
-msgstr ""
-
-#: ../../token/sale.rst:122
-msgid "200 VNET"
-msgstr ""
-
-#: ../../token/sale.rst:123 ../../token/sale.rst:158
-msgid "Lv.3"
-msgstr ""
-
-#: ../../token/sale.rst:123 ../../token/sale.rst:124 ../../token/sale.rst:125
-msgid "100 VNET"
-msgstr ""
-
-#: ../../token/sale.rst:124 ../../token/sale.rst:159
-msgid "Lv.4"
-msgstr ""
-
-#: ../../token/sale.rst:125 ../../token/sale.rst:160
-msgid "Lv.5"
-msgstr ""
-
-#: ../../token/sale.rst:126 ../../token/sale.rst:161
-msgid "Lv.6"
-msgstr ""
-
-#: ../../token/sale.rst:126
-msgid "50 VNET"
-msgstr ""
-
-#: ../../token/sale.rst:127 ../../token/sale.rst:162
-msgid "Lv.7"
-msgstr ""
-
-#: ../../token/sale.rst:127
-msgid "40 VNET"
-msgstr ""
-
-#: ../../token/sale.rst:128 ../../token/sale.rst:163
-msgid "Lv.8"
-msgstr ""
-
-#: ../../token/sale.rst:128
-msgid "30 VNET"
-msgstr ""
-
-#: ../../token/sale.rst:129 ../../token/sale.rst:164
-msgid "Lv.9"
-msgstr ""
+"Anyone who participate in the :ref:`voken_sale` by using a whitelisted ETH "
+"wallet address would enjoy a gift of **BUY ONE AND GET ONE MORE FREE**."
+msgstr "白名单中的钱包地址参加 :ref:`voken_sale` 可享受 **买一送一** 特权。"
 
 #: ../../token/sale.rst:129
-msgid "20 VNET"
-msgstr ""
+msgid "See: :ref:`register_voken_sale_whitelist`"
+msgstr "查看： :ref:`register_voken_sale_whitelist`"
 
-#: ../../token/sale.rst:130 ../../token/sale.rst:165
-msgid "Lv.10"
-msgstr ""
+#: ../../token/sale.rst:133
+msgid "50% - 100% of sales revenue will be used as rewards"
+msgstr "销售收入的 50% - 100% 将被用于回馈奖励"
 
-#: ../../token/sale.rst:130 ../../token/sale.rst:131 ../../token/sale.rst:132
-#: ../../token/sale.rst:133 ../../token/sale.rst:134 ../../token/sale.rst:135
-msgid "10 VNET"
+#: ../../token/sale.rst:135
+msgid ""
+"We introduced whitelist and referral mechanisms in the :ref:`voken_sale` "
+"rules. There is an exciting plan that everyone who has an ETH wallet address"
+" can participate in."
 msgstr ""
-
-#: ../../token/sale.rst:131 ../../token/sale.rst:166
-msgid "Lv.11"
-msgstr ""
-
-#: ../../token/sale.rst:132 ../../token/sale.rst:167
-msgid "Lv.12"
-msgstr ""
-
-#: ../../token/sale.rst:133 ../../token/sale.rst:168
-msgid "Lv.13"
-msgstr ""
-
-#: ../../token/sale.rst:134 ../../token/sale.rst:169
-msgid "Lv.14"
-msgstr ""
-
-#: ../../token/sale.rst:135 ../../token/sale.rst:170
-msgid "Lv.15"
-msgstr ""
+"我们在 :ref:`voken_sale` 规则中引入了白名单和转介引荐机制。这是一个激动人心的计划，每一个拥有 ETH "
+"以太坊钱包的人都可以参与到这项计划中来。"
 
 #: ../../token/sale.rst:140
-msgid "50% ~ 100% of sales revenue will be rewarded"
-msgstr "销售收入的 50% ~ 100% 将用于奖励"
-
-#: ../../token/sale.rst:142
 msgid ""
-"In this sales plan, 50% ~ 100% of sales revenue is designed as a **COMMUNITY"
-" REWARD**, 35% of them are **Referral Reward** and the remaining 15% ~ 65% "
-"are used as **Top-Sales Reward**."
+"For a huge, unmet, just-needed market, this is a win-win solution for the "
+"whole system. The sooner you participate in by purchasing, the more you get "
+"and enjoy the benefits of ecological growth. If you are willing to "
+"participate in community promotion, popularize consensus, and refer new "
+"users, you could **earn ETH and Vokens**."
 msgstr ""
-"在整个销售计划中，销售收入的 50% ~ 100% 被设计为 **社区奖励**，其中 35% 作为 **推荐奖励**，15% ~ 65% 用于 "
-"**赛季排名奖励**。"
+"对于一个庞大的、未被满足的刚需市场而言，这是一个共赢的系统方案。越早参与，伴随着生态发展，享受到的收益和红利就越大。如果您有兴趣加入到社区推广、促进共识并引荐拓展新用户的行动中来，您还可以"
+" **赚取 ETH 和 Vokens** 。"
 
-#: ../../token/sale.rst:147
-msgid "Sales Referral Reward: 35%"
-msgstr "销售推荐奖：35%"
-
-#: ../../token/sale.rst:149
+#: ../../token/sale.rst:148
 msgid ""
-"Settled with ETH, transfer to the wallet addresses automatically and "
-"immediately."
-msgstr "使用 ETH 即时结算，自动转账到钱包地址。"
+"In this sales plan, 50% - 100% of sales revenue is designed as **COMMUNITY "
+"and PROMOTION TEAM REWARDS**:"
+msgstr "在销售计划中，50% - 100% 的销售收入被设计为 **社区和推广团队奖励** ："
 
-#: ../../token/sale.rst:150
-msgid "According to the referral chain registered in the whitelist."
-msgstr "根据白名单记录的推荐关系链。"
-
-#: ../../token/sale.rst:151
-msgid "Up to 15 levels:"
-msgstr "最多至 15 级："
-
-#: ../../token/sale.rst:154
-msgid "Referral reward (35% Total)"
-msgstr "推荐人奖励（共 35%）"
-
-#: ../../token/sale.rst:156 ../../token/sale.rst:157
-msgid "6%"
+#: ../../token/sale.rst:152
+msgid ":ref:`sales_referral_reward`"
 msgstr ""
 
-#: ../../token/sale.rst:158
-msgid "5%"
+#: ../../token/sale.rst:153
+msgid ":ref:`top_sales_reward`"
 msgstr ""
+
+#: ../../token/sale.rst:155
+msgid "Learn more about: :ref:`voken_referral_program`"
+msgstr "了解更多关于 :ref:`voken_referral_program`"
 
 #: ../../token/sale.rst:159
-msgid "4%"
-msgstr ""
-
-#: ../../token/sale.rst:160
-msgid "3%"
-msgstr ""
+msgid "For example"
+msgstr "举例说明"
 
 #: ../../token/sale.rst:161
-msgid "2%"
-msgstr ""
-
-#: ../../token/sale.rst:162 ../../token/sale.rst:163 ../../token/sale.rst:164
-#: ../../token/sale.rst:165 ../../token/sale.rst:166 ../../token/sale.rst:167
-#: ../../token/sale.rst:168 ../../token/sale.rst:169 ../../token/sale.rst:170
-msgid "1%"
-msgstr ""
-
-#: ../../token/sale.rst:175
-msgid "Seasons and Top-Sales Reward: 15% ~ 65%"
-msgstr "赛季排名奖：15% ~ 65%"
-
-#: ../../token/sale.rst:177
 msgid ""
-"The token sales is divided into 60,000 stages, and each 600 stages is "
-"defined as a **SEASON**, that is also 1% of the entire progress."
-msgstr "销售全程共分为 60,000 个阶段，销售进度的每 1% 即 600 个阶段为一个 **赛季**。"
+"If you send **20 ETH** to the :ref:`voken_sale_contract` at the **37500th "
+"stage**, and the **Audit ETH price** goes to **$200 USD** for example:"
+msgstr ""
+"如果您在 **第 37500 个阶段** 发送 **20 ETH** 到 :ref:`voken_sale_contract` ，假设当时 **ETH "
+"以太坊审计价格** 上涨到了 **$200 美元** ，那么："
+
+#: ../../token/sale.rst:165
+msgid "This **20 ETH** will be treated as `$200 x20 ETH =` **$4,000 USD**."
+msgstr "这 **20 ETH** 将被视同于 `$200 x20 ETH =` **$4,000 美元** 。"
+
+#: ../../token/sale.rst:166
+msgid ""
+"At the **37500th stage**, the exchange price is **$0.37600**, that is `$4000"
+" / $0.37600 =` **10638.297872 Vokens**."
+msgstr ""
+"在 **第 37500 个阶段** ，兑换价格是 **$0.37600** ，也就是 `$4000 / $0.37600 =` "
+"**10638.297872 Vokens** 。"
+
+#: ../../token/sale.rst:169
+msgid ""
+"A single transaction ``> 10 ETH`` will receive **10% bonus**, that is "
+"`10638.297872 x 10% =` **1063.829787 Vokens**."
+msgstr ""
+"单笔转账 ``> 10 ETH`` 将收到 **10% 额外奖励** ，`10638.297872 x 10% =` **1063.829787 "
+"Vokens** 。"
+
+#: ../../token/sale.rst:171
+msgid "Subtotal: `10638.297872 + 1063.829787 =` **11702.667659 Vokens**."
+msgstr "小计： `10638.297872 + 1063.829787 =` **11702.667659 Vokens** 。"
+
+#: ../../token/sale.rst:172
+msgid ""
+"If your address is whitelisted, according to **BUY ONE AND GET ONE MORE "
+"FREE** privilege, you will receive a gift of **11702.667659 Vokens**."
+msgstr "如果您的钱包地址在白名单列表中，根据 **买一送一** 特权，您还将收到一份 **11702.667659 Vokens** 。"
+
+#: ../../token/sale.rst:176
+msgid ""
+"Finally, the amount is `11702.667659 + 11702.667659 =` **23405.335318 "
+"Vokens**."
+msgstr "最终总量是 `11702.667659 + 11702.667659 =` **23405.335318 Vokens** 。"
 
 #: ../../token/sale.rst:180
-msgid ""
-"With sales progress, 15% ~ 65% of sales revenue will be used as **Top-Sales "
-"Reward** for each season."
-msgstr "根据销售进度，每个赛季销售收入的 15% ~ 65% 将用于 **排名奖励**。"
-
-#: ../../token/sale.rst:182
-msgid "Awards to TOP100 by ranking:"
-msgstr "排位赛前 100 名的奖金："
-
-#: ../../token/sale.rst:185
-msgid "Rank"
-msgstr "排名"
-
-#: ../../token/sale.rst:185
-msgid "Ratio"
-msgstr "奖金比例"
-
-#: ../../token/sale.rst:185
-msgid "qty"
-msgstr "份数"
-
-#: ../../token/sale.rst:185
-msgid "Proportion"
-msgstr "总占比"
-
-#: ../../token/sale.rst:187
-msgid "TOP 1"
-msgstr ""
-
-#: ../../token/sale.rst:187 ../../token/sale.rst:187 ../../token/sale.rst:191
-msgid "10.0%"
-msgstr ""
-
-#: ../../token/sale.rst:187 ../../token/sale.rst:188
-msgid "x1"
-msgstr ""
-
-#: ../../token/sale.rst:188
-msgid "TOP 2"
-msgstr ""
-
-#: ../../token/sale.rst:188 ../../token/sale.rst:188 ../../token/sale.rst:195
-msgid "6.0%"
-msgstr ""
-
-#: ../../token/sale.rst:189
-msgid "TOP 3-5"
-msgstr ""
-
-#: ../../token/sale.rst:189 ../../token/sale.rst:196
-msgid "5.0%"
-msgstr ""
-
-#: ../../token/sale.rst:189
-msgid "x3"
-msgstr ""
-
-#: ../../token/sale.rst:189 ../../token/sale.rst:190
-msgid "15.0%"
-msgstr ""
-
-#: ../../token/sale.rst:190
-msgid "TOP 6-10"
-msgstr ""
-
-#: ../../token/sale.rst:190 ../../token/sale.rst:198
-msgid "3.0%"
-msgstr ""
-
-#: ../../token/sale.rst:190
-msgid "x5"
-msgstr ""
-
-#: ../../token/sale.rst:191
-msgid "TOP 11-20"
-msgstr ""
-
-#: ../../token/sale.rst:191
-msgid "1.0%"
-msgstr ""
-
-#: ../../token/sale.rst:191 ../../token/sale.rst:192 ../../token/sale.rst:193
-#: ../../token/sale.rst:194 ../../token/sale.rst:195 ../../token/sale.rst:196
-#: ../../token/sale.rst:197 ../../token/sale.rst:198 ../../token/sale.rst:199
-msgid "x10"
-msgstr ""
-
-#: ../../token/sale.rst:192
-msgid "TOP 21-30"
-msgstr ""
-
-#: ../../token/sale.rst:192
-msgid "0.9%"
-msgstr ""
-
-#: ../../token/sale.rst:192
-msgid "9.0%"
-msgstr ""
-
-#: ../../token/sale.rst:193
-msgid "TOP 31-40"
-msgstr ""
-
-#: ../../token/sale.rst:193
-msgid "0.8%"
-msgstr ""
-
-#: ../../token/sale.rst:193
-msgid "8.0%"
-msgstr ""
-
-#: ../../token/sale.rst:194
-msgid "TOP 41-50"
-msgstr ""
-
-#: ../../token/sale.rst:194
-msgid "0.7%"
-msgstr ""
-
-#: ../../token/sale.rst:194
-msgid "7.0%"
-msgstr ""
-
-#: ../../token/sale.rst:195
-msgid "TOP 51-60"
-msgstr ""
-
-#: ../../token/sale.rst:195
-msgid "0.6%"
-msgstr ""
-
-#: ../../token/sale.rst:196
-msgid "TOP 61-70"
-msgstr ""
-
-#: ../../token/sale.rst:196
-msgid "0.5%"
-msgstr ""
-
-#: ../../token/sale.rst:197
-msgid "TOP 71-80"
-msgstr ""
-
-#: ../../token/sale.rst:197
-msgid "0.4%"
-msgstr ""
-
-#: ../../token/sale.rst:197
-msgid "4.0%"
-msgstr ""
-
-#: ../../token/sale.rst:198
-msgid "TOP 81-90"
-msgstr ""
-
-#: ../../token/sale.rst:198
-msgid "0.3%"
-msgstr ""
-
-#: ../../token/sale.rst:199
-msgid "TOP 91-100"
-msgstr ""
-
-#: ../../token/sale.rst:199
-msgid "0.2%"
-msgstr ""
-
-#: ../../token/sale.rst:199
-msgid "2.0%"
-msgstr ""
-
-#: ../../token/sale.rst:204
 msgid "About to start"
 msgstr "即将发售"
 
-#: ../../token/sale.rst:206
+#: ../../token/sale.rst:182
 msgid "To be announced..."
-msgstr "待官网公告"
+msgstr "待通告"

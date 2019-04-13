@@ -3,18 +3,14 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# VISION official <michael@vision.network>, 2019
-# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-27 16:36+0800\n"
+"POT-Creation-Date: 2019-04-13 00:18+0800\n"
 "PO-Revision-Date: 2019-01-15 08:43+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,98 +18,21 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../token/airdrop_by_invitation.rst:4
-msgid "$VNET Airdrop by invitation (Coming soon...)"
-msgstr "$VNET 流量币邀请空投（即将开启）"
-
-#: ../../token/airdrop_by_invitation.rst:7
-msgid "Total amount:"
-msgstr "总量："
-
-#: ../../token/airdrop_by_invitation.rst:7
-msgid "50 Million VNET"
-msgstr "5000 万 VNET"
-
-#: ../../token/airdrop_by_invitation.rst:11
-msgid "Per quantity:"
-msgstr "每份数量："
+msgid "Vokens Airdrop by invitation (Canceled)"
+msgstr ""
 
 #: ../../token/airdrop_by_invitation.rst:10
-msgid "100 VNET, per user"
-msgstr "100 VNET，每用户（基础）"
+msgid "Planned amount:"
+msgstr ""
 
-#: ../../token/airdrop_by_invitation.rst:11
-msgid "100-200 VNET, randomly as invitation rewards"
-msgstr "100-200 VNET，随机邀请奖励"
+#: ../../token/airdrop_by_invitation.rst:7
+msgid "50 Million Vokens"
+msgstr ""
+
+#: ../../token/airdrop_by_invitation.rst:9
+msgid "Will be used in other forms of airdrops."
+msgstr ""
 
 #: ../../token/airdrop_by_invitation.rst:14
-msgid "Users covered expected:"
-msgstr "预期用户覆盖："
-
-#: ../../token/airdrop_by_invitation.rst:14
-msgid "About 120,000 - 150,000 users"
-msgstr "大约 12-15 万用户"
-
-#: ../../token/airdrop_by_invitation.rst:17
-msgid "Significance:"
-msgstr "意义："
-
-#: ../../token/airdrop_by_invitation.rst:17
-msgid ""
-"Promote visibility and consensus in the process of gradual maturity of the "
-"**Vision Network**."
-msgstr "在 Vision Network 网络效应逐渐成熟的过程中，更促进知名度和共识的达成。"
-
-#: ../../token/airdrop_by_invitation.rst:24
-msgid "Looking forward to:"
-msgstr "期待："
-
-#: ../../token/airdrop_by_invitation.rst:20
-msgid ""
-"Share, spread and popularize the **Vision Network** concept, and to let more"
-" people know."
-msgstr "分享、传播、普及 Vision Network 理念，让更多人认识远景网络。"
-
-#: ../../token/airdrop_by_invitation.rst:22
-msgid "Let more prospective users join our Telegram group."
-msgstr "让更多准用户加入交流群组。"
-
-#: ../../token/airdrop_by_invitation.rst:27
-msgid "Two steps to get airdrop and invitation rewards"
-msgstr "两步免费领取与邀请奖励"
-
-#: ../../token/airdrop_by_invitation.rst:29
-msgid "**Get FREE 100 VNET**"
-msgstr "**免费获取 100 VNET**"
-
-#: ../../token/airdrop_by_invitation.rst:31
-msgid "Join a `$VNET Airdrop Group` in `Telegram`_,"
-msgstr "使用 `Telegram`_ 帐号加入一个 `$VNET 空投群组`，"
-
-#: ../../token/airdrop_by_invitation.rst:32
-msgid "bind your ETH wallet address to get 100.00 VNET."
-msgstr "登记您的 ETH 钱包地址即可免费领取流量币 100.00 VNET。"
-
-#: ../../token/airdrop_by_invitation.rst:34
-msgid "**Invitation reward 100-200 VNET (per user)**"
-msgstr "**邀请奖励流量币 100-200 VNET（每用户）**"
-
-#: ../../token/airdrop_by_invitation.rst:36
-msgid ""
-"Invite your friend(s) to join the same group and get the airdrop "
-"successfully,"
-msgstr "邀请好友加入同一个交流群并成功领取，"
-
-#: ../../token/airdrop_by_invitation.rst:37
-msgid ""
-"then you and your friend(s) can both get 100-200 VNET as an extra reward."
-msgstr "然后你和你的朋友两人都可各获得 100-200 VNET 的额外奖励。"
-
-#: ../../token/airdrop_by_invitation.rst:45
-msgid "Details is about to release"
-msgstr "细则即将发布"
-
-#: ../../token/airdrop_by_invitation.rst:47
-msgid ""
-"Copy the link `https://t.me/vision_news` to your Telegram, then click the "
-"link, subscribe for updates by Telegram:"
+msgid "Turn to learn about :ref:`voken_sale`."
 msgstr ""

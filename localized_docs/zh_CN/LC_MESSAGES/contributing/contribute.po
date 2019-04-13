@@ -11,10 +11,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-22 15:45+0800\n"
+"POT-Creation-Date: 2019-04-13 17:50+0800\n"
 "PO-Revision-Date: 2019-02-22 07:10+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,28 +30,32 @@ msgid "You are here to help on Vision Network? That's awesome."
 msgstr "你是在这里准备帮助共建 Vision Network 远景网络吗？ 棒极了！"
 
 #: ../../contributing/contribute.rst:11
-msgid "Development"
-msgstr "程序开发"
-
-#: ../../contributing/contribute.rst:13
-msgid ""
-"If you want to help us with code development, the specific plan will be "
-"announced after the completion of the `vnCORE` module. However, joining in "
-"our chat group is also welcomed."
-msgstr "如果你希望帮助我们在代码开发上，详细的计划将会在 `vnCORE` 模块开发完毕后发布。然而同时，依然欢迎您加入我们的群组参与交流。"
-
-#: ../../contributing/contribute.rst:19
 msgid "Global Community"
 msgstr "全球社群"
 
-#: ../../contributing/contribute.rst:21
+#: ../../contributing/contribute.rst:13
+msgid ":ref:`voken_referral_program`"
+msgstr ""
+
+#: ../../contributing/contribute.rst:14
 msgid ":ref:`community_partner`"
 msgstr ""
 
-#: ../../contributing/contribute.rst:26
+#: ../../contributing/contribute.rst:18
 msgid "Helping on translations"
 msgstr "帮助翻译文档"
 
-#: ../../contributing/contribute.rst:28
+#: ../../contributing/contribute.rst:20
 msgid "If you wish to contribute translations, please do so on `Transifex`_."
 msgstr "如果您想翻译文档，请至 `Transifex`_"
+
+#: ../../contributing/contribute.rst:26
+msgid "Development"
+msgstr "程序开发"
+
+#: ../../contributing/contribute.rst:28
+msgid ""
+"If you want to help us with code development, the specific plan will be "
+"announced after the completion of the ``vnCORE`` module. However, joining in"
+" our chat group is also welcomed."
+msgstr "如果你希望帮助我们在代码开发上，详细的计划将会在 ``vnCORE`` 模块开发完毕后发布。然而同时，依然欢迎您加入我们的群组参与交流。"

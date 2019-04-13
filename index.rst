@@ -8,11 +8,13 @@ Welcome to vision.network!
 
 |
 
-Vision Network is a distributed extensible virtual network, based on the physical network
+Vision Network is a secure and unblocked accessible Internet infrastructure.
+
+It is a distributed extensible virtual network, based on the physical network
 layer and the ISP network layer.
 
 Vision Network is based on blockchain technology, which provides distributed services such
-as VPN, CDN, DNS, and DDoS defense. The :ref:`vnet_token` with stable value scale will be used in
+as VPN, CDN, DNS, and DDoS defense. The :ref:`voken` with stable value scale will be used in
 the ecology and produce an incentive effect. Everyone can participate in distributed network
 construction. We believe the Vision Network, a distributed Internet infrastructure will make
 the Internet more open, more equal, more stable, more efficient, safer and freer.
@@ -56,6 +58,8 @@ Contacts
    :maxdepth: 1
    :caption: News
 
+   news/voken_contract_upgraded
+   reports/summary2019
    reports/summary2018
 
 
@@ -64,10 +68,12 @@ Contacts
 
 .. toctree::
    :maxdepth: 1
-   :caption: $VNET Token
+   :caption: Voken
 
    token/sale
+   policy/voken_referral_program
    token/airdrop_via_contract
+   token/airdrop_to_eth_holders
 
 
 
@@ -89,12 +95,13 @@ Contacts
    :maxdepth: 1
    :caption: Guides
 
+   guide/register_voken_sale_whitelist
    guide/shadowrocket
    guide/ssrr
-   guide/telegram
    guide/eth_wallet
    guide/gas
 
+.. guide/telegram
 
 
 .. _references:
@@ -104,25 +111,32 @@ Contacts
    :caption: References and views
 
    views/internet_in_china
-   views/most_important
    views/basic_principles
+
+.. views/most_important
    views/value_vs_price
    views/price_formed
    views/invest_with
 
 
-
 .. _contracts:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contracts on Ethereum
 
-   contracts/vnet
-   contracts/airdrop
-   contracts/team_fund
-   contracts/business_fund
+   contracts/voken
 
+   contracts/voken_sale
+   contracts/airdrop
+   contracts/airdrop_to_eth_holders
+
+   contracts/migration_fund
+   contracts/business_fund
+   contracts/team_fund
+   contracts/early_investor_fund
+
+.. contracts/vnet
 
 
 .. _contribute:

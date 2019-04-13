@@ -1,0 +1,491 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-13 14:40+0800\n"
+"PO-Revision-Date: 2019-04-11 14:19+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../policy/voken_referral_program.rst:4
+msgid "Voken Referral Program"
+msgstr "Voken 转介引荐计划"
+
+#: ../../policy/voken_referral_program.rst:6
+msgid ""
+"By sharing your whitelisted ETH wallet address, you will earn ETH and "
+"Vokens."
+msgstr "通过分享您的白名单地址，您可以赚取 ETH 和 Vokens 。"
+
+#: ../../policy/voken_referral_program.rst:9
+msgid ""
+"Within the 15 levels that you refer to the whitelist, you will not only "
+"receive whitelist registration rewards (sums up to 1,001 Vokens), but also "
+"earn a commission during the :ref:`voken_sale` (sums up to 35% of sales "
+"revenue)."
+msgstr ""
+"在您的转介注册白名单的推荐关系 15 级内，您将不仅能收到白名单注册奖励（共 15 级 1,001 Vokens），在 "
+":ref:`voken_sale` 过程中还能赚取佣金奖励（销售收入的 35% 共奖励 15 级）。"
+
+#: ../../policy/voken_referral_program.rst:15
+msgid ""
+"Help improve the Vision Network ecosystem, strengthen the network, promote "
+"consensus, and **earn ETH and Vokens**."
+msgstr "共同建设远景网络生态系统、增加网络健壮性、促进共识，同时 **赚取 ETH 和 Vokens** 。"
+
+#: ../../policy/voken_referral_program.rst:19
+msgid "Don't have an ETH wallet? Get one here: `MyEtherWallet`_, `imToken`_"
+msgstr "还没有一个 ETH 钱包？来这里获取： `MyEtherWallet`_ ， `imToken`_"
+
+#: ../../policy/voken_referral_program.rst:26
+msgid "Whitelist Registration Referral Reward: 100%"
+msgstr "白名单注册推荐奖励： 100%"
+
+#: ../../policy/voken_referral_program.rst:28
+msgid ""
+"Anyone who participate in the :ref:`voken_sale` by using a whitelisted ETH "
+"wallet address would enjoy a gift of **BUY ONE AND GET ONE MORE FREE**."
+msgstr "白名单中的钱包地址参加 :ref:`voken_sale` 可享受 **买一送一** 特权。"
+
+#: ../../policy/voken_referral_program.rst:31
+msgid ""
+"Registering each whitelist wallet address costs ``1,001 Vokens``, and a "
+"referrer's wallet address is needed which is already whitelisted."
+msgstr "注册一个白名单需要使用 ``1,001 Vokens`` ，并需要一个推荐人的已在白名单中的钱包地址才能注册。"
+
+#: ../../policy/voken_referral_program.rst:34
+msgid ""
+"The **whitelist referral relationship chain** data will be saved to "
+":ref:`voken_contract` on the Ethereum blockchain."
+msgstr "**白名单推荐关系链** 数据将被存储在以太坊区块链上永久运行的 :ref:`voken_contract` 。"
+
+#: ../../policy/voken_referral_program.rst:36
+msgid "``1,001 Vokens`` will be **100% used as rewards**"
+msgstr "``1,001 Vokens`` 将被 **100% 用于奖励**"
+
+#: ../../policy/voken_referral_program.rst:37
+msgid ""
+"Settled with Voken, will transfer to your wallet addresses automatically and"
+" immediately, process by contract."
+msgstr "使用 Voken 实时结算，转账到您的钱包地址，由合约自动执行。"
+
+#: ../../policy/voken_referral_program.rst:40
+msgid ""
+"``301 Vokens`` for direct referral reward (Lv.1), get one more level for "
+"each registration with your whitelisted address, up to 15 levels (14+ "
+"referrals):"
+msgstr ""
+"直接推荐关系（Lv.1）得到 ``301 Vokens`` ，每多一个白名单注册使用了您的地址，就可以再多得一级，最高 15 级奖励（14 "
+"个以上引荐注册）："
+
+#: ../../policy/voken_referral_program.rst:45
+#: ../../policy/voken_referral_program.rst:82
+msgid "Level"
+msgstr "层级"
+
+#: ../../policy/voken_referral_program.rst:45
+msgid "Amount of reward (1,001 Vokens Total)"
+msgstr "奖励数量（共 1,001 Vokens）"
+
+#: ../../policy/voken_referral_program.rst:47
+#: ../../policy/voken_referral_program.rst:84
+msgid "Lv.1"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:47
+msgid "**301 Vokens**"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:48
+#: ../../policy/voken_referral_program.rst:85
+msgid "Lv.2"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:48
+msgid "200 Vokens"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:49
+#: ../../policy/voken_referral_program.rst:86
+msgid "Lv.3"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:49
+#: ../../policy/voken_referral_program.rst:50
+#: ../../policy/voken_referral_program.rst:51
+msgid "100 Vokens"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:50
+#: ../../policy/voken_referral_program.rst:87
+msgid "Lv.4"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:51
+#: ../../policy/voken_referral_program.rst:88
+msgid "Lv.5"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:52
+#: ../../policy/voken_referral_program.rst:89
+msgid "Lv.6"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:52
+msgid "50 Vokens"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:53
+#: ../../policy/voken_referral_program.rst:90
+msgid "Lv.7"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:53
+msgid "40 Vokens"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:54
+#: ../../policy/voken_referral_program.rst:91
+msgid "Lv.8"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:54
+msgid "30 Vokens"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:55
+#: ../../policy/voken_referral_program.rst:92
+msgid "Lv.9"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:55
+msgid "20 Vokens"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:56
+#: ../../policy/voken_referral_program.rst:93
+msgid "Lv.10"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:56
+#: ../../policy/voken_referral_program.rst:57
+#: ../../policy/voken_referral_program.rst:58
+#: ../../policy/voken_referral_program.rst:59
+#: ../../policy/voken_referral_program.rst:60
+#: ../../policy/voken_referral_program.rst:61
+msgid "10 Vokens"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:57
+#: ../../policy/voken_referral_program.rst:94
+msgid "Lv.11"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:58
+#: ../../policy/voken_referral_program.rst:95
+msgid "Lv.12"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:59
+#: ../../policy/voken_referral_program.rst:96
+msgid "Lv.13"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:60
+#: ../../policy/voken_referral_program.rst:97
+msgid "Lv.14"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:61
+#: ../../policy/voken_referral_program.rst:98
+msgid "Lv.15"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:68
+msgid "Sales Referral Reward: 35%"
+msgstr "销售推荐奖： 35%"
+
+#: ../../policy/voken_referral_program.rst:70
+#: ../../policy/voken_referral_program.rst:107
+msgid "During the :ref:`voken_sale`"
+msgstr ":ref:`voken_sale` 全程"
+
+#: ../../policy/voken_referral_program.rst:71
+msgid "``35% of sales revenue`` will be used as rewards."
+msgstr "``销售收入的 35%`` 将被用于奖励。"
+
+#: ../../policy/voken_referral_program.rst:72
+msgid ""
+"According to the **whitelist referral relationship chain** registered in "
+":ref:`voken_contract`."
+msgstr "根据在 :ref:`voken_contract` 上注册了的 **白名单推荐关系链** 。"
+
+#: ../../policy/voken_referral_program.rst:74
+msgid ""
+"Settled with ETH, will transfer to your wallet addresses automatically and "
+"immediately, process by contract."
+msgstr "使用 ETH 实时结算，转账到您的钱包地址，由合约自动执行。"
+
+#: ../../policy/voken_referral_program.rst:77
+msgid ""
+"``6%`` for direct referral reward (Lv.1), get one more level for each "
+"registration with your whitelisted address, up to 15 levels (14+ referrals):"
+msgstr ""
+"直接推荐关系（Lv.1）得到 ``6%`` ，每多一个白名单注册使用了您的地址，就可以再多得一级，最高 15 级奖励（14 个以上引荐注册）："
+
+#: ../../policy/voken_referral_program.rst:82
+msgid "Referral reward (35% Total)"
+msgstr "推荐奖励（共 35%）"
+
+#: ../../policy/voken_referral_program.rst:84
+msgid "**6%**"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:85
+msgid "6%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:86
+msgid "5%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:87
+msgid "4%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:88
+msgid "3%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:89
+msgid "2%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:90
+#: ../../policy/voken_referral_program.rst:91
+#: ../../policy/voken_referral_program.rst:92
+#: ../../policy/voken_referral_program.rst:93
+#: ../../policy/voken_referral_program.rst:94
+#: ../../policy/voken_referral_program.rst:95
+#: ../../policy/voken_referral_program.rst:96
+#: ../../policy/voken_referral_program.rst:97
+#: ../../policy/voken_referral_program.rst:98
+msgid "1%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:105
+msgid "Season Top-Sales Reward: 15% - 65%"
+msgstr "赛季排名奖： 15% - 65%"
+
+#: ../../policy/voken_referral_program.rst:108
+msgid ""
+"The :ref:`voken_sale` is divided into 60,000 stages, each 600 stages is "
+"defined as a **SEASON**, that is also 1% of the entire progress."
+msgstr ""
+":ref:`voken_sale` 共分为 60,000 个阶段，每 600 个阶段定义为一个 **赛季**，也就是完整销售进度的 1% 。"
+
+#: ../../policy/voken_referral_program.rst:111
+msgid ""
+"With the sales progress, ``15% - 65% of sales revenue`` will be used as "
+"**Top-Sales Reward** for each season."
+msgstr "根据销售进度，每个赛季销售收入的 ``15% - 65%`` 将用于 **排名奖励** 。"
+
+#: ../../policy/voken_referral_program.rst:114
+msgid ""
+"Settled with ETH, will transfer to your wallet address after a season "
+"finished."
+msgstr "使用 ETH 结算，一个赛季完成后转账到您的钱包地址。"
+
+#: ../../policy/voken_referral_program.rst:116
+msgid "Awards to TOP100 by ranking:"
+msgstr "奖励给排名前 100 ："
+
+#: ../../policy/voken_referral_program.rst:119
+msgid "Rank"
+msgstr "排名"
+
+#: ../../policy/voken_referral_program.rst:119
+msgid "Ratio"
+msgstr "比例"
+
+#: ../../policy/voken_referral_program.rst:119
+msgid "qty"
+msgstr "数量"
+
+#: ../../policy/voken_referral_program.rst:119
+msgid "Proportion"
+msgstr "占比"
+
+#: ../../policy/voken_referral_program.rst:121
+msgid "TOP 1"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:121
+#: ../../policy/voken_referral_program.rst:121
+#: ../../policy/voken_referral_program.rst:125
+msgid "10.0%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:121
+#: ../../policy/voken_referral_program.rst:122
+msgid "x1"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:122
+msgid "TOP 2"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:122
+#: ../../policy/voken_referral_program.rst:122
+#: ../../policy/voken_referral_program.rst:129
+msgid "6.0%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:123
+msgid "TOP 3-5"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:123
+#: ../../policy/voken_referral_program.rst:130
+msgid "5.0%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:123
+msgid "x3"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:123
+#: ../../policy/voken_referral_program.rst:124
+msgid "15.0%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:124
+msgid "TOP 6-10"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:124
+#: ../../policy/voken_referral_program.rst:132
+msgid "3.0%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:124
+msgid "x5"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:125
+msgid "TOP 11-20"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:125
+msgid "1.0%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:125
+#: ../../policy/voken_referral_program.rst:126
+#: ../../policy/voken_referral_program.rst:127
+#: ../../policy/voken_referral_program.rst:128
+#: ../../policy/voken_referral_program.rst:129
+#: ../../policy/voken_referral_program.rst:130
+#: ../../policy/voken_referral_program.rst:131
+#: ../../policy/voken_referral_program.rst:132
+#: ../../policy/voken_referral_program.rst:133
+msgid "x10"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:126
+msgid "TOP 21-30"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:126
+msgid "0.9%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:126
+msgid "9.0%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:127
+msgid "TOP 31-40"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:127
+msgid "0.8%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:127
+msgid "8.0%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:128
+msgid "TOP 41-50"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:128
+msgid "0.7%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:128
+msgid "7.0%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:129
+msgid "TOP 51-60"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:129
+msgid "0.6%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:130
+msgid "TOP 61-70"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:130
+msgid "0.5%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:131
+msgid "TOP 71-80"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:131
+msgid "0.4%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:131
+msgid "4.0%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:132
+msgid "TOP 81-90"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:132
+msgid "0.3%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:133
+msgid "TOP 91-100"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:133
+msgid "0.2%"
+msgstr ""
+
+#: ../../policy/voken_referral_program.rst:133
+msgid "2.0%"
+msgstr ""
