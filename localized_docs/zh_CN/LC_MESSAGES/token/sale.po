@@ -81,7 +81,7 @@ msgstr "逐渐递增的销售价格 $0.001 - $0.601"
 
 #: ../../token/sale.rst:41
 msgid "Starting at **1 Voken = $0.001**, until the price reaches **$0.601**."
-msgstr "初始价格 **1Voken = $0.001 美元**，上涨至 **$0.601** 时截至。"
+msgstr "初始价格 **1Voken = $0.001 美元**，上涨至 **$0.601** 时截止。"
 
 #: ../../token/sale.rst:43
 msgid "Total sales are divided into 60,000 stages, each step of $0.00001."
