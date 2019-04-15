@@ -29,15 +29,15 @@ Contacts
 +----------------------+------------------+------------------+
 | **Official Website** | `English`_       | `Chinese`_       |
 +----------------------+------------------+------------------+
+| **Documents**        | `English Docs`_  | `Chinese Docs`_  |
++----------------------+------------------+------------------+
+| **GitHub**           | `VisionNetworkProject`_             |
++----------------------+------------------+------------------+
 | **Official News**    | `Telegram News Channel`_            |
 +----------------------+------------------+------------------+
 | **Twitter**          | `Twitter`_                          |
 +----------------------+------------------+------------------+
 | **Telegram Group**   | `English Group`_ | `Chinese Group`_ |
-+----------------------+------------------+------------------+
-| **GitHub**           | `VisionNetworkProject`_             |
-+----------------------+------------------+------------------+
-| **Documents**        | `English Docs`_  | `Chinese Docs`_  |
 +----------------------+------------------+------------------+
 
 .. _English: https://vision.network/en
@@ -47,8 +47,8 @@ Contacts
 .. _VisionNetworkProject: https://github.com/VisionNetworkProject
 .. _English Group: https://t.me/visionProject
 .. _Chinese Group: https://t.me/visionCN
-.. _English Docs: https://vision-network.readthedocs.io/en/latest/
-.. _Chinese Docs: https://vision-network.readthedocs.io/zh_CN/latest/
+.. _English Docs: https://voken.io/en/latest/
+.. _Chinese Docs: https://voken.io/zh_CN/latest/
 
 
 
