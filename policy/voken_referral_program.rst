@@ -32,7 +32,8 @@ Whitelist Registration Referral Reward: 100%
   and a referrer's wallet address is needed
   which is already whitelisted.
 - The **whitelist referral relationship chain** data will be saved
-  to :ref:`voken_contract` on the Ethereum blockchain.
+  to :ref:`voken_contract` on the Ethereum blockchain,
+  which cannot be tampered.
 - ``1,001 Vokens`` will be **100% used as rewards**
 - Settled with Voken,
   will transfer to your wallet addresses automatically and immediately,
@@ -118,18 +119,18 @@ Season Top-Sales Reward: 15% - 65%
 ==========  =====  ===  ==========
 Rank        Ratio  qty  Proportion
 ==========  =====  ===  ==========
-TOP 1       10.0%  x1   10.0%
-TOP 2        6.0%  x1    6.0%
-TOP 3-5      5.0%  x3   15.0%
-TOP 6-10     3.0%  x5   15.0%
-TOP 11-20    1.0%  x10  10.0%
-TOP 21-30    0.9%  x10   9.0%
-TOP 31-40    0.8%  x10   8.0%
-TOP 41-50    0.7%  x10   7.0%
-TOP 51-60    0.6%  x10   6.0%
-TOP 61-70    0.5%  x10   5.0%
-TOP 71-80    0.4%  x10   4.0%
-TOP 81-90    0.3%  x10   3.0%
-TOP 91-100   0.2%  x10   2.0%
+No.1        10.0%  x1   10.0%
+No.2         6.0%  x1    6.0%
+No.3-5       5.0%  x3   15.0%
+No.6-10      3.0%  x5   15.0%
+No.11-20     1.0%  x10  10.0%
+No.21-30     0.9%  x10   9.0%
+No.31-40     0.8%  x10   8.0%
+No.41-50     0.7%  x10   7.0%
+No.51-60     0.6%  x10   6.0%
+No.61-70     0.5%  x10   5.0%
+No.71-80     0.4%  x10   4.0%
+No.81-90     0.3%  x10   3.0%
+No.91-100    0.2%  x10   2.0%
 ==========  =====  ===  ==========
 

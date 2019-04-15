@@ -21,11 +21,11 @@ Service Value & Usage Value ANCHORING
 .. _Google GCP: https://cloud.google.com/
 
 
-About 7.5 billion Vokens for Sale
+About 7.889 billion Vokens for Sale
 -----------------------------------
 
 There are about **7.889 billion Vokens** would released,
-accounting for **23.54%** of the total supply.
+accounting for **22.54%** of the total supply.
 
 All Vokens for sale were stored
 in an open-sourced :ref:`voken_sale_contract`

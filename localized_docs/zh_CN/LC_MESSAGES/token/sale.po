@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-15 14:44+0800\n"
+"POT-Creation-Date: 2019-04-15 16:48+0800\n"
 "PO-Revision-Date: 2019-04-01 09:40+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -32,8 +32,8 @@ msgid ""
 "spend ``1 Voken`` to exchange ``100GB traffic`` to use the unblocked "
 "accessible Internet, or earn Vokens by selling/sharing your idle bandwidth."
 msgstr ""
-":ref:`voken` 具有准确的服务和使用价值锚定。您可以花费 ``1 Voken`` 使用 ``100GB 流量`` "
-"的无障碍互联网服务，也可以通过销售或分享您的闲置带宽赚取 Vokens 。"
+":ref:`voken` 具有准确的服务和使用价值锚定。您可以花费 ``1 Voken`` 享受 ``100GB 流量`` "
+"的国际互联网服务，也可以通过销售或分享您的闲置带宽赚取 Vokens 。"
 
 #: ../../token/sale.rst:13
 msgid "Service Value & Usage Value ANCHORING"
@@ -51,14 +51,14 @@ msgstr ""
 "在主流 IDC 服务商和云服务平台，100GB 价值约 **$8.00 - 8.50 美元** ，比如 `亚马逊 AWS`_ 和 `谷歌 GCP`_ 。"
 
 #: ../../token/sale.rst:25
-msgid "About 7.5 billion Vokens for Sale"
-msgstr "销售约 75 亿 Vokens"
+msgid "About 7.889 billion Vokens for Sale"
+msgstr "销售约 78.89 亿 Vokens"
 
 #: ../../token/sale.rst:27
 msgid ""
 "There are about **7.889 billion Vokens** would released, accounting for "
-"**23.54%** of the total supply."
-msgstr "一共有约为 **78.89 亿 Vokens** 将被用于销售释放，相当于总量的 **23.54%** 。"
+"**22.54%** of the total supply."
+msgstr "一共有约为 **78.89 亿 Vokens** 将被用于销售释放，相当于总量的 **22.54%** 。"
 
 #: ../../token/sale.rst:30
 msgid ""
@@ -81,7 +81,7 @@ msgstr "逐渐递增的销售价格 $0.001 - $0.601"
 
 #: ../../token/sale.rst:41
 msgid "Starting at **1 Voken = $0.001**, until the price reaches **$0.601**."
-msgstr "初始价格 **1Voken = $0.001 美元**，结束价格 **$0.601** 。"
+msgstr "初始价格 **1Voken = $0.001 美元**，上涨至 **$0.601** 时截至。"
 
 #: ../../token/sale.rst:43
 msgid "Total sales are divided into 60,000 stages, each step of $0.00001."
@@ -372,11 +372,11 @@ msgstr "在销售计划中，50% - 100% 的销售收入被设计为 **社区和�
 
 #: ../../token/sale.rst:152
 msgid ":ref:`sales_referral_reward`"
-msgstr ""
+msgstr ":ref:`sales_referral_reward`"
 
 #: ../../token/sale.rst:153
 msgid ":ref:`top_sales_reward`"
-msgstr ""
+msgstr ":ref:`top_sales_reward`"
 
 #: ../../token/sale.rst:155
 msgid "Learn more about: :ref:`voken_referral_program`"
