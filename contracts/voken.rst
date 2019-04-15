@@ -3,11 +3,18 @@
 Voken Main Contract
 ===================
 
-:ref:`voken_contract_upgraded`
-
 This is the **MAIN CONTRACT** of :ref:`voken`.
 
-TBC.
+Contract address is ``0x82070415FEe803f94Ce5617Be1878503e58F0a6a``,
+deployed at `Tx Hash 0x2bf6...06e0`_,
+block height ``7569219``.
+
+.. _Tx Hash 0x2bf6...06e0: https://etherscan.io/tx/0x2bf6e28cda2c33b8b6e5665e0a1a8a7468a7a204c2320b4a53c93f4f5b3d06e0
+
+
+Related news:
+
+- :ref:`voken_contract_upgraded`
 
 
 Understand Voken Contract (open-sourced)
@@ -137,6 +144,8 @@ Transfer 1,001 Vokens to a whitelisted address
    Up to 15 levels: 301 + 200 + 100 + ...
 
 
+.. _check_address_in_whitelist:
+
 Check whether a ETH wallet address is whitelisted
 _________________________________________________
 
@@ -180,6 +189,7 @@ Check whether the :ref:`voken_sale` whitelist registration is in process
    Whenever it returns ``false``,
    that means registration was disabled, and it's unrecoverable.
 
+.. _whitelist_transfer_whitelist_qualification:
 
 Whitelist qualification transfer is supported
 _____________________________________________

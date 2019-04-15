@@ -205,7 +205,7 @@ msgstr ""
 #: ../../whitepaper/application_description_and_economic_model.rst:108
 #: ../../whitepaper/application_description_and_economic_model.rst:153
 msgid "vnVPN"
-msgstr ""
+msgstr "vnVPN"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:110
 msgid ""
@@ -354,7 +354,7 @@ msgstr "**永不宕机**"
 #: ../../whitepaper/application_description_and_economic_model.rst:242
 #: ../../whitepaper/application_description_and_economic_model.rst:244
 msgid "/"
-msgstr ""
+msgstr "/"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:161
 msgid "**Payment methods**"
@@ -490,7 +490,7 @@ msgstr ""
 #: ../../whitepaper/application_description_and_economic_model.rst:205
 #: ../../whitepaper/application_description_and_economic_model.rst:232
 msgid "vnCDN"
-msgstr ""
+msgstr "vnCDN"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:207
 msgid ""
@@ -854,7 +854,7 @@ msgstr "树莓派："
 
 #: ../../whitepaper/application_description_and_economic_model.rst:413
 msgid "`Raspberrypi.org`_"
-msgstr ""
+msgstr "`Raspberrypi.org`_"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:414
 msgid "`Raspberry Pi - WikiPedia(English)`_"
@@ -904,11 +904,11 @@ msgstr "AWS 亚马逊云服务："
 
 #: ../../whitepaper/application_description_and_economic_model.rst:442
 msgid "`AWS Direct Connect pricing`_"
-msgstr ""
+msgstr "`AWS Direct Connect pricing`_"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:443
 msgid "`AWS CloudFront Pricing`_"
-msgstr ""
+msgstr "`AWS CloudFront Pricing`_"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:447
 msgid "GCP Google Cloud Platform:"
@@ -916,17 +916,17 @@ msgstr "GCP 谷歌云服务："
 
 #: ../../whitepaper/application_description_and_economic_model.rst:446
 msgid "`GCP Interconnect Pricing`_"
-msgstr ""
+msgstr "`GCP Interconnect Pricing`_"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:447
 msgid "`GCP CDN Pricing`_"
-msgstr ""
+msgstr "`GCP CDN Pricing`_"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:457
 msgid ""
 "The Voken dollar price should increase to the internal value gradually and "
 "be relatively stable"
-msgstr "VNET 法币价格应逐渐回归且相对稳定"
+msgstr "Voken 法币价格应逐渐回归且相对稳定"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:459
 msgid ""
@@ -939,7 +939,7 @@ msgid ""
 "matures with the ecological value in practical use value."
 msgstr ""
 "我们认为短期内法定货币并不会消失，而长久的习惯也让更多人习以为常地以法定货币来为产品或服务标价。同时，我们期望生态成熟后的 Voken "
-"价值尺度相对稳定（即法币标价相对稳定），1 VNET = 100 GB 的基础设定可以在实际使用价值上保证 Voken "
+"价值尺度相对稳定（即法币标价相对稳定），1 Voken = 100 GB 的基础设定可以在实际使用价值上保证 Voken "
 "的市场流通价格随着生态的日趋成熟而逐渐回归。"
 
 #: ../../whitepaper/application_description_and_economic_model.rst:472

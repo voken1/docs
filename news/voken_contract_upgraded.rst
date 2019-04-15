@@ -3,25 +3,17 @@
 Voken Main Contract Upgraded
 ============================
 
-A new main token contract had been deployed: :ref:`voken_contract`
+New :ref:`voken_contract` had been deployed at
+`Tx Hash 0x2bf6..06e0`_,
+block height ``7569219``.
+
+.. _Tx Hash 0x2bf6..06e0: https://etherscan.io/tx/0x2bf6e28cda2c33b8b6e5665e0a1a8a7468a7a204c2320b4a53c93f4f5b3d06e0
 
 
-New Contract Deployed
----------------------
+The old ``VNET`` contract ``0x3F1...2F5`` was deprecated,
+snapshot at ``2019-04-15 00:00:00 UTC``,
+the historical balance data was migrated by :ref:`voken_migration`.
 
-New Voken Contract Address is ``0x..``, and you can `check it here on etherscan.io`_
-
-The old contract was deprecated.
-
-The old ``VNET`` contract ``0x3F1...2F5`` snapshot at ``2019-04-1x 00:00:00 UTC``,
-the historical balance data was migrated to the new contract, by transactions:
-
-- `Tx Hash 0x0xx`_
-- `Tx Hash 0x1xx`_
-
-.. _check it here on etherscan.io: https://etherscan.io/
-.. _Tx Hash 0x0xx: https://etherscan.io/
-.. _Tx Hash 0x1xx: https://etherscan.io/
 
 The new token symbol named ``Voken``
 ------------------------------------
@@ -78,6 +70,8 @@ according to :ref:`voken_referral_program`.
 
 Whitelist qualification transfer is supported
 ---------------------------------------------
+
+:ref:`whitelist_transfer_whitelist_qualification`
 
 Without any application and approval process,
 just call the contract function ``transferWhitelist(address account)`` directly,

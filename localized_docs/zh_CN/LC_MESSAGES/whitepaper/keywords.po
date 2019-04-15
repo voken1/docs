@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Michael Brown <michael@vision.network>, 2019
+# VISION official <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"POT-Creation-Date: 2019-03-05 15:50+0800\n"
 "PO-Revision-Date: 2019-01-11 05:18+0000\n"
-"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -43,7 +43,7 @@ msgstr "全球互通"
 
 #: ../../whitepaper/keywords.rst:8
 msgid "VPN"
-msgstr ""
+msgstr "VPN"
 
 #: ../../whitepaper/keywords.rst:9
 msgid "Cross Internet Blockade"
@@ -51,7 +51,7 @@ msgstr "穿越网络封锁, 翻墙"
 
 #: ../../whitepaper/keywords.rst:10
 msgid "CDN"
-msgstr ""
+msgstr "CDN"
 
 #: ../../whitepaper/keywords.rst:11
 msgid "Idle Bandwidth Mining"

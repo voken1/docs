@@ -43,7 +43,7 @@ msgstr "这里是 2018 年度的一个简要总结列表"
 
 #: ../../reports/summary2018.rst:15
 msgid "2018 Q1"
-msgstr ""
+msgstr "2018 Q1"
 
 #: ../../reports/summary2018.rst:15
 msgid "Feasibility and technical demonstration completed"
@@ -51,7 +51,7 @@ msgstr "功能特性与技术可行性论证完成"
 
 #: ../../reports/summary2018.rst:20
 msgid "2018 Q2"
-msgstr ""
+msgstr "2018 Q2"
 
 #: ../../reports/summary2018.rst:18
 msgid "Vision Network Whitepaper v1.0.0 - v1.0.4"
@@ -68,11 +68,11 @@ msgstr "`官方网站`_ 并陆续更新"
 
 #: ../../reports/summary2018.rst:27
 msgid "2018 Q3"
-msgstr ""
+msgstr "2018 Q3"
 
 #: ../../reports/summary2018.rst:23
 msgid "Delayed `Voken Pre-Sale`"
-msgstr "延迟了 `Voken Pre-Sale`"
+msgstr "延迟了 `Voken 预售`"
 
 #: ../../reports/summary2018.rst:24
 msgid "Canceled `Voken Airdrop by invitation`"
@@ -92,7 +92,7 @@ msgstr "``vnVPN Alpha 服务端内测 Windows 版 v0.1.0`` 完成"
 
 #: ../../reports/summary2018.rst:44
 msgid "2018 Q4"
-msgstr ""
+msgstr "2018 Q4"
 
 #: ../../reports/summary2018.rst:30
 msgid "A simple :ref:`optimized_shadowsocks` released"

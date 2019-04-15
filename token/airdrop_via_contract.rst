@@ -1,7 +1,7 @@
 .. _airdrop_via_contract:
 
-Voken Airdrop via contract
-==========================
+Voken Airdrop via contract (FREE to issue)
+==========================================
 
 Total amount:
    50 Million Vokens
@@ -23,13 +23,13 @@ Looking forward to:
 Contract
 --------
 
-.. image//:: /_static/contract/qrcode_airdrop.svg
+.. image:: /_static/contract/qrcode_airdrop.png
    :width: 35 %
-   :alt: qrcode_airdrop.svg
+   :alt: qrcode_airdrop.png
 
-`0x..`
+**0x2a0f5a9515A4c4579d1613e047a8C380B5994339**
 
-Just send **0 ETH** to :ref:`airdrop_contract`,
+Just send **0 ETH** to :ref:`airdrop_contract` address above,
 you will receive **100-200 Vokens** randomly.
 The total amount is 50,000,000,
 first come first served.

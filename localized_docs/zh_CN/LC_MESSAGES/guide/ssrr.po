@@ -89,7 +89,7 @@ msgstr "这里是结果"
 
 #: ../../guide/ssrr.rst:110
 msgid "Enjoy!!"
-msgstr ""
+msgstr "祝您开心！！"
 
 #: ../../guide/ssrr.rst:115
 msgid "How to choose and use rules"

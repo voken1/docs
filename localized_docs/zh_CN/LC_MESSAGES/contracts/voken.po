@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 19:27+0800\n"
+"POT-Creation-Date: 2019-04-15 13:54+0800\n"
 "PO-Revision-Date: 2019-04-11 14:15+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -26,87 +26,95 @@ msgid "Voken Main Contract"
 msgstr "Voken 主合约"
 
 #: ../../contracts/voken.rst:6
-msgid ":ref:`voken_contract_upgraded`"
-msgstr ""
-
-#: ../../contracts/voken.rst:8
 msgid "This is the **MAIN CONTRACT** of :ref:`voken`."
 msgstr "这是 :ref:`voken` 的 **主合约** 。"
 
-#: ../../contracts/voken.rst:10 ../../contracts/voken.rst:266
-msgid "TBC."
-msgstr "待续"
+#: ../../contracts/voken.rst:8
+msgid ""
+"Contract address is ``0x82070415FEe803f94Ce5617Be1878503e58F0a6a``, deployed"
+" at `Tx Hash 0x2bf6...06e0`_, block height ``7569219``."
+msgstr ""
+"合约地址 ``0x82070415FEe803f94Ce5617Be1878503e58F0a6a`` ，部署于 `Tx Hash "
+"0x2bf6...06e0`_ ，区块高度 ``7569219`` 。"
 
-#: ../../contracts/voken.rst:14
+#: ../../contracts/voken.rst:15
+msgid "Related news:"
+msgstr "相关消息："
+
+#: ../../contracts/voken.rst:17
+msgid ":ref:`voken_contract_upgraded`"
+msgstr "`ref:`voken_contract_upgraded`"
+
+#: ../../contracts/voken.rst:21
 msgid "Understand Voken Contract (open-sourced)"
 msgstr "读懂 Voken 合约（已开源）"
 
-#: ../../contracts/voken.rst:16
+#: ../../contracts/voken.rst:23
 msgid "If you want to learn more about voken contracts, this can help you."
 msgstr "如果您想深入了解 Voken 合约，这将帮助到您。"
 
-#: ../../contracts/voken.rst:20
+#: ../../contracts/voken.rst:27
 msgid "Meta"
 msgstr "元信息"
 
-#: ../../contracts/voken.rst:33
+#: ../../contracts/voken.rst:40
 msgid "Full Name"
 msgstr "全名"
 
-#: ../../contracts/voken.rst:33
+#: ../../contracts/voken.rst:40
 msgid "Vision.Network 100G Token"
-msgstr ""
+msgstr "Vision.Network 100G Token"
 
-#: ../../contracts/voken.rst:36
+#: ../../contracts/voken.rst:43
 msgid "Symbol"
 msgstr "字母简称"
 
-#: ../../contracts/voken.rst:36
+#: ../../contracts/voken.rst:43
 msgid "Voken"
-msgstr ""
+msgstr "Voken"
 
-#: ../../contracts/voken.rst:39
+#: ../../contracts/voken.rst:46
 msgid "Decimals"
 msgstr "小数位数"
 
-#: ../../contracts/voken.rst:39
+#: ../../contracts/voken.rst:46
 msgid "6"
-msgstr ""
+msgstr "6"
 
-#: ../../contracts/voken.rst:43
+#: ../../contracts/voken.rst:50
 msgid "Capped TotalSupply"
 msgstr "封顶的总供应量"
 
-#: ../../contracts/voken.rst:42
+#: ../../contracts/voken.rst:49
 msgid "35 billion"
 msgstr "350 亿"
 
-#: ../../contracts/voken.rst:46
+#: ../../contracts/voken.rst:53
 msgid "Voken-Sale Whitelist Registration trigger"
 msgstr "Voken 销售白名单注册触发"
 
-#: ../../contracts/voken.rst:64
+#: ../../contracts/voken.rst:72
 msgid ":ref:`voken_sale` whitelist registration trigger conditions:"
 msgstr ":ref:`voken_sale` 白名单注册的触发条件："
 
-#: ../../contracts/voken.rst:66
+#: ../../contracts/voken.rst:74
 msgid ""
 "``_allowWhitelistRegistration`` is ``true``, when registration is allowed."
 msgstr "``_allowWhitelistRegistration`` 是 ``true``，即主合约处在可注册的状态。"
 
-#: ../../contracts/voken.rst:67
+#: ../../contracts/voken.rst:75
 msgid "``value`` = ``_whitelistRegistrationValue``, that is 1,001 Vokens."
 msgstr "``value`` = ``_whitelistRegistrationValue`` ，即转账数量是 1,001 Vokens 。"
 
-#: ../../contracts/voken.rst:68
+#: ../../contracts/voken.rst:76
 msgid "``inWhitelist(to)``, receiver address is in whitelist."
 msgstr "``inWhitelist(to)`` ，接收地址已经在白名单中。"
 
-#: ../../contracts/voken.rst:69
+#: ../../contracts/voken.rst:77
 msgid "``!inWhitelist(msg.sender)``, sender address is not in whitelist."
 msgstr "``!inWhitelist(msg.sender)`` ，发送地址不在白名单中。"
 
-#: ../../contracts/voken.rst:70
+#: ../../contracts/voken.rst:78
 msgid ""
 "``isNotContract(msg.sender)``, sender address is not a contract, to avoid "
 "any \"Coincidental accident\" transfer from a contract, such as \"any type "
@@ -115,87 +123,87 @@ msgstr ""
 "``isNotContract(msg.sender)`` "
 "，发送地址不是合约，以避免任何来自合约转账的“巧合的意外”，包括“任何形式的批量转账”、“来自交易所的发送” 或其它任何形式的合约。"
 
-#: ../../contracts/voken.rst:74
+#: ../../contracts/voken.rst:82
 msgid ""
 "Transfers other than those under this special conditions are considered "
 "**NORMAL TRANSFERS**."
 msgstr "除在此特殊条件下的转账，都被视为 **普通转账** 。"
 
-#: ../../contracts/voken.rst:78
+#: ../../contracts/voken.rst:86
 msgid "Voken-Sale Whitelist Registration and Referral Reward"
 msgstr "Voken 销售白名单注册与转介奖励"
 
-#: ../../contracts/voken.rst:150
+#: ../../contracts/voken.rst:141
 msgid "Transfer 1,001 Vokens to a whitelisted address"
 msgstr "转账 1,001 Vokens 到白名单中的地址"
 
-#: ../../contracts/voken.rst:150
+#: ../../contracts/voken.rst:141
 msgid "Will trigger Voken-Sale whitelist registration."
 msgstr "将触发 Voken 销售白名单注册。"
 
-#: ../../contracts/voken.rst:154
+#: ../../contracts/voken.rst:145
 msgid "100% of the 1,001 Vokens will be rewarded"
 msgstr "1,001 Vokens 的 100% 将用于发放奖励"
 
-#: ../../contracts/voken.rst:153
+#: ../../contracts/voken.rst:144
 msgid "Up to 15 levels: 301 + 200 + 100 + ..."
 msgstr "最多 15 级：301 + 200 + 100 + ..."
 
-#: ../../contracts/voken.rst:157 ../../contracts/voken.rst:170
+#: ../../contracts/voken.rst:150 ../../contracts/voken.rst:163
 msgid "Check whether a ETH wallet address is whitelisted"
 msgstr "查看一个 ETH 钱包地址是否在白名单中"
 
-#: ../../contracts/voken.rst:168
+#: ../../contracts/voken.rst:161
 msgid ""
 "Call function ``inWhitelist(address account)``, if the given address was "
 "whitelisted, it will returns ``true``."
 msgstr ""
 "执行合约中的功能函数 ``inWhitelist(address account)`` ，如果给定的地址已在白名单中，则返回 ``true`` 。"
 
-#: ../../contracts/voken.rst:173
+#: ../../contracts/voken.rst:166
 msgid "Check whether the Voken-Sale whitelist registration is in process"
 msgstr "查看 Voken 销售白名单注册是否还在进行中"
 
-#: ../../contracts/voken.rst:198
+#: ../../contracts/voken.rst:190
 msgid ""
 "Check whether the :ref:`voken_sale` whitelist registration is in process"
 msgstr "查看 :ref:`voken_sale` 白名单注册是否还在进行中"
 
-#: ../../contracts/voken.rst:193
+#: ../../contracts/voken.rst:186
 msgid ""
 "Call function ``allowWhitelistRegistration()``, if it returns ``true``, "
 "registration is allowed."
 msgstr "执行合约中的功能函数 ``allowWhitelistRegistration()`` ，如果返回 ``true`` 说明注册是被允许的。"
 
-#: ../../contracts/voken.rst:196
+#: ../../contracts/voken.rst:189
 msgid ""
 "Whenever it returns ``false``, that means registration was disabled, and "
 "it's unrecoverable."
 msgstr "一旦返回 ``false`` 就意味着白名单注册已经关闭，并且不可逆。"
 
-#: ../../contracts/voken.rst:201 ../../contracts/voken.rst:218
+#: ../../contracts/voken.rst:195 ../../contracts/voken.rst:212
 msgid "Whitelist qualification transfer is supported"
 msgstr "白名单资格支持过户"
 
-#: ../../contracts/voken.rst:217
+#: ../../contracts/voken.rst:211
 msgid "Just call function ``transferWhitelist(address account)`` if you need."
 msgstr "只需执行合约中的功能函数 ``transferWhitelist(address account)`` ，如果你需要。"
 
-#: ../../contracts/voken.rst:221
+#: ../../contracts/voken.rst:215
 msgid "Registration Referral Reward Calculator"
 msgstr "注册推荐奖励计算器"
 
-#: ../../contracts/voken.rst:223
+#: ../../contracts/voken.rst:217
 msgid ":ref:`voken_sale` whitelist registration referral reward calculator."
 msgstr ":ref:`voken_sale` 白名单注册与转介奖励计算器。"
 
-#: ../../contracts/voken.rst:261
+#: ../../contracts/voken.rst:255
 msgid ""
 "If someone registers :ref:`voken_sale` whitelist with my address, NOW, how "
 "many Vokens would I receive?"
-msgstr "如果现在有人使用我的地址注册 :ref:`voken_sale` 白名单，我将获得多少 Vokens ？"
+msgstr "如果现在有人通过我的地址注册 :ref:`voken_sale` 白名单，我将获得多少 Vokens ？"
 
-#: ../../contracts/voken.rst:256
+#: ../../contracts/voken.rst:250
 msgid ""
 "You can call function "
 "``calculateTheRewardOfDirectWhitelistRegistration(address "
@@ -205,12 +213,16 @@ msgstr ""
 "您可以执行合约中的功能函数 ``calculateTheRewardOfDirectWhitelistRegistration(address "
 "whitelistedAccount)`` ，这是一个计算器功能，它会返回您将获得 Voken 奖励的数量。"
 
-#: ../../contracts/voken.rst:259
+#: ../../contracts/voken.rst:253
 msgid ""
 "Of course the last 6 digits are decimal place, that means if it returns a "
 "result of ``301000000``, that is ``301.000000`` actually."
 msgstr "当然，最后 6 位数字是小数位，这意味着如果返回结果为 ``301000000`` 实际对应 ``301.000000`` 。"
 
-#: ../../contracts/voken.rst:264
+#: ../../contracts/voken.rst:258
 msgid "More"
 msgstr "更多"
+
+#: ../../contracts/voken.rst:260
+msgid "TBC."
+msgstr "待续"

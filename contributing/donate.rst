@@ -13,9 +13,8 @@ You can participate in :ref:`voken_sale`, or donate with crypto-currency ETH
 to this following address:
 
 
-.. image:: /_static/contract/qrcode_donate.png
+.. image:: /_static/wallet/qrcode_donate.png
    :width: 35 %
    :alt: qrcode_donate.png
 
-**0x103D2335d03752B0E8167e412d152F41087C5878**
-
+**0x123456eBb9d581CCD0F66e3abf6168186Be28255**

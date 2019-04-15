@@ -24,8 +24,8 @@ Service Value & Usage Value ANCHORING
 About 7.5 billion Vokens for Sale
 -----------------------------------
 
-There are about **7.5 billion Vokens** would released,
-accounting for **21.43%** of the total supply.
+There are about **7.889 billion Vokens** would released,
+accounting for **23.54%** of the total supply.
 
 All Vokens for sale were stored
 in an open-sourced :ref:`voken_sale_contract`

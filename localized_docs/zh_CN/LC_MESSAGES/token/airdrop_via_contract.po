@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 10:33+0800\n"
+"POT-Creation-Date: 2019-04-15 13:45+0800\n"
 "PO-Revision-Date: 2019-01-17 02:53+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -22,8 +22,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../token/airdrop_via_contract.rst:4
-msgid "Voken Airdrop via contract"
-msgstr "Voken 合约空投"
+msgid "Voken Airdrop via contract (FREE to issue)"
+msgstr "Voken 合约空投（免费领取）"
 
 #: ../../token/airdrop_via_contract.rst:7
 msgid "Total amount:"
@@ -74,15 +74,17 @@ msgid "Contract"
 msgstr "以太坊智能合约"
 
 #: ../../token/airdrop_via_contract.rst:30
-msgid "`0x..`"
-msgstr ""
+msgid "**0x2a0f5a9515A4c4579d1613e047a8C380B5994339**"
+msgstr "**0x2a0f5a9515A4c4579d1613e047a8C380B5994339**"
 
 #: ../../token/airdrop_via_contract.rst:32
 msgid ""
-"Just send **0 ETH** to :ref:`airdrop_contract`, you will receive **100-200 "
-"Vokens** randomly. The total amount is 50,000,000, first come first served."
+"Just send **0 ETH** to :ref:`airdrop_contract` address above, you will "
+"receive **100-200 Vokens** randomly. The total amount is 50,000,000, first "
+"come first served."
 msgstr ""
-"发送 0 ETH 到 :ref:`airdrop_contract` ，免费获得 100-200 Vokens ，总量 50,000,000 先到先得。"
+"发送 0 ETH 到上边的 :ref:`airdrop_contract` ，免费收取 100-200 Vokens ，总量 50,000,000 "
+"先到先得。"
 
 #: ../../token/airdrop_via_contract.rst:39
 msgid ""

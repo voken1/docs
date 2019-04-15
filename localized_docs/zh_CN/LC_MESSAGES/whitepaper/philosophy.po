@@ -11,10 +11,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-27 16:36+0800\n"
+"POT-Creation-Date: 2019-03-05 15:50+0800\n"
 "PO-Revision-Date: 2019-01-11 05:19+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -127,7 +127,7 @@ msgstr "**微软** https://www.microsoft.com/"
 
 #: ../../whitepaper/philosophy.rst:62
 msgid "**Gmail** https://www.gmail.com/"
-msgstr ""
+msgstr "**Gmail** https://www.gmail.com/"
 
 #: ../../whitepaper/philosophy.rst:63
 msgid "**Google** https://www.google.com/"
@@ -143,11 +143,11 @@ msgstr "**维基百科** https://www.wikipedia.com/"
 
 #: ../../whitepaper/philosophy.rst:66
 msgid "**Instagram** https://www.instagram.com/"
-msgstr ""
+msgstr "**Instagram** https://www.instagram.com/"
 
 #: ../../whitepaper/philosophy.rst:67
 msgid "**YouTube** https://www.youtube.com/"
-msgstr ""
+msgstr "**YouTube** https://www.youtube.com/"
 
 #: ../../whitepaper/philosophy.rst:68
 msgid "**Twitter** https://twitter.com/"

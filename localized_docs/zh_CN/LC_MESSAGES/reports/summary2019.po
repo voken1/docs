@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 14:40+0800\n"
+"POT-Creation-Date: 2019-04-15 13:24+0800\n"
 "PO-Revision-Date: 2019-04-11 14:25+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -27,7 +27,7 @@ msgstr "2019 项目进展"
 
 #: ../../reports/summary2019.rst:9
 msgid "2019 Q1"
-msgstr ""
+msgstr "2019 Q1"
 
 #: ../../reports/summary2019.rst:7
 msgid ""
@@ -45,19 +45,19 @@ msgstr ":ref:`autossr` 优化"
 
 #: ../../reports/summary2019.rst:16
 msgid "2019 Q2"
-msgstr ""
+msgstr "2019 Q2"
 
 #: ../../reports/summary2019.rst:12
 msgid "``vnVPN Alpha client-side v0.4.19 on Windows`` released"
 msgstr "``vnVPN Alpha 客户端内测 v0.4.19 on Windows`` 完成"
 
 #: ../../reports/summary2019.rst:13
-msgid "Canceled Voken Pre-Sale"
-msgstr "取消了 Voken 预售"
+msgid "Canceled `Voken Pre-Sale`"
+msgstr "取消了 `Voken 预售`"
 
 #: ../../reports/summary2019.rst:14
 msgid ":ref:`voken_contract_upgraded`"
-msgstr ""
+msgstr ":ref:`voken_contract_upgraded`"
 
 #: ../../reports/summary2019.rst:15
 msgid ":ref:`voken_referral_program` completed"

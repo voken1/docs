@@ -31,4 +31,4 @@ msgstr "为 :ref:`voken_sale` 持有 :ref:`voken` 。"
 
 #: ../../contracts/voken_sale.rst:11
 msgid "TBC."
-msgstr ""
+msgstr "待续"

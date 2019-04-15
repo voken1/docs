@@ -54,7 +54,7 @@ msgstr "在这里介绍几款比较好用的以太坊钱包："
 
 #: ../../guide/eth_wallet.rst:25
 msgid "MEW (MyEtherWallet)"
-msgstr ""
+msgstr "MEW （MyEtherWallet）"
 
 #: ../../guide/eth_wallet.rst:27
 msgid ""
@@ -70,7 +70,7 @@ msgstr "官网："
 
 #: ../../guide/eth_wallet.rst:33
 msgid "https://www.myetherwallet.com/"
-msgstr ""
+msgstr "https://www.myetherwallet.com/"
 
 #: ../../guide/eth_wallet.rst:35 ../../guide/eth_wallet.rst:57
 #: ../../guide/eth_wallet.rst:79
@@ -91,7 +91,7 @@ msgstr "`MEW 中文指导 2`_"
 
 #: ../../guide/eth_wallet.rst:49
 msgid "imToken"
-msgstr ""
+msgstr "imToken"
 
 #: ../../guide/eth_wallet.rst:51
 msgid "**imToken** is a feature-rich digital mobile asset light-wallet."
@@ -99,7 +99,7 @@ msgstr "**imToken** 是个移动端钱包，操作简便，容易上手，功能
 
 #: ../../guide/eth_wallet.rst:55
 msgid "https://token.im/"
-msgstr ""
+msgstr "https://token.im/"
 
 #: ../../guide/eth_wallet.rst:59
 msgid "`Guide for imToken (English)`_"
@@ -111,7 +111,7 @@ msgstr "`imToken 中文指导`_"
 
 #: ../../guide/eth_wallet.rst:69
 msgid "Parity"
-msgstr ""
+msgstr "Parity"
 
 #: ../../guide/eth_wallet.rst:71
 msgid ""
@@ -121,7 +121,7 @@ msgstr "**Parity** 是一款使用人数很多，也很成熟的一款以太坊�
 
 #: ../../guide/eth_wallet.rst:77
 msgid "https://www.parity.io/"
-msgstr ""
+msgstr "https://www.parity.io/"
 
 #: ../../guide/eth_wallet.rst:81
 msgid "`Guide for Parity (English) 1`_"

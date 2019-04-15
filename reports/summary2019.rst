@@ -10,7 +10,7 @@ Summary 2019
 
 2019 Q2
    - ``vnVPN Alpha client-side v0.4.19 on Windows`` released
-   - Canceled Voken Pre-Sale
+   - Canceled `Voken Pre-Sale`
    - :ref:`voken_contract_upgraded`
    - :ref:`voken_referral_program` completed
    - :ref:`voken_sale` is on the way

@@ -11,10 +11,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-04 14:28+0800\n"
+"POT-Creation-Date: 2019-03-05 15:50+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,7 +27,7 @@ msgstr "AutoSSR：免费 ShadowsocksR 服务"
 
 #: ../../services/autossr.rst:6
 msgid "**Github:** https://github.com/VisionNetworkProject/AutoSSR"
-msgstr ""
+msgstr "**Github:** https://github.com/VisionNetworkProject/AutoSSR"
 
 #: ../../services/autossr.rst:10
 msgid ""
@@ -58,7 +58,7 @@ msgstr "**在线**"
 
 #: ../../services/autossr.rst:24
 msgid "`https://git.io/autossr-online`"
-msgstr ""
+msgstr "`https://git.io/autossr-online`"
 
 #: ../../services/autossr.rst:24
 msgid "All the online servers, available more than one hour."
@@ -70,7 +70,7 @@ msgstr "**稳定**"
 
 #: ../../services/autossr.rst:26
 msgid "`https://git.io/autossr-stable`"
-msgstr ""
+msgstr "`https://git.io/autossr-stable`"
 
 #: ../../services/autossr.rst:26
 msgid "Available more the 12 hours, seems they are stable."
@@ -82,7 +82,7 @@ msgstr "**最近**"
 
 #: ../../services/autossr.rst:28
 msgid "`https://git.io/autossr-recent`"
-msgstr ""
+msgstr "`https://git.io/autossr-recent`"
 
 #: ../../services/autossr.rst:28
 msgid "Recent servers, active in 6 hours."
@@ -110,8 +110,8 @@ msgstr "使用指导"
 
 #: ../../services/autossr.rst:49
 msgid ":ref:`guide_for_shadowrocket`"
-msgstr ""
+msgstr ":ref:`guide_for_shadowrocket`"
 
 #: ../../services/autossr.rst:50
 msgid ":ref:`guide_for_ssrr`"
-msgstr ""
+msgstr ":ref:`guide_for_ssrr`"

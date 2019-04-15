@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-15 14:20+0800\n"
+"PO-Revision-Date: 2019-04-15 00:54+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contracts/voken_migration.rst:4
+msgid "Voken Migration Contract"
+msgstr "Voken 迁移合约"
+
+#: ../../contracts/voken_migration.rst:6
+msgid ""
+"Contract address is ``0x667a09148b211D8CeabC1c31C03653C2E1A2634f``, deployed"
+" at `Tx Hash 0xdaf7...e47f`_, block height ``7569237``."
+msgstr ""
+"合约地址 ``0x667a09148b211D8CeabC1c31C03653C2E1A2634f`` ，部署于 `Tx Hash "
+"0xdaf7...e47f`_ ，区块高度 ``7569237`` 。"
+
+#: ../../contracts/voken_migration.rst:12
+msgid ""
+"For ``VNET`` contract ``0x3F1...2F5`` historical balance data migrations, "
+"snapshot at ``2019-04-15 00:00:00 UTC``."
+msgstr ""
+"用于 ``VNET`` 旧合约 ``0x3F1...2F5`` 的历史账户数据迁移，快照于 ``2019-04-15 00:00:00 标准时间`` 。"
+
+#: ../../contracts/voken_migration.rst:15
+msgid "Transaction list:"
+msgstr "交易列表："
+
+#: ../../contracts/voken_migration.rst:17
+msgid ""
+"`Tx Hash "
+"0xfa08e3df56707476ec640c4979d2681b3dfff6be1cab9df2144fc7cdf31167fb`_"
+msgstr ""
+"`交易哈希 0xfa08e3df56707476ec640c4979d2681b3dfff6be1cab9df2144fc7cdf31167fb`_"
+
+#: ../../contracts/voken_migration.rst:18
+msgid "..."
+msgstr "..."

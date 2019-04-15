@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 17:50+0800\n"
+"POT-Creation-Date: 2019-04-15 14:06+0800\n"
 "PO-Revision-Date: 2019-01-17 05:19+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -22,13 +22,17 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../contracts/airdrop.rst:4
-msgid "Airdrop Contract"
-msgstr "空投合约"
+msgid "Voken Airdrop Contract"
+msgstr "Voken 空投合约"
 
-#: ../../contracts/airdrop.rst:8
+#: ../../contracts/airdrop.rst:6
 msgid "Hold :ref:`voken` for :ref:`airdrop_via_contract`."
 msgstr "为 :ref:`airdrop_via_contract` 持有 :ref:`voken` 。"
 
-#: ../../contracts/airdrop.rst:13
-msgid "TBC."
-msgstr "待续"
+#: ../../contracts/airdrop.rst:8
+msgid ""
+"Contract address is ``0x2a0f5a9515A4c4579d1613e047a8C380B5994339``, deployed"
+" at `Tx Hash 0x2ce6...7005`_, block height ``7570464``."
+msgstr ""
+"合约地址 ``0x2a0f5a9515A4c4579d1613e047a8C380B5994339`` ，部署于 `Tx Hash "
+"0x2ce6...7005`_ ，区块高度 ``7570464``."

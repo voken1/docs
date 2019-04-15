@@ -27,7 +27,7 @@ msgstr "参与远景网络共建"
 
 #: ../../contributing/contribute.rst:4
 msgid "You are here to help on Vision Network? That's awesome."
-msgstr "你是在这里准备帮助共建 Vision Network 远景网络吗？ 棒极了！"
+msgstr "您是在这里准备帮助共建 Vision Network 远景网络吗？ 棒极了！"
 
 #: ../../contributing/contribute.rst:11
 msgid "Global Community"
@@ -35,11 +35,11 @@ msgstr "全球社群"
 
 #: ../../contributing/contribute.rst:13
 msgid ":ref:`voken_referral_program`"
-msgstr ""
+msgstr ":ref:`voken_referral_program`"
 
 #: ../../contributing/contribute.rst:14
 msgid ":ref:`community_partner`"
-msgstr ""
+msgstr ":ref:`community_partner`"
 
 #: ../../contributing/contribute.rst:18
 msgid "Helping on translations"

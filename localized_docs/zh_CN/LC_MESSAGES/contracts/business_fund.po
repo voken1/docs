@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 17:50+0800\n"
+"POT-Creation-Date: 2019-04-15 13:24+0800\n"
 "PO-Revision-Date: 2019-01-17 05:19+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -25,26 +25,34 @@ msgstr ""
 msgid "Business Fund Contract"
 msgstr "商业拓展基金持币合约"
 
-#: ../../contracts/business_fund.rst:8
+#: ../../contracts/business_fund.rst:6
+msgid ""
+"Contract address is ``0x702c15CBf4949a2041ED42b72E3843b81F08af7a``, deployed"
+" at `Tx Hash 0x8496...1c9e`_, block height ``7569887``."
+msgstr ""
+"合约地址 ``0x702c15CBf4949a2041ED42b72E3843b81F08af7a`` ，部署于 `Tx Hash "
+"0x8496...1c9e`_ ，区块高度 ``7569887`` 。"
+
+#: ../../contracts/business_fund.rst:13
 msgid "Hold :ref:`voken` for business fund, would be used for:"
 msgstr "为商业拓展基金持有 :ref:`voken` ，将备用于："
 
-#: ../../contracts/business_fund.rst:10
+#: ../../contracts/business_fund.rst:15
 msgid "Exchange listing"
 msgstr "$VNET 流量币的交易所挂牌"
 
-#: ../../contracts/business_fund.rst:11
+#: ../../contracts/business_fund.rst:16
 msgid "Service node incentive"
 msgstr "生态前期的服务节点激励"
 
-#: ../../contracts/business_fund.rst:12
+#: ../../contracts/business_fund.rst:17
 msgid "Community construction and maintenance"
 msgstr "社区建设与维护"
 
-#: ../../contracts/business_fund.rst:13
+#: ../../contracts/business_fund.rst:18
 msgid "etc."
 msgstr "其它奖励"
 
-#: ../../contracts/business_fund.rst:18
+#: ../../contracts/business_fund.rst:23
 msgid "TBC."
 msgstr "待续"

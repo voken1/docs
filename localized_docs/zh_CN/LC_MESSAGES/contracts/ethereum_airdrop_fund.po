@@ -27,7 +27,7 @@ msgstr "对以太坊空投合约"
 
 #: ../../contracts/ethereum_airdrop_fund.rst:8
 msgid "For :ref:`airdrop_to_eth_holders`."
-msgstr ""
+msgstr "空投给 :ref:`airdrop_to_eth_holders` 。"
 
 #: ../../contracts/ethereum_airdrop_fund.rst:13
 msgid "TBC."

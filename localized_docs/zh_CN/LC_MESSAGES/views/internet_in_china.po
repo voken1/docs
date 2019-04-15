@@ -27,7 +27,7 @@ msgstr "关于中国的互联网"
 
 #: ../../views/internet_in_china.rst:6
 msgid "Click `关于中国的互联网`_ to read."
-msgstr ""
+msgstr "点击 `关于中国的互联网`_ 阅读。"
 
 #: ../../views/internet_in_china.rst:12
 msgid "Chinese Edition provided only"
@@ -52,4 +52,4 @@ msgstr "由本段资料只对中国大陆居民有阅读意义，所以不再另
 
 #: ../../views/internet_in_china.rst:24
 msgid "-- Michael"
-msgstr ""
+msgstr "-- Michael"

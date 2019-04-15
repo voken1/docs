@@ -9,7 +9,7 @@ Use it, invest it, not hype it
 This is also our **blockchain technology application** value philosophy.
 
 We are building an increasingly mature system,
-in which Voken will be the only measure of value and means of payment
+in which :ref:`voken` will be the only measure of value and means of payment
 in such a sustainable and healthy environment.
 It is clear that the basic design of 1 Voken = 100GB
 after ecological maturity will ensure that
@@ -38,10 +38,10 @@ Plan of distribution
 --------------------
 
 Team fund 12%
-   100% locked for 3 years, till 2021.06.30
+   100% freezed for 3.5 years, till ``2021.06.30 00:00:00 UTC``
 
 Early Investors 10%
-   80% locked for 1 year, till 2020.06.30
+   80% freezed for 2.5 years, till ``2020.06.30 00:00:00 UTC``
 
 Air Drops 0.5%
    It is used to reward the Ethereum community users
@@ -57,13 +57,13 @@ DAPPs Support Plan 10%
    foster and encourage developers
    to build more decentralized application services.
 
-Token Sale 20.49%
+Token Sale 22.54%
    For public sale and whitelist awards.
 
 Miner 20.50%
    For service nodes.
 
-Community and business 26.01%
+Community and business 23.96%
    It is used for exchange listing,
    community construction and maintenance, etc.
 

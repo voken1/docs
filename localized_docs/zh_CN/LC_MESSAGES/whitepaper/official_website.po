@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Michael Brown <michael@vision.network>, 2019
+# VISION official <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"POT-Creation-Date: 2019-03-05 15:50+0800\n"
 "PO-Revision-Date: 2019-01-19 08:46+0000\n"
-"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,4 +27,4 @@ msgstr "官方网站"
 
 #: ../../whitepaper/official_website.rst:4
 msgid "https://vision.network"
-msgstr ""
+msgstr "https://vision.network"

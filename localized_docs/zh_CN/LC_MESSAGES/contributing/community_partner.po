@@ -149,7 +149,7 @@ msgstr "邮件地址："
 
 #: ../../contributing/community_partner.rst:67
 msgid "joinus@vision.network"
-msgstr ""
+msgstr "joinus@vision.network"
 
 #: ../../contributing/community_partner.rst:69
 msgid "Content:"
@@ -201,7 +201,7 @@ msgstr "官方指定联系人的 Telegram 账号"
 
 #: ../../contributing/community_partner.rst:84
 msgid "https://t.me/DavidWellsHK"
-msgstr ""
+msgstr "https://t.me/DavidWellsHK"
 
 #: ../../contributing/community_partner.rst:87
 msgid ""
