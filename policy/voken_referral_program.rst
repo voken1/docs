@@ -68,8 +68,7 @@ Lv.15  10 Vokens
 Sales Referral Reward: 35%
 --------------------------
 
-- During the :ref:`voken_sale`
-- ``35% of sales revenue`` will be used as rewards.
+- During the :ref:`voken_sale`, ``35% of sales revenue`` will be used as rewards.
 - According to the **whitelist referral relationship chain** registered
   in :ref:`voken_contract`.
 - Settled with ETH,
@@ -105,8 +104,7 @@ Lv.15  1%
 Season Top-Sales Reward: 15% - 65%
 ----------------------------------
 
-- During the :ref:`voken_sale`
-- The :ref:`voken_sale` is divided into 60,000 stages,
+- During the :ref:`voken_sale` is divided into 60,000 stages,
   each 600 stages is defined as a **SEASON**,
   that is also 1% of the entire progress.
 - With the sales progress,
