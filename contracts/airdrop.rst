@@ -5,9 +5,9 @@ Voken Airdrop Contract
 
 Hold :ref:`voken` for :ref:`airdrop_via_contract`.
 
-Contract address is ``0x2a0f5a9515A4c4579d1613e047a8C380B5994339``,
-deployed at `Tx Hash 0x2ce6...7005`_,
-block height ``7570464``.
+Contract address is ``0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA``,
+deployed at `Tx Hash 0x6a10...e1a0`_,
+block height ``7575490``.
 
-.. _Tx Hash 0x2ce6...7005: https://etherscan.io/tx/0x2ce6d80bf5d005a05e10929fdf6ee1cca658dcc41defca8448e1c46748137005
+.. _Tx Hash 0x6a10...e1a0: https://etherscan.io/tx/0x6a10e3d183738d7f3e2da09aec8f649d8c61284c76bd24df4bd23a43d983e1a0
 

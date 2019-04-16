@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-15 16:48+0800\n"
+"POT-Creation-Date: 2019-04-16 07:53+0800\n"
 "PO-Revision-Date: 2019-04-11 14:19+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -85,12 +85,12 @@ msgstr "使用 Voken 实时结算，转账到您的钱包地址，由合约自�
 
 #: ../../policy/voken_referral_program.rst:41
 msgid ""
-"``301 Vokens`` for direct referral reward (Lv.1), get one more level for "
-"each registration with your whitelisted address, up to 15 levels (14+ "
-"referrals):"
+"Get one more level for each registration with your whitelisted address, "
+"``301 Vokens`` for direct referral reward (Lv.1, default), up to 15 levels "
+"(15+ referrals):"
 msgstr ""
-"直接推荐关系（Lv.1）奖励 ``301 Vokens`` ，使用您的白名单地址每多推荐 1 个白名单注册，就可以再多得 1 级奖励，最高 15 "
-"级（14 个以上引荐注册）："
+"使用您的白名单地址每多推荐 1 个白名单注册，就可以得 1 级奖励，直接推荐关系（Lv.1）默认奖励 ``301 Vokens`` ，最高 15 "
+"级（15 个以上引荐注册）："
 
 #: ../../policy/voken_referral_program.rst:46
 #: ../../policy/voken_referral_program.rst:83
@@ -242,10 +242,11 @@ msgstr "使用 ETH 实时结算，转账到您的钱包地址，由合约自动�
 
 #: ../../policy/voken_referral_program.rst:78
 msgid ""
-"``6%`` for direct referral reward (Lv.1), get one more level for each "
-"registration with your whitelisted address, up to 15 levels (14+ referrals):"
+"Get one more level for each registration with your whitelisted address, "
+"``6%`` for direct referral reward (Lv.1, default), up to 15 levels (15+ "
+"referrals):"
 msgstr ""
-"直接推荐关系（Lv.1）奖励 ``6%`` ，使用您的白名单地址每多推荐 1 个白名单注册，就可以再多得 1 级奖励，最高 15 级（14 "
+"使用您的白名单地址每多推荐 1 个白名单注册，就可以得 1 级奖励，直接推荐关系（Lv.1）默认奖励 ``6%`` ，最高 15 级（15 "
 "个以上引荐注册）："
 
 #: ../../policy/voken_referral_program.rst:83

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-15 13:45+0800\n"
+"POT-Creation-Date: 2019-04-16 07:39+0800\n"
 "PO-Revision-Date: 2019-01-17 02:53+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -74,8 +74,8 @@ msgid "Contract"
 msgstr "以太坊智能合约"
 
 #: ../../token/airdrop_via_contract.rst:30
-msgid "**0x2a0f5a9515A4c4579d1613e047a8C380B5994339**"
-msgstr "**0x2a0f5a9515A4c4579d1613e047a8C380B5994339**"
+msgid "**0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA**"
+msgstr "**0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA**"
 
 #: ../../token/airdrop_via_contract.rst:32
 msgid ""

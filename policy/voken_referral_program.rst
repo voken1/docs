@@ -38,9 +38,9 @@ Whitelist Registration Referral Reward: 100%
 - Settled with Voken,
   will transfer to your wallet addresses automatically and immediately,
   process by contract.
-- ``301 Vokens`` for direct referral reward (Lv.1),
-  get one more level for each registration with your whitelisted address,
-  up to 15 levels (14+ referrals):
+- Get one more level for each registration with your whitelisted address,
+  ``301 Vokens`` for direct referral reward (Lv.1, default),
+  up to 15 levels (15+ referrals):
 
 =====  =====================================
 Level  Amount of reward (1,001 Vokens Total)
@@ -75,9 +75,9 @@ Sales Referral Reward: 35%
 - Settled with ETH,
   will transfer to your wallet addresses automatically and immediately,
   process by contract.
-- ``6%`` for direct referral reward (Lv.1),
-  get one more level for each registration with your whitelisted address,
-  up to 15 levels (14+ referrals):
+- Get one more level for each registration with your whitelisted address,
+  ``6%`` for direct referral reward (Lv.1, default),
+  up to 15 levels (15+ referrals):
 
 =====  ===========================
 Level  Referral reward (35% Total)

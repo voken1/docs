@@ -27,7 +27,7 @@ Contract
    :width: 35 %
    :alt: qrcode_airdrop.png
 
-**0x2a0f5a9515A4c4579d1613e047a8C380B5994339**
+**0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA**
 
 Just send **0 ETH** to :ref:`airdrop_contract` address above,
 you will receive **100-200 Vokens** randomly.
