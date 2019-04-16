@@ -43,7 +43,7 @@ msgstr "相关消息："
 
 #: ../../contracts/voken.rst:17
 msgid ":ref:`voken_contract_upgraded`"
-msgstr "`ref:`voken_contract_upgraded`"
+msgstr ":ref:`voken_contract_upgraded`"
 
 #: ../../contracts/voken.rst:21
 msgid "Understand Voken Contract (open-sourced)"

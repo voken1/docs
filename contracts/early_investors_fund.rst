@@ -1,7 +1,7 @@
-.. _early_investor_fund_contract:
+.. _early_investors_fund_contract:
 
-Early Investor Fund Contract
-============================
+Early Investors Fund Contract
+=============================
 
 .. Contract address: ``0x..``
 

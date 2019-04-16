@@ -131,10 +131,11 @@ Contacts
    contracts/airdrop
    contracts/airdrop_to_eth_holders
 
-   contracts/voken_migration
    contracts/business_fund
+   contracts/service_nodes_fund
+   contracts/early_investors_fund
    contracts/team_fund
-   contracts/early_investor_fund
+   contracts/voken_migration
 
 .. contracts/vnet
 

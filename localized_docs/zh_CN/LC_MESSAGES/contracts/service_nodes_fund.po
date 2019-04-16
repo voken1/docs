@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-16 09:40+0800\n"
+"PO-Revision-Date: 2019-04-16 01:41+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contracts/service_nodes_fund.rst:4
+msgid "Service Nodes Fund Contract"
+msgstr "服务节点激励持币合约"
+
+#: ../../contracts/service_nodes_fund.rst:6
+msgid ""
+"Contract address is ``0xe942e288B625Db74C6505846ac8573Acd1577DF5``, deployed"
+" at `Tx Hash 0xeb13...03bd`_, block height ``7576008``."
+msgstr ""
+"合约地址 ``0xe942e288B625Db74C6505846ac8573Acd1577DF5`` ，部署于 `Tx Hash "
+"0xeb13...03bd`_ ，区块高度 ``7576008`` 。"
+
+#: ../../contracts/service_nodes_fund.rst:13
+msgid "Hold :ref:`voken` for Service Nodes, would be used for:"
+msgstr "为服务节点持有 :ref:`voken` ，将备用于："
+
+#: ../../contracts/service_nodes_fund.rst:15
+msgid "Service node incentive"
+msgstr "生态前期的服务节点激励"
+
+#: ../../contracts/service_nodes_fund.rst:20
+msgid "TBC."
+msgstr "待续"

@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 18:32+0800\n"
-"PO-Revision-Date: 2019-01-19 08:47+0000\n"
+"POT-Creation-Date: 2019-04-16 09:40+0800\n"
+"PO-Revision-Date: 2019-04-12 17:19+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -21,15 +21,18 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../whitepaper/special_tips.rst:2
-msgid "Special tips"
-msgstr "特别注意"
+#: ../../contracts/early_investors_fund.rst:4
+msgid "Early Investors Fund Contract"
+msgstr "早期投资人持币合约"
 
-#: ../../whitepaper/special_tips.rst:4
-msgid ""
-"**The Vision Network team will not ask users to transfer their** "
-":ref:`voken` **to any wallet address and non-source verified smart contract "
-"address at any time.** **Please pay attention to the security of assets.**"
-msgstr ""
-"**Vision Network 团队不会在任何时候以任何方式诱惑用户将持有的** :ref:`voken` "
-"**转入任何钱包地址和未经源码验证的智能合约地址，请每位用户注意安全保护并防止受骗。**"
+#: ../../contracts/early_investors_fund.rst:8
+msgid "Hold :ref:`voken` for the early-investors:"
+msgstr "为早期投资人持有 :ref:`voken` ："
+
+#: ../../contracts/early_investors_fund.rst:10
+msgid "Freezed until ``2020.06.30 00:00:00 UTC``"
+msgstr "冻结至 ``2020.06.30 00:00:00 UTC 标准时间``"
+
+#: ../../contracts/early_investors_fund.rst:15
+msgid "TBC."
+msgstr "待续"
