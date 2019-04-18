@@ -132,6 +132,7 @@ Contacts
    contracts/airdrop_to_eth_holders
 
    contracts/business_fund
+   contracts/developers_fund
    contracts/service_nodes_fund
    contracts/early_investors_fund
    contracts/team_fund

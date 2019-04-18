@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-18 11:19+0800\n"
+"PO-Revision-Date: 2019-04-18 03:20+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contracts/developers_fund.rst:4
+msgid "Developers Fund Contract"
+msgstr "应用开发者基金持币合约"
+
+#: ../../contracts/developers_fund.rst:6
+msgid ""
+"Contract address is ``0x22A26C45470972E5Fee08F7E047f851dF8Ed7aF9``, deployed"
+" at `Tx Hash 0xbdd5...b07a`_, block height ``7589213``."
+msgstr ""
+"合约地址 ``0x22A26C45470972E5Fee08F7E047f851dF8Ed7aF9`` ，部署于 `Tx Hash "
+"0xbdd5...b07a`_ ，区块高度 ``7589213`` 。"
+
+#: ../../contracts/developers_fund.rst:13
+msgid "Hold :ref:`voken` for DApps developers fund."
+msgstr "为分布式应用开发者持有 :ref:`voken` 。"
+
+#: ../../contracts/developers_fund.rst:18
+msgid "TBC."
+msgstr "待续"

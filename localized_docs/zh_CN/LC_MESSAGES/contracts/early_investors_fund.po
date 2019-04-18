@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-16 09:40+0800\n"
+"POT-Creation-Date: 2019-04-18 10:10+0800\n"
 "PO-Revision-Date: 2019-04-12 17:19+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -25,14 +25,30 @@ msgstr ""
 msgid "Early Investors Fund Contract"
 msgstr "早期投资人持币合约"
 
-#: ../../contracts/early_investors_fund.rst:8
+#: ../../contracts/early_investors_fund.rst:6
+msgid ""
+"Contract address is ``0x68D898460939566F8a8Bd2fC64898749c30dBEF1``, deployed"
+" at `Tx Hash 0x618e....4992`_, block height ``7588918``."
+msgstr ""
+"合约地址 ``0x68D898460939566F8a8Bd2fC64898749c30dBEF1`` ，部署于 `Tx Hash "
+"0x618e....4992`_ ，区块高度 ``7588918`` 。"
+
+#: ../../contracts/early_investors_fund.rst:13
 msgid "Hold :ref:`voken` for the early-investors:"
 msgstr "为早期投资人持有 :ref:`voken` ："
 
-#: ../../contracts/early_investors_fund.rst:10
-msgid "Freezed until ``2020.06.30 00:00:00 UTC``"
-msgstr "冻结至 ``2020.06.30 00:00:00 UTC 标准时间``"
-
 #: ../../contracts/early_investors_fund.rst:15
-msgid "TBC."
-msgstr "待续"
+msgid "Freezed until ``2020.06.30 23:59:59 UTC``"
+msgstr "冻结至 ``2020.06.30 23:59:59UTC 标准时间``"
+
+#: ../../contracts/early_investors_fund.rst:19
+msgid "How to withdraw?"
+msgstr "如何取出？"
+
+#: ../../contracts/early_investors_fund.rst:21
+msgid "After ``2020.06.30 23:59:59 UTC``."
+msgstr "在 ``2020.06.30 23:59:59 UTC 标准时间`` 之后。"
+
+#: ../../contracts/early_investors_fund.rst:22
+msgid "Use investor's ETH wallet, send 0 ETH to contract address."
+msgstr "使用投资人的 ETH 钱包向合约地址转账 0 ETH 即可。"

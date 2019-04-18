@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-16 09:40+0800\n"
+"POT-Creation-Date: 2019-04-16 18:46+0800\n"
 "PO-Revision-Date: 2019-04-16 01:41+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -38,9 +38,5 @@ msgid "Hold :ref:`voken` for Service Nodes, would be used for:"
 msgstr "为服务节点持有 :ref:`voken` ，将备用于："
 
 #: ../../contracts/service_nodes_fund.rst:15
-msgid "Service node incentive"
-msgstr "生态前期的服务节点激励"
-
-#: ../../contracts/service_nodes_fund.rst:20
-msgid "TBC."
-msgstr "待续"
+msgid "Service nodes' incentive"
+msgstr "服务节点激励"

@@ -1,8 +1,6 @@
 Voken and plan of distribution
 ==============================
 
-
-
 Use it, invest it, not hype it
 ------------------------------
 
@@ -38,32 +36,51 @@ Plan of distribution
 --------------------
 
 Team fund 12%
-   100% freezed for 3.5 years, till ``2021.06.30 00:00:00 UTC``
+   100% freezed for 3.5 years, till ``2021.06.30 23:59:59 UTC``,
+   in :ref:`team_fund_contract`.
 
-Early Investors 10%
-   80% freezed for 2.5 years, till ``2020.06.30 00:00:00 UTC``
 
-Air Drops 0.5%
+Early Investors 13.47%
+   3.5 billion Vokens are freezed for 2.5 years,
+   till ``2020.06.30 23:59:59 UTC``
+   in :ref:`early_investors_fund_contract`.
+
+
+Air Drops 2%
    It is used to reward the Ethereum community users
-   and promotion before the public sale, etc.
+   and promotion before/during the :ref:`voken_sale`:
+
+   - :ref:`airdrop_contract`
+   - :ref:`airdrop_to_eth_holders_contract`
+
+
+Token Sale 22.54%
+   For :ref:`voken_sale`.
+
+
+Miner 15%
+   :ref:`service_nodes_fund_contract`.
+
+   For service nodes' incentive.
+
 
 Consumption pool 0.5%
    For special user contribution awards and sales promotions,
    the list of individual or organizational users will be
    charged to the consumer pool contract account until they are used up.
 
+
 DAPPs Support Plan 10%
+   :ref:`developers_fund_contract`.
+
    It is used to enrich Vision Network ecology,
    foster and encourage developers
    to build more decentralized application services.
 
-Token Sale 22.54%
-   For public sale and whitelist awards.
 
-Miner 20.50%
-   For service nodes.
+Community and business 24.49%
+   :ref:`business_fund_contract`.
 
-Community and business 23.96%
    It is used for exchange listing,
    community construction and maintenance, etc.
 

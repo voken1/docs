@@ -12,9 +12,5 @@ block height ``7576008``.
 
 Hold :ref:`voken` for Service Nodes, would be used for:
 
-- Service node incentive
+- Service nodes' incentive
 
-
-------
-
-TBC.
