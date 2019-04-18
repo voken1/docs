@@ -62,8 +62,7 @@ msgid ""
 "all balance for 3 years, while the balance of the early investors is locked "
 "up by 80%."
 msgstr ""
-"团队与项目早期投资者只持有 VNET 总量的 22%，其中项目团队使用公开的智能合约地址持有总量的 12% 并全部锁仓 3 年，早期投资者 80% "
-"锁仓。"
+"团队与项目早期投资者只持有总量的 22%，其中项目团队使用公开的智能合约地址持有总量的 12% 并全部锁仓 3 年，早期投资者 80% 锁仓。"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:29
 msgid ""
