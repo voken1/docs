@@ -21,15 +21,10 @@ Of course, the value logic of Voken is so clear that proper investment is also a
 Total 35 billion, absolute majority amount will be handed over to the users
 ---------------------------------------------------------------------------
 
-The team and the early investors held only 22% of the total,
-in which the project team held 12% total using an open smart contract address
-and locked all balance for 3 years,
-while the balance of the early investors is locked up by 80%.
+The team and the early investors held only 25.47% of the total,
+and most of them are freezed.
 
-78% of the Vokens will ultimately be held by users,
-with 53.11% of sales being the largest share,
-while the remaining 18.89% will be used for community rewards,
-and 5% for application development support plan.
+74.53% of the Vokens will ultimately be held by users.
 
 
 Plan of distribution

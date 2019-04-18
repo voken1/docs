@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 18:28+0800\n"
+"POT-Creation-Date: 2019-04-18 14:02+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -70,52 +70,52 @@ msgid "`Chinese`_"
 msgstr "`中文版`_"
 
 #: ../../index.rst:32
-msgid "**Official News**"
-msgstr "**官方新闻频道**"
-
-#: ../../index.rst:32
-msgid "`Telegram News Channel`_"
-msgstr "`官方电报新闻频道`_"
-
-#: ../../index.rst:34
-msgid "**Twitter**"
-msgstr "**推特**"
-
-#: ../../index.rst:34
-msgid "`Twitter`_"
-msgstr "`项目组唯一推特帐号`_"
-
-#: ../../index.rst:36
-msgid "**Telegram Group**"
-msgstr "**电报群组**"
-
-#: ../../index.rst:36
-msgid "`English Group`_"
-msgstr "`英文交流组`_"
-
-#: ../../index.rst:36
-msgid "`Chinese Group`_"
-msgstr "`中文交流组`_"
-
-#: ../../index.rst:38
-msgid "**GitHub**"
-msgstr "**GitHub**"
-
-#: ../../index.rst:38
-msgid "`VisionNetworkProject`_"
-msgstr "`远景网络项目组`_"
-
-#: ../../index.rst:40
 msgid "**Documents**"
 msgstr "**项目文档**"
 
-#: ../../index.rst:40
+#: ../../index.rst:32
 msgid "`English Docs`_"
 msgstr "`英文文档`_"
 
-#: ../../index.rst:40
+#: ../../index.rst:32
 msgid "`Chinese Docs`_"
 msgstr "`中文文档`_"
+
+#: ../../index.rst:34
+msgid "**GitHub**"
+msgstr "**GitHub**"
+
+#: ../../index.rst:34
+msgid "`VisionNetworkProject`_"
+msgstr "`远景网络项目组`_"
+
+#: ../../index.rst:36
+msgid "**Official News**"
+msgstr "**官方新闻频道**"
+
+#: ../../index.rst:36
+msgid "`Telegram News Channel`_"
+msgstr "`官方电报新闻频道`_"
+
+#: ../../index.rst:38
+msgid "**Twitter**"
+msgstr "**推特**"
+
+#: ../../index.rst:38
+msgid "`Twitter`_"
+msgstr "`项目组唯一推特帐号`_"
+
+#: ../../index.rst:40
+msgid "**Telegram Group**"
+msgstr "**电报群组**"
+
+#: ../../index.rst:40
+msgid "`English Group`_"
+msgstr "`英文交流组`_"
+
+#: ../../index.rst:40
+msgid "`Chinese Group`_"
+msgstr "`中文交流组`_"
 
 #: ../../index.rst:57
 msgid "News"
@@ -141,14 +141,14 @@ msgstr "推荐阅读与观点集"
 msgid "Contracts on Ethereum"
 msgstr "以太坊智能合约"
 
-#: ../../index.rst:144
+#: ../../index.rst:146
 msgid "Contribute"
 msgstr "共建"
 
-#: ../../index.rst:159
+#: ../../index.rst:161
 msgid "Policy"
 msgstr "政策"
 
-#: ../../index.rst:169
-msgid "Whitepaper v1.0.4"
-msgstr "白皮书 v1.0.4"
+#: ../../index.rst:171
+msgid "Whitepaper v1.1.0"
+msgstr ""

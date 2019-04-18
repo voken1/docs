@@ -170,7 +170,7 @@ Contacts
 
 .. toctree::
    :maxdepth: 2
-   :caption: Whitepaper v1.0.4
+   :caption: Whitepaper v1.1.0
 
    whitepaper/background
    whitepaper/keywords
