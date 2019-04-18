@@ -59,7 +59,7 @@ msgstr "总量 350 亿，绝对多数的 Voken 交给用户持有"
 msgid ""
 "The team and the early investors held only 25.47% of the total, and most of "
 "them are freezed."
-msgstr "团队与项目早期投资者只持有总量的 25.47%，大多数处理冻结状态。"
+msgstr "团队与项目早期投资者只持有总量的 25.47%，大多数处于冻结状态。"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:27
 msgid "74.53% of the Vokens will ultimately be held by users."
