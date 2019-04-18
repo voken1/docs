@@ -59,9 +59,10 @@ Token Sale 22.54%
 
 
 Miner 15%
+   For service nodes' incentive.
+
    :ref:`service_nodes_fund_contract`.
 
-   For service nodes' incentive.
 
 
 Consumption pool 0.5%
@@ -71,16 +72,14 @@ Consumption pool 0.5%
 
 
 DAPPs Support Plan 10%
-   :ref:`developers_fund_contract`.
-
    It is used to enrich Vision Network ecology,
    foster and encourage developers
    to build more decentralized application services.
 
+   :ref:`developers_fund_contract`.
 
 Community and business 24.49%
-   :ref:`business_fund_contract`.
-
    It is used for exchange listing,
    community construction and maintenance, etc.
 
+   :ref:`business_fund_contract`.

@@ -53,7 +53,7 @@ msgstr ""
 #: ../../whitepaper/token_and_distribution_plan.rst:22
 msgid ""
 "Total 35 billion, absolute majority amount will be handed over to the users"
-msgstr "总量 350 亿，绝对多数的 VNET 交给用户持有"
+msgstr "总量 350 亿，绝对多数的 Voken 交给用户持有"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:24
 msgid ""
