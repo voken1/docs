@@ -64,9 +64,8 @@ Lv.15  10 Vokens
 
 When a new address is registered in the whitelist,
 the 1001 Vokens reward will be automatically transferred.
-If the rewards are not transferred to the corresponding addresses
-due to the insufficient number of referrers for some levels,
-all unqualified rewards will belong to the direct referrer.
+If there are no incentives for rewards due to insufficient referrals at certain levels,
+all unsuccessful rewards will belong to the direct referrer.
 
 
 .. _sales_referral_reward:
@@ -104,8 +103,10 @@ Lv.14  1%
 Lv.15  1%
 =====  ===========================
 
-All unqualified ETH rewards will be stored in a pending pool,
-they will be used for reward programs that have not been properly determined.
+For the same reason,
+all unallocated ETH rewards will be temporarily stored in a pending pool,
+and a new reward plan will be determined later.
+
 
 .. _top_sales_reward:
 
