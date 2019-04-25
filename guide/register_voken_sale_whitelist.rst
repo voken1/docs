@@ -1,11 +1,11 @@
-.. _register_voken_sale_whitelist:
+.. _guide_for_voken_sale_whitelist:
 
-How to register :ref:`voken_sale` Whitelist?
+How to register Voken Public-Sale whitelist?
 ============================================
 
 - Is there a friend told you about Vision Network, :ref:`voken`, and :ref:`voken_sale`?
-  Congratulations!! Ask him a ``whitelisted address``.
-- Use you ETH wallet, send ``1,001 Vokens`` to the address which is whitelisted already.
+  Congratulations!! Ask him for a ``whitelisted address``.
+- Use your ETH wallet, send ``1,001 Vokens`` to the address which is whitelisted already.
 - Finished. Your wallet address will be successfully registered.
 
 

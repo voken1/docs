@@ -4,6 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
+# Jill Henry <vnjillhenry@gmail.com>, 2019
 # VISION official <michael@vision.network>, 2019
 # 
 #, fuzzy
@@ -11,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-15 13:54+0800\n"
+"POT-Creation-Date: 2019-04-25 19:45+0800\n"
 "PO-Revision-Date: 2019-04-11 14:18+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -22,22 +23,22 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../guide/register_voken_sale_whitelist.rst:4
-msgid "How to register :ref:`voken_sale` Whitelist?"
-msgstr "如何注册 :ref:`voken_sale` 白名单？"
+msgid "How to register Voken Public-Sale whitelist?"
+msgstr "如何注册 Voken 公开销售白名单？"
 
 #: ../../guide/register_voken_sale_whitelist.rst:6
 msgid ""
 "Is there a friend told you about Vision Network, :ref:`voken`, and "
-":ref:`voken_sale`? Congratulations!! Ask him a ``whitelisted address``."
+":ref:`voken_sale`? Congratulations!! Ask him for a ``whitelisted address``."
 msgstr ""
-"是否已有您的朋友告诉您关于远景网络、 :ref:`voken` ，和 :ref:`voken_sale` 的消息？恭喜你！！直接问他要索要一个 "
-"``已在白名单中的地址`` 。"
+"是否有朋友向你介绍了远景网络，:ref:`voken`，和 :ref:`voken_sale` "
+"的消息呢？恭喜你！！直接向他索要一个``已加入白名单的地址``吧。"
 
 #: ../../guide/register_voken_sale_whitelist.rst:8
 msgid ""
-"Use you ETH wallet, send ``1,001 Vokens`` to the address which is "
+"Use your ETH wallet, send ``1,001 Vokens`` to the address which is "
 "whitelisted already."
-msgstr "使用你的 ETH 钱包，发送 ``1,001 Vokens`` 到那个已在白名单列表中的地址即可。"
+msgstr "使用你的 ETH 钱包，发送 1,001 Vokens 到那个已在白名单列表中的地址即可。"
 
 #: ../../guide/register_voken_sale_whitelist.rst:9
 msgid "Finished. Your wallet address will be successfully registered."

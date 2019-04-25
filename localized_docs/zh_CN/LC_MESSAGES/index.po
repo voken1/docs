@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-18 14:02+0800\n"
+"POT-Creation-Date: 2019-04-25 19:54+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -133,22 +133,22 @@ msgstr "当前可用服务"
 msgid "Guides"
 msgstr "使用与操作指导"
 
-#: ../../index.rst:109
+#: ../../index.rst:111
 msgid "References and views"
 msgstr "推荐阅读与观点集"
 
-#: ../../index.rst:124
+#: ../../index.rst:126
 msgid "Contracts on Ethereum"
 msgstr "以太坊智能合约"
 
-#: ../../index.rst:146
+#: ../../index.rst:148
 msgid "Contribute"
 msgstr "共建"
 
-#: ../../index.rst:161
+#: ../../index.rst:163
 msgid "Policy"
 msgstr "政策"
 
-#: ../../index.rst:171
+#: ../../index.rst:173
 msgid "Whitepaper v1.1.0"
-msgstr ""
+msgstr "白皮书 v1.1.0"

@@ -44,11 +44,11 @@ ExpExponentCleanup [#EXP]_,
 EventStructWrongData [#EVENT]_.
 
 Benefiting from the new features brought by the two upgrades
-of `Constantinople`_ and `Saint Petersburg`_ on Ethereum,
+of `Constantinople`_ and `Constantinople/St. Petersburg`_ on Ethereum,
 **the efficiency of the new contract has been greatly improved**.
 
 .. _Constantinople: https://blog.ethereum.org/2019/01/11/ethereum-constantinople-upgrade-announcement/
-.. _Saint Petersburg: https://blog.ethereum.org/2019/02/22/ethereum-constantinople-st-petersburg-upgrade-announcement/
+.. _Constantinople/St. Petersburg: https://blog.ethereum.org/2019/02/22/ethereum-constantinople-st-petersburg-upgrade-announcement/
 
 
 The Ethereum **miner’s fee is greatly reduced** for Voken transfer,
@@ -66,7 +66,7 @@ The contract will automatically save the referral relationship chain
 and **settle the rewards in real time**,
 according to :ref:`voken_referral_program`.
 
-:ref:`register_voken_sale_whitelist`
+:ref:`guide_for_voken_sale_whitelist`
 
 Whitelist qualification transfer is supported
 ---------------------------------------------

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 17:50+0800\n"
+"POT-Creation-Date: 2019-04-25 20:00+0800\n"
 "PO-Revision-Date: 2019-04-11 14:15+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -26,9 +26,17 @@ msgid "Voken Public-Sale Contract"
 msgstr "Voken 公开销售合约"
 
 #: ../../contracts/voken_sale.rst:6
-msgid "Hold :ref:`voken` for :ref:`voken_sale`."
-msgstr "为 :ref:`voken_sale` 持有 :ref:`voken` 。"
+msgid "Contract address is: **0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**"
+msgstr "合约地址 **0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**"
 
-#: ../../contracts/voken_sale.rst:11
+#: ../../contracts/voken_sale.rst:9
+msgid ""
+"Deployed at `Tx Hash 0x9f17...8dc9`_, block height ``7635415``, it hold and "
+"release :ref:`voken` for :ref:`voken_sale`."
+msgstr ""
+"部署于 `Tx Hash 0x9f17...8dc9`_ ，区块高度 ``7635415`` ，合约为 :ref:`voken_sale` 持有并释放 "
+":ref:`voken` 。"
+
+#: ../../contracts/voken_sale.rst:16
 msgid "TBC."
 msgstr "待续"

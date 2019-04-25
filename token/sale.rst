@@ -3,10 +3,15 @@
 Voken Public-Sale (About to start)
 ==================================
 
-:ref:`voken` has accurate service value and usage value anchoring.
-You can spend ``1 Voken`` to exchange ``100GB traffic``
-to use the unblocked accessible Internet,
-or earn Vokens by selling/sharing your idle bandwidth.
+The entire Public-Sale process operates by a smart contract
+on Ethereum blockchain, with no other priviledged access given to any party.
+
+:ref:`voken_sale_contract` is open-sourced under the `GNU General Public License v3.0`_
+and can be viewed on the `github repository`_ and `etherscan.io`_.
+
+.. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
+.. _github repository: https://github.com/VisionNetworkProject/contracts/blob/master/VokenPublicSale.sol
+.. _etherscan.io: https://etherscan.io/address/0xac873993e43a5af7b39ab4a5a50ce1fbdb7191d3#readContract
 
 
 Service Value & Usage Value ANCHORING
@@ -16,6 +21,9 @@ Service Value & Usage Value ANCHORING
 - 100GB is worth about **$8.00 - 8.50 USD**
   in mature IDCs and cloud service platforms,
   such as `Amazon AWS`_ and `Google GCP`_.
+- You can spend ``1 Voken`` to exchange ``100GB traffic``
+  to use the unblocked accessible Internet,
+  or earn Vokens by selling/sharing your idle bandwidth.
 
 .. _Amazon AWS: https://aws.amazon.com/
 .. _Google GCP: https://cloud.google.com/
@@ -27,12 +35,27 @@ About 7.889 billion Vokens for Sale
 There are about **7.889 billion Vokens** would released,
 accounting for **22.54%** of the total supply.
 
-All Vokens for sale were stored
+All the ``7,888,866,400 Vokens`` for sale were stored
 in an open-sourced :ref:`voken_sale_contract`
 on the Ethereum blockchain,
 to make sure it is clear and free to check at anytime.
+Transaction hash `0x5400ab9dcb680641e490f60800c8df20aef033fd4a279f6bef76fbdaebcd80a6`_,
 
 Crypto-currency ETH will be used as the only trading medium to complete the sale.
+
+.. _0x5400ab9dcb680641e490f60800c8df20aef033fd4a279f6bef76fbdaebcd80a6: https://etherscan.io/tx/0x5400ab9dcb680641e490f60800c8df20aef033fd4a279f6bef76fbdaebcd80a6
+
+
+Dynamic Audit ETH price
+-----------------------
+
+Using ETH as the payment medium,
+we will adjust the **Audit ETH price** dynamically,
+according to the latest price in the trading market,
+in order to ensure that Voken is relatively stable against legal tender
+at different times during the whole sale phase.
+
+**Latest Audit ETH price: $170**, That means you can use 1 ETH as $170 USD.
 
 
 Incremental sales price: $0.001 - $0.601
@@ -94,23 +117,21 @@ until the exchange price reaches **$0.601**:
 +--------------+---------------------+----------------+--------------+
 
 
-Dynamic Audit ETH price
------------------------
-
-Using ETH as the payment medium,
-we will adjust the **Audit ETH price** dynamically,
-according to the latest price in the trading market,
-in order to ensure that Voken is relatively stable against legal tender
-at different times during the whole sale phase.
-
-**Latest Audit ETH price: $170**, That means you can use 1 ETH as $170 USD.
-
-
 Per transaction
 ---------------
 
-- Minimum: 0.1 ETH
-- Maximum: 100 ETH
+- Minimum: ``0.1 ETH``
+- Maximum: ``100 ETH``
+
+
+Gas limit
+---------
+
+- Recommended: ``8,000,000``
+- Minimum: ``3,000,000``
+- The rest will be returned automatically
+- A transaction with gas limits below 3,000,000 will be automatically reverted,
+  and about 21,290 gas miners' fees will be exhausted.
 
 
 Bonus
@@ -126,7 +147,7 @@ Anyone who participate in the :ref:`voken_sale`
 by using a whitelisted ETH wallet address
 would enjoy a gift of **BUY ONE AND GET ONE MORE FREE**.
 
-See: :ref:`register_voken_sale_whitelist`
+See: :ref:`guide_for_voken_sale_whitelist`
 
 
 50% - 100% of sales revenue will be used as rewards
@@ -176,7 +197,39 @@ and the **Audit ETH price** goes to **$200 USD** for example:
 Finally, the amount is `11702.667659 + 11702.667659 =` **23405.335318 Vokens**.
 
 
-About to start
---------------
+Send ETH, and receive Vokens
+----------------------------
 
-To be announced...
+.. WARNING::
+   **HAS NOT STARTED YET.**
+
+   Please wait for the official announcement of the exact start time.
+
+   Make sure to use a wallet that **only you can control the private key** to send ETH.
+   Sending ETH from an exchange or any contract will face irreparable double losses,
+   both ETH and Vokens.
+
+
+.. image:: /_static/contract/qrcode_voken_sale.png
+   :width: 35 %
+   :alt: qrcode_voken_sale.png
+
+**0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**
+
+1. Just **USE YOUR OWN ETH WALLET**
+2. **SEND ETH TO THE CONTRACT ADDRESS ABOVE**
+3. and you will **RECEIVE VOKENS AUTOMATICALLY**
+
+Matters needing attention and operation instruction:
+
+- :ref:`guide_for_voken_sale_whitelist`
+- :ref:`guide_for_voken_sale`
+- :ref:`guide_for_gas`
+- ...
+
+.. NOTE::
+   We have made a series of security settings in the contract,
+   the most important one for you is that it **avoids unnecessary gas waste**.
+   **The contract will automatically return all unused ETH and remaining gas**.
+
+   So, make sure you have set ``gas limit`` to ``8,000,000``.

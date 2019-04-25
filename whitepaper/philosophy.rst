@@ -58,6 +58,9 @@ ecological environment.
 
 -- by Michael 2018
 
+
+------
+
 .. [#Microsoft] **Microsoft** https://www.microsoft.com/
 .. [#Gmail] **Gmail** https://www.gmail.com/
 .. [#Google] **Google** https://www.google.com/

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 01:18+0800\n"
+"POT-Creation-Date: 2019-04-25 21:57+0800\n"
 "PO-Revision-Date: 2019-02-22 07:10+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -45,13 +45,13 @@ msgstr "Gas 是使用以太坊的计量和燃料。``Gas limit`` 即是手动设
 
 #: ../../guide/gas.rst:19
 msgid ""
-"In most contract transactions related to **Vision Network**, setting **Gas "
-"limit to 100,000 Gwei** is completely feasible. Gas will not be wasted, the "
-"actual miner fee will only be calculated on demand, and the remaining "
+"In most contract transactions related to **Vision Network**, we recommend "
+"setting ``gas limit`` to ``8,000,000`` uniformly. Gas will not be wasted, "
+"the actual miner fee will only be calculated on demand, and the remaining "
 "portion will be automatically returned to the wallet balance."
 msgstr ""
-"在与 **Vision Network 远景网络** 相关的大多数合约交易中，**将 Gas limit 设置为 100,000** 是完全可行的。而 "
-"Gas 并不会被浪费，实际的矿工费是按需计算，剩余部分将会被自动退回到钱包余额。"
+"在与 **Vision Network 远景网络** 相关的大多数合约交易中，我们推荐将 ``gas limit`` 设置为 ``8,000,000``"
+" 。Gas 并不会被浪费，实际的矿工费是按需计算，剩余部分将会被自动退回到钱包余额。"
 
 #: ../../guide/gas.rst:27
 msgid ""

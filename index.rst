@@ -95,10 +95,12 @@ Contacts
    :maxdepth: 1
    :caption: Guides
 
+   guide/voken_sale
    guide/register_voken_sale_whitelist
    guide/shadowrocket
    guide/ssrr
    guide/eth_wallet
+   guide/contract
    guide/gas
 
 .. guide/telegram

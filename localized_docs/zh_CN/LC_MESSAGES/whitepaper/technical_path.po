@@ -11,10 +11,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 21:18+0800\n"
+"POT-Creation-Date: 2019-04-23 15:53+0800\n"
 "PO-Revision-Date: 2019-01-19 08:47+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -408,42 +408,39 @@ msgid ""
 "The completely free distributed vnDNS resolution service can also be "
 "combined with reverse proxy technology, with the help of the huge VISION "
 "user base and the number of nodes, VISION could protect website from DDoS "
-"attacks. The website pays VNET, and the participating nodes get VNET as "
-"revenue."
+"attacks. The website pays :ref:`voken`, and the participating nodes get "
+"Vokens as revenue."
 msgstr ""
-"完全自由分布化的 vnDNS 解析服务还可以再结合反向代理技术，借助庞大的 VISION 用户基础和节点数量帮助需要受保护的网站有偿地防护 DDoS "
-"分布式阻断服务攻击 Distributed Denial-of-Service attack，受保护网站支付 VNET，而参与服务的节点获得 VNET。"
-
-#: ../../whitepaper/technical_path.rst:248
-msgid ""
-"Vision Network users can not only contribute to network security protection,"
-" but also increase VNET Token revenue."
-msgstr ""
-"运行 VISION 节点的用户，将再增加一个选择：不但有机会为网络安全保护贡献一份力量，同时又多了一个增加 VNET Token 收益方式。"
 
 #: ../../whitepaper/technical_path.rst:252
+msgid ""
+"Vision Network users can not only contribute to network security protection,"
+" but also increase :ref:`voken` revenue."
+msgstr ""
+
+#: ../../whitepaper/technical_path.rst:257
 msgid "DDoS:"
 msgstr ""
 
-#: ../../whitepaper/technical_path.rst:251
+#: ../../whitepaper/technical_path.rst:256
 msgid "`Denial-of-service attack - WikiPedia(English)`_"
 msgstr "`维基百科：阻断服务攻击（英文）`_"
 
-#: ../../whitepaper/technical_path.rst:252
+#: ../../whitepaper/technical_path.rst:257
 msgid "`Denial-of-service attack - WikiPedia(Chinese)`_"
 msgstr "`维基百科：阻断服务攻击（中文）`_"
 
-#: ../../whitepaper/technical_path.rst:260
+#: ../../whitepaper/technical_path.rst:265
 msgid ""
 "vnPAC Smart routing Automatic judging and updating based on ASN in ISP "
 "region"
 msgstr "vnPAC 智能分流机制，基于 ISP 区域 ASN 的自动判断、自动更新"
 
-#: ../../whitepaper/technical_path.rst:262
+#: ../../whitepaper/technical_path.rst:267
 msgid "PAC, Proxy auto-config"
 msgstr "代理自动配置技术 Proxy auto-config 简称为 PAC。"
 
-#: ../../whitepaper/technical_path.rst:264
+#: ../../whitepaper/technical_path.rst:269
 msgid ""
 "vnVPN does not set a centralized PAC file, it will automatically identify "
 "the user's ISP's system number - ASN, automatically determine whether the "
@@ -454,54 +451,54 @@ msgstr ""
 "vnVPN 并不设置中心化的 PAC 文件存储，vnPAC 将自动识别用户所在 ISP的系统编号 ASN，自动判断连接是否畅通、自动判断其它 ASN "
 "区域的节点是否畅通、自动更新结果与代理规则、智能执行分流（不能直达的流量才自动使用节点代理）。"
 
-#: ../../whitepaper/technical_path.rst:266
+#: ../../whitepaper/technical_path.rst:271
 msgid ""
 "Ordinary users can use the network services without any complicated manual "
 "configuration and only need to keep the vnVPN program running in the "
 "background."
 msgstr "普通用户不需要进行复杂的手动配置、只需要保持 vnVPN 程序在后台运行，就可以无障碍地、直接顺畅地使用网络服务。"
 
-#: ../../whitepaper/technical_path.rst:271
+#: ../../whitepaper/technical_path.rst:276
 msgid "PAC:"
 msgstr ""
 
-#: ../../whitepaper/technical_path.rst:270
+#: ../../whitepaper/technical_path.rst:275
 msgid "`Proxy auto-config - WikiPedia(English)`_"
 msgstr "`维基百科：代理自动配置（英文）`_"
 
-#: ../../whitepaper/technical_path.rst:271
+#: ../../whitepaper/technical_path.rst:276
 msgid "`Proxy auto-config - WikiPedia(Chinese)`_"
 msgstr "`维基百科：代理自动配置（中文）`_"
 
-#: ../../whitepaper/technical_path.rst:279
+#: ../../whitepaper/technical_path.rst:284
 msgid "ASN:"
 msgstr ""
 
-#: ../../whitepaper/technical_path.rst:278
+#: ../../whitepaper/technical_path.rst:283
 msgid "`Autonomous system (Internet) - WikiPedia(English)`_"
 msgstr "`维基百科：自治系统（英文）`_"
 
-#: ../../whitepaper/technical_path.rst:279
+#: ../../whitepaper/technical_path.rst:284
 msgid "`Autonomous system (Internet) - WikiPedia(Chinese)`_"
 msgstr "`维基百科：自治系统（中文）`_"
 
-#: ../../whitepaper/technical_path.rst:287
+#: ../../whitepaper/technical_path.rst:292
 msgid "ASN Query:"
 msgstr "ASN 查询："
 
-#: ../../whitepaper/technical_path.rst:286
+#: ../../whitepaper/technical_path.rst:291
 msgid "`ASN Lookup & Information on ultratools.com`_"
 msgstr ""
 
-#: ../../whitepaper/technical_path.rst:287
+#: ../../whitepaper/technical_path.rst:292
 msgid "`en.mk/asn`_"
 msgstr ""
 
-#: ../../whitepaper/technical_path.rst:295
+#: ../../whitepaper/technical_path.rst:300
 msgid "vnCDN"
 msgstr "vnCDN 去中心化的内容加速分发服务"
 
-#: ../../whitepaper/technical_path.rst:297
+#: ../../whitepaper/technical_path.rst:302
 msgid ""
 "A brief description of vnCDN has been provided in the **Application "
 "description and economic model** section of the previous section. The "
@@ -514,16 +511,16 @@ msgstr ""
 "Content Distribution Network ）已经如此成熟，融入区块链和 Token "
 "后带来的全民参与、效率提升、成本降低、服务透明等好处更是显而易见。"
 
-#: ../../whitepaper/technical_path.rst:299
+#: ../../whitepaper/technical_path.rst:304
 msgid ""
 "We won't waste too many repetitions in this article. And only attach CDN "
 "terms on Wikipedia for reference:"
 msgstr "我们并不在本文中耗费篇章做过多的重复说明，这里仅将维基百科上 CDN 的中英文词条附上，以供参考。"
 
-#: ../../whitepaper/technical_path.rst:301
+#: ../../whitepaper/technical_path.rst:306
 msgid "`Content delivery network - WikiPedia(English)`_"
 msgstr "`维基百科：内容传递网络（英文）`_"
 
-#: ../../whitepaper/technical_path.rst:302
+#: ../../whitepaper/technical_path.rst:307
 msgid "`Content delivery network - WikiPedia(Chinese)`_"
 msgstr "`维基百科：内容传递网络（中文）`_"

@@ -243,9 +243,14 @@ Google Public DNS:
 DDoS defense which is derived from vnDNS
 ----------------------------------------
 
-The completely free distributed vnDNS resolution service can also be combined with reverse proxy technology, with the help of the huge VISION user base and the number of nodes, VISION could protect website from DDoS attacks. The website pays VNET, and the participating nodes get VNET as revenue.
+The completely free distributed vnDNS resolution service can also be combined
+with reverse proxy technology,
+with the help of the huge VISION user base and the number of nodes,
+VISION could protect website from DDoS attacks. The website pays :ref:`voken`,
+and the participating nodes get Vokens as revenue.
 
-Vision Network users can not only contribute to network security protection, but also increase VNET Token revenue.
+Vision Network users can not only contribute to network security protection,
+but also increase :ref:`voken` revenue.
 
 DDoS:
    - `Denial-of-service attack - WikiPedia(English)`_

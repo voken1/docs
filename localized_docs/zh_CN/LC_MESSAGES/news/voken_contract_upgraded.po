@@ -4,6 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
+# Jill Henry <vnjillhenry@gmail.com>, 2019
 # VISION official <michael@vision.network>, 2019
 # 
 #, fuzzy
@@ -11,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-15 14:44+0800\n"
+"POT-Creation-Date: 2019-04-25 19:46+0800\n"
 "PO-Revision-Date: 2019-04-11 14:19+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -81,9 +82,10 @@ msgstr ""
 #: ../../news/voken_contract_upgraded.rst:46
 msgid ""
 "Benefiting from the new features brought by the two upgrades of "
-"`Constantinople`_ and `Saint Petersburg`_ on Ethereum, **the efficiency of "
-"the new contract has been greatly improved**."
-msgstr "受益于以太坊主网的 `君士坦丁堡`_ 和 `圣彼得堡`_ 两次升级， **新合约的运行效率得到了巨大提升** 。"
+"`Constantinople`_ and `Constantinople/St. Petersburg`_ on Ethereum, **the "
+"efficiency of the new contract has been greatly improved**."
+msgstr ""
+"受益于以太坊主网的 `君士坦丁堡`_ 和 `君士坦丁堡/圣彼得堡`_ 这两次升级所带来的全新特性，**新合约的运行效率得到了极大的提升**。"
 
 #: ../../news/voken_contract_upgraded.rst:54
 msgid ""
@@ -108,8 +110,8 @@ msgstr ""
 ":ref:`voken_referral_program` **实时结算奖励** 。"
 
 #: ../../news/voken_contract_upgraded.rst:69
-msgid ":ref:`register_voken_sale_whitelist`"
-msgstr ":ref:`register_voken_sale_whitelist`"
+msgid ":ref:`guide_for_voken_sale_whitelist`"
+msgstr ":ref:`guide_for_voken_sale_whitelist`"
 
 #: ../../news/voken_contract_upgraded.rst:72
 msgid "Whitelist qualification transfer is supported"

@@ -17,7 +17,7 @@ As a **BRIEF SUMMARY**:
    to manually set up an Ethereum transaction.
 
    In most contract transactions related to **Vision Network**,
-   setting **Gas limit to 100,000 Gwei** is completely feasible.
+   we recommend setting ``gas limit`` to ``8,000,000`` uniformly.
    Gas will not be wasted,
    the actual miner fee will only be calculated on demand,
    and the remaining portion will be automatically returned
