@@ -14,4 +14,5 @@ Summary 2019
    - :ref:`voken_contract_upgraded`
    - :ref:`voken_referral_program` completed
    - :ref:`voken_sale` is on the way
+   - :ref:`voken_sale_contract` deployed
 

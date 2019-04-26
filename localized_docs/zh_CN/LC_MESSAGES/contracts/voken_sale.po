@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-25 20:00+0800\n"
+"POT-Creation-Date: 2019-04-26 16:31+0800\n"
 "PO-Revision-Date: 2019-04-11 14:15+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -37,6 +37,21 @@ msgstr ""
 "部署于 `Tx Hash 0x9f17...8dc9`_ ，区块高度 ``7635415`` ，合约为 :ref:`voken_sale` 持有并释放 "
 ":ref:`voken` 。"
 
-#: ../../contracts/voken_sale.rst:16
+#: ../../contracts/voken_sale.rst:20
+msgid ""
+"It is open-sourced under the `GNU General Public License v3.0`_ and can be "
+"viewed on the `github repository`_ and `etherscan.io`_."
+msgstr ""
+"智能合约已经在 `GNU 通用公共许可证 v3.0`_ 协议下开源，可以通过 `github 代码仓库`_ 和 `etherscan.io`_ 查看。"
+
+#: ../../contracts/voken_sale.rst:29
+msgid "Read the status and query data"
+msgstr "查看状态和查询数据"
+
+#: ../../contracts/voken_sale.rst:31
+msgid "Visit here: :ref:`guide_for_read_voken_sale_contract`"
+msgstr "访问这里： :ref:`guide_for_read_voken_sale_contract`"
+
+#: ../../contracts/voken_sale.rst:44
 msgid "TBC."
 msgstr "待续"

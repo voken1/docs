@@ -97,6 +97,7 @@ Contacts
 
    guide/voken_sale
    guide/register_voken_sale_whitelist
+   guide/read_voken_sale_contract
    guide/shadowrocket
    guide/ssrr
    guide/eth_wallet

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-25 23:14+0800\n"
+"POT-Creation-Date: 2019-04-26 09:42+0800\n"
 "PO-Revision-Date: 2019-04-11 14:19+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -217,13 +217,13 @@ msgstr ""
 
 #: ../../policy/voken_referral_program.rst:65
 msgid ""
-"When a new address is registered in the whitelist, the 1001 Vokens reward "
-"will be automatically transferred. If there are no incentives for rewards "
-"due to insufficient referrals at certain levels, all unsuccessful rewards "
-"will belong to the direct referrer."
+"When the contract automatically settles the 1001 Vokens reward, some Lvs may"
+" be absent (due to insufficient referrals, or do not exist). In this case, "
+"all unsuccessful rewards will be attributed to **Lv.1**, which is the direct"
+" referrer."
 msgstr ""
-"当新地址注册在白名单中时，1001 Vokens "
-"奖励将自动转账。如果由于某些层级的推荐数不足而无权得到的奖励，则所有未能成功发放的奖励都将属于直接引荐的注册地址。"
+"当合约自动结算 1001 Vokens 奖励时，某些 Lv. 可能缺位（由于引荐数不足，或不存在）。如遇这种情况，则所有未能成功发放的奖励都将属于 "
+"Lv.1 即直接引荐的注册地址。"
 
 #: ../../policy/voken_referral_program.rst:74
 msgid "Sales Referral Reward: 35%"
@@ -298,9 +298,9 @@ msgstr ""
 
 #: ../../policy/voken_referral_program.rst:106
 msgid ""
-"For the same reason, all unallocated ETH rewards will be temporarily stored "
-"in a pending pool, and a new reward plan will be determined later."
-msgstr "同上原因，所有未分配的奖励都将暂存于一个待分配池中，奖励方案待定。"
+"All unallocated ETH rewards (due to some Lv absence), will be temporarily "
+"stored in a pending pool, and a new reward plan will be determined later."
+msgstr "所有未分配的奖励（某些 Lv 缺位）都将暂存于一个待分配池中，奖励方案待定。"
 
 #: ../../policy/voken_referral_program.rst:114
 msgid "Season Top-Sales Reward: 15% - 65%"
