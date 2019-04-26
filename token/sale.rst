@@ -9,6 +9,11 @@ on Ethereum blockchain, with no other priviledged access given to any party.
 :ref:`voken_sale_contract` is open-sourced under the `GNU General Public License v3.0`_
 and can be viewed on the `github repository`_ and `etherscan.io`_.
 
+Read the status and query data:
+
+- :ref:`guide_for_read_voken_sale_contract`
+
+
 .. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
 .. _github repository: https://github.com/VisionNetworkProject/contracts/blob/master/VokenPublicSale.sol
 .. _etherscan.io: https://etherscan.io/address/0xac873993e43a5af7b39ab4a5a50ce1fbdb7191d3#readContract
