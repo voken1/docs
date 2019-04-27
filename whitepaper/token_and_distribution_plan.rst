@@ -1,5 +1,5 @@
-Voken and plan of distribution
-==============================
+Voken and distribution plan
+===========================
 
 Use it, invest it, not hype it
 ------------------------------
@@ -27,8 +27,8 @@ and most of them are freezed.
 74.53% of the Vokens will ultimately be held by users.
 
 
-Plan of distribution
---------------------
+Distribution plan
+-----------------
 
 Team fund 12%
    100% freezed for 3.5 years, till ``2021.06.30 23:59:59 UTC``,
@@ -57,7 +57,6 @@ Miner 15%
    For service nodes' incentive.
 
    :ref:`service_nodes_fund_contract`.
-
 
 
 Consumption pool 0.5%

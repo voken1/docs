@@ -3,6 +3,11 @@
 Our Philosophy: Yearning for freedom
 ====================================
 
+.. sidebar:: Author
+   :subtitle: Michael Brown
+
+   2018
+
 Freedom, equality, openness, sharing are not just personal values and ideological preferences.
 These things are written in the basic protocols of the Internet and are the inevitable
 results of the design of early talents. A network can be as big as it is today, and there
@@ -55,8 +60,6 @@ mature or innovative technology methods.
 Of course, all of this, starting from barrier-free interconnection, expects your blessings and
 support, and welcomes the participation of all people with ideals to build a healthy basic
 ecological environment.
-
--- by Michael 2018
 
 
 ------

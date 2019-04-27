@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-18 14:02+0800\n"
+"POT-Creation-Date: 2019-04-27 11:10+0800\n"
 "PO-Revision-Date: 2019-01-19 08:47+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:2
-msgid "Voken and plan of distribution"
+msgid "Voken and distribution plan"
 msgstr "Voken 与分配计划"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:5
@@ -66,7 +66,7 @@ msgid "74.53% of the Vokens will ultimately be held by users."
 msgstr "Voken 总量的 74.53% 将最终交给用户持有。"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:31
-msgid "Plan of distribution"
+msgid "Distribution plan"
 msgstr "分配计划"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:36
@@ -119,7 +119,7 @@ msgstr "Voken 流量币销售 22.54%"
 msgid "For :ref:`voken_sale`."
 msgstr "用于 :ref:`voken_sale` 。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:61
+#: ../../whitepaper/token_and_distribution_plan.rst:60
 msgid "Miner 15%"
 msgstr "挖扩 15%"
 
@@ -131,41 +131,41 @@ msgstr "用于服务节点激励"
 msgid ":ref:`service_nodes_fund_contract`."
 msgstr ":ref:`service_nodes_fund_contract` 。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:67
+#: ../../whitepaper/token_and_distribution_plan.rst:66
 msgid "Consumption pool 0.5%"
 msgstr "消费池 0.5%"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:64
+#: ../../whitepaper/token_and_distribution_plan.rst:63
 msgid ""
 "For special user contribution awards and sales promotions, the list of "
 "individual or organizational users will be charged to the consumer pool "
 "contract account until they are used up."
 msgstr "用于特殊用户贡献福利和公售辅助促销，名单列表中的个人或组织用户的流量币都将由消费池合约账户支出，用完为止。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:74
+#: ../../whitepaper/token_and_distribution_plan.rst:73
 msgid "DAPPs Support Plan 10%"
 msgstr "应用开发扶植计划 10%"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:70
+#: ../../whitepaper/token_and_distribution_plan.rst:69
 msgid ""
 "It is used to enrich Vision Network ecology, foster and encourage developers"
 " to build more decentralized application services."
 msgstr "主要用于丰富 Vision Network 生态，扶植和激励社区开发者建立更多去中心化应用服务。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:74
+#: ../../whitepaper/token_and_distribution_plan.rst:73
 msgid ":ref:`developers_fund_contract`."
 msgstr ":ref:`developers_fund_contract` 。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:79
+#: ../../whitepaper/token_and_distribution_plan.rst:78
 msgid "Community and business 24.49%"
 msgstr "社区激励和商业拓展 24.49%"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:77
+#: ../../whitepaper/token_and_distribution_plan.rst:76
 msgid ""
 "It is used for exchange listing, community construction and maintenance, "
 "etc."
 msgstr "主要用于流量币的交易所挂牌、生态前期激励、社区建设与维护等。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:80
+#: ../../whitepaper/token_and_distribution_plan.rst:79
 msgid ":ref:`business_fund_contract`."
 msgstr ":ref:`business_fund_contract` 。"
