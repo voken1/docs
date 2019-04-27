@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-25 19:54+0800\n"
+"POT-Creation-Date: 2019-04-27 10:52+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -27,128 +27,131 @@ msgstr "欢迎来到 vision.network 远景网络！"
 
 #: ../../index.rst:11
 msgid ""
-"Vision Network is a secure and unblocked accessible Internet infrastructure."
-msgstr "Vision Network 远景网络是一个安全的无障碍访问的互联网基础设施。"
+"The Vision Network is a set of infrastructure for building a decentralized "
+"Internet. It is a distributed extensible virtual network, based on the "
+"physical network layer and the ISP network layer."
+msgstr "Vision Network 远景网络是构建去中心化互联网的一系列基础设施。是在物理网络层、ISP 网络层之上构建的分布式智能虚拟网络。"
 
-#: ../../index.rst:13
+#: ../../index.rst:15
 msgid ""
-"It is a distributed extensible virtual network, based on the physical "
-"network layer and the ISP network layer."
-msgstr "这是一个在物理网络层、ISP 网络层之上构建的分布式智能虚拟网络。"
+"Vision Network uses blockchain technology, distributed networks and "
+"asymmetric encryption, provides distributed services such as Proxy/VPN, "
+"multi-layer anonymous network, IM, DNS, even CDN and DDoS defense, etc."
+msgstr ""
+"Vision Network 远景网络使用区块链、分布式网络和非对称加密等技术，提供一系列分布式服务，如 VPN 代理服务、多层匿名网络、 IM "
+"即时通信、DNS 解析，甚至是 CDN 内容加速分发和 DDoS 防御等。"
 
-#: ../../index.rst:16
+#: ../../index.rst:19
 msgid ""
-"Vision Network is based on blockchain technology, which provides distributed"
-" services such as VPN, CDN, DNS, and DDoS defense. The :ref:`voken` with "
-"stable value scale will be used in the ecology and produce an incentive "
-"effect. Everyone can participate in distributed network construction. We "
-"believe the Vision Network, a distributed Internet infrastructure will make "
-"the Internet more open, more equal, more stable, more efficient, safer and "
+"The :ref:`voken` with stable value scale will be used in the entire ecology "
+"and produce an incentive effect. Everyone can participate in distributed "
+"network construction. We believe the Vision Network will make the future "
+"Internet more open, more equal, more stable, more efficient, safer and "
 "freer."
 msgstr ""
-"提供分布式的 VPN、CDN、DNS、DDoS 防御等一系列分布式服务，使用价值尺度稳定的 :ref:`voken` "
+"使用价值尺度稳定的 :ref:`voken` "
 "作为生态“货币”激励，是由全球无限节点参与构建的、具有成长性的分布式互联网基础设施，使互联网更开放、更平等、更稳定、更高效、更安全、更自由。"
 
-#: ../../index.rst:22
+#: ../../index.rst:26
 msgid ":ref:`philosophy`"
 msgstr ":ref:`philosophy`"
 
-#: ../../index.rst:27
+#: ../../index.rst:31
 msgid "Contacts"
 msgstr "官方渠道"
 
-#: ../../index.rst:30
+#: ../../index.rst:34
 msgid "**Official Website**"
 msgstr "**官方网站**"
 
-#: ../../index.rst:30
+#: ../../index.rst:34
 msgid "`English`_"
 msgstr "`英文版`_"
 
-#: ../../index.rst:30
+#: ../../index.rst:34
 msgid "`Chinese`_"
 msgstr "`中文版`_"
 
-#: ../../index.rst:32
+#: ../../index.rst:36
 msgid "**Documents**"
 msgstr "**项目文档**"
 
-#: ../../index.rst:32
+#: ../../index.rst:36
 msgid "`English Docs`_"
 msgstr "`英文文档`_"
 
-#: ../../index.rst:32
+#: ../../index.rst:36
 msgid "`Chinese Docs`_"
 msgstr "`中文文档`_"
 
-#: ../../index.rst:34
+#: ../../index.rst:38
 msgid "**GitHub**"
 msgstr "**GitHub**"
 
-#: ../../index.rst:34
+#: ../../index.rst:38
 msgid "`VisionNetworkProject`_"
 msgstr "`远景网络项目组`_"
 
-#: ../../index.rst:36
+#: ../../index.rst:40
 msgid "**Official News**"
 msgstr "**官方新闻频道**"
 
-#: ../../index.rst:36
+#: ../../index.rst:40
 msgid "`Telegram News Channel`_"
 msgstr "`官方电报新闻频道`_"
 
-#: ../../index.rst:38
+#: ../../index.rst:42
 msgid "**Twitter**"
 msgstr "**推特**"
 
-#: ../../index.rst:38
+#: ../../index.rst:42
 msgid "`Twitter`_"
 msgstr "`项目组唯一推特帐号`_"
 
-#: ../../index.rst:40
+#: ../../index.rst:44
 msgid "**Telegram Group**"
 msgstr "**电报群组**"
 
-#: ../../index.rst:40
+#: ../../index.rst:44
 msgid "`English Group`_"
 msgstr "`英文交流组`_"
 
-#: ../../index.rst:40
+#: ../../index.rst:44
 msgid "`Chinese Group`_"
 msgstr "`中文交流组`_"
 
-#: ../../index.rst:57
+#: ../../index.rst:61
 msgid "News"
 msgstr "最新消息"
 
-#: ../../index.rst:69
+#: ../../index.rst:73
 msgid "Voken"
 msgstr "Voken 流量币"
 
-#: ../../index.rst:82
+#: ../../index.rst:86
 msgid "Available services"
 msgstr "当前可用服务"
 
-#: ../../index.rst:94
+#: ../../index.rst:98
 msgid "Guides"
 msgstr "使用与操作指导"
 
-#: ../../index.rst:111
+#: ../../index.rst:116
 msgid "References and views"
 msgstr "推荐阅读与观点集"
 
-#: ../../index.rst:126
+#: ../../index.rst:131
 msgid "Contracts on Ethereum"
 msgstr "以太坊智能合约"
 
-#: ../../index.rst:148
+#: ../../index.rst:153
 msgid "Contribute"
 msgstr "共建"
 
-#: ../../index.rst:163
+#: ../../index.rst:168
 msgid "Policy"
 msgstr "政策"
 
-#: ../../index.rst:173
+#: ../../index.rst:178
 msgid "Whitepaper v1.1.0"
 msgstr "白皮书 v1.1.0"

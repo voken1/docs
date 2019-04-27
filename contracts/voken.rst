@@ -38,7 +38,7 @@ If you want to learn more about voken contracts, this can help you.
 Meta
 ____
 
-.. code-block:: solidity
+.. code-block:: text
 
    // solidity
 
@@ -64,7 +64,7 @@ Capped TotalSupply
 Voken-Sale Whitelist Registration trigger
 _________________________________________
 
-.. code-block:: solidity
+.. code-block:: text
 
    // solidity
 
@@ -97,7 +97,7 @@ Transfers other than those under this special conditions are considered **NORMAL
 Voken-Sale Whitelist Registration and Referral Reward
 _____________________________________________________
 
-.. code-block:: solidity
+.. code-block:: text
 
    // solidity
 
@@ -120,7 +120,7 @@ _____________________________________________________
        10000000    //  10 Voken for Level.15
    ];
 
-.. code-block:: solidity
+.. code-block:: text
 
    // solidity
 
@@ -161,7 +161,7 @@ Transfer 1,001 Vokens to a whitelisted address
 Check whether a ETH wallet address is whitelisted
 _________________________________________________
 
-.. code-block:: solidity
+.. code-block:: text
 
    // solidity
 
@@ -177,7 +177,7 @@ Check whether a ETH wallet address is whitelisted
 Check whether the Voken-Sale whitelist registration is in process
 _________________________________________________________________
 
-.. code-block:: solidity
+.. code-block:: text
 
    // solidity
 
@@ -185,7 +185,7 @@ _________________________________________________________________
        return _allowWhitelistRegistration;
    }
 
-.. code-block:: solidity
+.. code-block:: text
 
    // solidity
 
@@ -206,7 +206,7 @@ Check whether the :ref:`voken_sale` whitelist registration is in process
 Whitelist qualification transfer is supported
 _____________________________________________
 
-.. code-block:: solidity
+.. code-block:: text
 
    // solidity
 
@@ -229,7 +229,7 @@ _______________________________________
 :ref:`voken_sale` whitelist registration referral reward calculator.
 
 
-.. code-block:: solidity
+.. code-block:: text
 
    // solidity
 

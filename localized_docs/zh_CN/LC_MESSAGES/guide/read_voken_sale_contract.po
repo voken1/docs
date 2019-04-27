@@ -4,6 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
+# Jill Henry <vnjillhenry@gmail.com>, 2019
 # VISION official <michael@vision.network>, 2019
 # 
 #, fuzzy
@@ -43,71 +44,71 @@ msgstr "状态和数据"
 
 #: ../../guide/read_voken_sale_contract.rst:20
 msgid "Main status - ``1. status``"
-msgstr ""
+msgstr "主要状态 - ``1. status``"
 
 #: ../../guide/read_voken_sale_contract.rst:27
 #: ../../guide/read_voken_sale_contract.rst:117
 msgid "Let's focus on the values:"
-msgstr ""
+msgstr "让我们聚焦于这些数值："
 
 #: ../../guide/read_voken_sale_contract.rst:48
 msgid "auditEtherPrice"
-msgstr ""
+msgstr "auditEtherPrice"
 
 #: ../../guide/read_voken_sale_contract.rst:46
 msgid "Current Audit ETH Price, in USD, with 6 decimals."
-msgstr ""
+msgstr "当前审计 ETH 价格，以美元计价，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:48
 msgid ""
 "In this case, ``170000000`` means you can use `1 ETH` as **$ 170.000000 "
 "USD**, for now."
-msgstr ""
+msgstr "在这个例子中， ``170000000`` 代表您现在可以将 `1 ETH` 当做 **$ 170.000000 USD** 美元来使用。"
 
 #: ../../guide/read_voken_sale_contract.rst:53
 msgid "stage"
-msgstr ""
+msgstr "stage"
 
 #: ../../guide/read_voken_sale_contract.rst:51
 msgid "Stage number."
-msgstr ""
+msgstr "阶段序号。"
 
 #: ../../guide/read_voken_sale_contract.rst:53
 msgid "``81`` means: It's in **Stage #81**."
-msgstr ""
+msgstr "``81`` 代表：第 **#81** 个阶段。"
 
 #: ../../guide/read_voken_sale_contract.rst:58
 msgid "season"
-msgstr ""
+msgstr "season"
 
 #: ../../guide/read_voken_sale_contract.rst:56
 msgid "Season number."
-msgstr ""
+msgstr "赛季序号。"
 
 #: ../../guide/read_voken_sale_contract.rst:58
 msgid "``1`` means: It's in **Season #1**."
-msgstr ""
+msgstr "``1`` 代表：第 **#1** 个赛季。"
 
 #: ../../guide/read_voken_sale_contract.rst:63
 #: ../../guide/read_voken_sale_contract.rst:204
 msgid "vokenUsdPrice"
-msgstr ""
+msgstr "vokenUsdPrice"
 
 #: ../../guide/read_voken_sale_contract.rst:61
 msgid "Current Voken price, in USD, with 6 decimals."
-msgstr ""
+msgstr "当前 Voken 价格，以美元计价，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:63
 msgid "``1810`` means: Current Voken price is **$ 0.001810 USD**."
-msgstr ""
+msgstr "``1810``代表：当前 Voken 价格为 **$ 0.001810 USD** 美元。"
 
 #: ../../guide/read_voken_sale_contract.rst:70
 msgid "currentTopSalesRatio"
-msgstr ""
+msgstr "currentTopSalesRatio"
 
 #: ../../guide/read_voken_sale_contract.rst:66
 msgid "Current Top-Sales rewards ratio, with 8 decimals."
-msgstr ""
+msgstr "当前赛季排名奖比例，后 8 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:68
 msgid ""
@@ -116,33 +117,35 @@ msgid ""
 "calculated by `Stage number`, if the Public-Sale goes into next stage, ratio"
 " increases."
 msgstr ""
+"``15067500`` 表示 **0.15067500** ，即上一笔交易的 ETH 中总数的 **15.067500%** 将储存至 "
+"**赛季排名奖励池** 。这是由 `阶段序号` 计算而来，当公售进入下一个阶段时，比例将上涨。"
 
 #: ../../guide/read_voken_sale_contract.rst:75
 msgid "txs"
-msgstr ""
+msgstr "txs"
 
 #: ../../guide/read_voken_sale_contract.rst:73
 msgid "Transactions amount in this Voken Public-Sale."
-msgstr ""
+msgstr "Voken 公开发售过程中交易的总笔数。"
 
 #: ../../guide/read_voken_sale_contract.rst:75
 msgid ""
 "``4`` means: There are **4 transactions** since the Voken Public-Sale "
 "started."
-msgstr ""
+msgstr "``4`` 代表：自从 Voken 公开发售开始，一共产生了 **4 笔交易** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:80
 msgid "vokenTxs"
-msgstr ""
+msgstr "vokenTxs"
 
 #: ../../guide/read_voken_sale_contract.rst:78
 msgid "Voken transactions amount."
-msgstr ""
+msgstr "Voken 转账次数。"
 
 #: ../../guide/read_voken_sale_contract.rst:80
 msgid ""
 "``82`` means: There are **82 transactions** of Vokens finished already."
-msgstr ""
+msgstr "``82`` 代表：已经有 **82 笔** Vokens 转账已经完成。"
 
 #: ../../guide/read_voken_sale_contract.rst:85
 msgid "vokenBonusTxs"
