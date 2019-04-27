@@ -419,6 +419,7 @@ Raspberry Pi:
 .. _Raspberry Pi - WikiPedia(Chinese): https://zh.wikipedia.org/wiki/%E6%A0%91%E8%8E%93%E6%B4%BE
 
 
+.. _the_price_of_resource_in_an_idc:
 
 The price of resource in an IDC
 -------------------------------
@@ -430,9 +431,9 @@ and Google Cloud Platform GCP at about **$8.0**.
 Accelerating traffic is more expensive, while ordinary traffic is cheaper.
 
 CDN needs node storage and outlet traffic,
-and VPN service needs both downlink and uplink traffic to complete proxy forwarding,
-that is, the client traffic of 100GB is about equal to the node traffic of 200GB
-(100GB upstream 100GB downlink).
+and VPN service needs both down-link and up-link traffic to complete proxy forwarding,
+that is, 100GB client traffic is about equal to the traffic of 200GB on the service-side
+(100GB up-link 100GB down-link).
 
 Therefore, 100 GB client traffic flow, anchored to 1 Voken,
 also coincides with the actual intrinsic use value.

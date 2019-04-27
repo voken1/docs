@@ -117,6 +117,7 @@ Contacts
    :maxdepth: 1
    :caption: References and views
 
+   views/voken_pricing
    views/internet_in_china
    views/basic_principles
 

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 15:30+0800\n"
+"POT-Creation-Date: 2019-04-27 17:44+0800\n"
 "PO-Revision-Date: 2019-01-11 05:18+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -864,11 +864,11 @@ msgstr "`维基百科：树莓派（英文）`_"
 msgid "`Raspberry Pi - WikiPedia(Chinese)`_"
 msgstr "`维基百科：树莓派（中文）`_"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:424
+#: ../../whitepaper/application_description_and_economic_model.rst:425
 msgid "The price of resource in an IDC"
 msgstr "IDC 的服务资源价格"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:426
+#: ../../whitepaper/application_description_and_economic_model.rst:427
 msgid ""
 "For 100GB network traffic, there is a price reference for mature IDC, with "
 "Amazon Web Services AWS, for example, priced at about **$8.50** per 100GB "
@@ -877,58 +877,58 @@ msgstr ""
 "100GB 的网络流量，有成熟 IDC 的价格可参照，以亚马逊云 AWS 为例，每 100GB 流量定价约为 **8.50 美元** 左右，而谷歌云 "
 "GCP 则为 **8.0 美元** 左右。"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:430
+#: ../../whitepaper/application_description_and_economic_model.rst:431
 msgid ""
 "Accelerating traffic is more expensive, while ordinary traffic is cheaper."
 msgstr "加速流量较贵，而普通流量更便宜。"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:432
+#: ../../whitepaper/application_description_and_economic_model.rst:433
 msgid ""
-"CDN needs node storage and outlet traffic, and VPN service needs both "
-"downlink and uplink traffic to complete proxy forwarding, that is, the "
-"client traffic of 100GB is about equal to the node traffic of 200GB (100GB "
-"upstream 100GB downlink)."
+"CDN needs node storage and outlet traffic, and VPN service needs both down-"
+"link and up-link traffic to complete proxy forwarding, that is, 100GB client"
+" traffic is about equal to the traffic of 200GB on the service-side (100GB "
+"up-link 100GB down-link)."
 msgstr ""
 "CDN 需要节点的存储和出口流量，而由于 VPN 服务同时需要节点的下行和上行流量才能完成代理转发，即 100GB 的用户端流量约等于 "
-"200GB的节点流量（100GB 上行 100GB 下行）。"
+"200GB的服务节点流量（100GB 上行 100GB 下行）。"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:437
+#: ../../whitepaper/application_description_and_economic_model.rst:438
 msgid ""
 "Therefore, 100 GB client traffic flow, anchored to 1 Voken, also coincides "
 "with the actual intrinsic use value."
 msgstr "所以，100GB 的用户端流量，锚定为 1 Voken ，也恰好符合实际的内在使用价值。"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:443
+#: ../../whitepaper/application_description_and_economic_model.rst:444
 msgid "AWS Amazon Web Services:"
 msgstr "AWS 亚马逊云服务："
 
-#: ../../whitepaper/application_description_and_economic_model.rst:442
+#: ../../whitepaper/application_description_and_economic_model.rst:443
 msgid "`AWS Direct Connect pricing`_"
 msgstr "`AWS Direct Connect pricing`_"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:443
+#: ../../whitepaper/application_description_and_economic_model.rst:444
 msgid "`AWS CloudFront Pricing`_"
 msgstr "`AWS CloudFront Pricing`_"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:447
+#: ../../whitepaper/application_description_and_economic_model.rst:448
 msgid "GCP Google Cloud Platform:"
 msgstr "GCP 谷歌云服务："
 
-#: ../../whitepaper/application_description_and_economic_model.rst:446
+#: ../../whitepaper/application_description_and_economic_model.rst:447
 msgid "`GCP Interconnect Pricing`_"
 msgstr "`GCP Interconnect Pricing`_"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:447
+#: ../../whitepaper/application_description_and_economic_model.rst:448
 msgid "`GCP CDN Pricing`_"
 msgstr "`GCP CDN Pricing`_"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:457
+#: ../../whitepaper/application_description_and_economic_model.rst:458
 msgid ""
 "The Voken dollar price should increase to the internal value gradually and "
 "be relatively stable"
 msgstr "Voken 法币价格应逐渐回归且相对稳定"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:459
+#: ../../whitepaper/application_description_and_economic_model.rst:460
 msgid ""
 "We believe that the legal currency will not disappear in the short term, and"
 " that long-standing habits will allow more people to use the fiat currency "
@@ -942,13 +942,13 @@ msgstr ""
 "价值尺度相对稳定（即法币标价相对稳定），1 Voken = 100 GB 的基础设定可以在实际使用价值上保证 Voken "
 "的市场流通价格随着生态的日趋成熟而逐渐回归。"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:472
+#: ../../whitepaper/application_description_and_economic_model.rst:473
 msgid ""
 "Official server nodes around the world would provide initial ecological "
 "services to users"
 msgstr "遍布全球的官方服务器节点为用户提供生态初期的服务"
 
-#: ../../whitepaper/application_description_and_economic_model.rst:479
+#: ../../whitepaper/application_description_and_economic_model.rst:480
 msgid ""
 "In the initial stage of ecological start-up, the official server nodes in 86"
 " IDCs around the world will provide stable services to users. As time goes "

@@ -9,8 +9,9 @@ on Ethereum blockchain, with no other priviledged access given to any party.
 :ref:`voken_sale_contract` is open-sourced under the `GNU General Public License v3.0`_
 and can be viewed on the `github repository`_ and `etherscan.io`_.
 
-Read the status and query data:
+Related links:
 
+- :ref:`voken_pricing`
 - :ref:`guide_for_read_voken_sale_contract`
 
 
@@ -62,6 +63,8 @@ at different times during the whole sale phase.
 
 **Latest Audit ETH price: $170**, That means you can use 1 ETH as $170 USD.
 
+
+.. _incremental_voken_sales_price:
 
 Incremental sales price: $0.001 - $0.601
 ----------------------------------------
@@ -173,7 +176,8 @@ you could **earn ETH and Vokens**.
 
 In this sales plan,
 50% - 100% of sales revenue is designed as
-**COMMUNITY and PROMOTION TEAM REWARDS**:
+**COMMUNITY and PROMOTION TEAM REWARDS**,
+that is about **595.13 million USD**:
 
 - :ref:`sales_referral_reward`
 - :ref:`top_sales_reward`

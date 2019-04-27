@@ -1,0 +1,227 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-27 18:44+0800\n"
+"PO-Revision-Date: 2019-04-27 10:48+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../views/voken_pricing.rst:4
+msgid "Voken's pricing logic and early opportunities"
+msgstr "Voken 的价格逻辑和早期机会"
+
+#: ../../views/voken_pricing.rst:6
+msgid "Just think about one question:"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:8
+msgid "IF YOU HAVE A CHANCE,"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:9
+msgid "**YOU CAN PAY $1 FOR A $100 REAL CASH**,"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:10
+msgid "FIRST COME FIRST SERVED,"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:11
+msgid "**HOW MUCH DO YOU WANT TO BUY**?"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:15
+msgid "The first crypto-currency with clear usage value"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:17
+msgid ""
+"The vast majority of blockchain networks are just a set of accounting "
+"systems. Those crypto-currencies do not rely on any anchoring or credit to "
+"issue, and their price support comes from the holder's beliefs."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:21
+msgid "But Voken is quite different."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:25
+msgid "What is Voken?"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:27
+msgid ""
+"**Voken** is the unique token in the Vision Network ecosystem, which uses "
+"Proof of Traffic consensus mechanism. It is the native asset on the vnCHAIN."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:33
+msgid "1 Voken = 100GB client traffic flow"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:35
+msgid "**Voken** is the first crypto-currency with clear usage value."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:37
+msgid ""
+"In the underlying code, 1 Voken was defined as the client traffic of "
+"100GBytes, that is: **1 Voken = 100GB client traffic flow**."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:43
+msgid "How much does 100GB traffic cost?"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:45
+msgid ""
+"Including the traffic, the price of all types of network resources can be "
+"clearly checked by major IDC service providers, which are clearly priced."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:53
+msgid "The price of resource in an IDC"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:55
+msgid ":ref:`the_price_of_resource_in_an_idc`"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:57
+msgid ""
+"For 100GB network traffic, there is a price reference for mature IDC, with "
+"Amazon Web Services AWS, for example, priced at about **$8.50** per 100GB "
+"traffic and Google Cloud Platform GCP at about **$8.0**."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:61
+msgid ""
+"Accelerating traffic is more expensive, while ordinary traffic is cheaper."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:65
+msgid "AWS Amazon Web Services:"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:64
+msgid "`AWS Direct Connect pricing`_"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:65
+msgid "`AWS CloudFront Pricing`_"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:69
+msgid "GCP Google Cloud Platform:"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:68
+msgid "`GCP Interconnect Pricing`_"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:69
+msgid "`GCP CDN Pricing`_"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:79
+msgid "Voken price during the Public-Sale: $0.001 - $0.601"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:81
+msgid ":ref:`incremental_voken_sales_price`"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:83
+msgid "Starting at **1 Voken = $0.001**, until the price reaches **$0.601**."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:85
+msgid "More details: :ref:`voken_sale`"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:90
+msgid "3 basic principles of the Vision Network"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:92
+msgid "There are 3 basic principles in the Vision Network ecosystem:"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:94
+msgid ""
+"Freedom, equality, openness, sharing, is the basic gene of the Internet, "
+"communication security and privacy protection are the basic rights of users."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:96
+msgid "Service generates real value."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:0
+msgid "The user pays, and the service provider charges,"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:0
+msgid "**IT IS THE NATURAL TRADING SCENARIO**."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:100
+msgid ""
+"They are the foundation of the project, the law of value that is non-human "
+"resistant, also our belief: If these three principles are established, the "
+"value of the entire project will be established, for sure, no doubt it."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:109
+msgid "Most Voken will be handed over to users"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:111
+msgid ""
+"74.53% of the Vokens will ultimately be held by users. See: "
+":ref:`distribution_plan`"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:113
+msgid ""
+"This is a large ecosystem built by all participants. The more service nodes "
+"and more users, the stronger the network will be."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:116
+msgid ""
+"Incremental sales prices will promote the market price of the entire system,"
+" during the :ref:`voken_sale`, about **595.13 million USD** (50-100% of all "
+"the sales revenue) will be owned by the community promoters."
+msgstr ""
+
+#: ../../views/voken_pricing.rst:121
+msgid "See:"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:123
+msgid ":ref:`voken_sale`"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:124
+msgid ":ref:`voken_referral_program`"
+msgstr ""
+
+#: ../../views/voken_pricing.rst:126
+msgid "Join us, join the revolution."
+msgstr ""

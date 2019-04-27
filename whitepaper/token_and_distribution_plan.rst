@@ -27,8 +27,10 @@ and most of them are freezed.
 74.53% of the Vokens will ultimately be held by users.
 
 
-Distribution plan
------------------
+.. _distribution_plan:
+
+Voken Distribution plan
+-----------------------
 
 Team fund 12%
    100% freezed for 3.5 years, till ``2021.06.30 23:59:59 UTC``,
@@ -42,8 +44,7 @@ Early Investors 13.47%
 
 
 Air Drops 2%
-   It is used to reward the Ethereum community users
-   and promotion before/during the :ref:`voken_sale`:
+   For ETH holders and promotion before/during the :ref:`voken_sale`:
 
    - :ref:`airdrop_contract`
    - :ref:`airdrop_to_eth_holders_contract`

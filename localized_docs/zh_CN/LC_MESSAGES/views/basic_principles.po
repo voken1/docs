@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 17:16+0800\n"
+"POT-Creation-Date: 2019-04-27 18:25+0800\n"
 "PO-Revision-Date: 2019-02-27 08:27+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -35,8 +35,10 @@ msgstr "自由、平等、开放、自由是互联网的基础基因，通信安
 msgid "Service generates real value."
 msgstr "服务产生价值。"
 
-#: ../../views/basic_principles.rst:9
-msgid ""
-"The user pays, and the service provider charges, **IT IS THE NATURAL TRADING"
-" SCENARIO**."
-msgstr "使用者付费，服务者收费， **这是天然的交易场景** 。"
+#: ../../views/basic_principles.rst:0
+msgid "The user pays, and the service provider charges,"
+msgstr "使用者付费，服务者收费，"
+
+#: ../../views/basic_principles.rst:0
+msgid "**IT IS THE NATURAL TRADING SCENARIO**."
+msgstr "**这是天然的交易场景** 。"
