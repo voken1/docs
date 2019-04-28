@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-28 11:14+0800\n"
+"PO-Revision-Date: 2019-04-28 03:15+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contracts/batch_transfer.rst:4
+msgid "Batch transfer ETH and Voken Contract"
+msgstr "批量转账 ETH 和 Voken 合约"
+
+#: ../../contracts/batch_transfer.rst:6
+msgid "Contract address is **0xbC0F8D872999222B30fa2b7376137f87C72009c6**"
+msgstr "合约地址 **0xbC0F8D872999222B30fa2b7376137f87C72009c6**"
+
+#: ../../contracts/batch_transfer.rst:8
+msgid "Deployed at `Tx Hash 0x994b...3fa2`_, block height ``7653375``."
+msgstr "部署于 `Tx Hash 0x994b...3fa2`_ ，区块高度 ``7653375`` 。"
+
+#: ../../contracts/batch_transfer.rst:10
+msgid "Batch transfer for ETH and :ref:`voken`."
+msgstr "用于 ETH 和 :ref:`voken` 的批量转账。"
+
+#: ../../contracts/batch_transfer.rst:20
+msgid ""
+"It is open-sourced under the `GNU General Public License v3.0`_ and can be "
+"viewed on the `github repository`_ and `etherscan.io`_."
+msgstr ""
+"智能合约已经在 `GNU 通用公共许可证 v3.0`_ 协议下开源，可以通过 `github 代码仓库`_ 和 `etherscan.io`_ 查看。"
+
+#: ../../contracts/batch_transfer.rst:30
+msgid "TBC."
+msgstr "待续"
