@@ -5,7 +5,7 @@ Voken's pricing logic and early opportunities
 
 Just think about one question:
 
-| IF YOU HAVE A CHANCE,
+| IF YOU HAVE A CHANCE, THAT
 | **YOU CAN PAY $1 FOR A $100 REAL CASH**,
 | FIRST COME FIRST SERVED,
 | **HOW MUCH DO YOU WANT TO BUY**?

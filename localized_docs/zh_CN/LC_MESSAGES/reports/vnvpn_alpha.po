@@ -35,107 +35,107 @@ msgstr "已经历了 26 个版本"
 
 #: ../../reports/vnvpn_alpha.rst:10
 msgid "v0.1.0"
-msgstr ""
+msgstr "v0.1.0"
 
 #: ../../reports/vnvpn_alpha.rst:11
 msgid "v0.1.1"
-msgstr ""
+msgstr "v0.1.1"
 
 #: ../../reports/vnvpn_alpha.rst:12
 msgid "v0.1.2"
-msgstr ""
+msgstr "v0.1.2"
 
 #: ../../reports/vnvpn_alpha.rst:13
 msgid "v0.2.0"
-msgstr ""
+msgstr "v0.2.0"
 
 #: ../../reports/vnvpn_alpha.rst:14
 msgid "v0.3.0"
-msgstr ""
+msgstr "v0.3.0"
 
 #: ../../reports/vnvpn_alpha.rst:15
 msgid "v0.4.0"
-msgstr ""
+msgstr "v0.4.0"
 
 #: ../../reports/vnvpn_alpha.rst:16
 msgid "v0.4.1"
-msgstr ""
+msgstr "v0.4.1"
 
 #: ../../reports/vnvpn_alpha.rst:17
 msgid "v0.4.2"
-msgstr ""
+msgstr "v0.4.2"
 
 #: ../../reports/vnvpn_alpha.rst:18
 msgid "v0.4.3"
-msgstr ""
+msgstr "v0.4.3"
 
 #: ../../reports/vnvpn_alpha.rst:19
 msgid "v0.4.4"
-msgstr ""
+msgstr "v0.4.4"
 
 #: ../../reports/vnvpn_alpha.rst:20
 msgid "v0.4.5"
-msgstr ""
+msgstr "v0.4.5"
 
 #: ../../reports/vnvpn_alpha.rst:21
 msgid "v0.4.6"
-msgstr ""
+msgstr "v0.4.6"
 
 #: ../../reports/vnvpn_alpha.rst:22
 msgid "v0.4.7"
-msgstr ""
+msgstr "v0.4.7"
 
 #: ../../reports/vnvpn_alpha.rst:23
 msgid "v0.4.8"
-msgstr ""
+msgstr "v0.4.8"
 
 #: ../../reports/vnvpn_alpha.rst:24
 msgid "v0.4.9"
-msgstr ""
+msgstr "v0.4.9"
 
 #: ../../reports/vnvpn_alpha.rst:25
 msgid "v0.4.10"
-msgstr ""
+msgstr "v0.4.10"
 
 #: ../../reports/vnvpn_alpha.rst:26
 msgid "v0.4.11"
-msgstr ""
+msgstr "v0.4.11"
 
 #: ../../reports/vnvpn_alpha.rst:27
 msgid "v0.4.12"
-msgstr ""
+msgstr "v0.4.12"
 
 #: ../../reports/vnvpn_alpha.rst:28
 msgid "v0.4.13"
-msgstr ""
+msgstr "v0.4.13"
 
 #: ../../reports/vnvpn_alpha.rst:29
 msgid "v0.4.14"
-msgstr ""
+msgstr "v0.4.14"
 
 #: ../../reports/vnvpn_alpha.rst:30
 msgid "v0.4.15"
-msgstr ""
+msgstr "v0.4.15"
 
 #: ../../reports/vnvpn_alpha.rst:31
 msgid "v0.4.16"
-msgstr ""
+msgstr "v0.4.16"
 
 #: ../../reports/vnvpn_alpha.rst:32
 msgid "v0.4.17"
-msgstr ""
+msgstr "v0.4.17"
 
 #: ../../reports/vnvpn_alpha.rst:33
 msgid "v0.4.18"
-msgstr ""
+msgstr "v0.4.18"
 
 #: ../../reports/vnvpn_alpha.rst:34
 msgid "v0.4.19"
-msgstr ""
+msgstr "v0.4.19"
 
 #: ../../reports/vnvpn_alpha.rst:35
 msgid "v0.4.20"
-msgstr ""
+msgstr "v0.4.20"
 
 #: ../../reports/vnvpn_alpha.rst:37
 msgid "Developing..."

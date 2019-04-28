@@ -27,80 +27,83 @@ msgstr "Voken 的价格逻辑和早期机会"
 
 #: ../../views/voken_pricing.rst:6
 msgid "Just think about one question:"
-msgstr ""
+msgstr "考虑一个问题："
 
 #: ../../views/voken_pricing.rst:8
 msgid "IF YOU HAVE A CHANCE,"
-msgstr ""
+msgstr "如果您有一个机会，"
 
 #: ../../views/voken_pricing.rst:9
 msgid "**YOU CAN PAY $1 FOR A $100 REAL CASH**,"
-msgstr ""
+msgstr "**您可以只花费 $1 美金购买 $100 美元真实现钞** ，"
 
 #: ../../views/voken_pricing.rst:10
 msgid "FIRST COME FIRST SERVED,"
-msgstr ""
+msgstr "先到先得，"
 
 #: ../../views/voken_pricing.rst:11
 msgid "**HOW MUCH DO YOU WANT TO BUY**?"
-msgstr ""
+msgstr "**你会购买多少** ？"
 
 #: ../../views/voken_pricing.rst:15
 msgid "The first crypto-currency with clear usage value"
-msgstr ""
+msgstr "第一个有明确使用价值的加密货币"
 
 #: ../../views/voken_pricing.rst:17
 msgid ""
 "The vast majority of blockchain networks are just a set of accounting "
 "systems. Those crypto-currencies do not rely on any anchoring or credit to "
 "issue, and their price support comes from the holder's beliefs."
-msgstr ""
+msgstr "绝大多数区块链网络都只是一套记账系统。那些加密货币不依赖于任何锚定或信用发行，它们的价格支持来自持有者的信念。"
 
 #: ../../views/voken_pricing.rst:21
 msgid "But Voken is quite different."
-msgstr ""
+msgstr "但是 Voken 却相当不同。"
 
 #: ../../views/voken_pricing.rst:25
 msgid "What is Voken?"
-msgstr ""
+msgstr "什么是 Voken ？"
 
 #: ../../views/voken_pricing.rst:27
 msgid ""
 "**Voken** is the unique token in the Vision Network ecosystem, which uses "
 "Proof of Traffic consensus mechanism. It is the native asset on the vnCHAIN."
 msgstr ""
+"**Voken** 使用 PoT 流量证明，是 Vision Network 生态系统中的唯一 token 。它是 vnCHAIN "
+"区块链上的原生资产，可称之为“流量币”。"
 
 #: ../../views/voken_pricing.rst:33
 msgid "1 Voken = 100GB client traffic flow"
-msgstr ""
+msgstr "1 Voken = 100GB 客户端流量"
 
 #: ../../views/voken_pricing.rst:35
 msgid "**Voken** is the first crypto-currency with clear usage value."
-msgstr ""
+msgstr "**Voken** 是第一个具有明确使用价值的加密货币。"
 
 #: ../../views/voken_pricing.rst:37
 msgid ""
 "In the underlying code, 1 Voken was defined as the client traffic of "
 "100GBytes, that is: **1 Voken = 100GB client traffic flow**."
 msgstr ""
+"在底层代码中， 1 单位 Voken 被定为 100GBytes 的客户端流量，即 **1 Voken = 100 GB 客户端流量** 。"
 
 #: ../../views/voken_pricing.rst:43
 msgid "How much does 100GB traffic cost?"
-msgstr ""
+msgstr "100GB 流量值多少钱？"
 
 #: ../../views/voken_pricing.rst:45
 msgid ""
 "Including the traffic, the price of all types of network resources can be "
 "clearly checked by major IDC service providers, which are clearly priced."
-msgstr ""
+msgstr "包括流量在内，所有类型的资源价格在主流 IDC 服务商都可以清晰查看，他们是明确标价的。"
 
 #: ../../views/voken_pricing.rst:53
 msgid "The price of resource in an IDC"
-msgstr ""
+msgstr "IDC 的服务资源价格"
 
 #: ../../views/voken_pricing.rst:55
 msgid ":ref:`the_price_of_resource_in_an_idc`"
-msgstr ""
+msgstr ":ref:`the_price_of_resource_in_an_idc`"
 
 #: ../../views/voken_pricing.rst:57
 msgid ""
@@ -108,100 +111,102 @@ msgid ""
 "Amazon Web Services AWS, for example, priced at about **$8.50** per 100GB "
 "traffic and Google Cloud Platform GCP at about **$8.0**."
 msgstr ""
+"100GB 的网络流量，有成熟 IDC 的价格可参照，以亚马逊云 AWS 为例，每 100GB 流量定价约为 **$8.50 美元** 左右，而谷歌云 "
+"GCP 则为 **$8.0 美元** 左右。"
 
 #: ../../views/voken_pricing.rst:61
 msgid ""
 "Accelerating traffic is more expensive, while ordinary traffic is cheaper."
-msgstr ""
+msgstr "加速流量较贵，而普通流量更便宜。"
 
 #: ../../views/voken_pricing.rst:65
 msgid "AWS Amazon Web Services:"
-msgstr ""
+msgstr "AWS 亚马逊云服务："
 
 #: ../../views/voken_pricing.rst:64
 msgid "`AWS Direct Connect pricing`_"
-msgstr ""
+msgstr "`AWS Direct Connect pricing`_"
 
 #: ../../views/voken_pricing.rst:65
 msgid "`AWS CloudFront Pricing`_"
-msgstr ""
+msgstr "`AWS CloudFront Pricing`_"
 
 #: ../../views/voken_pricing.rst:69
 msgid "GCP Google Cloud Platform:"
-msgstr ""
+msgstr "GCP 谷歌云服务："
 
 #: ../../views/voken_pricing.rst:68
 msgid "`GCP Interconnect Pricing`_"
-msgstr ""
+msgstr "`GCP Interconnect Pricing`_"
 
 #: ../../views/voken_pricing.rst:69
 msgid "`GCP CDN Pricing`_"
-msgstr ""
+msgstr "`GCP CDN Pricing`_"
 
 #: ../../views/voken_pricing.rst:79
 msgid "Voken price during the Public-Sale: $0.001 - $0.601"
-msgstr ""
+msgstr "Voken 公开销售的价格： $0.001 - $0.601"
 
 #: ../../views/voken_pricing.rst:81
 msgid ":ref:`incremental_voken_sales_price`"
-msgstr ""
+msgstr ":ref:`incremental_voken_sales_price`"
 
 #: ../../views/voken_pricing.rst:83
 msgid "Starting at **1 Voken = $0.001**, until the price reaches **$0.601**."
-msgstr ""
+msgstr "初始价格 **1 Voken = $0.001 美元**，上涨至 **$0.601** 时截止。"
 
 #: ../../views/voken_pricing.rst:85
 msgid "More details: :ref:`voken_sale`"
-msgstr ""
+msgstr "详细信息见： :ref:`voken_sale`"
 
 #: ../../views/voken_pricing.rst:90
 msgid "3 basic principles of the Vision Network"
-msgstr ""
+msgstr "Vision Network 远景网络的 3 个基础原则"
 
 #: ../../views/voken_pricing.rst:92
 msgid "There are 3 basic principles in the Vision Network ecosystem:"
-msgstr ""
+msgstr "Vision Network 远景网络生态系统的 3 个基础原则"
 
 #: ../../views/voken_pricing.rst:94
 msgid ""
 "Freedom, equality, openness, sharing, is the basic gene of the Internet, "
 "communication security and privacy protection are the basic rights of users."
-msgstr ""
+msgstr "自由、平等、开放、自由是互联网的基础基因，通信安全和隐私保护是用户的基本权利。"
 
 #: ../../views/voken_pricing.rst:96
 msgid "Service generates real value."
-msgstr ""
+msgstr "服务产生价值。"
 
 #: ../../views/voken_pricing.rst:0
 msgid "The user pays, and the service provider charges,"
-msgstr ""
+msgstr "使用者付费，服务者收费，"
 
 #: ../../views/voken_pricing.rst:0
 msgid "**IT IS THE NATURAL TRADING SCENARIO**."
-msgstr ""
+msgstr "**这是天然的交易场景** 。"
 
 #: ../../views/voken_pricing.rst:100
 msgid ""
 "They are the foundation of the project, the law of value that is non-human "
 "resistant, also our belief: If these three principles are established, the "
 "value of the entire project will be established, for sure, no doubt it."
-msgstr ""
+msgstr "他们是项目的基础，是非人力可以左右的价值规律，也是我们的信念：如果这 3 条基础原则成立，那么整个项目的价值成立，这是必然，没有任何疑问。"
 
 #: ../../views/voken_pricing.rst:109
 msgid "Most Voken will be handed over to users"
-msgstr ""
+msgstr "绝大多数的 Voken 将交由用户持有"
 
 #: ../../views/voken_pricing.rst:111
 msgid ""
 "74.53% of the Vokens will ultimately be held by users. See: "
 ":ref:`distribution_plan`"
-msgstr ""
+msgstr "Voken 总量的 74.53% 将最终交给用户持有。详细可见： :ref:`distribution_plan`"
 
 #: ../../views/voken_pricing.rst:113
 msgid ""
 "This is a large ecosystem built by all participants. The more service nodes "
 "and more users, the stronger the network will be."
-msgstr ""
+msgstr "这是一个所有参与者共建的大生态系统。越多的服务节点和用户，网络就越健壮。"
 
 #: ../../views/voken_pricing.rst:116
 msgid ""
@@ -209,19 +214,21 @@ msgid ""
 " during the :ref:`voken_sale`, about **595.13 million USD** (50-100% of all "
 "the sales revenue) will be owned by the community promoters."
 msgstr ""
+"递增的发售价格将促进整个系统的市值表现，在 :ref:`voken_sale` 过程中，有大约 **5.95 亿美元** （总销售收入的 50-100%"
+" ）将被归属于社区推动者。"
 
 #: ../../views/voken_pricing.rst:121
 msgid "See:"
-msgstr ""
+msgstr "见："
 
 #: ../../views/voken_pricing.rst:123
 msgid ":ref:`voken_sale`"
-msgstr ""
+msgstr ":ref:`voken_sale`"
 
 #: ../../views/voken_pricing.rst:124
 msgid ":ref:`voken_referral_program`"
-msgstr ""
+msgstr ":ref:`voken_referral_program`"
 
 #: ../../views/voken_pricing.rst:126
 msgid "Join us, join the revolution."
-msgstr ""
+msgstr "加入我们，加入变革。"
