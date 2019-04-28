@@ -1,0 +1,335 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-29 05:48+0800\n"
+"PO-Revision-Date: 2019-04-28 13:59+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../guide/batch_transfer.rst:4
+msgid "How to batch transfer ETH and Voken?"
+msgstr "如何批量转账 ETH 和 Voken ？"
+
+#: ../../guide/batch_transfer.rst:6
+msgid ""
+"In order to meet the actual needs of community promoters, we developed "
+":ref:`batch_transfer_contract`. It allows you to easily transfer batches of "
+"ETH and Voken in one transaction, will significantly reduce transfer costs "
+"and operating time."
+msgstr ""
+"为了满足社区推广团队的实际需求，我们开发部署了 :ref:`batch_transfer_contract` 。它允许你容易的批量转账 ETH 和 "
+"Voken 在同一个交易内，能明显降低转账费用和操作时间。"
+
+#: ../../guide/batch_transfer.rst:11
+msgid ""
+"This page will show you how to use this :ref:`batch_transfer_contract` with "
+"a practical example."
+msgstr "本页内容将通过一个实例来示范如何使用这个 :ref:`batch_transfer_contract` 。"
+
+#: ../../guide/batch_transfer.rst:15
+msgid "Transfer plan"
+msgstr "实例"
+
+#: ../../guide/batch_transfer.rst:17
+msgid ""
+"Use a demo ETH wallet ``0xAAAAfBd0C79865902828c34743AdE9c5a0373141`` to "
+"transfer ETH and Vokens to the 10 addresses in this table:"
+msgstr ""
+"使用一个演示钱包 ``0xAAAAfBd0C79865902828c34743AdE9c5a0373141`` 转账 ETH 和 Vokens "
+"到下表中的 10 个地址："
+
+#: ../../guide/batch_transfer.rst:21
+msgid "Address"
+msgstr "地址"
+
+#: ../../guide/batch_transfer.rst:21
+msgid "Amount of ETH"
+msgstr "ETH 数量"
+
+#: ../../guide/batch_transfer.rst:21
+msgid "Amount of Voken"
+msgstr "Voken 数量"
+
+#: ../../guide/batch_transfer.rst:23
+msgid "``0xe6A12f1E49c01e795c45D0B1097766E9BA6DA54a``"
+msgstr ""
+
+#: ../../guide/batch_transfer.rst:23 ../../guide/batch_transfer.rst:24
+#: ../../guide/batch_transfer.rst:25 ../../guide/batch_transfer.rst:26
+#: ../../guide/batch_transfer.rst:27 ../../guide/batch_transfer.rst:28
+#: ../../guide/batch_transfer.rst:29 ../../guide/batch_transfer.rst:30
+#: ../../guide/batch_transfer.rst:31 ../../guide/batch_transfer.rst:32
+msgid "0.002 ETH"
+msgstr ""
+
+#: ../../guide/batch_transfer.rst:23 ../../guide/batch_transfer.rst:24
+#: ../../guide/batch_transfer.rst:25 ../../guide/batch_transfer.rst:26
+#: ../../guide/batch_transfer.rst:27 ../../guide/batch_transfer.rst:28
+#: ../../guide/batch_transfer.rst:29 ../../guide/batch_transfer.rst:30
+#: ../../guide/batch_transfer.rst:31 ../../guide/batch_transfer.rst:32
+msgid "1,001.000001 Vokens"
+msgstr ""
+
+#: ../../guide/batch_transfer.rst:24
+msgid "``0x3d061Bf0DdD7a5e5EFde54bE814D3d649B29E10E``"
+msgstr ""
+
+#: ../../guide/batch_transfer.rst:25
+msgid "``0xB8700507c6c0FEfEDa0499c1D1d2e44df8bfbaF9``"
+msgstr ""
+
+#: ../../guide/batch_transfer.rst:26
+msgid "``0xbf1c5DCebdd5bBcBa618DEbaA8ab5FACc68dcb98``"
+msgstr ""
+
+#: ../../guide/batch_transfer.rst:27
+msgid "``0x119A38595f8FA97B4aff85B5545A7e21dF2d5ae1``"
+msgstr ""
+
+#: ../../guide/batch_transfer.rst:28
+msgid "``0x8f644a2C437E1A0B547018FCe4286f0F07d0E3D3``"
+msgstr ""
+
+#: ../../guide/batch_transfer.rst:29
+msgid "``0xED8Ce5408BBE7B5C5Fa1A0a508a1432f32b7E8f3``"
+msgstr ""
+
+#: ../../guide/batch_transfer.rst:30
+msgid "``0xc3aAf9d7A3B88058d0566Ed9E4d195eD75d0814b``"
+msgstr ""
+
+#: ../../guide/batch_transfer.rst:31
+msgid "``0xB7f8B8b8eA6B9f2FFE92c859640e8C056DEf0d67``"
+msgstr ""
+
+#: ../../guide/batch_transfer.rst:32
+msgid "``0xBF59256fBc1AD66F60663139093FEE609F40cA59``"
+msgstr ""
+
+#: ../../guide/batch_transfer.rst:35
+msgid ""
+"Under normal conditions, 20 transfer operations are required. With the help "
+"of the contract, 20 transfers can be completed in one operation."
+msgstr "在普通条件下，需要操作交易 20 次。而在合约的帮助下，20 笔交易可以在一次操作中全部完成。"
+
+#: ../../guide/batch_transfer.rst:42
+msgid "Tools preparing"
+msgstr "工具准备"
+
+#: ../../guide/batch_transfer.rstNone
+msgid "Plan A"
+msgstr "计划 A"
+
+#: ../../guide/batch_transfer.rst:46
+msgid ""
+"|logo_chrome| Google Chrome (Browser) + |logo_metamask| MetaMask (extension)"
+msgstr ""
+"|logo_chrome| Google Chrome (Browser) + |logo_metamask| MetaMask (extension)"
+
+#: ../../guide/batch_transfer.rstNone
+msgid "Plan B"
+msgstr "计划 B"
+
+#: ../../guide/batch_transfer.rst:50
+msgid ""
+"|logo_firefox| FireFox (Browser) + |logo_metamask| MetaMask (extension)"
+msgstr ""
+"|logo_firefox| FireFox (Browser) + |logo_metamask| MetaMask (extension)"
+
+#: ../../guide/batch_transfer.rst:52
+msgid "Here is a guide: :ref:`guide_for_metamask`"
+msgstr "这里有一个指导： :ref:`guide_for_metamask`"
+
+#: ../../guide/batch_transfer.rst:56
+msgid "Batch transfer with help of the contract"
+msgstr "在合约的帮助下批量转账"
+
+#: ../../guide/batch_transfer.rst:59
+msgid "1. Approve"
+msgstr "1. 批准授权"
+
+#: ../../guide/batch_transfer.rst:61
+msgid ""
+"Approve the :ref:`batch_transfer_contract` to transfer Vokens from your "
+"wallet."
+msgstr "准许授权 :ref:`batch_transfer_contract` 在您的钱包地址支出 Voken 。"
+
+#: ../../guide/batch_transfer.rst:63
+msgid ""
+"Code rules: For security reasons, **only you** and **use your own wallet** "
+"to transfer ETH and Vokens is allowed."
+msgstr "代码规则：出于安全因原因， **只有您** 而且 **使用自己的钱包** 才可以调用合约转账 ETH 和 Voken。"
+
+#: ../../guide/batch_transfer.rst:66
+msgid ""
+"According to the table data in the example at the beginning of this page. "
+"There are `1,001.000001 x10 = 10,010.00001 Vokens` will be transferred to 10"
+" different addresses. That means you need to have a Voken balance greater "
+"than this number in your wallet and then perform the approval."
+msgstr ""
+"根据示例表格中的数据，一共有 `1,001.000001 x10 = 10,010.00001 Vokens` 将批量转账至 10 "
+"个不同的地址。这意味着您的 Voken 余额需要大于这个数字，然后执行授权。"
+
+#: ../../guide/batch_transfer.rst:76
+msgid ""
+"Use the Ethereum browser **etherscan.io - Write Contract**, interact with "
+":ref:`voken_contract` which address is "
+"**0x82070415FEe803f94Ce5617Be1878503e58F0a6a**."
+msgstr ""
+"使用以太坊浏览器 **etherscan.io - Write Contract** 与 :ref:`voken_contract` 交互，合约地址为："
+" **0x82070415FEe803f94Ce5617Be1878503e58F0a6a** 。"
+
+#: ../../guide/batch_transfer.rst:79
+msgid ""
+"Copy and paste the URL into the target blank and visit it: "
+"``https://etherscan.io/address/0x82070415fee803f94ce5617be1878503e58f0a6a#writeContract``"
+msgstr ""
+"复制粘贴这个链接地址并访问： "
+"``https://etherscan.io/address/0x82070415fee803f94ce5617be1878503e58f0a6a#writeContract``"
+
+#: ../../guide/batch_transfer.rst:81 ../../guide/batch_transfer.rst:117
+msgid "Connect with MetaMask, and confirm."
+msgstr "连接 MetaMask 并确认。"
+
+#: ../../guide/batch_transfer.rst:82
+msgid "Find the 1st function ``1. approve``,"
+msgstr "找到第一项功能 ``1. approve`` ，"
+
+#: ../../guide/batch_transfer.rst:83
+msgid ""
+"Fill the :ref:`batch_transfer_contract` address "
+"``0xf5ed657f9441672788A4935F279956745edf461B`` into the `spender` blank, "
+"then enter the value of Voken (with 6 decimal digits), for example "
+"**10010.000010 Voken** is ``10010000010``."
+msgstr ""
+"在 `spender` 栏填入 :ref:`batch_transfer_contract` 地址 "
+"``0xf5ed657f9441672788A4935F279956745edf461B`` 然后再输入 Voken 的数值（含 6 个小数位），本例中"
+" **10010.000010 Voken** 即是 ``10010000010`` 。"
+
+#: ../../guide/batch_transfer.rst:87
+msgid ""
+"Start to write into the contract, perform the approval. Confirm the "
+"transaction."
+msgstr "写入合约，执行批准授权，确认授权交易。"
+
+#: ../../guide/batch_transfer.rst:89 ../../guide/batch_transfer.rst:134
+msgid ""
+"There is a button ``View your transaction`` appears, click it to check the "
+"status. When it shows ``Success``, DONE."
+msgstr ""
+"一个 ``View your transaction`` 显示出来，点击它可以查看交易状态，当显示为 ``Success`` 时，授权完成。"
+
+#: ../../guide/batch_transfer.rst:92
+msgid ""
+"You have successfully approval the :ref:`batch_transfer_contract` for "
+"``10010.000010 Voken``, then you can call the contract to do your batch "
+"transfer."
+msgstr ""
+"您已经成功授权 :ref:`batch_transfer_contract` 允许调动 ``10010.000010 Voken`` "
+"，然后执行合约功能进行批量转账。"
+
+#: ../../guide/batch_transfer.rst:101
+msgid ""
+"If you want to check the approval manually, read the contract, through the "
+"``13. allowance``, you can verify that is exactly what you want."
+msgstr "如果您想手工验证转账授权，读合约，通过 ``13. allowance`` 您可以验证它刚刚好就是你想要的结果。"
+
+#: ../../guide/batch_transfer.rst:107
+msgid "2. Batch Transfer"
+msgstr "2. 批量转账"
+
+#: ../../guide/batch_transfer.rst:109
+msgid ""
+"Batch transfer ETH and Vokens to 10 different addresses, **0.002 ETH** and "
+"**1,001.000001 Voken** for each."
+msgstr ""
+"批量转账 ETH 和 Voken 到 10 个不同的地址，每个地址 **0.002 ETH** 和 **1,001.000001 Voken** 。"
+
+#: ../../guide/batch_transfer.rst:112
+msgid ""
+"Make sure you have a balance of ETH greater than `0.002 x10 =` **0.02 ETH**,"
+" and already perform a approval of **10010.000010 Vokens** in the previous "
+"step."
+msgstr ""
+"请确认您的钱包内 ETH 余额大于 `0.002 x10 =` **0.02 ETH** 并且已经在前一步执行过 **10010.000010 "
+"Vokens** 的转账授权。"
+
+#: ../../guide/batch_transfer.rst:115
+msgid ""
+"Copy and paste the URL into the target blank and visit it: "
+"``https://etherscan.io/address/0xf5ed657f9441672788a4935f279956745edf461b#writeContract``"
+msgstr ""
+"复制粘贴这个链接地址并访问： "
+"``https://etherscan.io/address/0xf5ed657f9441672788a4935f279956745edf461b#writeContract``"
+
+#: ../../guide/batch_transfer.rst:118
+msgid "Find the 1st function ``1. batchTransfer``,"
+msgstr "找到第一个功能 ``1. batchTransfer`` ，"
+
+#: ../../guide/batch_transfer.rst:119
+msgid ""
+"Fill the first blank ``batchTransfer`` with ETH amount, the unit is ``ETH``,"
+" in this example it is `0.002 x10 = 0.02 ETH`, so fill with ``0.02``."
+msgstr ""
+"在 ``batchTransfer`` 栏填入 ETH 总数，单位就是 ``ETH`` ，本例中它是 `0.002 x10 = 0.02 ETH` "
+"，所以，填入 ``0.01`` 。"
+
+#: ../../guide/batch_transfer.rst:121
+msgid ""
+"The second blank ``accounts``, fill with the address, separated by commas "
+"``,``, no commas ``,`` ending after the last one."
+msgstr "第二栏 ``accounts`` 逐个填入地址，便用英文逗号 ``,`` 分隔，在最尾一个后边不再分隔加逗号。"
+
+#: ../../guide/batch_transfer.rst:124
+msgid ""
+"The third blank ``etherValue``, fill it with the ETH value in wei, (1 wei = "
+"0.000000000000000001 ETH), so, **0.002 ETH** is ``2000000000000000`` here."
+msgstr ""
+"第三栏 ``etherValue`` 以 wei 为单位填入 ETH 的数值（ 1 wei = 0.000000000000000001 ETH "
+"），所以，**0.002 ETH** 在这里填入 ``2000000000000000`` 。"
+
+#: ../../guide/batch_transfer.rst:128
+msgid ""
+"The last blank ``vokenValue``, fill it with the number of vokens to be "
+"transferred per address, the last six digits is decimal positions, so, "
+"**1001.000001 Voken** is ``1001000001`` here."
+msgstr ""
+"最后一栏 ``vokenValue`` 统一填入单个地址转账的 Voken 的数量值，最后 6 位是小数位，所以 **1001.000001 "
+"Voken** 就填入 ``1001000001`` 。"
+
+#: ../../guide/batch_transfer.rst:132
+msgid "Start to write into the contract, Confirm the transaction."
+msgstr "写入合约，确认授权交易。"
+
+#: ../../guide/batch_transfer.rst:142
+msgid ""
+"There are 10 transactions of ETH, and 10 transactions of Voken, finished at "
+"one time. Both transactions fee and operating time, are greatly reduced."
+msgstr "一共有 10 笔 ETH 转账和 10 笔 Voken 转账一次性完成。不论是转账矿工费用还是操作时间都大幅减少。"
+
+#: ../../guide/batch_transfer.rst:145
+msgid "That's all, 2 steps:"
+msgstr "这就是全部了，总共只有 2 步："
+
+#: ../../guide/batch_transfer.rst:147
+msgid "Approve"
+msgstr "授权交易"
+
+#: ../../guide/batch_transfer.rst:148
+msgid "Batch Transfer"
+msgstr "批量转账"

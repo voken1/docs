@@ -1,0 +1,185 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-29 05:48+0800\n"
+"PO-Revision-Date: 2019-04-28 13:59+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../guide/metamask.rst:4
+msgid "How to install and use MetaMask?"
+msgstr "如何安装和使用 MetaMask ？"
+
+#: ../../guide/metamask.rst:6
+msgid "|logo_metamask|"
+msgstr "|logo_metamask|"
+
+#: ../../guide/metamask.rst:8
+msgid ""
+"MetaMask [#MetaMask]_ is a browser-extension for Google Chrome "
+"[#GoogleChrome]_, FireFox [#Firefox]_ and Opera [#Opera]_, which can help "
+"you interact with Ethereum blockchain."
+msgstr ""
+"MetaMask [#MetaMask]_ 是谷歌 Chrome [#GoogleChrome]_ ，FireFox [#Firefox]_ 和 "
+"Opera [#Opera]_ 等浏览器的扩展插件，可以帮助您与以太坊区块链交互。"
+
+#: ../../guide/metamask.rst:14
+msgid "Installation"
+msgstr "安装"
+
+#: ../../guide/metamask.rst:17
+msgid "With Google Chrome browser"
+msgstr "使用谷歌 Chrome 浏览器"
+
+#: ../../guide/metamask.rst:19
+msgid "|logo_chrome| + |logo_metamask|"
+msgstr "|logo_chrome| + |logo_metamask|"
+
+#: ../../guide/metamask.rst:0
+msgid "Download and install Google Chrome browser"
+msgstr "下载并安装谷歌 Chrome 浏览器"
+
+#: ../../guide/metamask.rst:0
+msgid "Download here: https://www.google.com/chrome/"
+msgstr "在这里下载： https://www.google.com/chrome/"
+
+#: ../../guide/metamask.rst:0 ../../guide/metamask.rst:0
+msgid "Search and install MetaMask extension"
+msgstr "搜索并安装 MetaMask 扩展"
+
+#: ../../guide/metamask.rst:0
+msgid "Open in Chrome: https://chrome.google.com/webstore/search/MetaMask"
+msgstr "在 Chorme 里打开： https://chrome.google.com/webstore/search/MetaMask"
+
+#: ../../guide/metamask.rst:26
+msgid "If you can not visit Google, Firefox is PLAN B."
+msgstr "如果你无法访问谷歌，FireFox 是 B 计划。"
+
+#: ../../guide/metamask.rst:30
+msgid "With FireFox browser"
+msgstr "使用 FireFox 火狐浏览器"
+
+#: ../../guide/metamask.rst:32
+msgid "|logo_firefox| + |logo_metamask|"
+msgstr "|logo_firefox| + |logo_metamask|"
+
+#: ../../guide/metamask.rst:0
+msgid "Download and install FireFox browser"
+msgstr "下载并安装 FireFox 火狐浏览器"
+
+#: ../../guide/metamask.rst:0
+msgid "Download here: https://www.mozilla.org/"
+msgstr "在这里下载： https://www.mozilla.org/"
+
+#: ../../guide/metamask.rst:0
+msgid ""
+"Open in FireFox: https://addons.mozilla.org/en-US/firefox/search/?q=MetaMask"
+msgstr ""
+"在 FireFox 中打开： https://addons.mozilla.org/en-US/firefox/search/?q=MetaMask"
+
+#: ../../guide/metamask.rst:46
+msgid "Create a new wallet"
+msgstr "创建一个新钱包"
+
+#: ../../guide/metamask.rst:48
+msgid ""
+"If this is your first time using MetaMask, you need to create a new wallet "
+"as shown below."
+msgstr "如果您是第一次使用 MetaMask ，您需要按演示流程创建一个钱包。"
+
+#: ../../guide/metamask.rst:51
+msgid "**Never disclose your backup phrase.**"
+msgstr "**永远不要透露您的助记词。**"
+
+#: ../../guide/metamask.rst:52
+msgid "**Anyone with the phrases can take all your ETH and Tokens forever.**"
+msgstr "**任何知晓助记词的人都可以永久性的转移走您钱包中的 ETH 和 Tokens。**"
+
+#: ../../guide/metamask.rst:54
+msgid "Write them down **ON THE PAPER** is recommended."
+msgstr "把它们写下来，**在纸上** 是推荐的。"
+
+#: ../../guide/metamask.rst:56
+msgid ""
+"From a security point of view, even if you save plain text on your computer "
+"or mobile phone, it is not guaranteed to be safe."
+msgstr "从安全的角度来考虑，在电脑或手机里明文文本保存也不一定是安全的。"
+
+#: ../../guide/metamask.rst:60
+msgid "So, **write them down on the paper, and keep it safe.**"
+msgstr "所以，**把他们写在纸上，并保证安全。**"
+
+#: ../../guide/metamask.rst:62
+msgid ""
+"With these phrases, you can restore this wallet or reset the password via "
+"MetaMask."
+msgstr "通过 MetaMask 使用助记词，您还能恢复钱包或重置钱包密码。"
+
+#: ../../guide/metamask.rst:72
+msgid "How to import another wallet?"
+msgstr "怎样导入另一个钱包？"
+
+#: ../../guide/metamask.rst:74
+msgid ""
+"If you need to import another wallet into MetaMask, you can use the private "
+"key."
+msgstr "如果您需要导入另一个钱包来 MetaMask 使用，您需要用到私钥。"
+
+#: ../../guide/metamask.rst:77
+msgid "Also, for security reasons, enter it, do not paste."
+msgstr "同样的安全原因，输入私钥，而不是粘贴进来。"
+
+#: ../../guide/metamask.rst:86
+msgid "Show Voken balance of your wallet"
+msgstr "让你的钱包显示 Voken 余额"
+
+#: ../../guide/metamask.rst:88
+msgid ""
+"Copy the address of :ref:`voken_contract`, it is "
+"``0x82070415FEe803f94Ce5617Be1878503e58F0a6a``, and use ``Add Token``."
+msgstr ""
+"复制 :ref:`voken_contract` 地址 ``0x82070415FEe803f94Ce5617Be1878503e58F0a6a`` "
+"，并使用 ``Add Token`` 功能。"
+
+#: ../../guide/metamask.rst:99
+msgid "Interact with Ethereum Contract"
+msgstr "与以太坊合约交互"
+
+#: ../../guide/metamask.rst:101
+msgid "Here is a example:"
+msgstr "这里有一个例子："
+
+#: ../../guide/metamask.rst:103
+msgid ":ref:`guide_for_batch_transfer`"
+msgstr ":ref:`guide_for_batch_transfer`"
+
+#: ../../guide/metamask.rst:120
+msgid "**MetaMask** https://metamask.io/"
+msgstr "**MetaMask** https://metamask.io/"
+
+#: ../../guide/metamask.rst:121
+msgid "**Google Chrome** https://www.google.com/chrome/"
+msgstr "**Google Chrome** https://www.google.com/chrome/"
+
+#: ../../guide/metamask.rst:122
+msgid "**FireFox** https://www.mozilla.org/"
+msgstr "**FireFox** https://www.mozilla.org/"
+
+#: ../../guide/metamask.rst:123
+msgid "**Opera** https://www.opera.com/"
+msgstr "**Opera** https://www.opera.com/"

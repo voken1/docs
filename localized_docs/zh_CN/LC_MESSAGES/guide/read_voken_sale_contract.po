@@ -149,72 +149,72 @@ msgstr "``82`` 代表：已经有 **82 笔** Vokens 转账已经完成。"
 
 #: ../../guide/read_voken_sale_contract.rst:85
 msgid "vokenBonusTxs"
-msgstr ""
+msgstr "vokenBonusTxs"
 
 #: ../../guide/read_voken_sale_contract.rst:83
 msgid "Voken bonus transactions amount."
-msgstr ""
+msgstr "Voken 奖励转账的总次数。"
 
 #: ../../guide/read_voken_sale_contract.rst:85
 msgid ""
 "``3`` means: There are **3 transaction** of Voken bonus finished already."
-msgstr ""
+msgstr "``3`` 代表：Voken 的奖励转账共完成了 **3 笔** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:90
 msgid "vokenWhitelistTxs"
-msgstr ""
+msgstr "vokenWhitelistTxs"
 
 #: ../../guide/read_voken_sale_contract.rst:88
 msgid "Voken whitelist transactions amount."
-msgstr ""
+msgstr "Voken 白名单转账次数。"
 
 #: ../../guide/read_voken_sale_contract.rst:90
 msgid ""
 "``4`` means: There are **4 transactions** of Voken whitelist finished "
 "already."
-msgstr ""
+msgstr "``4`` 代表：Voken 白名单转账共 **4 笔** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:95
 #: ../../guide/read_voken_sale_contract.rst:329
 msgid "vokenIssued"
-msgstr ""
+msgstr "vokenIssued"
 
 #: ../../guide/read_voken_sale_contract.rst:93
 msgid "Voken issued amount transferred already, with 6 decimals."
-msgstr ""
+msgstr "已经发行的 Voken 总数，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:95
 msgid "``8193922651933`` is **8,193,922.651933 Vokens**."
-msgstr ""
+msgstr "``8193922651933`` 代表： **8,193,922.651933 Vokens** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:100
 #: ../../guide/read_voken_sale_contract.rst:334
 msgid "vokenBonus"
-msgstr ""
+msgstr "vokenBonus"
 
 #: ../../guide/read_voken_sale_contract.rst:98
 msgid "Voken bonus amount transferred already."
-msgstr ""
+msgstr "Voken 奖励金发放的总数。"
 
 #: ../../guide/read_voken_sale_contract.rst:100
 msgid "``810000000000`` is **810,000.000000 Vokens**."
-msgstr ""
+msgstr "``810000000000`` 代表： **810,000.000000 Vokens** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:107
 msgid "vokenWhitelist"
-msgstr ""
+msgstr "vokenWhitelist"
 
 #: ../../guide/read_voken_sale_contract.rst:103
 msgid "Voken whitelist amount transferred already."
-msgstr ""
+msgstr "Voken 白名单转账总数。"
 
 #: ../../guide/read_voken_sale_contract.rst:105
 msgid "``9003922651933`` is **9,003,922.651933 Vokens**."
-msgstr ""
+msgstr "``9003922651933`` 代表： **9,003,922.651933 Vokens** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:110
 msgid "Sum of the main data - ``6. sum``"
-msgstr ""
+msgstr "主要的统计数据 - ``6. sum``"
 
 #: ../../guide/read_voken_sale_contract.rst:129
 #: ../../guide/read_voken_sale_contract.rst:269
@@ -222,95 +222,96 @@ msgid ""
 "All the values is in wei (minimum unit of ETH, `1 wei = 0.000000000000000001"
 " ETH`), there are 18 decimals."
 msgstr ""
+"所有的数值的单位都是“wei”（以太坊系统中最小的单位， `1 wei = 0.000000000000000001 ETH`），包含 18 位小数。"
 
 #: ../../guide/read_voken_sale_contract.rst:136
 #: ../../guide/read_voken_sale_contract.rst:276
 msgid "weiSold"
-msgstr ""
+msgstr "weiSold"
 
 #: ../../guide/read_voken_sale_contract.rst:134
 msgid "Amount of Public-Sales revenue."
-msgstr ""
+msgstr "公开发售的总销售收入。"
 
 #: ../../guide/read_voken_sale_contract.rst:136
 msgid "``67705882352941176472`` is **67.705882352941176472 ETH**."
-msgstr ""
+msgstr "``67705882352941176472`` 代表： **67.705882352941176472 ETH** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:141
 #: ../../guide/read_voken_sale_contract.rst:351
 msgid "weiReferralRewarded"
-msgstr ""
+msgstr "weiReferralRewarded"
 
 #: ../../guide/read_voken_sale_contract.rst:139
 msgid "Amount of Referral-Reward already sent."
-msgstr ""
+msgstr "已成功发放的推荐奖励金额总数。"
 
 #: ../../guide/read_voken_sale_contract.rst:141
 msgid "``19708588235294117625`` is **19.708588235294117625 ETH**."
-msgstr ""
+msgstr "``19708588235294117625`` 代表： **19.708588235294117625 ETH** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:146
 #: ../../guide/read_voken_sale_contract.rst:281
 msgid "weiTopSales"
-msgstr ""
+msgstr "weiTopSales"
 
 #: ../../guide/read_voken_sale_contract.rst:144
 msgid "Amount of Top-Sales Reward already counted."
-msgstr ""
+msgstr "排位赛奖励已登记金额总数。"
 
 #: ../../guide/read_voken_sale_contract.rst:146
 #: ../../guide/read_voken_sale_contract.rst:281
 #: ../../guide/read_voken_sale_contract.rst:291
 msgid "``10180962911764705838`` is **10.180962911764705838 ETH**."
-msgstr ""
+msgstr "``10180962911764705838`` 代表： **10.180962911764705838 ETH** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:151
 msgid "weiTeam"
-msgstr ""
+msgstr "weiTeam"
 
 #: ../../guide/read_voken_sale_contract.rst:149
 msgid "Vision.Network project team received."
-msgstr ""
+msgstr "Vision.Network 项目团队收入。"
 
 #: ../../guide/read_voken_sale_contract.rst:151
 msgid "``33820000000000000000`` is **33.82 ETH**."
-msgstr ""
+msgstr "``33820000000000000000`` 代表： **33.82 ETH** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:156
 msgid "weiPending"
-msgstr ""
+msgstr "weiPending"
 
 #: ../../guide/read_voken_sale_contract.rst:154
 msgid "Unallocated ETH rewards pending pool."
-msgstr ""
+msgstr "尚待分配的 ETH 奖励池。"
 
 #: ../../guide/read_voken_sale_contract.rst:156
 #: ../../guide/read_voken_sale_contract.rst:167
 msgid "``3988470588235294117`` is **3.988470588235294117 ETH**."
-msgstr ""
+msgstr "``3988470588235294117`` 代表： **3.988470588235294117 ETH** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:161
 msgid "weiPendingTransfered"
-msgstr ""
+msgstr "weiPendingTransfered"
 
 #: ../../guide/read_voken_sale_contract.rst:159
 msgid "Unallocated ETH rewards already transferred."
-msgstr ""
+msgstr "待分配 ETH 奖励的已转账数量。"
 
 #: ../../guide/read_voken_sale_contract.rst:161
 #: ../../guide/read_voken_sale_contract.rst:286
 msgid "``0`` is **0 ETH**."
-msgstr ""
+msgstr "``0`` 代表： **0 ETH** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:169
 msgid "weiPendingRemain"
-msgstr ""
+msgstr "weiPendingRemain"
 
 #: ../../guide/read_voken_sale_contract.rst:164
 msgid ""
 "Unallocated ETH rewards pending pool remain. Should be always `= weiPending "
 "- weiPendingTransfered`."
-msgstr ""
+msgstr "剩余的待分配 ETH 奖励池。该数值应 `= weiPending - weiPendingTransfered` 。"
 
 #: ../../guide/read_voken_sale_contract.rst:172
 msgid "Status of a specific stage - ``3. stageStatus``"

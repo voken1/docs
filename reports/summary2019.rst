@@ -15,5 +15,5 @@ Summary 2019
    - :ref:`voken_referral_program` completed
    - :ref:`voken_sale` is on the way
    - :ref:`voken_sale_contract` deployed
-   - :ref:`batch_transfer` deployed
+   - :ref:`batch_transfer_contract` deployed
 

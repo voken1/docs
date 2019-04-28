@@ -43,7 +43,7 @@ msgstr ""
 
 #: ../../token/sale.rst:12
 msgid "Related links:"
-msgstr ""
+msgstr "相关链接："
 
 #: ../../token/sale.rst:14
 msgid ":ref:`voken_pricing`"
