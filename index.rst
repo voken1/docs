@@ -101,6 +101,7 @@ Contacts
 
    guide/voken_sale
    guide/register_voken_sale_whitelist
+   guide/batch_transfer
    guide/read_voken_sale_contract
    guide/shadowrocket
    guide/ssrr
