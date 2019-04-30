@@ -64,8 +64,8 @@ Lv.15  10 Vokens
 
 - When the contract automatically settles the 1001 Vokens reward,
   some Lvs may be absent (due to insufficient referrals, or do not exist).
-  In this case, all unsuccessful rewards will be attributed to **Lv.1**,
-  which is the direct referrer.
+  In this case, all unsuccessful rewards will be saved in the :ref:`voken_contract`,
+  and will be reward to Top-Sales 100 after the :ref:`voken_sale`.
 
 
 .. _sales_referral_reward:
