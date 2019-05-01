@@ -411,12 +411,16 @@ msgid ""
 "attacks. The website pays :ref:`voken`, and the participating nodes get "
 "Vokens as revenue."
 msgstr ""
+"完全自由分布化的 vnDNS 解析服务还可以再结合反向代理技术，借助庞大的 VISION 用户基础和节点数量帮助需要受保护的网站有偿地防护 DDoS "
+"分布式阻断服务攻击 Distributed Denial-of-Service attack，受保护网站支付 :ref:`voken` "
+"，而参与服务的节点获得 Voken 。"
 
 #: ../../whitepaper/technical_path.rst:252
 msgid ""
 "Vision Network users can not only contribute to network security protection,"
 " but also increase :ref:`voken` revenue."
 msgstr ""
+"运行 VISION 节点的用户，将再增加一个选择：不但有机会为网络安全保护贡献一份力量，同时又多了一个增加 :ref:`voken` 收益方式。"
 
 #: ../../whitepaper/technical_path.rst:257
 msgid "DDoS:"

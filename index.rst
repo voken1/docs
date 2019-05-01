@@ -107,7 +107,6 @@ Contacts
    guide/shadowrocket
    guide/ssrr
    guide/eth_wallet
-   guide/contract
    guide/gas
 
 .. guide/telegram
@@ -146,6 +145,7 @@ Contacts
    contracts/early_investors_fund
    contracts/team_fund
    contracts/voken_migration
+   contracts/get_1002voken
    contracts/batch_transfer
 
 

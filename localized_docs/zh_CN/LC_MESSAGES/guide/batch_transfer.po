@@ -67,7 +67,7 @@ msgstr "Voken 数量"
 
 #: ../../guide/batch_transfer.rst:23
 msgid "``0xe6A12f1E49c01e795c45D0B1097766E9BA6DA54a``"
-msgstr ""
+msgstr "``0xe6A12f1E49c01e795c45D0B1097766E9BA6DA54a``"
 
 #: ../../guide/batch_transfer.rst:23 ../../guide/batch_transfer.rst:24
 #: ../../guide/batch_transfer.rst:25 ../../guide/batch_transfer.rst:26
@@ -75,7 +75,7 @@ msgstr ""
 #: ../../guide/batch_transfer.rst:29 ../../guide/batch_transfer.rst:30
 #: ../../guide/batch_transfer.rst:31 ../../guide/batch_transfer.rst:32
 msgid "0.002 ETH"
-msgstr ""
+msgstr "0.002 ETH"
 
 #: ../../guide/batch_transfer.rst:23 ../../guide/batch_transfer.rst:24
 #: ../../guide/batch_transfer.rst:25 ../../guide/batch_transfer.rst:26
@@ -83,43 +83,43 @@ msgstr ""
 #: ../../guide/batch_transfer.rst:29 ../../guide/batch_transfer.rst:30
 #: ../../guide/batch_transfer.rst:31 ../../guide/batch_transfer.rst:32
 msgid "1,001.000001 Vokens"
-msgstr ""
+msgstr "1,001.000001 Vokens"
 
 #: ../../guide/batch_transfer.rst:24
 msgid "``0x3d061Bf0DdD7a5e5EFde54bE814D3d649B29E10E``"
-msgstr ""
+msgstr "``0x3d061Bf0DdD7a5e5EFde54bE814D3d649B29E10E``"
 
 #: ../../guide/batch_transfer.rst:25
 msgid "``0xB8700507c6c0FEfEDa0499c1D1d2e44df8bfbaF9``"
-msgstr ""
+msgstr "``0xB8700507c6c0FEfEDa0499c1D1d2e44df8bfbaF9``"
 
 #: ../../guide/batch_transfer.rst:26
 msgid "``0xbf1c5DCebdd5bBcBa618DEbaA8ab5FACc68dcb98``"
-msgstr ""
+msgstr "``0xbf1c5DCebdd5bBcBa618DEbaA8ab5FACc68dcb98``"
 
 #: ../../guide/batch_transfer.rst:27
 msgid "``0x119A38595f8FA97B4aff85B5545A7e21dF2d5ae1``"
-msgstr ""
+msgstr "``0x119A38595f8FA97B4aff85B5545A7e21dF2d5ae1``"
 
 #: ../../guide/batch_transfer.rst:28
 msgid "``0x8f644a2C437E1A0B547018FCe4286f0F07d0E3D3``"
-msgstr ""
+msgstr "``0x8f644a2C437E1A0B547018FCe4286f0F07d0E3D3``"
 
 #: ../../guide/batch_transfer.rst:29
 msgid "``0xED8Ce5408BBE7B5C5Fa1A0a508a1432f32b7E8f3``"
-msgstr ""
+msgstr "``0xED8Ce5408BBE7B5C5Fa1A0a508a1432f32b7E8f3``"
 
 #: ../../guide/batch_transfer.rst:30
 msgid "``0xc3aAf9d7A3B88058d0566Ed9E4d195eD75d0814b``"
-msgstr ""
+msgstr "``0xc3aAf9d7A3B88058d0566Ed9E4d195eD75d0814b``"
 
 #: ../../guide/batch_transfer.rst:31
 msgid "``0xB7f8B8b8eA6B9f2FFE92c859640e8C056DEf0d67``"
-msgstr ""
+msgstr "``0xB7f8B8b8eA6B9f2FFE92c859640e8C056DEf0d67``"
 
 #: ../../guide/batch_transfer.rst:32
 msgid "``0xBF59256fBc1AD66F60663139093FEE609F40cA59``"
-msgstr ""
+msgstr "``0xBF59256fBc1AD66F60663139093FEE609F40cA59``"
 
 #: ../../guide/batch_transfer.rst:35
 msgid ""

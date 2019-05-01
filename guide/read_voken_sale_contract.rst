@@ -60,7 +60,7 @@ season
 vokenUsdPrice
    Current Voken price, in USD, with 6 decimals.
 
-   ``1810`` means: Current Voken price is **$ 0.001810 USD**.
+   ``1810`` means: Current Voken price is **$ 0.001810 USD** .
 
 currentTopSalesRatio
    Current Top-Sales rewards ratio, with 8 decimals.

@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-25 19:45+0800\n"
+"POT-Creation-Date: 2019-05-01 22:40+0800\n"
 "PO-Revision-Date: 2019-04-11 14:18+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -46,59 +46,79 @@ msgstr "完成了。你的钱包地址已经成功注册。"
 
 #: ../../guide/register_voken_sale_whitelist.rst:14
 msgid ""
-"Set ``gas limit`` to ``1,000,000``, the rest will be returned automatically."
-msgstr "请将 ``gas limit`` 设置为 ``1,000,000`` ，剩余部分将自动退回。"
+"Set ``gas limit`` to ``300,000``, the rest will be returned automatically."
+msgstr "请将 ``gas limit`` 设置为 ``300,000`` ，剩余部分将自动退回。"
 
 #: ../../guide/register_voken_sale_whitelist.rst:18
 msgid "FAQ about whitelist registration"
 msgstr "关于白名单注册的常见问题解答"
 
-#: ../../guide/register_voken_sale_whitelist.rst:24
-msgid "How can I check whether a wallet address is whitelisted?"
-msgstr "我怎样可以检查一个地址是否已列入白名单？"
-
-#: ../../guide/register_voken_sale_whitelist.rst:21
-msgid "Follow this: :ref:`check_address_in_whitelist`"
-msgstr "依此操作 :ref:`check_address_in_whitelist`"
-
-#: ../../guide/register_voken_sale_whitelist.rst:23
+#: ../../guide/register_voken_sale_whitelist.rst:39
 msgid ""
-"Call function ``inWhitelist(address account)``, if the given address was "
-"whitelisted, it will returns ``true``."
-msgstr ""
-"执行合约中的功能函数 ``inWhitelist(address account)`` ，如果给定的地址已在白名单中，则返回 ``true`` 。"
+"How can I check whether a wallet address is whitelisted or not and its "
+"referral count?"
+msgstr "我怎样可以检查一个地址是否已列入白名单和该地址的推荐数？"
 
-#: ../../guide/register_voken_sale_whitelist.rst:28
+#: ../../guide/register_voken_sale_whitelist.rst:0
+msgid "Read Contract via Etherscan.io:"
+msgstr "通过 Etherscan.io 读取合约信息"
+
+#: ../../guide/register_voken_sale_whitelist.rst:0
+msgid ""
+"`https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#readContract`"
+msgstr ""
+"`https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#readContract`"
+
+#: ../../guide/register_voken_sale_whitelist.rst:29
+msgid "`Read Contract`_ - `14. inWhitelist`:"
+msgstr "`读取合约`_ - `14. inWhitelist`："
+
+#: ../../guide/register_voken_sale_whitelist.rst:31
+msgid ""
+"Enter an address and press `Query`, if it returns ``true``, means the "
+"address is already in :ref:`voken_sale` whitelist, otherwise, no."
+msgstr ""
+"输入一个地址并点击 `Query`, 如果返回 ``true``, 则说明此地址已在列入 :ref:`voken_sale` 白名单，否则就是没有列入。"
+
+#: ../../guide/register_voken_sale_whitelist.rst:36
+msgid "`Read Contract`_ - `15. refCount`:"
+msgstr "`读取合约`_ - `15. refCount`："
+
+#: ../../guide/register_voken_sale_whitelist.rst:38
+msgid "Enter an address and press `Query`, it will return the result."
+msgstr "输入一个地址并点击 `Query`，它将返回对应的结果。"
+
+#: ../../guide/register_voken_sale_whitelist.rst:46
 msgid "Where could I buy some Voken?"
 msgstr "我可以在哪里买到一些 Voken ？"
 
-#: ../../guide/register_voken_sale_whitelist.rst:27
+#: ../../guide/register_voken_sale_whitelist.rst:45
 msgid ""
 "Ask your friend to send you some, or you can participate in "
 ":ref:`voken_sale`, send ETH to get it."
 msgstr "让你的朋友转账给你一些，或者您也可以参加 :ref:`voken_sale` ，发送 ETH 兑换。"
 
-#: ../../guide/register_voken_sale_whitelist.rst:32
+#: ../../guide/register_voken_sale_whitelist.rst:50
 msgid ""
 "After my address was whitelisted, what will happen if I send 1001.0 Voken to"
 " my friend or others?"
 msgstr "如果我的地址已经列入白名单，再发送 1001.0 Vokens 给朋友或其它地址会发生什么？"
 
-#: ../../guide/register_voken_sale_whitelist.rst:31
+#: ../../guide/register_voken_sale_whitelist.rst:49
 msgid ""
 "Just like normal transfer, :ref:`voken_sale` whitelist registration couldn't"
 " be trigger twice."
 msgstr "就像普通转账一样， :ref:`voken_sale` 白名单注册不会被触发两次。"
 
-#: ../../guide/register_voken_sale_whitelist.rst:40
+#: ../../guide/register_voken_sale_whitelist.rst:58
 msgid "Can I transfer my whitelist qualification to another?"
 msgstr "我能转让我的白名单资格到其它地址（或其它人）么？"
 
-#: ../../guide/register_voken_sale_whitelist.rst:35
+#: ../../guide/register_voken_sale_whitelist.rst:53
 msgid "Follow this: :ref:`whitelist_transfer_whitelist_qualification`"
 msgstr "依此操作 :ref:`whitelist_transfer_whitelist_qualification`"
 
-#: ../../guide/register_voken_sale_whitelist.rst:37
+#: ../../guide/register_voken_sale_whitelist.rst:55
 msgid ""
 "Without any application and approval process, just call the contract "
 "function ``transferWhitelist(address account)`` directly, the contract will "
@@ -107,6 +127,6 @@ msgstr ""
 "不需要经过任何申请和审批流程，直接调用合约功能 ``transferWhitelist(address account)`` "
 "即可完成，智能合约将会自动立即处理。"
 
-#: ../../guide/register_voken_sale_whitelist.rst:44
+#: ../../guide/register_voken_sale_whitelist.rst:62
 msgid "More FAQs? to be continued."
 msgstr "更多问题解答，待续。"

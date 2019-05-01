@@ -11,17 +11,35 @@ How to register Voken Public-Sale whitelist?
 
 .. NOTE::
 
-   Set ``gas limit`` to ``1,000,000``, the rest will be returned automatically.
+   Set ``gas limit`` to ``300,000``, the rest will be returned automatically.
 
 
 FAQ about whitelist registration
 --------------------------------
 
-How can I check whether a wallet address is whitelisted?
-   Follow this: :ref:`check_address_in_whitelist`
+How can I check whether a wallet address is whitelisted or not and its referral count?
+   | Read Contract via Etherscan.io:
+   | `https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#readContract`
 
-   Call function ``inWhitelist(address account)``,
-   if the given address was whitelisted, it will returns ``true``.
+   .. image:: /_static/guide/in_whitelist.gif
+      :align: center
+      :width: 90 %
+      :alt: in_whitelist.gif
+
+   `Read Contract`_ - `14. inWhitelist`:
+
+   Enter an address and press `Query`,
+   if it returns ``true``,
+   means the address is already in :ref:`voken_sale` whitelist,
+   otherwise, no.
+
+   `Read Contract`_ - `15. refCount`:
+
+   Enter an address and press `Query`,
+   it will return the result.
+
+.. _Read Contract: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#readContract
+
 
 Where could I buy some Voken?
    Ask your friend to send you some, or you can participate in :ref:`voken_sale`,

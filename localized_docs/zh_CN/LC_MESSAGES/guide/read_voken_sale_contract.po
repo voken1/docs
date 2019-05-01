@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-26 16:23+0800\n"
+"POT-Creation-Date: 2019-05-01 22:40+0800\n"
 "PO-Revision-Date: 2019-04-26 08:27+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -99,8 +99,8 @@ msgid "Current Voken price, in USD, with 6 decimals."
 msgstr "当前 Voken 价格，以美元计价，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:63
-msgid "``1810`` means: Current Voken price is **$ 0.001810 USD**."
-msgstr "``1810``代表：当前 Voken 价格为 **$ 0.001810 USD** 美元。"
+msgid "``1810`` means: Current Voken price is **$ 0.001810 USD** ."
+msgstr "``1810`` 代表： 当前 Voken 价格为 **$ 0.001810 美元** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:70
 msgid "currentTopSalesRatio"
@@ -315,149 +315,149 @@ msgstr "剩余的待分配 ETH 奖励池。该数值应 `= weiPending - weiPendi
 
 #: ../../guide/read_voken_sale_contract.rst:172
 msgid "Status of a specific stage - ``3. stageStatus``"
-msgstr ""
+msgstr "特定阶段的状态 - ``3. stageStatus``"
 
 #: ../../guide/read_voken_sale_contract.rst:179
 msgid ""
 "Enter a specific stage number, and press `Query`, you will get a response:"
-msgstr ""
+msgstr "输入一个特定阶段的序号，并点击 `Query` ，您就可以查询到相应的数据："
 
 #: ../../guide/read_voken_sale_contract.rst:187
 msgid "For example, `Stage #81`:"
-msgstr ""
+msgstr "例如， `第 #81 阶段` ："
 
 #: ../../guide/read_voken_sale_contract.rst:202
 msgid "Voken price of the stage, in USD, with 6 decimals."
-msgstr ""
+msgstr "该阶段的 Voken 价格，以美元计价，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:204
 msgid "``1810`` is **$ 0.001810 USD**."
-msgstr ""
+msgstr "``1810`` 代表： **$ 0.001810 美元** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:209
 msgid "vokenCap"
-msgstr ""
+msgstr "vokenCap"
 
 #: ../../guide/read_voken_sale_contract.rst:207
 msgid "Voken amount cap of the stage, with 6 decimals."
-msgstr ""
+msgstr "该阶段的 Voken 上限，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:209
 msgid "``100000000000`` is **100,000.000000 Vokens**."
-msgstr ""
+msgstr "``100000000000`` 代表： **100,000.000000 Vokens** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:214
 msgid "vokenOnSale"
-msgstr ""
+msgstr "vokenOnSale"
 
 #: ../../guide/read_voken_sale_contract.rst:212
 msgid "Voken on-sale of the stage, with 6 decimals."
-msgstr ""
+msgstr "该阶段中在售的 Voken 数量，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:214
 msgid "``6077348067`` is **6,077.348067 Vokens**."
-msgstr ""
+msgstr "``6077348067`` 代表： **6,077.348067 Vokens** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:219
 msgid "vokenSold"
-msgstr ""
+msgstr "vokenSold"
 
 #: ../../guide/read_voken_sale_contract.rst:217
 msgid "Voken sold of the stage, with 6 decimals."
-msgstr ""
+msgstr "该阶段已售出的 Voken 数量，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:219
 msgid "``93922651933`` is **93,922.651933 Vokens**."
-msgstr ""
+msgstr "``93922651933`` 代表： **93,922.651933 Vokens** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:224
 msgid "usdCap"
-msgstr ""
+msgstr "usdCap"
 
 #: ../../guide/read_voken_sale_contract.rst:222
 msgid "USD amount cap of the stage, with 6 decimals."
-msgstr ""
+msgstr "该阶段美元限售总量，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:224
 msgid "``181000000`` is **$ 181.000000 USD**."
-msgstr ""
+msgstr "``181000000`` 代表： **$ 181.000000 美元** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:229
 msgid "usdOnSale"
-msgstr ""
+msgstr "usdOnSale"
 
 #: ../../guide/read_voken_sale_contract.rst:227
 msgid "USD on-sale of the stage, with 6 decimals."
-msgstr ""
+msgstr "预计在售的美元收入，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:229
 msgid "``11000000`` is **$ 11.000000 USD**."
-msgstr ""
+msgstr "``11000000`` 代表： **$ 11.000000 美元** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:234
 msgid "usdSold"
-msgstr ""
+msgstr "usdSold"
 
 #: ../../guide/read_voken_sale_contract.rst:232
 msgid "USD sold of the stage, with 6 decimals."
-msgstr ""
+msgstr "该阶段已收入的美元， 后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:234
 msgid "``170000000`` is **$ 170.000000 USD**."
-msgstr ""
+msgstr "``170000000`` 代表： **$ 170.000000 美元** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:241
 msgid "weiTopSalesRatio"
-msgstr ""
+msgstr "weiTopSalesRatio"
 
 #: ../../guide/read_voken_sale_contract.rst:237
 msgid "Top-Sales rewards ratio of the stage, with 8 decimals."
-msgstr ""
+msgstr "该阶段排位赛奖励的比例，后 8 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:239
 msgid "``15067500`` is **0.15067500**, means **15.067500%**."
-msgstr ""
+msgstr "``15067500`` 代表： **0.15067500** ，即 **15.067500%** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:244
 msgid "Top-Sales rewards of a specific season - ``11. seasonTopSalesRewards``"
-msgstr ""
+msgstr "特定赛季的排位赛奖励查询 - ``11. seasonTopSalesRewards``"
 
 #: ../../guide/read_voken_sale_contract.rst:251
 msgid ""
 "Enter a specific season number, and press `Query`, you will get a response:"
-msgstr ""
+msgstr "输入特定赛季的序号，并点击 `Query` ，您就可以查询到相应的数据："
 
 #: ../../guide/read_voken_sale_contract.rst:259
 msgid "For example, `Season #1`:"
-msgstr ""
+msgstr "例如， `第 #1 赛季` ："
 
 #: ../../guide/read_voken_sale_contract.rst:274
 msgid "Amount of the sales revenue, in the season."
-msgstr ""
+msgstr "本赛季销售收入的总数。"
 
 #: ../../guide/read_voken_sale_contract.rst:276
 msgid "``67705882352941176432`` is **67.705882352941176432 ETH**."
-msgstr ""
+msgstr "``67705882352941176432`` 代表： **67.705882352941176432 ETH** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:279
 msgid "Top-Sales Reward already counted, in the season."
-msgstr ""
+msgstr "本赛季已累积的排位赛奖励金。"
 
 #: ../../guide/read_voken_sale_contract.rst:286
 msgid "weiTopSalesTransfered"
-msgstr ""
+msgstr "weiTopSalesTransfered"
 
 #: ../../guide/read_voken_sale_contract.rst:284
 msgid "Top-Sales Reward already transferred, in the season."
-msgstr ""
+msgstr "本赛季已经成功发放的排位赛奖励金。"
 
 #: ../../guide/read_voken_sale_contract.rst:293
 msgid "weiTopSalesRemain"
-msgstr ""
+msgstr "weiTopSalesRemain"
 
 #: ../../guide/read_voken_sale_contract.rst:289
 msgid "Top-Sales Reward remain, in the season."
-msgstr ""
+msgstr "本赛季剩余的排位赛奖励金。"
 
 #: ../../guide/read_voken_sale_contract.rst:296
 msgid "Query data which may relate to you"
@@ -465,68 +465,68 @@ msgstr "查询可能与您相关的数据"
 
 #: ../../guide/read_voken_sale_contract.rst:300
 msgid "Query an account ``13. accountQuery``"
-msgstr ""
+msgstr "账户查询 ``13. accountQuery``"
 
 #: ../../guide/read_voken_sale_contract.rst:307
 msgid ""
 "Enter a specific ETH wallet address, and press `Query`, you will get a "
 "response:"
-msgstr ""
+msgstr "输入一个特定的以太坊钱包地址，并点击 `Query` ，您就可以查询到相应的数据："
 
 #: ../../guide/read_voken_sale_contract.rst:315
 msgid ""
 "For example, query an address of `0x02eEe50...` in the entire "
 ":ref:`voken_sale`:"
-msgstr ""
+msgstr "例如，查询在整个 :ref:`voken_sale` 中地址为 `0x02eEe50...` 的账户数据："
 
 #: ../../guide/read_voken_sale_contract.rst:327
 msgid "Voken issued amount, with 6 decimals."
-msgstr ""
+msgstr "Voken 兑换总量，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:329
 msgid "``913930751207`` is **913,930.751207 Vokens**."
-msgstr ""
+msgstr "``913930751207`` 代表： **913,930.751207 Vokens** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:332
 msgid "Voken bonus amount, with 6 decimals."
-msgstr ""
+msgstr "Voken 额外奖励总数，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:334
 msgid "``91393075120`` is **91,393.075120 Vokens**."
-msgstr ""
+msgstr "``91393075120`` 代表： **91,393.075120 Vokens** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:339
 msgid "vokenWhitelisted"
-msgstr ""
+msgstr "vokenWhitelisted"
 
 #: ../../guide/read_voken_sale_contract.rst:337
 msgid "Voken whitelist amount, with 6 decimals."
-msgstr ""
+msgstr "Voken 白名单奖励总数，后 6 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:339
 msgid "``1005323826327`` is **1,005,323.826327 Vokens**."
-msgstr ""
+msgstr "``1005323826327`` 代表： **1,005,323.826327 Vokens** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:344
 msgid "weiPurchased"
-msgstr ""
+msgstr "weiPurchased"
 
 #: ../../guide/read_voken_sale_contract.rst:342
 msgid "Amount of ETH purchased, with 18 decimals."
-msgstr ""
+msgstr "兑换所使用的 ETH 总数，后 18 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:344
 msgid "``10000000000000000000`` is **10 ETH**."
-msgstr ""
+msgstr "``10000000000000000000`` 代表： **10 ETH** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:347
 msgid "Amount of **Referral-Reward** received, with 18 decimals."
-msgstr ""
+msgstr "收到的推荐奖励总数，后 18 位为小数位。"
 
 #: ../../guide/read_voken_sale_contract.rst:349
 msgid "``21296117647058823526`` is **21.296117647058823526 ETH**."
-msgstr ""
+msgstr "``21296117647058823526`` 代表： **21.296117647058823526 ETH** 。"
 
 #: ../../guide/read_voken_sale_contract.rst:355
 msgid "TBC."
-msgstr ""
+msgstr "未完待续。"

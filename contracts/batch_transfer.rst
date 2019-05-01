@@ -3,26 +3,34 @@
 Batch transfer ETH and Voken Contract
 =====================================
 
-Contract address is **0xf5ed657f9441672788A4935F279956745edf461B**
-
-Deployed at `Tx Hash 0xf9a9...edce`_, block height ``7657144``.
-
 Batch transfer for ETH and :ref:`voken`.
 
-.. _Tx Hash 0xf9a9...edce: https://etherscan.io/tx/0xf9a90d1bf6b2b1932c56a72c43d79f91457cb3880fca6892dde9b4d15ab2edce
+|logo_etherscan_verified| |logo_github| |logo_verified|
 
+- Contract address is **0xf5ed657f9441672788A4935F279956745edf461B**
+- Deployed at `Tx Hash 0xf9a90d1bf6b2b1932c56a72c43d79f91...`_
+- Block height `7657144`_
+- Open-sourced under the `GNU General Public License v3.0`_
+- `View contract code on github repository`_
+- `View contract on Etherscan.io`_
 
-.. image:: /_static/contract/contract_code_verified.png
-   :width: 35 %
-   :alt: contract_code_verified.png
-   :target: https://etherscan.io/address/0xf5ed657f9441672788a4935f279956745edf461b#writeContract
-
-It is open-sourced under the `GNU General Public License v3.0`_
-and can be viewed on the `github repository`_ and `etherscan.io`_.
-
+.. _Tx Hash 0xf9a90d1bf6b2b1932c56a72c43d79f91...: https://etherscan.io/tx/0xf9a90d1bf6b2b1932c56a72c43d79f91457cb3880fca6892dde9b4d15ab2edce
+.. _7657144: https://etherscan.io/tx/0xf9a90d1bf6b2b1932c56a72c43d79f91457cb3880fca6892dde9b4d15ab2edce
 .. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
-.. _github repository: https://github.com/VisionNetworkProject/contracts/blob/master/BatchTransferEtherAndVoken.sol
-.. _etherscan.io: https://etherscan.io/address/0xf5ed657f9441672788a4935f279956745edf461b#writeContract
+.. _View contract code on github repository: https://github.com/VisionNetworkProject/contracts/blob/master/BatchTransferEtherAndVoken.sol
+.. _View contract on Etherscan.io: https://etherscan.io/address/0xf5ed657f9441672788a4935f279956745edf461b#writeContract
+
+.. |logo_github| image:: /_static/logos/github.svg
+   :width: 36px
+   :height: 36px
+
+.. |logo_etherscan_verified| image:: /_static/logos/etherscan_verified.svg
+   :width: 36px
+   :height: 36px
+
+.. |logo_verified| image:: /_static/logos/verified.svg
+   :width: 36px
+   :height: 36px
 
 
 Related links:

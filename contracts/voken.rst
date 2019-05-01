@@ -5,28 +5,46 @@ Voken Main Contract
 
 This is the **MAIN CONTRACT** of :ref:`voken`.
 
-Contract address is
-**0x82070415FEe803f94Ce5617Be1878503e58F0a6a**
+|logo_etherscan_verified| |logo_github| |logo_verified|
 
-Deployed at `Tx Hash 0x9f17...8dc9`_, block height ``7635415``.
+- Contract address is **0x82070415FEe803f94Ce5617Be1878503e58F0a6a**
+- Deployed at `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_
+- Block height `7635415`_
+- Open-sourced under the `GNU General Public License v3.0`_
+- `View contract code on github repository`_
 
+View on Etherscan.io:
 
-.. image:: /_static/contract/contract_code_verified.png
-   :width: 35 %
-   :alt: contract_code_verified.png
-   :target: https://etherscan.io/address/0x82070415fee803f94ce5617be1878503e58f0a6a#readContract
+- `Voken Tracker`_
+- `Read contract on Etherscan.io`_
+- `Write contract on Etherscan.io`_
 
-Open-sourced under the `GNU General Public License v3.0`_
-and can be viewed on the `github repository`_ and `etherscan.io`_.
-
-.. _Tx Hash 0x9f17...8dc9: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
-.. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
-.. _github repository: https://github.com/VisionNetworkProject/contracts/blob/master/Voken.sol
-.. _etherscan.io: https://etherscan.io/address/0x82070415fee803f94ce5617be1878503e58f0a6a#readContract
-
-Related news:
+Related links:
 
 - :ref:`voken_contract_upgraded`
+
+
+.. _Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
+.. _7635415: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
+.. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/VisionNetworkProject/contracts/blob/master/Voken.sol
+.. _Voken Tracker: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a
+.. _Read contract on Etherscan.io: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#readContract
+.. _Write contract on Etherscan.io: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a#writeContract
+
+
+.. |logo_github| image:: /_static/logos/github.svg
+   :width: 36px
+   :height: 36px
+
+.. |logo_etherscan_verified| image:: /_static/logos/etherscan_verified.svg
+   :width: 36px
+   :height: 36px
+
+.. |logo_verified| image:: /_static/logos/verified.svg
+   :width: 36px
+   :height: 36px
+
 
 
 Understand Voken Contract

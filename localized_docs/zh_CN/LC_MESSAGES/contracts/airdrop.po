@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-16 07:40+0800\n"
+"POT-Creation-Date: 2019-05-01 22:40+0800\n"
 "PO-Revision-Date: 2019-01-17 05:19+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -29,10 +29,30 @@ msgstr "Voken 空投合约"
 msgid "Hold :ref:`voken` for :ref:`airdrop_via_contract`."
 msgstr "为 :ref:`airdrop_via_contract` 持有 :ref:`voken` 。"
 
-#: ../../contracts/airdrop.rst:8
-msgid ""
-"Contract address is ``0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA``, deployed"
-" at `Tx Hash 0x6a10...e1a0`_, block height ``7575490``."
-msgstr ""
-"合约地址 ``0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA`` ，部署于 `Tx Hash "
-"0x6a10...e1a0`_ ，区块高度 ``7575490`` 。"
+#: ../../contracts/airdrop.rst:9
+msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
+msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
+
+#: ../../contracts/airdrop.rst:11
+msgid "Contract address is **0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA**"
+msgstr "合约地址 **0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA**"
+
+#: ../../contracts/airdrop.rst:12
+msgid "Deployed at `Tx Hash 0x6a10e3d183738d7f3e2da09aec8f649d...`_"
+msgstr "部署于 `Tx Hash 0x6a10e3d183738d7f3e2da09aec8f649d...`_"
+
+#: ../../contracts/airdrop.rst:13
+msgid "Block height `7575490`_"
+msgstr "区块高度 `7575490`_"
+
+#: ../../contracts/airdrop.rst:14
+msgid "Open-sourced under the `GNU General Public License v3.0`_"
+msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
+
+#: ../../contracts/airdrop.rst:15
+msgid "`View contract code on github repository`_"
+msgstr "`查看合约代码在 github 仓库`_"
+
+#: ../../contracts/airdrop.rst:16
+msgid "`View contract on Etherscan.io`_"
+msgstr "`通过 Etherscan.io 查看合约`_"

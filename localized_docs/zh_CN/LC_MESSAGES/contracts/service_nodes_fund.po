@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-16 18:46+0800\n"
+"POT-Creation-Date: 2019-05-01 22:40+0800\n"
 "PO-Revision-Date: 2019-04-16 01:41+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -26,17 +26,37 @@ msgid "Service Nodes Fund Contract"
 msgstr "服务节点激励持币合约"
 
 #: ../../contracts/service_nodes_fund.rst:6
-msgid ""
-"Contract address is ``0xe942e288B625Db74C6505846ac8573Acd1577DF5``, deployed"
-" at `Tx Hash 0xeb13...03bd`_, block height ``7576008``."
-msgstr ""
-"合约地址 ``0xe942e288B625Db74C6505846ac8573Acd1577DF5`` ，部署于 `Tx Hash "
-"0xeb13...03bd`_ ，区块高度 ``7576008`` 。"
-
-#: ../../contracts/service_nodes_fund.rst:13
 msgid "Hold :ref:`voken` for Service Nodes, would be used for:"
 msgstr "为服务节点持有 :ref:`voken` ，将备用于："
 
-#: ../../contracts/service_nodes_fund.rst:15
+#: ../../contracts/service_nodes_fund.rst:8
 msgid "Service nodes' incentive"
 msgstr "服务节点激励"
+
+#: ../../contracts/service_nodes_fund.rst:10
+msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
+msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
+
+#: ../../contracts/service_nodes_fund.rst:12
+msgid "Contract address is **0xe942e288B625Db74C6505846ac8573Acd1577DF5**"
+msgstr "合约地址 **0xe942e288B625Db74C6505846ac8573Acd1577DF5**"
+
+#: ../../contracts/service_nodes_fund.rst:13
+msgid "Deployed at `Tx Hash 0xeb13dde2e87fc2ace8980cf90b396c51...`_"
+msgstr "部署于 `Tx Hash 0xeb13dde2e87fc2ace8980cf90b396c51...`_"
+
+#: ../../contracts/service_nodes_fund.rst:14
+msgid "Block height `7576008`_"
+msgstr "区块高度 `7576008`_"
+
+#: ../../contracts/service_nodes_fund.rst:15
+msgid "Open-sourced under the `GNU General Public License v3.0`_"
+msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
+
+#: ../../contracts/service_nodes_fund.rst:16
+msgid "`View contract code on github repository`_"
+msgstr "`查看合约代码在 github 仓库`_"
+
+#: ../../contracts/service_nodes_fund.rst:17
+msgid "`View contract on Etherscan.io`_"
+msgstr "`通过 Etherscan.io 查看合约`_"

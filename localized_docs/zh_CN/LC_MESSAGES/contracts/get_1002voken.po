@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-01 22:40+0800\n"
+"PO-Revision-Date: 2019-05-01 14:42+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contracts/get_1002voken.rst:4
+msgid "Get 1,002.0 Vokens Contract"
+msgstr "获取 1,002.0 Vokens 的合约"
+
+#: ../../contracts/get_1002voken.rst:6
+msgid ""
+"Release 1,002.0 Vokens to a new account, limited. It is convenient to use "
+"ETH for a small amount of Voken to register whitelist."
+msgstr "限量释放 1,002.0 Vokens 到一个新地址。方便使用 ETH 换取少量 Voken 用于白名单注册。"
+
+#: ../../contracts/get_1002voken.rst:9
+msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
+msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
+
+#: ../../contracts/get_1002voken.rst:11
+msgid "Contract address is **0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe**"
+msgstr "合约地址 **0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe**"
+
+#: ../../contracts/get_1002voken.rst:12
+msgid "Deployed at `Tx Hash 0xd47c89a18e481b11a42e6f57cba08bbd...`_"
+msgstr "部署于 `Tx Hash 0xd47c89a18e481b11a42e6f57cba08bbd...`_"
+
+#: ../../contracts/get_1002voken.rst:13
+msgid "Block height `7674815`_"
+msgstr "区块高度 `7674815`_"
+
+#: ../../contracts/get_1002voken.rst:14
+msgid "Open-sourced under the `GNU General Public License v3.0`_"
+msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
+
+#: ../../contracts/get_1002voken.rst:15
+msgid "`View contract code on github repository`_"
+msgstr "`查看合约代码在 github 仓库`_"
+
+#: ../../contracts/get_1002voken.rst:16
+msgid "`View contract on Etherscan.io`_"
+msgstr "`通过 Etherscan.io 查看合约`_"
+
+#: ../../contracts/get_1002voken.rst:38
+msgid "Conditions"
+msgstr "条件："
+
+#: ../../contracts/get_1002voken.rst:40
+msgid ""
+"The account that sent the transaction must be a new address of Voken (Voken "
+"balance is 0 and cannot be in the whitelist)."
+msgstr "发送交易的账户必须是 Voken 的新地址（ Voken 余额为 0 ，且不在白名单中）。"
+
+#: ../../contracts/get_1002voken.rst:42
+msgid ""
+"Asset verification: Transaction amount must be greater than 1 ETH, all "
+"unused ETH value will be refund in the same transaction."
+msgstr "资产验证：交易的数量必须大于 1 ETH，仅用于验证，同笔交易会自动退回所有未使用的 ETH 。"
+
+#: ../../contracts/get_1002voken.rst:44
+msgid ""
+"Transactions that do not meet the conditions will be automatically reverted "
+"by the contract."
+msgstr "所有不合条件的交易都将被合约自动拒绝。"
+
+#: ../../contracts/get_1002voken.rst:48
+msgid "Usage"
+msgstr "使用"
+
+#: ../../contracts/get_1002voken.rst:50
+msgid ""
+"Send **> 1 ETH** to the address of this contract, you will receive **1,002.0"
+" Vokens** and all the unused ETH will be refunded automatically. It is "
+"executed at the Voken real-time price of :ref:`voken_sale`."
+msgstr ""
+"发送 **> 1 ETH** 到这个合约的地址上，您将会自动收到 **1,002.0 Vokens** 和所有未使用的 ETH 的退款。合约会按 "
+":ref:`voken_sale` 的 Voken 实时价格自动执行。"

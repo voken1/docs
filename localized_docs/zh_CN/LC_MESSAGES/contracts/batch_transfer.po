@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-29 05:48+0800\n"
+"POT-Creation-Date: 2019-05-01 22:40+0800\n"
 "PO-Revision-Date: 2019-04-28 03:15+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -26,28 +26,41 @@ msgid "Batch transfer ETH and Voken Contract"
 msgstr "批量转账 ETH 和 Voken 合约"
 
 #: ../../contracts/batch_transfer.rst:6
-msgid "Contract address is **0xf5ed657f9441672788A4935F279956745edf461B**"
-msgstr "合约地址 **0xf5ed657f9441672788A4935F279956745edf461B**"
-
-#: ../../contracts/batch_transfer.rst:8
-msgid "Deployed at `Tx Hash 0xf9a9...edce`_, block height ``7657144``."
-msgstr "部署于 `Tx Hash 0xf9a9...edce`_ ，区块高度 ``7657144`` 。"
-
-#: ../../contracts/batch_transfer.rst:10
 msgid "Batch transfer for ETH and :ref:`voken`."
 msgstr "用于 ETH 和 :ref:`voken` 的批量转账。"
 
-#: ../../contracts/batch_transfer.rst:20
-msgid ""
-"It is open-sourced under the `GNU General Public License v3.0`_ and can be "
-"viewed on the `github repository`_ and `etherscan.io`_."
-msgstr ""
-"智能合约已经在 `GNU 通用公共许可证 v3.0`_ 协议下开源，可以通过 `github 代码仓库`_ 和 `etherscan.io`_ 查看。"
+#: ../../contracts/batch_transfer.rst:8
+msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
+msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
 
-#: ../../contracts/batch_transfer.rst:28
+#: ../../contracts/batch_transfer.rst:10
+msgid "Contract address is **0xf5ed657f9441672788A4935F279956745edf461B**"
+msgstr "合约地址 **0xf5ed657f9441672788A4935F279956745edf461B**"
+
+#: ../../contracts/batch_transfer.rst:11
+msgid "Deployed at `Tx Hash 0xf9a90d1bf6b2b1932c56a72c43d79f91...`_"
+msgstr "部署于 `Tx Hash 0xf9a90d1bf6b2b1932c56a72c43d79f91...`_"
+
+#: ../../contracts/batch_transfer.rst:12
+msgid "Block height `7657144`_"
+msgstr "区块高度 `7657144`_"
+
+#: ../../contracts/batch_transfer.rst:13
+msgid "Open-sourced under the `GNU General Public License v3.0`_"
+msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
+
+#: ../../contracts/batch_transfer.rst:14
+msgid "`View contract code on github repository`_"
+msgstr "`查看合约代码在 github 仓库`_"
+
+#: ../../contracts/batch_transfer.rst:15
+msgid "`View contract on Etherscan.io`_"
+msgstr "`通过 Etherscan.io 查看合约`_"
+
+#: ../../contracts/batch_transfer.rst:36
 msgid "Related links:"
 msgstr "相关链接"
 
-#: ../../contracts/batch_transfer.rst:30
+#: ../../contracts/batch_transfer.rst:38
 msgid ":ref:`guide_for_batch_transfer`"
 msgstr ":ref:`guide_for_batch_transfer`"

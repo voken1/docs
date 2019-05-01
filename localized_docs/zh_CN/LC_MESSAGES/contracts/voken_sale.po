@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-26 16:31+0800\n"
+"POT-Creation-Date: 2019-05-01 22:40+0800\n"
 "PO-Revision-Date: 2019-04-11 14:15+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -26,32 +26,37 @@ msgid "Voken Public-Sale Contract"
 msgstr "Voken 公开销售合约"
 
 #: ../../contracts/voken_sale.rst:6
-msgid "Contract address is: **0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**"
+msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
+msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
+
+#: ../../contracts/voken_sale.rst:8
+msgid "Contract address is **0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**"
 msgstr "合约地址 **0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**"
 
 #: ../../contracts/voken_sale.rst:9
-msgid ""
-"Deployed at `Tx Hash 0x9f17...8dc9`_, block height ``7635415``, it hold and "
-"release :ref:`voken` for :ref:`voken_sale`."
-msgstr ""
-"部署于 `Tx Hash 0x9f17...8dc9`_ ，区块高度 ``7635415`` ，合约为 :ref:`voken_sale` 持有并释放 "
-":ref:`voken` 。"
+msgid "Deployed at `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_"
+msgstr "部署于 `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_"
 
-#: ../../contracts/voken_sale.rst:20
-msgid ""
-"It is open-sourced under the `GNU General Public License v3.0`_ and can be "
-"viewed on the `github repository`_ and `etherscan.io`_."
-msgstr ""
-"智能合约已经在 `GNU 通用公共许可证 v3.0`_ 协议下开源，可以通过 `github 代码仓库`_ 和 `etherscan.io`_ 查看。"
+#: ../../contracts/voken_sale.rst:10
+msgid "Block height `7635415`_"
+msgstr "区块高度 `7635415`_"
 
-#: ../../contracts/voken_sale.rst:29
+#: ../../contracts/voken_sale.rst:11
+msgid "Open-sourced under the `GNU General Public License v3.0`_"
+msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
+
+#: ../../contracts/voken_sale.rst:12
+msgid "`View contract code on github repository`_"
+msgstr "`查看合约代码在 github 仓库`_"
+
+#: ../../contracts/voken_sale.rst:13
+msgid "`View contract on Etherscan.io`_"
+msgstr "`通过 Etherscan.io 查看合约`_"
+
+#: ../../contracts/voken_sale.rst:36
 msgid "Read the status and query data"
 msgstr "查看状态和查询数据"
 
-#: ../../contracts/voken_sale.rst:31
+#: ../../contracts/voken_sale.rst:38
 msgid "Visit here: :ref:`guide_for_read_voken_sale_contract`"
 msgstr "访问这里： :ref:`guide_for_read_voken_sale_contract`"
-
-#: ../../contracts/voken_sale.rst:44
-msgid "TBC."
-msgstr "待续"

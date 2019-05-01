@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-18 10:10+0800\n"
+"POT-Creation-Date: 2019-05-01 22:40+0800\n"
 "PO-Revision-Date: 2019-04-12 17:19+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -26,29 +26,49 @@ msgid "Early Investors Fund Contract"
 msgstr "早期投资人持币合约"
 
 #: ../../contracts/early_investors_fund.rst:6
-msgid ""
-"Contract address is ``0x68D898460939566F8a8Bd2fC64898749c30dBEF1``, deployed"
-" at `Tx Hash 0x618e....4992`_, block height ``7588918``."
-msgstr ""
-"合约地址 ``0x68D898460939566F8a8Bd2fC64898749c30dBEF1`` ，部署于 `Tx Hash "
-"0x618e....4992`_ ，区块高度 ``7588918`` 。"
-
-#: ../../contracts/early_investors_fund.rst:13
 msgid "Hold :ref:`voken` for the early-investors:"
 msgstr "为早期投资人持有 :ref:`voken` ："
 
-#: ../../contracts/early_investors_fund.rst:15
+#: ../../contracts/early_investors_fund.rst:8
 msgid "Freezed until ``2020.06.30 23:59:59 UTC``"
 msgstr "冻结至 ``2020.06.30 23:59:59UTC 标准时间``"
 
-#: ../../contracts/early_investors_fund.rst:19
+#: ../../contracts/early_investors_fund.rst:10
+msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
+msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
+
+#: ../../contracts/early_investors_fund.rst:12
+msgid "Contract address is **0x68D898460939566F8a8Bd2fC64898749c30dBEF1**"
+msgstr "合约地址 **0x68D898460939566F8a8Bd2fC64898749c30dBEF1**"
+
+#: ../../contracts/early_investors_fund.rst:13
+msgid "Deployed at `Tx Hash 0x618eac0497f795a1e04771c1e9ff4980...`_"
+msgstr "部署于 `Tx Hash 0x618eac0497f795a1e04771c1e9ff4980...`_"
+
+#: ../../contracts/early_investors_fund.rst:14
+msgid "Block height `7588918`_"
+msgstr "区块高度 `7588918`_"
+
+#: ../../contracts/early_investors_fund.rst:15
+msgid "Open-sourced under the `GNU General Public License v3.0`_"
+msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
+
+#: ../../contracts/early_investors_fund.rst:16
+msgid "`View contract code on github repository`_"
+msgstr "`查看合约代码在 github 仓库`_"
+
+#: ../../contracts/early_investors_fund.rst:17
+msgid "`View contract on Etherscan.io`_"
+msgstr "`通过 Etherscan.io 查看合约`_"
+
+#: ../../contracts/early_investors_fund.rst:39
 msgid "How to withdraw?"
 msgstr "如何取出？"
 
-#: ../../contracts/early_investors_fund.rst:21
+#: ../../contracts/early_investors_fund.rst:41
 msgid "After ``2020.06.30 23:59:59 UTC``."
 msgstr "在 ``2020.06.30 23:59:59 UTC 标准时间`` 之后。"
 
-#: ../../contracts/early_investors_fund.rst:22
+#: ../../contracts/early_investors_fund.rst:42
 msgid "Use investor's ETH wallet, send 0 ETH to contract address."
 msgstr "使用投资人的 ETH 钱包向合约地址转账 0 ETH 即可。"

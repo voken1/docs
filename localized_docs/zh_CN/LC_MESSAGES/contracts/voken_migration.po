@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-18 10:10+0800\n"
+"POT-Creation-Date: 2019-05-01 22:40+0800\n"
 "PO-Revision-Date: 2019-04-15 00:54+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -27,59 +27,59 @@ msgstr "Voken 迁移合约"
 
 #: ../../contracts/voken_migration.rst:6
 msgid ""
-"Contract address is ``0x667a09148b211D8CeabC1c31C03653C2E1A2634f``, deployed"
-" at `Tx Hash 0xdaf7...e47f`_, block height ``7569237``."
-msgstr ""
-"合约地址 ``0x667a09148b211D8CeabC1c31C03653C2E1A2634f`` ，部署于 `Tx Hash "
-"0xdaf7...e47f`_ ，区块高度 ``7569237`` 。"
-
-#: ../../contracts/voken_migration.rst:12
-msgid ""
 "For ``VNET`` contract ``0x3F1...2F5`` historical balance data migrations, "
 "snapshot at ``2019-04-15 00:00:00 UTC``."
 msgstr ""
 "用于 ``VNET`` 旧合约 ``0x3F1...2F5`` 的历史账户数据迁移，快照于 ``2019-04-15 00:00:00 标准时间`` 。"
 
+#: ../../contracts/voken_migration.rst:9
+msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
+msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
+
+#: ../../contracts/voken_migration.rst:11
+msgid "Contract address is **0x667a09148b211D8CeabC1c31C03653C2E1A2634f**"
+msgstr "合约地址 **0x667a09148b211D8CeabC1c31C03653C2E1A2634f**"
+
+#: ../../contracts/voken_migration.rst:12
+msgid "Deployed at `Tx Hash 0xdaf79e473867052737ac4eeb145e85ed...`_"
+msgstr "部署于 `Tx Hash 0xdaf79e473867052737ac4eeb145e85ed...`_"
+
+#: ../../contracts/voken_migration.rst:13
+msgid "Block height `7569237`_"
+msgstr "区块高度 `7569237`_"
+
+#: ../../contracts/voken_migration.rst:14
+msgid "Open-sourced under the `GNU General Public License v3.0`_"
+msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
+
 #: ../../contracts/voken_migration.rst:15
-msgid "Transaction list:"
-msgstr "交易列表："
+msgid "`View contract code on github repository`_"
+msgstr "`查看合约代码在 github 仓库`_"
 
-#: ../../contracts/voken_migration.rst:17
-msgid ""
-"`Tx Hash "
-"0xfa08e3df56707476ec640c4979d2681b3dfff6be1cab9df2144fc7cdf31167fb`_"
-msgstr ""
-"`Tx Hash "
-"0xfa08e3df56707476ec640c4979d2681b3dfff6be1cab9df2144fc7cdf31167fb`_"
+#: ../../contracts/voken_migration.rst:16
+msgid "`View contract on Etherscan.io`_"
+msgstr "`通过 Etherscan.io 查看合约`_"
 
-#: ../../contracts/voken_migration.rst:18
-msgid ""
-"`Tx Hash "
-"0xc10630a4130f6ab4020f472feb3377171eabdd37cc6d0cfd25edc9c25d2674a0`_"
-msgstr ""
-"`Tx Hash "
-"0xc10630a4130f6ab4020f472feb3377171eabdd37cc6d0cfd25edc9c25d2674a0`_"
+#: ../../contracts/voken_migration.rst:38
+msgid "Transaction list"
+msgstr "交易列表"
 
-#: ../../contracts/voken_migration.rst:19
-msgid ""
-"`Tx Hash "
-"0x91aad1f5756bb834ed47d7506a76b4fd82ff2f4e7e2ad06773985f14b6ecac09`_"
-msgstr ""
-"`Tx Hash "
-"0x91aad1f5756bb834ed47d7506a76b4fd82ff2f4e7e2ad06773985f14b6ecac09`_"
+#: ../../contracts/voken_migration.rst:40
+msgid "`0xfa08e3df56707476ec640c4979d2681b3dfff6be1cab9df2144fc7cdf31167fb`_"
+msgstr "`0xfa08e3df56707476ec640c4979d2681b3dfff6be1cab9df2144fc7cdf31167fb`_"
 
-#: ../../contracts/voken_migration.rst:20
-msgid ""
-"`Tx Hash "
-"0x277d89554dae3ff72be673ae91819d4edcd7a1a30ff78a453a18bd4059ce5abd`_"
-msgstr ""
-"`Tx Hash "
-"0x277d89554dae3ff72be673ae91819d4edcd7a1a30ff78a453a18bd4059ce5abd`_"
+#: ../../contracts/voken_migration.rst:41
+msgid "`0xc10630a4130f6ab4020f472feb3377171eabdd37cc6d0cfd25edc9c25d2674a0`_"
+msgstr "`0xc10630a4130f6ab4020f472feb3377171eabdd37cc6d0cfd25edc9c25d2674a0`_"
 
-#: ../../contracts/voken_migration.rst:21
-msgid ""
-"`Tx Hash "
-"0x69de3a22dd7e40a50558cb32ec38c5d4eb937279f588ea71b223b7c5911ae679`_"
-msgstr ""
-"`Tx Hash "
-"0x69de3a22dd7e40a50558cb32ec38c5d4eb937279f588ea71b223b7c5911ae679`_"
+#: ../../contracts/voken_migration.rst:42
+msgid "`0x91aad1f5756bb834ed47d7506a76b4fd82ff2f4e7e2ad06773985f14b6ecac09`_"
+msgstr "`0x91aad1f5756bb834ed47d7506a76b4fd82ff2f4e7e2ad06773985f14b6ecac09`_"
+
+#: ../../contracts/voken_migration.rst:43
+msgid "`0x277d89554dae3ff72be673ae91819d4edcd7a1a30ff78a453a18bd4059ce5abd`_"
+msgstr "`0x277d89554dae3ff72be673ae91819d4edcd7a1a30ff78a453a18bd4059ce5abd`_"
+
+#: ../../contracts/voken_migration.rst:44
+msgid "`0x69de3a22dd7e40a50558cb32ec38c5d4eb937279f588ea71b223b7c5911ae679`_"
+msgstr "`0x69de3a22dd7e40a50558cb32ec38c5d4eb937279f588ea71b223b7c5911ae679`_"

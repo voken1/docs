@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-25 19:46+0800\n"
+"POT-Creation-Date: 2019-05-01 23:46+0800\n"
 "PO-Revision-Date: 2019-04-11 14:19+0000\n"
 "Last-Translator: VISION official <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -28,13 +28,6 @@ msgstr "Voken 主合约升级完毕"
 
 #: ../../news/voken_contract_upgraded.rst:6
 msgid ""
-"New :ref:`voken_contract` had been deployed at `Tx Hash 0x2bf6..06e0`_, "
-"block height ``7569219``."
-msgstr ""
-"新 :ref:`voken_contract` 部署于 `Tx Hash 0x2bf6..06e0`_ ，区块高度 ``7569219`` 。"
-
-#: ../../news/voken_contract_upgraded.rst:13
-msgid ""
 "The old ``VNET`` contract ``0x3F1...2F5`` was deprecated, snapshot at "
 "``2019-04-15 00:00:00 UTC``, the historical balance data was migrated by "
 ":ref:`voken_migration`."
@@ -42,11 +35,51 @@ msgstr ""
 "``VNET`` 旧合约 ``0x3F1...2F5`` 已经弃用，快照于 ``2019-04-15 00:00:00 UTC "
 "标准时间``，历史账户数据经  :ref:`voken_migration` 完成迁移。"
 
-#: ../../news/voken_contract_upgraded.rst:19
+#: ../../news/voken_contract_upgraded.rst:10
+msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
+msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
+
+#: ../../news/voken_contract_upgraded.rst:12
+msgid "Contract address is **0x82070415FEe803f94Ce5617Be1878503e58F0a6a**"
+msgstr "合约地址 **0x82070415FEe803f94Ce5617Be1878503e58F0a6a**"
+
+#: ../../news/voken_contract_upgraded.rst:13
+msgid "Deployed at `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_"
+msgstr "部署于 `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_"
+
+#: ../../news/voken_contract_upgraded.rst:14
+msgid "Block height `7635415`_"
+msgstr "区块高度 `7635415`_"
+
+#: ../../news/voken_contract_upgraded.rst:15
+msgid "Open-sourced under the `GNU General Public License v3.0`_"
+msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
+
+#: ../../news/voken_contract_upgraded.rst:16
+msgid "`View contract code on github repository`_"
+msgstr "`查看合约代码在 github 仓库`_"
+
+#: ../../news/voken_contract_upgraded.rst:18
+msgid "View on Etherscan.io:"
+msgstr "在 Etherscan.io 查看："
+
+#: ../../news/voken_contract_upgraded.rst:20
+msgid "`Voken Tracker`_"
+msgstr "`Voken 跟踪`_"
+
+#: ../../news/voken_contract_upgraded.rst:21
+msgid "`Read contract on Etherscan.io`_"
+msgstr "`通过 Etherscan.io 读取合约信息`_"
+
+#: ../../news/voken_contract_upgraded.rst:22
+msgid "`Write contract on Etherscan.io`_"
+msgstr "`通过 Etherscan.io 操作合约`_"
+
+#: ../../news/voken_contract_upgraded.rst:46
 msgid "The new token symbol named ``Voken``"
 msgstr "新的字母符号 ``Voken``"
 
-#: ../../news/voken_contract_upgraded.rst:21
+#: ../../news/voken_contract_upgraded.rst:48
 msgid ""
 "Displayed in various wallet software such as `MetaMask`_, `MyEtherWallet`_, "
 "`imToken`_, `etherscan.io`_ and Ethereum blockchain browsers."
@@ -54,21 +87,21 @@ msgstr ""
 "用于在各种钱包软件和以太坊区块链浏览器中显示，比如 `MetaMask`_, `MyEtherWallet`_, `imToken`_, "
 "`etherscan.io`_ 等。"
 
-#: ../../news/voken_contract_upgraded.rst:31
+#: ../../news/voken_contract_upgraded.rst:58
 msgid "Usage Value ANCHORING had not been changed"
 msgstr "使用价值锚定保持不变"
 
-#: ../../news/voken_contract_upgraded.rst:33
+#: ../../news/voken_contract_upgraded.rst:60
 msgid ""
 "``1 Voken`` corresponds to the use value of ``100G client traffic`` in the "
 "Vision.Network ecosystem."
 msgstr "在远景网络的生态体系中 ``1 Voken`` 与 ``100G 客户端流量`` 关联。"
 
-#: ../../news/voken_contract_upgraded.rst:38
+#: ../../news/voken_contract_upgraded.rst:65
 msgid "New contract was fully optimized"
 msgstr "新合约已经全面优化"
 
-#: ../../news/voken_contract_upgraded.rst:40
+#: ../../news/voken_contract_upgraded.rst:67
 msgid ""
 "Upgraded ``pragma`` from ``v0.4.23+commit.124ca40d`` to "
 "``v0.5.7+commit.6da8b019``, avoided at least 3 solidity compiler potential "
@@ -79,7 +112,7 @@ msgstr ""
 "，避免了至少 3 个潜在威胁 ABIEncoderV2PackedStorage [#ABI]_ ， ExpExponentCleanup "
 "[#EXP]_ ， EventStructWrongData [#EVENT]_ 。"
 
-#: ../../news/voken_contract_upgraded.rst:46
+#: ../../news/voken_contract_upgraded.rst:73
 msgid ""
 "Benefiting from the new features brought by the two upgrades of "
 "`Constantinople`_ and `Constantinople/St. Petersburg`_ on Ethereum, **the "
@@ -87,17 +120,17 @@ msgid ""
 msgstr ""
 "受益于以太坊主网的 `君士坦丁堡`_ 和 `君士坦丁堡/圣彼得堡`_ 这两次升级所带来的全新特性，**新合约的运行效率得到了极大的提升**。"
 
-#: ../../news/voken_contract_upgraded.rst:54
+#: ../../news/voken_contract_upgraded.rst:81
 msgid ""
 "The Ethereum **miner’s fee is greatly reduced** for Voken transfer, **up to "
 "30.19%**."
 msgstr "Voken 的转账以太坊 **矿工费大幅节省** ，**最高节省达 30.19%** 。"
 
-#: ../../news/voken_contract_upgraded.rst:59
+#: ../../news/voken_contract_upgraded.rst:86
 msgid "Ready for :ref:`voken_sale` whitelist registration"
 msgstr "支持 :ref:`voken_sale` 白名单注册"
 
-#: ../../news/voken_contract_upgraded.rst:61
+#: ../../news/voken_contract_upgraded.rst:88
 msgid ""
 "By sending 1,001 Vokens to a whitelisted address, your ETH wallet address "
 "will be **automatically registered**, and you can enjoy a **buy one and get "
@@ -109,19 +142,19 @@ msgstr ""
 ":ref:`voken_sale` 中享受 **买一送一特权** 。智能合约将会自动保存推荐关系链，并依据 "
 ":ref:`voken_referral_program` **实时结算奖励** 。"
 
-#: ../../news/voken_contract_upgraded.rst:69
+#: ../../news/voken_contract_upgraded.rst:96
 msgid ":ref:`guide_for_voken_sale_whitelist`"
 msgstr ":ref:`guide_for_voken_sale_whitelist`"
 
-#: ../../news/voken_contract_upgraded.rst:72
+#: ../../news/voken_contract_upgraded.rst:99
 msgid "Whitelist qualification transfer is supported"
 msgstr "白名单资格支持过户"
 
-#: ../../news/voken_contract_upgraded.rst:74
+#: ../../news/voken_contract_upgraded.rst:101
 msgid ":ref:`whitelist_transfer_whitelist_qualification`"
 msgstr ":ref:`whitelist_transfer_whitelist_qualification`"
 
-#: ../../news/voken_contract_upgraded.rst:76
+#: ../../news/voken_contract_upgraded.rst:103
 msgid ""
 "Without any application and approval process, just call the contract "
 "function ``transferWhitelist(address account)`` directly, the contract will "
@@ -130,7 +163,7 @@ msgstr ""
 "不需要经过任何申请和审批流程，直接调用合约功能 ``transferWhitelist(address account)`` "
 "即可完成，智能合约将会自动立即处理。"
 
-#: ../../news/voken_contract_upgraded.rst:83
+#: ../../news/voken_contract_upgraded.rst:110
 msgid ""
 "`ABIEncoderV2PackedStorage (low-severity)`_ Fixed in Version: 0.5.7 of "
 "Solidity Compiler"
@@ -138,7 +171,7 @@ msgstr ""
 "`ABIEncoderV2PackedStorage (low-severity)`_ Fixed in Version: 0.5.7 of "
 "Solidity Compiler"
 
-#: ../../news/voken_contract_upgraded.rst:84
+#: ../../news/voken_contract_upgraded.rst:111
 msgid ""
 "`ExpExponentCleanup (medium/high-severity)`_ Fixed in Version: 0.4.25 of "
 "Solidity Compiler"
@@ -146,7 +179,7 @@ msgstr ""
 "`ExpExponentCleanup (medium/high-severity)`_ Fixed in Version: 0.4.25 of "
 "Solidity Compiler"
 
-#: ../../news/voken_contract_upgraded.rst:85
+#: ../../news/voken_contract_upgraded.rst:112
 msgid ""
 "`EventStructWrongData (very low-severity)`_ Fixed in Version: 0.4.25 of "
 "Solidity Compiler"
