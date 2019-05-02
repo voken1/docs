@@ -78,7 +78,7 @@ msgstr "简要指导"
 msgid ""
 "Send **1 ETH** to contract address above, you will receive exactly **1,002.0"
 " Vokens** and all the unused ETH automatically."
-msgstr "发送 ETH 到上边的合约地址，您将会自动收到刚刚好 **1,002.0 Vokens** 和所有未使用的 ETH 。"
+msgstr "发送 **1 ETH** 到上边的合约地址，您将会自动收到刚刚好 **1,002.0 Vokens** 和所有未使用的 ETH 。"
 
 #: ../../contracts/get_1002voken.rst:58
 msgid ""
