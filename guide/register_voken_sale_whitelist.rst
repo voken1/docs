@@ -42,8 +42,11 @@ How can I check whether a wallet address is whitelisted or not and its referral 
 
 
 Where could I buy some Voken?
-   Ask your friend to send you some, or you can participate in :ref:`voken_sale`,
-   send ETH to get it.
+   There may be these ways:
+
+   - Ask your friend to send you some.
+   - Via :ref:`get_1002voken_contract`, get 1,002 Vokens.
+   - Participate in :ref:`voken_sale`, send ETH to buy.
 
 After my address was whitelisted, what will happen if I send 1001.0 Voken to my friend or others?
    Just like normal transfer,
@@ -55,13 +58,3 @@ Can I transfer my whitelist qualification to another?
    Without any application and approval process,
    just call the contract function ``transferWhitelist(address account)`` directly,
    the contract will processes automatically and immediately.
-
-
-------
-
-More FAQs? to be continued.
-
-
-.. FAQ about whitelist registration
-   Why 1001 Voken?
-      just use it.

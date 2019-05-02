@@ -4,7 +4,8 @@ Get 1,002.0 Vokens Contract
 ===========================
 
 Release 1,002.0 Vokens to a new account, limited.
-It is convenient to use ETH for a small amount of Voken to register whitelist.
+It is convenient to use a small amount of ETH for 1,002.0 Voken to register whitelist.
+Executed at the Voken real-time price of :ref:`voken_sale`.
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
@@ -34,19 +35,56 @@ It is convenient to use ETH for a small amount of Voken to register whitelist.
    :height: 36px
 
 
-Conditions
-----------
+.. _guide_for_getting_1002vokens:
 
-- The account that sent the transaction must be a new address of Voken
-  (Voken balance is 0 and cannot be in the whitelist).
-- Asset verification: Transaction amount must be greater than 1 ETH,
-  all unused ETH value will be refund in the same transaction.
-- Transactions that do not meet the conditions will be automatically reverted by the contract.
+How to get 1,002.0 Vokens by sending ETH?
+-----------------------------------------
+
+.. image:: /_static/contract/get_1002vokens.svg
+   :width: 35 %
+   :alt: get_1002vokens.svg
+
+**0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe**
 
 
-Usage
------
+Brief guide
+___________
 
-Send **> 1 ETH** to the address of this contract,
-you will receive **1,002.0 Vokens** and all the unused ETH will be refunded automatically.
-It is executed at the Voken real-time price of :ref:`voken_sale`.
+Send **1 ETH** to contract address above,
+you will receive exactly **1,002.0 Vokens** and all the unused ETH automatically.
+
+.. NOTE::
+
+   Set ``gas limit`` to ``300,000``, the rest will be returned automatically.
+
+
+To use this contract, you must meet these two conditions
+________________________________________________________
+
+- | **The address is new for Voken**
+  | (Voken balance is 0, and is not in the whitelist)
+- | **Asset verification**
+  | You will need to send the transaction in a total amount **greater than 1 ETH**,
+    (and all unused ETHs will be automatically refunded by the contract, in the very same transaction).
+
+Transactions that do not meet the conditions will be automatically reverted by the contract.
+
+
+For example
+___________
+
+If the :ref:`voken_sale` has not been started:
+
+- The voken price is **$0.001** (price of stage #0)
+- If the `Audit ETH Price is $170.00`,
+  which means **you can use 1 ETH as $170 USD**.
+
+You can send any amount which is greater than **1 ETH** to the address of this contract above,
+for example **1 ETH**,
+you will receive exactly **1,002.0 Vokens**
+and all the unused **0.994105882352941177 ETH** automatically.
+
+   (For 1,002.0 Vokens, it costs `$0.001 x 1002 =` **$1.002 USD**,
+   there is `1 ETH` for `$170 USD` and only `$1.002 USD` will be used,
+   that is **0.005894117647058823 ETH**,
+   so you will get **1,002.0 Vokens** and **0.994105882352941177 ETH** back).
