@@ -5,16 +5,16 @@
 # 
 # Translators:
 # Jill Henry <vnjillhenry@gmail.com>, 2019
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-01 23:46+0800\n"
+"POT-Creation-Date: 2019-05-03 17:40+0800\n"
 "PO-Revision-Date: 2019-04-11 14:19+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -103,34 +103,23 @@ msgstr "新合约已经全面优化"
 
 #: ../../news/voken_contract_upgraded.rst:67
 msgid ""
-"Upgraded ``pragma`` from ``v0.4.23+commit.124ca40d`` to "
-"``v0.5.7+commit.6da8b019``, avoided at least 3 solidity compiler potential "
-"threats to ABIEncoderV2PackedStorage [#ABI]_, ExpExponentCleanup [#EXP]_, "
-"EventStructWrongData [#EVENT]_."
-msgstr ""
-"``pragma`` 由 ``v0.4.23+commit.124ca40d`` 升级到 ``v0.5.7+commit.6da8b019`` "
-"，避免了至少 3 个潜在威胁 ABIEncoderV2PackedStorage [#ABI]_ ， ExpExponentCleanup "
-"[#EXP]_ ， EventStructWrongData [#EVENT]_ 。"
-
-#: ../../news/voken_contract_upgraded.rst:73
-msgid ""
 "Benefiting from the new features brought by the two upgrades of "
 "`Constantinople`_ and `Constantinople/St. Petersburg`_ on Ethereum, **the "
 "efficiency of the new contract has been greatly improved**."
 msgstr ""
 "受益于以太坊主网的 `君士坦丁堡`_ 和 `君士坦丁堡/圣彼得堡`_ 这两次升级所带来的全新特性，**新合约的运行效率得到了极大的提升**。"
 
-#: ../../news/voken_contract_upgraded.rst:81
+#: ../../news/voken_contract_upgraded.rst:75
 msgid ""
 "The Ethereum **miner’s fee is greatly reduced** for Voken transfer, **up to "
 "30.19%**."
 msgstr "Voken 的转账以太坊 **矿工费大幅节省** ，**最高节省达 30.19%** 。"
 
-#: ../../news/voken_contract_upgraded.rst:86
+#: ../../news/voken_contract_upgraded.rst:80
 msgid "Ready for :ref:`voken_sale` whitelist registration"
 msgstr "支持 :ref:`voken_sale` 白名单注册"
 
-#: ../../news/voken_contract_upgraded.rst:88
+#: ../../news/voken_contract_upgraded.rst:82
 msgid ""
 "By sending 1,001 Vokens to a whitelisted address, your ETH wallet address "
 "will be **automatically registered**, and you can enjoy a **buy one and get "
@@ -142,19 +131,19 @@ msgstr ""
 ":ref:`voken_sale` 中享受 **买一送一特权** 。智能合约将会自动保存推荐关系链，并依据 "
 ":ref:`voken_referral_program` **实时结算奖励** 。"
 
-#: ../../news/voken_contract_upgraded.rst:96
+#: ../../news/voken_contract_upgraded.rst:90
 msgid ":ref:`guide_for_voken_sale_whitelist`"
 msgstr ":ref:`guide_for_voken_sale_whitelist`"
 
-#: ../../news/voken_contract_upgraded.rst:99
+#: ../../news/voken_contract_upgraded.rst:93
 msgid "Whitelist qualification transfer is supported"
 msgstr "白名单资格支持过户"
 
-#: ../../news/voken_contract_upgraded.rst:101
+#: ../../news/voken_contract_upgraded.rst:95
 msgid ":ref:`whitelist_transfer_whitelist_qualification`"
 msgstr ":ref:`whitelist_transfer_whitelist_qualification`"
 
-#: ../../news/voken_contract_upgraded.rst:103
+#: ../../news/voken_contract_upgraded.rst:97
 msgid ""
 "Without any application and approval process, just call the contract "
 "function ``transferWhitelist(address account)`` directly, the contract will "
@@ -162,27 +151,3 @@ msgid ""
 msgstr ""
 "不需要经过任何申请和审批流程，直接调用合约功能 ``transferWhitelist(address account)`` "
 "即可完成，智能合约将会自动立即处理。"
-
-#: ../../news/voken_contract_upgraded.rst:110
-msgid ""
-"`ABIEncoderV2PackedStorage (low-severity)`_ Fixed in Version: 0.5.7 of "
-"Solidity Compiler"
-msgstr ""
-"`ABIEncoderV2PackedStorage (low-severity)`_ Fixed in Version: 0.5.7 of "
-"Solidity Compiler"
-
-#: ../../news/voken_contract_upgraded.rst:111
-msgid ""
-"`ExpExponentCleanup (medium/high-severity)`_ Fixed in Version: 0.4.25 of "
-"Solidity Compiler"
-msgstr ""
-"`ExpExponentCleanup (medium/high-severity)`_ Fixed in Version: 0.4.25 of "
-"Solidity Compiler"
-
-#: ../../news/voken_contract_upgraded.rst:112
-msgid ""
-"`EventStructWrongData (very low-severity)`_ Fixed in Version: 0.4.25 of "
-"Solidity Compiler"
-msgstr ""
-"`EventStructWrongData (very low-severity)`_ Fixed in Version: 0.4.25 of "
-"Solidity Compiler"

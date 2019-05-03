@@ -33,14 +33,18 @@ Voken Distribution plan
 -----------------------
 
 Team fund 12%
-   100% freezed for 3.5 years, till ``2021.06.30 23:59:59 UTC``,
-   in :ref:`team_fund_contract`.
+   By :ref:`team_fund_contract`.
+
+   - 100% freezed for 3.5 years.
+   - Till ``2021.06.30 23:59:59 UTC``.
+   - Release 10% per 3 months.
 
 
 Early Investors 13.47%
-   3.5 billion Vokens are freezed for 2.5 years,
-   till ``2020.06.30 23:59:59 UTC``
-   in :ref:`early_investors_fund_contract`.
+   By :ref:`early_investors_fund_contract`.
+
+   - 3.5 billion Vokens are freezed for 2.5 years.
+   - Till ``2020.06.30 23:59:59 UTC``.
 
 
 Air Drops 2%
@@ -55,9 +59,9 @@ Token Sale 22.54%
 
 
 Miner 15%
-   For service nodes' incentive.
+   By :ref:`service_nodes_fund_contract`.
 
-   :ref:`service_nodes_fund_contract`.
+   For service nodes' incentive.
 
 
 Consumption pool 0.5%
@@ -67,14 +71,15 @@ Consumption pool 0.5%
 
 
 DAPPs Support Plan 10%
+   By :ref:`developers_fund_contract`.
+
    It is used to enrich Vision Network ecology,
    foster and encourage developers
    to build more decentralized application services.
 
-   :ref:`developers_fund_contract`.
 
 Community and business 24.49%
+   By :ref:`business_fund_contract`.
+
    It is used for exchange listing,
    community construction and maintenance, etc.
-
-   :ref:`business_fund_contract`.

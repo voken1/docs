@@ -64,12 +64,6 @@ in the Vision.Network ecosystem.
 New contract was fully optimized
 --------------------------------
 
-Upgraded ``pragma`` from ``v0.4.23+commit.124ca40d`` to ``v0.5.7+commit.6da8b019``,
-avoided at least 3 solidity compiler potential threats to
-ABIEncoderV2PackedStorage [#ABI]_,
-ExpExponentCleanup [#EXP]_,
-EventStructWrongData [#EVENT]_.
-
 Benefiting from the new features brought by the two upgrades
 of `Constantinople`_ and `Constantinople/St. Petersburg`_ on Ethereum,
 **the efficiency of the new contract has been greatly improved**.
@@ -103,15 +97,4 @@ Whitelist qualification transfer is supported
 Without any application and approval process,
 just call the contract function ``transferWhitelist(address account)`` directly,
 the contract will processes automatically and immediately.
-
-
-------
-
-.. [#ABI] `ABIEncoderV2PackedStorage (low-severity)`_ Fixed in Version: 0.5.7 of Solidity Compiler
-.. [#EXP] `ExpExponentCleanup (medium/high-severity)`_ Fixed in Version: 0.4.25 of Solidity Compiler
-.. [#EVENT] `EventStructWrongData (very low-severity)`_ Fixed in Version: 0.4.25 of Solidity Compiler
-
-.. _ABIEncoderV2PackedStorage (low-severity): https://etherscan.io/solcbuginfo?a=ABIEncoderV2PackedStorage
-.. _ExpExponentCleanup (medium/high-severity): https://etherscan.io/solcbuginfo?a=ExpExponentCleanup
-.. _EventStructWrongData (very low-severity): https://etherscan.io/solcbuginfo?a=EventStructWrongData
 

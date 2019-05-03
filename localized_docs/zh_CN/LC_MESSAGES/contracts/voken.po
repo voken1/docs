@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-01 22:40+0800\n"
+"POT-Creation-Date: 2019-05-02 09:57+0800\n"
 "PO-Revision-Date: 2019-04-11 14:15+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -58,16 +58,16 @@ msgid "View on Etherscan.io:"
 msgstr "在 Etherscan.io 查看："
 
 #: ../../contracts/voken.rst:18
+msgid "`Voken Tracker`_"
+msgstr "`Voken 跟踪`_"
+
+#: ../../contracts/voken.rst:19
 msgid "`Read contract on Etherscan.io`_"
 msgstr "`通过 Etherscan.io 读取合约信息`_"
 
-#: ../../contracts/voken.rst:19
+#: ../../contracts/voken.rst:20
 msgid "`Write contract on Etherscan.io`_"
 msgstr "`通过 Etherscan.io 操作合约`_"
-
-#: ../../contracts/voken.rst:20
-msgid "`Voken Tracker`_"
-msgstr "`Voken 跟踪`_"
 
 #: ../../contracts/voken.rst:22
 msgid "Related links:"
@@ -213,48 +213,10 @@ msgid ""
 "it's unrecoverable."
 msgstr "一旦返回 ``false`` 就意味着白名单注册已经关闭，并且不可逆。"
 
-#: ../../contracts/voken.rst:225 ../../contracts/voken.rst:242
+#: ../../contracts/voken.rst:225 ../../contracts/voken.rst:241
 msgid "Whitelist qualification transfer is supported"
 msgstr "白名单资格支持过户"
 
 #: ../../contracts/voken.rst:241
 msgid "Just call function ``transferWhitelist(address account)`` if you need."
 msgstr "只需执行合约中的功能函数 ``transferWhitelist(address account)`` ，如果你需要。"
-
-#: ../../contracts/voken.rst:245
-msgid "Registration Referral Reward Calculator"
-msgstr "注册推荐奖励计算器"
-
-#: ../../contracts/voken.rst:247
-msgid ":ref:`voken_sale` whitelist registration referral reward calculator."
-msgstr ":ref:`voken_sale` 白名单注册与转介奖励计算器。"
-
-#: ../../contracts/voken.rst:285
-msgid ""
-"If someone registers :ref:`voken_sale` whitelist with my address, NOW, how "
-"many Vokens would I receive?"
-msgstr "如果现在有人通过我的地址注册 :ref:`voken_sale` 白名单，我将获得多少 Vokens ？"
-
-#: ../../contracts/voken.rst:280
-msgid ""
-"You can call function "
-"``calculateTheRewardOfDirectWhitelistRegistration(address "
-"whitelistedAccount)``, it is a calculator, and will returns the amount of "
-"Voken that you would receive."
-msgstr ""
-"您可以执行合约中的功能函数 ``calculateTheRewardOfDirectWhitelistRegistration(address "
-"whitelistedAccount)`` ，这是一个计算器功能，它会返回您将获得 Voken 奖励的数量。"
-
-#: ../../contracts/voken.rst:283
-msgid ""
-"Of course the last 6 digits are decimal place, that means if it returns a "
-"result of ``301000000``, that is ``301.000000`` actually."
-msgstr "当然，最后 6 位数字是小数位，这意味着如果返回结果为 ``301000000`` 实际对应 ``301.000000`` 。"
-
-#: ../../contracts/voken.rst:288
-msgid "More"
-msgstr "更多"
-
-#: ../../contracts/voken.rst:290
-msgid "TBC."
-msgstr "待续"

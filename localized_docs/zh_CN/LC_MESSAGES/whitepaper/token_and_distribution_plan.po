@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-27 18:30+0800\n"
+"POT-Creation-Date: 2019-05-03 17:40+0800\n"
 "PO-Revision-Date: 2019-01-19 08:47+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -69,101 +69,113 @@ msgstr "Voken 总量的 74.53% 将最终交给用户持有。"
 msgid "Voken Distribution plan"
 msgstr "Voken 分配计划"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:38
+#: ../../whitepaper/token_and_distribution_plan.rst:41
 msgid "Team fund 12%"
 msgstr "项目团队 12%"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:36
-msgid ""
-"100% freezed for 3.5 years, till ``2021.06.30 23:59:59 UTC``, in "
-":ref:`team_fund_contract`."
-msgstr ""
-"100% 冻结 3.5 年，至 ``2021.06.30 23:59:59 UTC 标准时间`` 于 :ref:`team_fund_contract`"
-" 。"
+msgid "By :ref:`team_fund_contract`."
+msgstr ":ref:`team_fund_contract` 。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:44
+#: ../../whitepaper/token_and_distribution_plan.rst:38
+msgid "100% freezed for 3.5 years."
+msgstr "100% 冻结 3.5 年。"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:39
+msgid "Till ``2021.06.30 23:59:59 UTC``."
+msgstr "冻结至 ``2021.06.30 23:59:59 UTC 标准时间`` 。"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:40
+msgid "Release 10% per 3 months."
+msgstr "每 3 个月解冻 10% 。"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:48
 msgid "Early Investors 13.47%"
 msgstr "早期投资者 13.47%"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:41
-msgid ""
-"3.5 billion Vokens are freezed for 2.5 years, till ``2020.06.30 23:59:59 "
-"UTC`` in :ref:`early_investors_fund_contract`."
-msgstr ""
-"35 亿 Vokens 冻结 2.5 年，至 ``2020.06.30 23:59:59 UTC 标准时间`` 于 "
-":ref:`early_investors_fund_contract` 。"
+#: ../../whitepaper/token_and_distribution_plan.rst:44
+msgid "By :ref:`early_investors_fund_contract`."
+msgstr ":ref:`early_investors_fund_contract`"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:51
+#: ../../whitepaper/token_and_distribution_plan.rst:46
+msgid "3.5 billion Vokens are freezed for 2.5 years."
+msgstr "35 亿 Vokens 冻结 2.5 年。"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:47
+msgid "Till ``2020.06.30 23:59:59 UTC``."
+msgstr "冻结至 ``2020.06.30 23:59:59 UTC 标准时间``."
+
+#: ../../whitepaper/token_and_distribution_plan.rst:55
 msgid "Air Drops 2%"
 msgstr "空投 2%"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:47
+#: ../../whitepaper/token_and_distribution_plan.rst:51
 msgid "For ETH holders and promotion before/during the :ref:`voken_sale`:"
 msgstr "用于空投给 ETH 持有者和 :ref:`voken_sale` 售前售中的引流宣传等。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:49
+#: ../../whitepaper/token_and_distribution_plan.rst:53
 msgid ":ref:`airdrop_contract`"
 msgstr ":ref:`airdrop_contract`"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:50
+#: ../../whitepaper/token_and_distribution_plan.rst:54
 msgid ":ref:`airdrop_to_eth_holders_contract`"
 msgstr ":ref:`airdrop_to_eth_holders_contract`"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:55
+#: ../../whitepaper/token_and_distribution_plan.rst:59
 msgid "Token Sale 22.54%"
 msgstr "Voken 流量币销售 22.54%"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:54
+#: ../../whitepaper/token_and_distribution_plan.rst:58
 msgid "For :ref:`voken_sale`."
 msgstr "用于 :ref:`voken_sale` 。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:61
+#: ../../whitepaper/token_and_distribution_plan.rst:65
 msgid "Miner 15%"
 msgstr "挖扩 15%"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:58
+#: ../../whitepaper/token_and_distribution_plan.rst:62
+msgid "By :ref:`service_nodes_fund_contract`."
+msgstr ":ref:`service_nodes_fund_contract`"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:64
 msgid "For service nodes' incentive."
 msgstr "用于服务节点激励"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:60
-msgid ":ref:`service_nodes_fund_contract`."
-msgstr ":ref:`service_nodes_fund_contract` 。"
-
-#: ../../whitepaper/token_and_distribution_plan.rst:67
+#: ../../whitepaper/token_and_distribution_plan.rst:71
 msgid "Consumption pool 0.5%"
 msgstr "消费池 0.5%"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:64
+#: ../../whitepaper/token_and_distribution_plan.rst:68
 msgid ""
 "For special user contribution awards and sales promotions, the list of "
 "individual or organizational users will be charged to the consumer pool "
 "contract account until they are used up."
 msgstr "用于特殊用户贡献福利和公售辅助促销，名单列表中的个人或组织用户的流量币都将由消费池合约账户支出，用完为止。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:74
+#: ../../whitepaper/token_and_distribution_plan.rst:79
 msgid "DAPPs Support Plan 10%"
 msgstr "应用开发扶植计划 10%"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:70
+#: ../../whitepaper/token_and_distribution_plan.rst:74
+msgid "By :ref:`developers_fund_contract`."
+msgstr ":ref:`developers_fund_contract`"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:76
 msgid ""
 "It is used to enrich Vision Network ecology, foster and encourage developers"
 " to build more decentralized application services."
 msgstr "主要用于丰富 Vision Network 生态，扶植和激励社区开发者建立更多去中心化应用服务。"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:74
-msgid ":ref:`developers_fund_contract`."
-msgstr ":ref:`developers_fund_contract` 。"
-
-#: ../../whitepaper/token_and_distribution_plan.rst:79
+#: ../../whitepaper/token_and_distribution_plan.rst:84
 msgid "Community and business 24.49%"
 msgstr "社区激励和商业拓展 24.49%"
 
-#: ../../whitepaper/token_and_distribution_plan.rst:77
+#: ../../whitepaper/token_and_distribution_plan.rst:82
+msgid "By :ref:`business_fund_contract`."
+msgstr ":ref:`business_fund_contract`"
+
+#: ../../whitepaper/token_and_distribution_plan.rst:84
 msgid ""
 "It is used for exchange listing, community construction and maintenance, "
 "etc."
 msgstr "主要用于流量币的交易所挂牌、生态前期激励、社区建设与维护等。"
-
-#: ../../whitepaper/token_and_distribution_plan.rst:80
-msgid ":ref:`business_fund_contract`."
-msgstr ":ref:`business_fund_contract` 。"

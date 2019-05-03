@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-13 15:05+0800\n"
+"POT-Creation-Date: 2019-05-03 17:40+0800\n"
 "PO-Revision-Date: 2019-01-15 09:15+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,113 +30,224 @@ msgid "Just for internal testing and a small number of invited users."
 msgstr "仅对团队内部测试及少量受邀用户。"
 
 #: ../../reports/vnvpn_alpha.rst:8
-msgid "26 versions we've finished"
-msgstr "已经历了 26 个版本"
-
-#: ../../reports/vnvpn_alpha.rst:10
-msgid "v0.1.0"
-msgstr "v0.1.0"
+msgid "Changelog"
+msgstr ""
 
 #: ../../reports/vnvpn_alpha.rst:11
-msgid "v0.1.1"
-msgstr "v0.1.1"
+msgid "v0.4.20"
+msgstr "v0.4.20"
 
-#: ../../reports/vnvpn_alpha.rst:12
-msgid "v0.1.2"
-msgstr "v0.1.2"
-
-#: ../../reports/vnvpn_alpha.rst:13
-msgid "v0.2.0"
-msgstr "v0.2.0"
+#: ../../reports/vnvpn_alpha.rst:11
+msgid "Fixed: The client proxy does not work after modifying the port number."
+msgstr ""
 
 #: ../../reports/vnvpn_alpha.rst:14
-msgid "v0.3.0"
-msgstr "v0.3.0"
+msgid "v0.4.19"
+msgstr "v0.4.19"
 
-#: ../../reports/vnvpn_alpha.rst:15
-msgid "v0.4.0"
-msgstr "v0.4.0"
-
-#: ../../reports/vnvpn_alpha.rst:16
-msgid "v0.4.1"
-msgstr "v0.4.1"
+#: ../../reports/vnvpn_alpha.rst:14
+msgid "Adjusted the UI, added logo and links."
+msgstr ""
 
 #: ../../reports/vnvpn_alpha.rst:17
-msgid "v0.4.2"
-msgstr "v0.4.2"
+msgid "v0.4.18"
+msgstr "v0.4.18"
 
-#: ../../reports/vnvpn_alpha.rst:18
-msgid "v0.4.3"
-msgstr "v0.4.3"
-
-#: ../../reports/vnvpn_alpha.rst:19
-msgid "v0.4.4"
-msgstr "v0.4.4"
+#: ../../reports/vnvpn_alpha.rst:17
+msgid "Modify the Socks5 port number manually."
+msgstr ""
 
 #: ../../reports/vnvpn_alpha.rst:20
-msgid "v0.4.5"
-msgstr "v0.4.5"
+msgid "v0.4.17"
+msgstr "v0.4.17"
 
-#: ../../reports/vnvpn_alpha.rst:21
-msgid "v0.4.6"
-msgstr "v0.4.6"
-
-#: ../../reports/vnvpn_alpha.rst:22
-msgid "v0.4.7"
-msgstr "v0.4.7"
+#: ../../reports/vnvpn_alpha.rst:20
+msgid "Add connect and disconnect buttons."
+msgstr ""
 
 #: ../../reports/vnvpn_alpha.rst:23
-msgid "v0.4.8"
-msgstr "v0.4.8"
+msgid "v0.4.16"
+msgstr "v0.4.16"
 
-#: ../../reports/vnvpn_alpha.rst:24
-msgid "v0.4.9"
-msgstr "v0.4.9"
-
-#: ../../reports/vnvpn_alpha.rst:25
-msgid "v0.4.10"
-msgstr "v0.4.10"
+#: ../../reports/vnvpn_alpha.rst:23
+msgid ""
+"Bug fixed: In some cases, the background thread stops running unexpectedly."
+msgstr ""
 
 #: ../../reports/vnvpn_alpha.rst:26
-msgid "v0.4.11"
-msgstr "v0.4.11"
+msgid "v0.4.15"
+msgstr "v0.4.15"
 
-#: ../../reports/vnvpn_alpha.rst:27
-msgid "v0.4.12"
-msgstr "v0.4.12"
-
-#: ../../reports/vnvpn_alpha.rst:28
-msgid "v0.4.13"
-msgstr "v0.4.13"
+#: ../../reports/vnvpn_alpha.rst:26
+msgid ""
+"Exit if some specific software processes that may be causing the conflict "
+"are running."
+msgstr ""
 
 #: ../../reports/vnvpn_alpha.rst:29
 msgid "v0.4.14"
 msgstr "v0.4.14"
 
-#: ../../reports/vnvpn_alpha.rst:30
-msgid "v0.4.15"
-msgstr "v0.4.15"
-
-#: ../../reports/vnvpn_alpha.rst:31
-msgid "v0.4.16"
-msgstr "v0.4.16"
+#: ../../reports/vnvpn_alpha.rst:29
+msgid ""
+"Fixed: The windows browser cannot run normally after the client exited in "
+"some cases."
+msgstr ""
 
 #: ../../reports/vnvpn_alpha.rst:32
-msgid "v0.4.17"
-msgstr "v0.4.17"
+msgid "v0.4.13"
+msgstr "v0.4.13"
 
-#: ../../reports/vnvpn_alpha.rst:33
-msgid "v0.4.18"
-msgstr "v0.4.18"
-
-#: ../../reports/vnvpn_alpha.rst:34
-msgid "v0.4.19"
-msgstr "v0.4.19"
+#: ../../reports/vnvpn_alpha.rst:32
+msgid "Optimized client code and improved client efficiency."
+msgstr ""
 
 #: ../../reports/vnvpn_alpha.rst:35
-msgid "v0.4.20"
-msgstr "v0.4.20"
+msgid "v0.4.12"
+msgstr "v0.4.12"
 
-#: ../../reports/vnvpn_alpha.rst:37
-msgid "Developing..."
-msgstr "技术开发持续进行中……"
+#: ../../reports/vnvpn_alpha.rst:35
+msgid "Display the log in the client interface."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:38
+msgid "v0.4.11"
+msgstr "v0.4.11"
+
+#: ../../reports/vnvpn_alpha.rst:38
+msgid ""
+"Automatically change the port number if the default port number is occupied"
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:41
+msgid "v0.4.10"
+msgstr "v0.4.10"
+
+#: ../../reports/vnvpn_alpha.rst:41
+msgid "Rebuild process details of the client connection to service node."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:44
+msgid "v0.4.9"
+msgstr "v0.4.9"
+
+#: ../../reports/vnvpn_alpha.rst:44
+msgid "Optimized encryption and decryption efficiency."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:47
+msgid "v0.4.8"
+msgstr "v0.4.8"
+
+#: ../../reports/vnvpn_alpha.rst:47
+msgid "Fixed: Excessive system memory usage during long-running."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:50
+msgid "v0.4.7"
+msgstr "v0.4.7"
+
+#: ../../reports/vnvpn_alpha.rst:50
+msgid "Optimized the cache working mode of the server list node."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:53
+msgid "v0.4.6"
+msgstr "v0.4.6"
+
+#: ../../reports/vnvpn_alpha.rst:53
+msgid "Added support to standard ``Shadowsocks`` protocol."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:56
+msgid "v0.4.5"
+msgstr "v0.4.5"
+
+#: ../../reports/vnvpn_alpha.rst:56
+msgid ""
+"Fixed: In some cases, the node is duplicated when the node list is reloaded."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:59
+msgid "v0.4.4"
+msgstr "v0.4.4"
+
+#: ../../reports/vnvpn_alpha.rst:59
+msgid "Fixed: Tray menu cannot close the client normally in some cases."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:62
+msgid "v0.4.3"
+msgstr "v0.4.3"
+
+#: ../../reports/vnvpn_alpha.rst:62
+msgid "Fix abnormal crash when running client on windows of some low version"
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:66
+msgid "v0.4.2"
+msgstr "v0.4.2"
+
+#: ../../reports/vnvpn_alpha.rst:65
+msgid "Add multi-threading support to the proxy server."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:66
+msgid "Improve the efficiency client."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:69
+msgid "v0.4.1"
+msgstr "v0.4.1"
+
+#: ../../reports/vnvpn_alpha.rst:69
+msgid "Bug Fixed: Client crashes when server disconnects."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:72
+msgid "v0.4.0"
+msgstr "v0.4.0"
+
+#: ../../reports/vnvpn_alpha.rst:72
+msgid "Windows UI with C#."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:75
+msgid "v0.3.0"
+msgstr "v0.3.0"
+
+#: ../../reports/vnvpn_alpha.rst:75
+msgid "Add asymmetric encryption and decryption in the verification process."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:78
+msgid "v0.2.0"
+msgstr "v0.2.0"
+
+#: ../../reports/vnvpn_alpha.rst:78
+msgid "Rebuild with go language."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:81
+msgid "v0.1.2"
+msgstr "v0.1.2"
+
+#: ../../reports/vnvpn_alpha.rst:81
+msgid "Default ``HTTP Proxy`` for windows system."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:84
+msgid "v0.1.1"
+msgstr "v0.1.1"
+
+#: ../../reports/vnvpn_alpha.rst:84
+msgid "Added ``Socks5`` support for windows system settings."
+msgstr ""
+
+#: ../../reports/vnvpn_alpha.rst:86
+msgid "v0.1.0"
+msgstr "v0.1.0"
+
+#: ../../reports/vnvpn_alpha.rst:87
+msgid "This is the beginning of a new world."
+msgstr ""
