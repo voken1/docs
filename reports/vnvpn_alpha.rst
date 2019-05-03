@@ -4,34 +4,84 @@ vnVPN Alpha
 Just for internal testing and a small number of invited users.
 
 
-26 versions we've finished
---------------------------
+Changelog
+---------
 
-- v0.1.0
-- v0.1.1
-- v0.1.2
-- v0.2.0
-- v0.3.0
-- v0.4.0
-- v0.4.1
-- v0.4.2
-- v0.4.3
-- v0.4.4
-- v0.4.5
-- v0.4.6
-- v0.4.7
-- v0.4.8
-- v0.4.9
-- v0.4.10
-- v0.4.11
-- v0.4.12
-- v0.4.13
-- v0.4.14
-- v0.4.15
-- v0.4.16
-- v0.4.17
-- v0.4.18
-- v0.4.19
-- v0.4.20
+v0.4.20
+   - Fixed: The client proxy does not work after modifying the port number.
 
-Developing...
+v0.4.19
+   - Adjusted the UI, added logo and links.
+
+v0.4.18
+   - Added function: Modify the Socks5 port number manually.
+
+v0.4.17
+   - Add connect and disconnect buttons.
+
+v0.4.16
+   - Bug fixed: In some cases, the background thread stops running unexpectedly.
+
+v0.4.15
+   - Exit if some specific software processes that may be causing the conflict are running.
+
+v0.4.14
+   - Fixed: The windows browser cannot run normally after the client exited in some cases.
+
+v0.4.13
+   - Optimized client code and improved client efficiency.
+
+v0.4.12
+   - Display the log in the client interface.
+
+v0.4.11
+   - Added function: Automatically change the port number if the default port number is occupied
+
+v0.4.10
+   - Rebuild process details of the client connection to service node.
+
+v0.4.9
+   - Optimized encryption and decryption efficiency.
+
+v0.4.8
+   - Fixed: Excessive system memory usage during long-running.
+
+v0.4.7
+   - Optimized the cache working mode of the server list node.
+
+v0.4.6
+   - Added support to standard ``Shadowsocks`` protocol.
+
+v0.4.5
+   - Fixed: In some cases, the node is duplicated when the node list is reloaded.
+
+v0.4.4
+   - Fixed: Tray menu cannot close the client normally in some cases.
+
+v0.4.3
+   - Fix abnormal crash when running client on windows of some low version
+
+v0.4.2
+   - Add multi-threading support to the proxy server.
+   - Improve the efficiency client.
+
+v0.4.1
+   - Bug Fixed: Client crashes when server disconnects.
+
+v0.4.0
+   - Windows UI with C#.
+
+v0.3.0
+   - Add asymmetric encryption and decryption in the verification process.
+
+v0.2.0
+   - Rebuild with go language.
+
+v0.1.2
+   - Default ``HTTP Proxy`` for windows system.
+
+v0.1.1
+   - Added ``Socks5`` support for windows system settings.
+
+v0.1.0
+   - This is the beginning of a new world.
