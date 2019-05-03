@@ -14,7 +14,7 @@ v0.4.19
    - Adjusted the UI, added logo and links.
 
 v0.4.18
-   - Added function: Modify the Socks5 port number manually.
+   - Modify the Socks5 port number manually.
 
 v0.4.17
    - Add connect and disconnect buttons.
@@ -35,7 +35,7 @@ v0.4.12
    - Display the log in the client interface.
 
 v0.4.11
-   - Added function: Automatically change the port number if the default port number is occupied
+   - Automatically change the port number if the default port number is occupied
 
 v0.4.10
    - Rebuild process details of the client connection to service node.
