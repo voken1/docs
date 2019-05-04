@@ -46,13 +46,15 @@ Contacts
 
 .. _English: https://vision.network/en
 .. _Chinese: https://vision.network/zh-cn
-.. _Telegram News Channel: https://t.me/vision_news
 .. _Twitter: https://twitter.com/voken_io
 .. _VisionNetworkProject: https://github.com/VisionNetworkProject
-.. _English Group: https://t.me/vokenio
-.. _Chinese Group: https://t.me/vokenCN
 .. _English Docs: https://voken.io/en/latest/
 .. _Chinese Docs: https://voken.io/zh_CN/latest/
+
+.. _English Group: https://t.me/vokenio
+.. _Chinese Group: https://t.me/vokenCN
+.. _Telegram News Channel: https://t.me/vokenNews
+
 
 
 
