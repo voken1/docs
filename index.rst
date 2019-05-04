@@ -49,8 +49,8 @@ Contacts
 .. _Telegram News Channel: https://t.me/vision_news
 .. _Twitter: https://twitter.com/voken_io
 .. _VisionNetworkProject: https://github.com/VisionNetworkProject
-.. _English Group: https://t.me/visionProject
-.. _Chinese Group: https://t.me/visionCN
+.. _English Group: https://t.me/vokenio
+.. _Chinese Group: https://t.me/vokenCN
 .. _English Docs: https://voken.io/en/latest/
 .. _Chinese Docs: https://voken.io/zh_CN/latest/
 
