@@ -9,9 +9,12 @@ Just for internal testing and a small number of invited users.
 Changelog
 ---------
 
-v0.5.1
+`v0.5.1`_
    - Bug fixed: HTTP exception after an abnormal exit.
    - Pre-released ready.
+
+.. _v0.5.1: https://github.com/VisionNetworkProject/vnVPN_windows/releases/tag/v0.5.1
+
 
 v0.5.0
    - Show the country name where the node is located.
