@@ -9,6 +9,7 @@ Executed at the Voken real-time price of :ref:`voken_sale`.
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
+- ENS Domain is **get1002.voken100g.eth**
 - Contract address is **0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe**
 - Deployed at `Tx Hash 0xd47c89a18e481b11a42e6f57cba08bbd...`_
 - Block height `7674815`_

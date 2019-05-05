@@ -8,6 +8,7 @@ Hold :ref:`voken` for :ref:`airdrop_via_contract`.
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
+- ENS Domain is **airdrop.voken100g.eth**
 - Contract address is **0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA**
 - Deployed at `Tx Hash 0x6a10e3d183738d7f3e2da09aec8f649d...`_
 - Block height `7575490`_

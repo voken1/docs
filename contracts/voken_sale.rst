@@ -5,6 +5,7 @@ Voken Public-Sale Contract
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
+- ENS Domain is **sale.voken100g.eth**
 - Contract address is **0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**
 - Deployed at `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_
 - Block height `7635415`_
