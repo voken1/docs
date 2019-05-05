@@ -8,7 +8,7 @@ Changelog
 ---------
 
 v0.5.0
-   - Show the country where the node is located
+   - Show the country name where the node is located
    - Performance improvement
 
 v0.4.20
