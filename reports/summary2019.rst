@@ -19,5 +19,5 @@ Summary 2019
    - ENS Domain **voken100g.eth** deployed
    - **sale.voken100g.eth** for :ref:`voken_sale`
    - **airdrop.voken100g.eth** for :ref:`airdrop_via_contract`
-   - **get1002.voken100g.eth** for :ref:`get_1002voken_contract`:
-
+   - **get1002.voken100g.eth** for :ref:`get_1002voken_contract`
+   - :ref:`vnVPN_alpha` v5.0.1, pre-released
