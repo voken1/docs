@@ -7,6 +7,10 @@ Just for internal testing and a small number of invited users.
 Changelog
 ---------
 
+v0.5.0
+   - Show the country where the node is located
+   - Performance improvement
+
 v0.4.20
    - Fixed: The client proxy does not work after modifying the port number.
 
