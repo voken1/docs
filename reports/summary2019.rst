@@ -16,4 +16,8 @@ Summary 2019
    - :ref:`voken_sale` is on the way
    - :ref:`voken_sale_contract` deployed
    - :ref:`batch_transfer_contract` deployed
+   - ENS Domain **voken100g.eth** deployed
+   - **sale.voken100g.eth** for :ref:`voken_sale`
+   - **airdrop.voken100g.eth** for :ref:`airdrop_via_contract`
+   - **get1002.voken100g.eth** for :ref:`get_1002voken_contract:
 
