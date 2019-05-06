@@ -166,7 +166,6 @@ more open, more equal, more stable, more efficient, safer and freer.
    contributing/donate
    contributing/chat
    contributing/community_partner
-   contributing/join_the_test
    contributing/issue
 
 
