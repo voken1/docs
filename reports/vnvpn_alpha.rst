@@ -9,6 +9,14 @@ Just for internal testing and a small number of invited users.
 Changelog
 ---------
 
+`v0.5.2`_
+   - Allow LAN
+   - System proxy
+   - Bug fixes
+
+.. _v0.5.2: https://github.com/voken100g/vnVPN_windows/releases/tag/v0.5.2
+
+
 `v0.5.1`_
    - Bug fixed: HTTP exception after an abnormal exit.
    - Pre-released ready.
