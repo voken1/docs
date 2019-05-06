@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-06 11:37+0800\n"
+"POT-Creation-Date: 2019-05-06 11:44+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -57,8 +57,8 @@ msgid "**ONLINE**"
 msgstr "**在线**"
 
 #: ../../services/autossr.rst:24
-msgid "`https://git.io/autossr-online`"
-msgstr "`https://git.io/autossr-online`"
+msgid "`https://git.io/autossr_online`"
+msgstr "`https://git.io/autossr_online`"
 
 #: ../../services/autossr.rst:24
 msgid "All the online servers, available more than one hour."
@@ -69,8 +69,8 @@ msgid "**STABLE**"
 msgstr "**稳定**"
 
 #: ../../services/autossr.rst:26
-msgid "`https://git.io/autossr-stable`"
-msgstr "`https://git.io/autossr-stable`"
+msgid "`https://git.io/autossr_stable`"
+msgstr "`https://git.io/autossr_stable`"
 
 #: ../../services/autossr.rst:26
 msgid "Available more the 12 hours, seems they are stable."
@@ -81,8 +81,8 @@ msgid "**RECENT**"
 msgstr "**最近**"
 
 #: ../../services/autossr.rst:28
-msgid "`https://git.io/autossr-recent`"
-msgstr "`https://git.io/autossr-recent`"
+msgid "`https://git.io/autossr_recent`"
+msgstr "`https://git.io/autossr_recent`"
 
 #: ../../services/autossr.rst:28
 msgid "Recent servers, active in 6 hours."

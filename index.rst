@@ -163,8 +163,9 @@ more open, more equal, more stable, more efficient, safer and freer.
    :caption: Contribute
 
    contributing/contribute
-   contributing/donate
+   contributing/reward_plan
    contributing/chat
+   contributing/donate
    contributing/community_partner
    contributing/issue
 

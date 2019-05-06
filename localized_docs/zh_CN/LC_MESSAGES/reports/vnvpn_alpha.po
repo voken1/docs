@@ -31,7 +31,7 @@ msgstr "仅对团队内部测试及少量受邀用户。"
 
 #: ../../reports/vnvpn_alpha.rst:10
 msgid "Changelog"
-msgstr ""
+msgstr "更新记录"
 
 #: ../../reports/vnvpn_alpha.rst:14
 msgid "`v0.5.1`_"

@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-06 14:20+0800\n"
+"PO-Revision-Date: 2019-05-06 06:21+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contact_us.rst:4
+msgid "Contact us"
+msgstr ""
+
+#: ../../contact_us.rst:7
+msgid "|logo_earth|"
+msgstr ""
+
+#: ../../contact_us.rst:10
+msgid "Official Website"
+msgstr ""
+
+#: ../../contact_us.rst:12
+msgid "https://vision.network/"
+msgstr ""
+
+#: ../../contact_us.rst:13
+msgid "https://vision.network/zh-cn (Simplified Chinese)"
+msgstr ""
+
+#: ../../contact_us.rst:16
+msgid "|logo_github|"
+msgstr ""
+
+#: ../../contact_us.rst:19
+msgid "GitHub"
+msgstr ""
+
+#: ../../contact_us.rst:20
+msgid "https://github.com/voken100g"
+msgstr ""
+
+#: ../../contact_us.rst:23
+msgid "|logo_twitter|"
+msgstr ""
+
+#: ../../contact_us.rst:26
+msgid "Twitter"
+msgstr ""
+
+#: ../../contact_us.rst:28
+msgid "https://twitter.com/voken100g"
+msgstr ""
+
+#: ../../contact_us.rst:31
+msgid "|logo_telegram|"
+msgstr ""
+
+#: ../../contact_us.rst:34
+msgid "Telegram"
+msgstr ""
+
+#: ../../contact_us.rst:38
+msgid "Group"
+msgstr ""
+
+#: ../../contact_us.rst:37
+msgid "https://t.me/voken100g"
+msgstr ""
+
+#: ../../contact_us.rst:38
+msgid "https://t.me/vokenCN (Chinese Group)"
+msgstr ""
+
+#: ../../contact_us.rst:42
+msgid "News Channel"
+msgstr ""
+
+#: ../../contact_us.rst:41
+msgid "https://t.me/vokenNews"
+msgstr ""
+
+#: ../../contact_us.rst:44
+msgid "|logo_doc|"
+msgstr ""
+
+#: ../../contact_us.rst:47
+msgid "Documents"
+msgstr ""
+
+#: ../../contact_us.rst:49
+msgid "https://voken.io/"
+msgstr ""
+
+#: ../../contact_us.rst:50
+msgid "https://voken.io/zh_CN/latest/ (Simplified Chinese)"
+msgstr ""

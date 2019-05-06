@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-06 11:37+0800\n"
+"POT-Creation-Date: 2019-05-06 14:38+0800\n"
 "PO-Revision-Date: 2019-04-11 14:25+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -77,20 +77,20 @@ msgstr ":ref:`batch_transfer_contract` 部署完成"
 
 #: ../../reports/summary2019.rst:19
 msgid "ENS Domain **voken100g.eth** deployed"
-msgstr ""
+msgstr "ENS 域名 **voken100g.eth** 已部署"
 
 #: ../../reports/summary2019.rst:20
 msgid "**sale.voken100g.eth** for :ref:`voken_sale`"
-msgstr ""
+msgstr "**sale.voken100g.eth** ： :ref:`voken_sale`"
 
 #: ../../reports/summary2019.rst:21
 msgid "**airdrop.voken100g.eth** for :ref:`airdrop_via_contract`"
-msgstr ""
+msgstr "**airdrop.voken100g.eth** ： :ref:`airdrop_via_contract`"
 
 #: ../../reports/summary2019.rst:22
 msgid "**get1002.voken100g.eth** for :ref:`get_1002voken_contract`"
-msgstr ""
+msgstr "**get1002.voken100g.eth** ： :ref:`get_1002voken_contract`"
 
 #: ../../reports/summary2019.rst:23
-msgid ":ref:`vnVPN_alpha` v5.0.1, pre-released"
-msgstr ""
+msgid ":ref:`vnVPN_alpha` v0.5.1, pre-released"
+msgstr ":ref:`vnVPN_alpha` v0.5.1，提前发布"
