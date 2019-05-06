@@ -8,6 +8,46 @@ Welcome to vision.network!
 
 |
 
+.. sidebar:: Contact us
+
+   |logo_earth|
+
+   Official Website
+      - https://vision.network/
+      - https://vision.network/zh-cn (Simplified Chinese)
+
+
+   |logo_github|
+
+   GitHub
+      https://github.com/voken100g
+
+
+   |logo_twitter|
+
+   Twitter
+      https://twitter.com/voken100g
+
+
+   |logo_telegram|
+
+   Telegram Group
+      - https://t.me/voken100g
+      - https://t.me/vokenCN (Chinese Group)
+
+   Telegram News Channel
+      - https://t.me/vokenNews
+
+
+   |logo_doc|
+
+   Documents
+      - https://voken.io/
+      - https://voken.io/zh_CN/latest/ (Simplified Chinese)
+
+
+:ref:`philosophy`
+
 The Vision Network is a set of infrastructure for building a decentralized Internet.
 It is a distributed extensible virtual network,
 based on the physical network layer and the ISP network layer.
@@ -21,41 +61,6 @@ the entire ecology and produce an incentive effect.
 Everyone can participate in distributed network construction.
 We believe the Vision Network will make the future Internet
 more open, more equal, more stable, more efficient, safer and freer.
-
-
-:ref:`philosophy`
-
-
-
-Contacts
---------
-
-+----------------------+------------------+------------------+
-| **Official Website** | `English`_       | `Chinese`_       |
-+----------------------+------------------+------------------+
-| **Documents**        | `English Docs`_  | `Chinese Docs`_  |
-+----------------------+------------------+------------------+
-| **GitHub**           | `voken100g`_                        |
-+----------------------+------------------+------------------+
-| **Official News**    | `Telegram News Channel`_            |
-+----------------------+------------------+------------------+
-| **Twitter**          | `Twitter`_                          |
-+----------------------+------------------+------------------+
-| **Telegram Group**   | `English Group`_ | `Chinese Group`_ |
-+----------------------+------------------+------------------+
-
-.. _English: https://vision.network/en
-.. _Chinese: https://vision.network/zh-cn
-.. _Twitter: https://twitter.com/voken_io
-.. _voken100g: https://github.com/voken100g
-.. _English Docs: https://voken.io/en/latest/
-.. _Chinese Docs: https://voken.io/zh_CN/latest/
-
-.. _English Group: https://t.me/vokenio
-.. _Chinese Group: https://t.me/vokenCN
-.. _Telegram News Channel: https://t.me/vokenNews
-
-
 
 
 .. _news:
@@ -198,4 +203,33 @@ Contacts
    whitepaper/special_tips
    whitepaper/official_website
 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contact us
+
+   contact_us
+
+
+
+
+.. |logo_earth| image:: /_static/logos/earth.svg
+   :width: 36px
+   :height: 36px
+
+.. |logo_github| image:: /_static/logos/github.svg
+   :width: 36px
+   :height: 36px
+
+.. |logo_twitter| image:: /_static/logos/twitter.svg
+   :width: 36px
+   :height: 36px
+
+.. |logo_telegram| image:: /_static/logos/telegram.svg
+   :width: 36px
+   :height: 36px
+
+.. |logo_doc| image:: /_static/logos/doc.svg
+   :width: 36px
+   :height: 36px
 
