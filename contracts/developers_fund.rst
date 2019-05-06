@@ -16,8 +16,8 @@ Hold :ref:`voken` for DApps developers fund.
 
 .. _Tx Hash 0xbdd5fd0b20c51a1e62457a84c72c5677...: https://etherscan.io/tx/0xbdd5fd0b20c51a1e62457a84c72c56770ee9f4dce8b3f6f88f082e1beb62b07a
 .. _7589213: https://etherscan.io/tx/0xbdd5fd0b20c51a1e62457a84c72c56770ee9f4dce8b3f6f88f082e1beb62b07a
-.. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/VisionNetworkProject/contracts/blob/master/VokenDevelopersFund.sol
+.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/VokenDevelopersFund.sol
 .. _View contract on Etherscan.io: https://etherscan.io/address/0x22a26c45470972e5fee08f7e047f851df8ed7af9
 
 .. |logo_github| image:: /_static/logos/github.svg

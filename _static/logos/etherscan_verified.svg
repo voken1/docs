@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="layer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 120 120" style="enable-background:new 0 0 120 120;" xml:space="preserve">
 <style type="text/css">
-	.icon-2-0{fill:none;stroke:#3498DB;}
-	.icon-2-1{fill:none;stroke:#BDC5D1;}
-	.icon-2-2{fill:#3498DB;}
-	.icon-2-3{fill:#BDC5D1;}
-	.icon-2-4{fill:#FFFFFF;}
+	.st0{fill:none;stroke:#3498DB;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#BDC5D1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{opacity:0.5;}
+	.st3{fill:#BDC5D1;}
+	.st4{fill:#3498DB;}
+	.st5{fill:#FFFFFF;}
+	
+		.st6{opacity:0.5;fill:none;stroke:#BDC5D1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;enable-background:new    ;}
 </style>
-<path class="icon-2-0 fill-none stroke-primary" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M99.1,113.3"/>
-<path class="icon-2-1 fill-none stroke-gray-400" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M15.1,75.6V11l4.4-4.3l4.3,4.3l4.3-4.3l4.3,4.3l4.3-4.3l4.3,4.3l4.3-4.3l4.3,4.3l4.3-4.3l4.3,4.3l4.3-4.3
-	l4.3,4.3l4.3-4.3l4.3,4.3l4.3-4.3l4.3,4.3L89,6.7l4.4,4.3v96.5c0,3.2,2.6,5.8,5.8,5.8l0,0c3.2,0,5.8-2.6,5.8-5.8V13.2h-5.8v93.1"/>
-<line class="icon-2-1 fill-none stroke-gray-400" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="99.1" y1="113.3" x2="26.1" y2="113.3"/>
-<g opacity=".5">
-	<path class="icon-2-3 fill-gray-400" d="M78.1,44.5H39.2c-4.1,0-7.3-3.3-7.3-7.3v0c0-4.1,3.3-7.3,7.3-7.3h38.9c4.1,0,7.3,3.3,7.3,7.3v0
-		C85.5,41.2,82.2,44.5,78.1,44.5z"/>
+<path class="st0" d="M106.13,115"/>
+<path class="st1" d="M19.45,76.1V9.44L23.99,5l4.44,4.44L32.86,5l4.44,4.44L41.74,5l4.44,4.44L50.61,5l4.44,4.44L59.48,5l4.44,4.44
+	L68.36,5l4.44,4.44L77.23,5l4.44,4.44L86.11,5l4.44,4.44L95.7,5l4.54,4.44v99.58c0,3.3,2.68,5.98,5.98,5.98l0,0
+	c3.3,0,5.98-2.68,5.98-5.98V11.71h-5.98v96.07"/>
+<line class="st1" x1="106.13" y1="115" x2="30.8" y2="115"/>
+<g class="st2">
+	<path class="st3" d="M84.46,44.01H44.32c-4.23,0-7.53-3.41-7.53-7.53l0,0c0-4.23,3.41-7.53,7.53-7.53h40.14
+		c4.23,0,7.53,3.41,7.53,7.53l0,0C92.09,40.6,88.69,44.01,84.46,44.01z"/>
 </g>
 <g>
-	<path class="icon-2-2 fill-primary" d="M73.1,38H34.2c-4.1,0-7.3-3.3-7.3-7.3v0c0-4.1,3.3-7.3,7.3-7.3h38.9c4.1,0,7.3,3.3,7.3,7.3v0
-		C80.5,34.7,77.2,38,73.1,38z"/>
+	<path class="st4" d="M79.3,37.3H39.16c-4.23,0-7.53-3.41-7.53-7.53l0,0c0-4.23,3.41-7.53,7.53-7.53H79.3
+		c4.23,0,7.53,3.41,7.53,7.53l0,0C86.93,33.89,83.53,37.3,79.3,37.3z"/>
 </g>
 <g>
-	<path class="icon-2-4 fill-white" d="M65.4,32.3H41.9c-0.9,0-1.6-0.7-1.6-1.6v0c0-0.9,0.7-1.6,1.6-1.6h23.5c0.9,0,1.6,0.7,1.6,1.6v0
-		C67,31.5,66.3,32.3,65.4,32.3z"/>
+	<path class="st5" d="M71.35,31.42H47.1c-0.93,0-1.65-0.72-1.65-1.65l0,0c0-0.93,0.72-1.65,1.65-1.65h24.25
+		c0.93,0,1.65,0.72,1.65,1.65l0,0C73,30.59,72.28,31.42,71.35,31.42z"/>
 </g>
-<g opacity=".5">
-	<line class="icon-2-1 fill-none stroke-gray-400" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="3.8" y1="86" x2="33.1" y2="86"/>
-	<line class="icon-2-1 fill-none stroke-gray-400" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="3.8" y1="93.5" x2="33.1" y2="93.5"/>
-	<line class="icon-2-1 fill-none stroke-gray-400" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="3.8" y1="101.1" x2="18.3" y2="101.1"/>
-	<line class="icon-2-1 fill-none stroke-gray-400" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="27.3" y1="101.1" x2="33.1" y2="101.1"/>
+<g class="st2">
+	<line class="st1" x1="7.79" y1="86.83" x2="38.02" y2="86.83"/>
+	<line class="st1" x1="7.79" y1="94.57" x2="38.02" y2="94.57"/>
+	<line class="st1" x1="7.79" y1="102.41" x2="22.75" y2="102.41"/>
+	<line class="st1" x1="32.04" y1="102.41" x2="38.02" y2="102.41"/>
 </g>
-<line class="icon-2-1 fill-none stroke-gray-400" opacity=".5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="54.4" y1="90.6" x2="54.4" y2="102.8"/>
-<line class="icon-2-1 fill-none stroke-gray-400" opacity=".5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="62.3" y1="87.1" x2="62.3" y2="102.8"/>
-<line class="icon-2-1 fill-none stroke-gray-400" opacity=".5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="70.3" y1="89.7" x2="70.3" y2="102.8"/>
-<line class="icon-2-1 fill-none stroke-gray-400" opacity=".5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="78.3" y1="81.8" x2="78.3" y2="102.8"/>
-<polyline class="icon-2-0 fill-none stroke-primary" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="50.6,86 64.2,75.6 69,81.3 80.9,71.2 "/>
+<line class="st6" x1="60" y1="91.58" x2="60" y2="104.17"/>
+<line class="st6" x1="68.15" y1="87.96" x2="68.15" y2="104.17"/>
+<line class="st6" x1="76.41" y1="90.65" x2="76.41" y2="104.17"/>
+<line class="st6" x1="84.66" y1="82.5" x2="84.66" y2="104.17"/>
+<polyline class="st0" points="56.08,86.83 70.11,76.1 75.07,81.98 87.35,71.56 "/>
 </svg>

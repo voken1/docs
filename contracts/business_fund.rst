@@ -22,8 +22,8 @@ Hold :ref:`voken` for business fund, would be used for:
 
 .. _Tx Hash 0xf3ab2f0ec447374eb5c972f6bb562673...: https://etherscan.io/tx/0xf3ab2f0ec447374eb5c972f6bb562673921bb76e9140fa71c3304fce2a80f33e
 .. _7576000: https://etherscan.io/tx/0xf3ab2f0ec447374eb5c972f6bb562673921bb76e9140fa71c3304fce2a80f33e
-.. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/VisionNetworkProject/contracts/blob/master/VokenBusinessFund.sol
+.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/VokenBusinessFund.sol
 .. _View contract on Etherscan.io: https://etherscan.io/address/0x6e75d53c7c65604d0647bfdbc3a8110718155a2a
 
 .. |logo_github| image:: /_static/logos/github.svg

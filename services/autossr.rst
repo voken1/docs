@@ -3,7 +3,7 @@
 AutoSSR: FREE ShadowsocksR
 ==========================
 
-- **Github:** https://github.com/VisionNetworkProject/AutoSSR
+- **Github:** https://github.com/voken100g/AutoSSR
 
 .. NOTE::
 

@@ -15,8 +15,8 @@ Voken Public-Sale Contract
 
 .. _Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
 .. _7635415: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
-.. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/VisionNetworkProject/contracts/blob/master/VokenPublicSale.sol
+.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/VokenPublicSale.sol
 .. _View contract on Etherscan.io: https://etherscan.io/address/0xac873993e43a5af7b39ab4a5a50ce1fbdb7191d3#readContract
 
 .. |logo_github| image:: /_static/logos/github.svg

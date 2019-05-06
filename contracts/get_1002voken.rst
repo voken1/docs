@@ -19,8 +19,8 @@ Executed at the Voken real-time price of :ref:`voken_sale`.
 
 .. _Tx Hash 0xd47c89a18e481b11a42e6f57cba08bbd...: https://etherscan.io/tx/0xd47c89a18e481b11a42e6f57cba08bbd2a95b97206b5c8a8603a63ac5ad0c2eb
 .. _7674815: https://etherscan.io/tx/0xd47c89a18e481b11a42e6f57cba08bbd2a95b97206b5c8a8603a63ac5ad0c2eb
-.. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/VisionNetworkProject/contracts/blob/master/Get1002Voken.sol
+.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/Get1002Voken.sol
 .. _View contract on Etherscan.io: https://etherscan.io/address/0x71d6a2e473e92d63a676b363d1e0fde4675349fe
 
 .. |logo_github| image:: /_static/logos/github.svg

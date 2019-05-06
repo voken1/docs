@@ -19,8 +19,8 @@ Hold :ref:`voken` for project team:
 
 .. _Tx Hash 0x8081e207e6ee1ccfa29d47c4482acf8b...: https://etherscan.io/tx/0x8081e207e6ee1ccfa29d47c4482acf8b76932018efd02469b7fb28d2417579c4
 .. _7687242: https://etherscan.io/tx/0x8081e207e6ee1ccfa29d47c4482acf8b76932018efd02469b7fb28d2417579c4
-.. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/VisionNetworkProject/contracts/blob/master/VokenTeamFund.sol
+.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/VokenTeamFund.sol
 .. _View contract on Etherscan.io: https://etherscan.io/address/0x795fd253a5a90dfd029403101079815817524244
 
 .. |logo_github| image:: /_static/logos/github.svg

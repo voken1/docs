@@ -35,7 +35,7 @@ Contacts
 +----------------------+------------------+------------------+
 | **Documents**        | `English Docs`_  | `Chinese Docs`_  |
 +----------------------+------------------+------------------+
-| **GitHub**           | `VisionNetworkProject`_             |
+| **GitHub**           | `voken100g`_             |
 +----------------------+------------------+------------------+
 | **Official News**    | `Telegram News Channel`_            |
 +----------------------+------------------+------------------+
@@ -47,7 +47,7 @@ Contacts
 .. _English: https://vision.network/en
 .. _Chinese: https://vision.network/zh-cn
 .. _Twitter: https://twitter.com/voken_io
-.. _VisionNetworkProject: https://github.com/VisionNetworkProject
+.. _voken100g: https://github.com/voken100g
 .. _English Docs: https://voken.io/en/latest/
 .. _Chinese Docs: https://voken.io/zh_CN/latest/
 

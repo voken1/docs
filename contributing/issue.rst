@@ -17,6 +17,6 @@ We are looking forward to receiving any feedback from you.
 :ref:`chat` or writing issue are both welcomed.
 
 
-.. _Github Issues Page: https://github.com/VisionNetworkProject/docs/issues
-.. _write a new issue: https://github.com/VisionNetworkProject/docs/issues/new
+.. _Github Issues Page: https://github.com/voken100g/docs/issues
+.. _write a new issue: https://github.com/voken100g/docs/issues/new
 

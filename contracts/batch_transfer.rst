@@ -16,8 +16,8 @@ Batch transfer for ETH and :ref:`voken`.
 
 .. _Tx Hash 0xf9a90d1bf6b2b1932c56a72c43d79f91...: https://etherscan.io/tx/0xf9a90d1bf6b2b1932c56a72c43d79f91457cb3880fca6892dde9b4d15ab2edce
 .. _7657144: https://etherscan.io/tx/0xf9a90d1bf6b2b1932c56a72c43d79f91457cb3880fca6892dde9b4d15ab2edce
-.. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/VisionNetworkProject/contracts/blob/master/BatchTransferEtherAndVoken.sol
+.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/BatchTransferEtherAndVoken.sol
 .. _View contract on Etherscan.io: https://etherscan.io/address/0xf5ed657f9441672788a4935f279956745edf461b#writeContract
 
 .. |logo_github| image:: /_static/logos/github.svg

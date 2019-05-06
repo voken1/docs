@@ -18,8 +18,8 @@ Hold :ref:`voken` for :ref:`airdrop_via_contract`.
 
 .. _Tx Hash 0x6a10e3d183738d7f3e2da09aec8f649d...: https://etherscan.io/tx/0x6a10e3d183738d7f3e2da09aec8f649d8c61284c76bd24df4bd23a43d983e1a0
 .. _7575490: https://etherscan.io/tx/0x6a10e3d183738d7f3e2da09aec8f649d8c61284c76bd24df4bd23a43d983e1a0
-.. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/VisionNetworkProject/contracts/blob/master/VokenAirdrop.sol
+.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/VokenAirdrop.sol
 .. _View contract on Etherscan.io: https://etherscan.io/address/0x4b14f1aaa878ccf70d58aec682592dcd0fe025ba
 
 .. |logo_github| image:: /_static/logos/github.svg

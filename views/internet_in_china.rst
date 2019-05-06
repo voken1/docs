@@ -5,7 +5,7 @@ About Internet in China mainland
 
 Click `关于中国的互联网`_ to read.
 
-.. _关于中国的互联网: https://github.com/VisionNetworkProject/docs/blob/master/views/internet_in_china.md
+.. _关于中国的互联网: https://github.com/voken100g/docs/blob/master/views/internet_in_china.md
 
 
 Chinese Edition provided only

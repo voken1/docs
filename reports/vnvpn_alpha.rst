@@ -13,7 +13,7 @@ Changelog
    - Bug fixed: HTTP exception after an abnormal exit.
    - Pre-released ready.
 
-.. _v0.5.1: https://github.com/VisionNetworkProject/vnVPN_windows/releases/tag/v0.5.1
+.. _v0.5.1: https://github.com/voken100g/vnVPN_windows/releases/tag/v0.5.1
 
 
 v0.5.0

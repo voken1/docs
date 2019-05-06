@@ -18,8 +18,8 @@ Hold :ref:`voken` for the early-investors:
 
 .. _Tx Hash 0x618eac0497f795a1e04771c1e9ff4980...: https://etherscan.io/tx/0x618eac0497f795a1e04771c1e9ff4980e1c336f9583ae0d7f62acb139a724992
 .. _7588918: https://etherscan.io/tx/0x618eac0497f795a1e04771c1e9ff4980e1c336f9583ae0d7f62acb139a724992
-.. _GNU General Public License v3.0: https://github.com/VisionNetworkProject/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/VisionNetworkProject/contracts/blob/master/VokenEarlyInvestorsFund.sol
+.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/VokenEarlyInvestorsFund.sol
 .. _View contract on Etherscan.io: https://etherscan.io/address/0x68d898460939566f8a8bd2fc64898749c30dbef1
 
 .. |logo_github| image:: /_static/logos/github.svg

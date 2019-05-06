@@ -13,7 +13,7 @@ Latest release
 
 `ss-server-v1.2.2`_
 
-.. _ss-server-v1.2.2: https://github.com/VisionNetworkProject/optimized-ss/releases/tag/v1.2.2
+.. _ss-server-v1.2.2: https://github.com/voken100g/optimized-ss/releases/tag/v1.2.2
 
 
 Download to server
@@ -21,7 +21,7 @@ Download to server
 
 .. code-block:: console
 
-   $ wget https://github.com/VisionNetworkProject/optimized-ss/releases/download/v1.2.2/ss-server-v1.2.2.tar.gz
+   $ wget https://github.com/voken100g/optimized-ss/releases/download/v1.2.2/ss-server-v1.2.2.tar.gz
    $ tar xzf ss-server-v1.2.2.tar.gz
    $ cd ss-server
    $ chmod +x ss-server
