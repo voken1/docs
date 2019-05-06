@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-28 21:55+0800\n"
+"POT-Creation-Date: 2019-05-06 11:37+0800\n"
 "PO-Revision-Date: 2019-04-11 14:25+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -43,7 +43,7 @@ msgstr "``vnVPN Alpha 服务端内测 Windows 版 v0.4.0-v0.4.19`` 迭代 20 个
 msgid ":ref:`autossr` optimized"
 msgstr ":ref:`autossr` 优化"
 
-#: ../../reports/summary2019.rst:18
+#: ../../reports/summary2019.rst:22
 msgid "2019 Q2"
 msgstr "2019 Q2"
 
@@ -74,3 +74,23 @@ msgstr ":ref:`voken_sale_contract` 部署完成"
 #: ../../reports/summary2019.rst:18
 msgid ":ref:`batch_transfer_contract` deployed"
 msgstr ":ref:`batch_transfer_contract` 部署完成"
+
+#: ../../reports/summary2019.rst:19
+msgid "ENS Domain **voken100g.eth** deployed"
+msgstr ""
+
+#: ../../reports/summary2019.rst:20
+msgid "**sale.voken100g.eth** for :ref:`voken_sale`"
+msgstr ""
+
+#: ../../reports/summary2019.rst:21
+msgid "**airdrop.voken100g.eth** for :ref:`airdrop_via_contract`"
+msgstr ""
+
+#: ../../reports/summary2019.rst:22
+msgid "**get1002.voken100g.eth** for :ref:`get_1002voken_contract`"
+msgstr ""
+
+#: ../../reports/summary2019.rst:23
+msgid ":ref:`vnVPN_alpha` v5.0.1, pre-released"
+msgstr ""

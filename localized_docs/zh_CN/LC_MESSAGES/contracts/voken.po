@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-02 09:57+0800\n"
+"POT-Creation-Date: 2019-05-06 11:37+0800\n"
 "PO-Revision-Date: 2019-04-11 14:15+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -34,119 +34,123 @@ msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
 msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
 
 #: ../../contracts/voken.rst:10
+msgid "ENS Domain is **voken100g.eth**"
+msgstr "ENS 域名 **voken100g.eth**"
+
+#: ../../contracts/voken.rst:11
 msgid "Contract address is **0x82070415FEe803f94Ce5617Be1878503e58F0a6a**"
 msgstr "合约地址 **0x82070415FEe803f94Ce5617Be1878503e58F0a6a**"
 
-#: ../../contracts/voken.rst:11
+#: ../../contracts/voken.rst:12
 msgid "Deployed at `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_"
 msgstr "部署于 `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_"
 
-#: ../../contracts/voken.rst:12
+#: ../../contracts/voken.rst:13
 msgid "Block height `7635415`_"
 msgstr "区块高度 `7635415`_"
 
-#: ../../contracts/voken.rst:13
+#: ../../contracts/voken.rst:14
 msgid "Open-sourced under the `GNU General Public License v3.0`_"
 msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
 
-#: ../../contracts/voken.rst:14
+#: ../../contracts/voken.rst:15
 msgid "`View contract code on github repository`_"
 msgstr "`查看合约代码在 github 仓库`_"
 
-#: ../../contracts/voken.rst:16
+#: ../../contracts/voken.rst:17
 msgid "View on Etherscan.io:"
 msgstr "在 Etherscan.io 查看："
 
-#: ../../contracts/voken.rst:18
+#: ../../contracts/voken.rst:19
 msgid "`Voken Tracker`_"
 msgstr "`Voken 跟踪`_"
 
-#: ../../contracts/voken.rst:19
+#: ../../contracts/voken.rst:20
 msgid "`Read contract on Etherscan.io`_"
 msgstr "`通过 Etherscan.io 读取合约信息`_"
 
-#: ../../contracts/voken.rst:20
+#: ../../contracts/voken.rst:21
 msgid "`Write contract on Etherscan.io`_"
 msgstr "`通过 Etherscan.io 操作合约`_"
 
-#: ../../contracts/voken.rst:22
+#: ../../contracts/voken.rst:23
 msgid "Related links:"
 msgstr "相关链接："
 
-#: ../../contracts/voken.rst:24
+#: ../../contracts/voken.rst:25
 msgid ":ref:`voken_contract_upgraded`"
 msgstr ":ref:`voken_contract_upgraded`"
 
-#: ../../contracts/voken.rst:51
+#: ../../contracts/voken.rst:52
 msgid "Understand Voken Contract"
 msgstr "读懂 Voken 合约"
 
-#: ../../contracts/voken.rst:53
+#: ../../contracts/voken.rst:54
 msgid "If you want to learn more about voken contracts, this can help you."
 msgstr "如果您想深入了解 Voken 合约，这将帮助到您。"
 
-#: ../../contracts/voken.rst:57
+#: ../../contracts/voken.rst:58
 msgid "Meta"
 msgstr "元信息"
 
-#: ../../contracts/voken.rst:70
+#: ../../contracts/voken.rst:71
 msgid "Full Name"
 msgstr "全名"
 
-#: ../../contracts/voken.rst:70
+#: ../../contracts/voken.rst:71
 msgid "Vision.Network 100G Token"
 msgstr "Vision.Network 100G Token"
 
-#: ../../contracts/voken.rst:73
+#: ../../contracts/voken.rst:74
 msgid "Symbol"
 msgstr "字母简称"
 
-#: ../../contracts/voken.rst:73
+#: ../../contracts/voken.rst:74
 msgid "Voken"
 msgstr "Voken"
 
-#: ../../contracts/voken.rst:76
+#: ../../contracts/voken.rst:77
 msgid "Decimals"
 msgstr "小数位数"
 
-#: ../../contracts/voken.rst:76
+#: ../../contracts/voken.rst:77
 msgid "6"
 msgstr "6"
 
-#: ../../contracts/voken.rst:80
+#: ../../contracts/voken.rst:81
 msgid "Capped TotalSupply"
 msgstr "封顶的总供应量"
 
-#: ../../contracts/voken.rst:79
+#: ../../contracts/voken.rst:80
 msgid "35 billion"
 msgstr "350 亿"
 
-#: ../../contracts/voken.rst:83
+#: ../../contracts/voken.rst:84
 msgid "Voken-Sale Whitelist Registration trigger"
 msgstr "Voken 销售白名单注册触发"
 
-#: ../../contracts/voken.rst:102
+#: ../../contracts/voken.rst:103
 msgid ":ref:`voken_sale` whitelist registration trigger conditions:"
 msgstr ":ref:`voken_sale` 白名单注册的触发条件："
 
-#: ../../contracts/voken.rst:104
+#: ../../contracts/voken.rst:105
 msgid ""
 "``_allowWhitelistRegistration`` is ``true``, when registration is allowed."
 msgstr "``_allowWhitelistRegistration`` 是 ``true``，即主合约处在可注册的状态。"
 
-#: ../../contracts/voken.rst:105
+#: ../../contracts/voken.rst:106
 msgid "``value`` = ``_whitelistRegistrationValue``, that is 1,001 Vokens."
 msgstr "``value`` = ``_whitelistRegistrationValue`` ，即转账数量是 1,001 Vokens 。"
 
-#: ../../contracts/voken.rst:106
+#: ../../contracts/voken.rst:107
 msgid "``inWhitelist(to)``, receiver address is in whitelist."
 msgstr "``inWhitelist(to)`` ，接收地址已经在白名单中。"
 
-#: ../../contracts/voken.rst:107
+#: ../../contracts/voken.rst:108
 msgid "``!inWhitelist(msg.sender)``, sender address is not in whitelist."
 msgstr "``!inWhitelist(msg.sender)`` ，发送地址不在白名单中。"
 
-#: ../../contracts/voken.rst:108
+#: ../../contracts/voken.rst:109
 msgid ""
 "``isNotContract(msg.sender)``, sender address is not a contract, to avoid "
 "any \"Coincidental accident\" transfer from a contract, such as \"any type "
@@ -155,68 +159,68 @@ msgstr ""
 "``isNotContract(msg.sender)`` "
 "，发送地址不是合约，以避免任何来自合约转账的“巧合的意外”，包括“任何形式的批量转账”、“来自交易所的发送” 或其它任何形式的合约。"
 
-#: ../../contracts/voken.rst:112
+#: ../../contracts/voken.rst:113
 msgid ""
 "Transfers other than those under this special conditions are considered "
 "**NORMAL TRANSFERS**."
 msgstr "除在此特殊条件下的转账，都被视为 **普通转账** 。"
 
-#: ../../contracts/voken.rst:116
+#: ../../contracts/voken.rst:117
 msgid "Voken-Sale Whitelist Registration and Referral Reward"
 msgstr "Voken 销售白名单注册与转介奖励"
 
-#: ../../contracts/voken.rst:171
+#: ../../contracts/voken.rst:172
 msgid "Transfer 1,001 Vokens to a whitelisted address"
 msgstr "转账 1,001 Vokens 到白名单中的地址"
 
-#: ../../contracts/voken.rst:171
+#: ../../contracts/voken.rst:172
 msgid "Will trigger Voken-Sale whitelist registration."
 msgstr "将触发 Voken 销售白名单注册。"
 
-#: ../../contracts/voken.rst:175
+#: ../../contracts/voken.rst:176
 msgid "100% of the 1,001 Vokens will be rewarded"
 msgstr "1,001 Vokens 的 100% 将用于发放奖励"
 
-#: ../../contracts/voken.rst:174
+#: ../../contracts/voken.rst:175
 msgid "Up to 15 levels: 301 + 200 + 100 + ..."
 msgstr "最多 15 级：301 + 200 + 100 + ..."
 
-#: ../../contracts/voken.rst:180 ../../contracts/voken.rst:193
+#: ../../contracts/voken.rst:181 ../../contracts/voken.rst:194
 msgid "Check whether a ETH wallet address is whitelisted"
 msgstr "查看一个 ETH 钱包地址是否在白名单中"
 
-#: ../../contracts/voken.rst:191
+#: ../../contracts/voken.rst:192
 msgid ""
 "Call function ``inWhitelist(address account)``, if the given address was "
 "whitelisted, it will returns ``true``."
 msgstr ""
 "执行合约中的功能函数 ``inWhitelist(address account)`` ，如果给定的地址已在白名单中，则返回 ``true`` 。"
 
-#: ../../contracts/voken.rst:196
+#: ../../contracts/voken.rst:197
 msgid "Check whether the Voken-Sale whitelist registration is in process"
 msgstr "查看 Voken 销售白名单注册是否还在进行中"
 
-#: ../../contracts/voken.rst:220
+#: ../../contracts/voken.rst:221
 msgid ""
 "Check whether the :ref:`voken_sale` whitelist registration is in process"
 msgstr "查看 :ref:`voken_sale` 白名单注册是否还在进行中"
 
-#: ../../contracts/voken.rst:216
+#: ../../contracts/voken.rst:217
 msgid ""
 "Call function ``allowWhitelistRegistration()``, if it returns ``true``, "
 "registration is allowed."
 msgstr "执行合约中的功能函数 ``allowWhitelistRegistration()`` ，如果返回 ``true`` 说明注册是被允许的。"
 
-#: ../../contracts/voken.rst:219
+#: ../../contracts/voken.rst:220
 msgid ""
 "Whenever it returns ``false``, that means registration was disabled, and "
 "it's unrecoverable."
 msgstr "一旦返回 ``false`` 就意味着白名单注册已经关闭，并且不可逆。"
 
-#: ../../contracts/voken.rst:225 ../../contracts/voken.rst:241
+#: ../../contracts/voken.rst:226 ../../contracts/voken.rst:242
 msgid "Whitelist qualification transfer is supported"
 msgstr "白名单资格支持过户"
 
-#: ../../contracts/voken.rst:241
+#: ../../contracts/voken.rst:242
 msgid "Just call function ``transferWhitelist(address account)`` if you need."
 msgstr "只需执行合约中的功能函数 ``transferWhitelist(address account)`` ，如果你需要。"

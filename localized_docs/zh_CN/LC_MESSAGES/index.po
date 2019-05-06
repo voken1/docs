@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-27 10:52+0800\n"
+"POT-Creation-Date: 2019-05-06 11:37+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -89,8 +89,8 @@ msgid "**GitHub**"
 msgstr "**GitHub**"
 
 #: ../../index.rst:38
-msgid "`VisionNetworkProject`_"
-msgstr "`远景网络项目组`_"
+msgid "`voken100g`_"
+msgstr "`voken100g`_"
 
 #: ../../index.rst:40
 msgid "**Official News**"
@@ -120,38 +120,38 @@ msgstr "`英文交流组`_"
 msgid "`Chinese Group`_"
 msgstr "`中文交流组`_"
 
-#: ../../index.rst:61
+#: ../../index.rst:63
 msgid "News"
 msgstr "最新消息"
 
-#: ../../index.rst:73
+#: ../../index.rst:75
 msgid "Voken"
 msgstr "Voken 流量币"
 
-#: ../../index.rst:86
+#: ../../index.rst:88
 msgid "Available services"
 msgstr "当前可用服务"
 
-#: ../../index.rst:98
+#: ../../index.rst:100
 msgid "Guides"
 msgstr "使用与操作指导"
 
-#: ../../index.rst:116
+#: ../../index.rst:119
 msgid "References and views"
 msgstr "推荐阅读与观点集"
 
-#: ../../index.rst:131
+#: ../../index.rst:135
 msgid "Contracts on Ethereum"
 msgstr "以太坊智能合约"
 
-#: ../../index.rst:153
+#: ../../index.rst:156
 msgid "Contribute"
 msgstr "共建"
 
-#: ../../index.rst:168
+#: ../../index.rst:171
 msgid "Policy"
 msgstr "政策"
 
-#: ../../index.rst:178
+#: ../../index.rst:181
 msgid "Whitepaper v1.1.0"
 msgstr "白皮书 v1.1.0"

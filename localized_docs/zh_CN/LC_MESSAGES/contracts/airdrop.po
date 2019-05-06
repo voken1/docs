@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-01 22:40+0800\n"
+"POT-Creation-Date: 2019-05-06 11:37+0800\n"
 "PO-Revision-Date: 2019-01-17 05:19+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,25 +34,29 @@ msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
 msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
 
 #: ../../contracts/airdrop.rst:11
+msgid "ENS Domain is **airdrop.voken100g.eth**"
+msgstr "ENS 域名 **airdrop.voken100g.eth**"
+
+#: ../../contracts/airdrop.rst:12
 msgid "Contract address is **0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA**"
 msgstr "合约地址 **0x4B14F1aaa878cCF70d58AEC682592dcD0Fe025BA**"
 
-#: ../../contracts/airdrop.rst:12
+#: ../../contracts/airdrop.rst:13
 msgid "Deployed at `Tx Hash 0x6a10e3d183738d7f3e2da09aec8f649d...`_"
 msgstr "部署于 `Tx Hash 0x6a10e3d183738d7f3e2da09aec8f649d...`_"
 
-#: ../../contracts/airdrop.rst:13
+#: ../../contracts/airdrop.rst:14
 msgid "Block height `7575490`_"
 msgstr "区块高度 `7575490`_"
 
-#: ../../contracts/airdrop.rst:14
+#: ../../contracts/airdrop.rst:15
 msgid "Open-sourced under the `GNU General Public License v3.0`_"
 msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
 
-#: ../../contracts/airdrop.rst:15
+#: ../../contracts/airdrop.rst:16
 msgid "`View contract code on github repository`_"
 msgstr "`查看合约代码在 github 仓库`_"
 
-#: ../../contracts/airdrop.rst:16
+#: ../../contracts/airdrop.rst:17
 msgid "`View contract on Etherscan.io`_"
 msgstr "`通过 Etherscan.io 查看合约`_"

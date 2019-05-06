@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-02 09:39+0800\n"
+"POT-Creation-Date: 2019-05-06 11:37+0800\n"
 "PO-Revision-Date: 2019-05-01 14:42+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,53 +39,57 @@ msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
 msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
 
 #: ../../contracts/get_1002voken.rst:12
+msgid "ENS Domain is **get1002.voken100g.eth**"
+msgstr "ENS 域名 **get1002.voken100g.eth**"
+
+#: ../../contracts/get_1002voken.rst:13
 msgid "Contract address is **0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe**"
 msgstr "合约地址 **0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe**"
 
-#: ../../contracts/get_1002voken.rst:13
+#: ../../contracts/get_1002voken.rst:14
 msgid "Deployed at `Tx Hash 0xd47c89a18e481b11a42e6f57cba08bbd...`_"
 msgstr "部署于 `Tx Hash 0xd47c89a18e481b11a42e6f57cba08bbd...`_"
 
-#: ../../contracts/get_1002voken.rst:14
+#: ../../contracts/get_1002voken.rst:15
 msgid "Block height `7674815`_"
 msgstr "区块高度 `7674815`_"
 
-#: ../../contracts/get_1002voken.rst:15
+#: ../../contracts/get_1002voken.rst:16
 msgid "Open-sourced under the `GNU General Public License v3.0`_"
 msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
 
-#: ../../contracts/get_1002voken.rst:16
+#: ../../contracts/get_1002voken.rst:17
 msgid "`View contract code on github repository`_"
 msgstr "`查看合约代码在 github 仓库`_"
 
-#: ../../contracts/get_1002voken.rst:17
+#: ../../contracts/get_1002voken.rst:18
 msgid "`View contract on Etherscan.io`_"
 msgstr "`通过 Etherscan.io 查看合约`_"
 
-#: ../../contracts/get_1002voken.rst:41
+#: ../../contracts/get_1002voken.rst:42
 msgid "How to get 1,002.0 Vokens by sending ETH?"
 msgstr "如何发送 ETH 换取 1,002.0 Vokens ？"
 
-#: ../../contracts/get_1002voken.rst:47
+#: ../../contracts/get_1002voken.rst:48
 msgid "**0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe**"
 msgstr "**0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe**"
 
-#: ../../contracts/get_1002voken.rst:51
+#: ../../contracts/get_1002voken.rst:52
 msgid "Brief guide"
 msgstr "简要指导"
 
-#: ../../contracts/get_1002voken.rst:53
+#: ../../contracts/get_1002voken.rst:54
 msgid ""
 "Send **1 ETH** to contract address above, you will receive exactly **1,002.0"
 " Vokens** and all the unused ETH automatically."
 msgstr "发送 **1 ETH** 到上边的合约地址，您将会自动收到刚刚好 **1,002.0 Vokens** 和所有未使用的 ETH 。"
 
-#: ../../contracts/get_1002voken.rst:58
+#: ../../contracts/get_1002voken.rst:59
 msgid ""
 "Set ``gas limit`` to ``300,000``, the rest will be returned automatically."
 msgstr "请将 ``gas limit`` 设置为 ``300,000`` ，剩余部分将自动退回。"
 
-#: ../../contracts/get_1002voken.rst:62
+#: ../../contracts/get_1002voken.rst:63
 msgid "To use this contract, you must meet these two conditions"
 msgstr "使用这个合约，您必须满足两个条件"
 
@@ -108,31 +112,31 @@ msgid ""
 "in the very same transaction)."
 msgstr "您发送的交易总金额需要 **大于等于 1 ETH** （所有未使用的 ETH 将会被合约自动退款，就在同一笔交易里）"
 
-#: ../../contracts/get_1002voken.rst:70
+#: ../../contracts/get_1002voken.rst:71
 msgid ""
 "Transactions that do not meet the conditions will be automatically reverted "
 "by the contract."
 msgstr "所有不合条件的交易都将被合约自动拒绝。"
 
-#: ../../contracts/get_1002voken.rst:74
+#: ../../contracts/get_1002voken.rst:75
 msgid "For example"
 msgstr "举例说明"
 
-#: ../../contracts/get_1002voken.rst:76
+#: ../../contracts/get_1002voken.rst:77
 msgid "If the :ref:`voken_sale` has not been started:"
 msgstr "如果 :ref:`voken_sale` 还未开始："
 
-#: ../../contracts/get_1002voken.rst:78
+#: ../../contracts/get_1002voken.rst:79
 msgid "The voken price is **$0.001** (price of stage #0)"
 msgstr "Voken 价格是 **$0.001 美元** （销售第 0 阶段的价格）"
 
-#: ../../contracts/get_1002voken.rst:79
+#: ../../contracts/get_1002voken.rst:80
 msgid ""
 "If the `Audit ETH Price is $170.00`, which means **you can use 1 ETH as $170"
 " USD**."
 msgstr "如果 `ETH 审计价格是 $170.00 美元` ，这意味着 **您可以将 1 ETH 当作 $170 美元使用** 。"
 
-#: ../../contracts/get_1002voken.rst:82
+#: ../../contracts/get_1002voken.rst:83
 msgid ""
 "You can send any amount which is greater than **1 ETH** to the address of "
 "this contract above, for example **1 ETH**, you will receive exactly "
@@ -142,7 +146,7 @@ msgstr ""
 "您可以发送任何大于 **1 ETH** 的金额到上边的合约地址，比如按 **1 ETH** 举例，您将自动收到刚刚好 **1,002.0 "
 "Vokens** 和所有未使用的 **0.994105882352941177 ETH** 。"
 
-#: ../../contracts/get_1002voken.rst:87
+#: ../../contracts/get_1002voken.rst:88
 msgid ""
 "(For 1,002.0 Vokens, it costs `$0.001 x 1002 =` **$1.002 USD**, there is `1 "
 "ETH` for `$170 USD` and only `$1.002 USD` will be used, that is "
