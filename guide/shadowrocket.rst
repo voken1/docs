@@ -60,7 +60,7 @@ the **stable** and **online** is recommended, we choose the stable one here:
 .. code-block:: text
 
    // copy this
-   https://git.io/autossr-stable
+   https://git.io/autossr_stable
 
 At the same time, you can give it a name in the **Remark** blank,
 then press **Done**:

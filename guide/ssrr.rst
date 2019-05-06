@@ -56,7 +56,7 @@ the **stable** and **online** is recommended, we choose the stable one here:
 .. code-block:: text
 
    // copy this
-   https://git.io/autossr-online
+   https://git.io/autossr_stable
 
 then press **OK**:
 
