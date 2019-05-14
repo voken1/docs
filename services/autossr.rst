@@ -18,16 +18,19 @@ Subscribe by URL
 
 Choose one or more URL below of the 3 levels, and add to your SSR client:
 
-+------------+---------------------------------+-------------------------------------------------------+
-| LEVEL      | URL                             |                                                       |
-+============+=================================+=======================================================+
-| **ONLINE** | `https://git.io/autossr_online` | All the online servers, available more than one hour. |
-+------------+---------------------------------+-------------------------------------------------------+
-| **STABLE** | `https://git.io/autossr_stable` | Available more the 12 hours, seems they are stable.   |
-+------------+---------------------------------+-------------------------------------------------------+
-| **RECENT** | `https://git.io/autossr_recent` | Recent servers, active in 6 hours.                    |
-+------------+---------------------------------+-------------------------------------------------------+
++------------+---------------+-------------------------------------------------------+
+| LEVEL      | URL           |                                                       |
++============+===============+=======================================================+
+| **ONLINE** | |sub_online|  | All the online servers, available more than one hour. |
++------------+---------------+-------------------------------------------------------+
+| **STABLE** | |sub_stable|  | Available more the 12 hours, seems they are stable.   |
++------------+---------------+-------------------------------------------------------+
+| **RECENT** | |sub_recent|  | Recent servers, active in 6 hours.                    |
++------------+---------------+-------------------------------------------------------+
 
+.. |sub_online| replace:: ``https://git.io/autossr_online``
+.. |sub_stable| replace:: ``https://git.io/autossr_stable``
+.. |sub_recent| replace:: ``https://git.io/autossr_recent``
 
 
 Supported clients

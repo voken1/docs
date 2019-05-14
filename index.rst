@@ -156,7 +156,14 @@ more open, more equal, more stable, more efficient, safer and freer.
    contracts/batch_transfer
 
 
+------
+
 .. _contribute:
+
+.. image:: /_static/posters/shape_the_future.png
+   :width: 100 %
+   :alt: shape_the_future.png
+   :align: center
 
 .. toctree::
    :maxdepth: 1
@@ -170,6 +177,15 @@ more open, more equal, more stable, more efficient, safer and freer.
    contributing/issue
 
 
+.. _materials:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Materials
+
+   materials/posters
+..   materials/logos
+
 
 .. _policy:
 
@@ -177,9 +193,10 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Policy
 
-   policy/rules_in_chatting_group
+   policy/chatting_group
 
 
+------
 
 .. _whitepaper:
 
