@@ -1,7 +1,10 @@
 .. _rules-in-chatting-group:
 
+Chatting group
+==============
+
 Rules in chatting group
-=======================
+-----------------------
 
 1. No political topics
 2. No pornography, drugs, gambling topics
@@ -11,13 +14,18 @@ Rules in chatting group
 6. ...
 
 
-BOT text
---------
 
-Welcome
-_______
 
-EN:
+Text for BOT
+------------
+
+For ``Group Butler``.
+
+
+Welcome text
+____________
+
+English:
 
 .. code-block:: text
 
@@ -32,7 +40,9 @@ EN:
    1. [Voken Public-Sale (About to start)](https://voken.io/en/latest/token/sale.html)
    2. [Voken Referral Program](https://voken.io/en/latest/policy/voken_referral_program.html)
 
-CN:
+
+
+Simplified Chinese:
 
 .. code-block:: text
 
