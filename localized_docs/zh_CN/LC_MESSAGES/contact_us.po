@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Jill Henry <vnjillhenry@gmail.com>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-06 14:20+0800\n"
 "PO-Revision-Date: 2019-05-06 06:21+0000\n"
+"Last-Translator: Jill Henry <vnjillhenry@gmail.com>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,88 +23,88 @@ msgstr ""
 
 #: ../../contact_us.rst:4
 msgid "Contact us"
-msgstr ""
+msgstr "联系我们"
 
 #: ../../contact_us.rst:7
 msgid "|logo_earth|"
-msgstr ""
+msgstr "|logo_earth|"
 
 #: ../../contact_us.rst:10
 msgid "Official Website"
-msgstr ""
+msgstr "官方网站"
 
 #: ../../contact_us.rst:12
 msgid "https://vision.network/"
-msgstr ""
+msgstr "https://vision.network/"
 
 #: ../../contact_us.rst:13
 msgid "https://vision.network/zh-cn (Simplified Chinese)"
-msgstr ""
+msgstr "https://vision.network/zh-cn (简体中文)"
 
 #: ../../contact_us.rst:16
 msgid "|logo_github|"
-msgstr ""
+msgstr "|logo_github|"
 
 #: ../../contact_us.rst:19
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #: ../../contact_us.rst:20
 msgid "https://github.com/voken100g"
-msgstr ""
+msgstr "https://github.com/voken100g"
 
 #: ../../contact_us.rst:23
 msgid "|logo_twitter|"
-msgstr ""
+msgstr "|logo_twitter|"
 
 #: ../../contact_us.rst:26
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ../../contact_us.rst:28
 msgid "https://twitter.com/voken100g"
-msgstr ""
+msgstr "https://twitter.com/voken100g"
 
 #: ../../contact_us.rst:31
 msgid "|logo_telegram|"
-msgstr ""
+msgstr "|logo_telegram|"
 
 #: ../../contact_us.rst:34
 msgid "Telegram"
-msgstr ""
+msgstr "Telegram"
 
 #: ../../contact_us.rst:38
 msgid "Group"
-msgstr ""
+msgstr "群组"
 
 #: ../../contact_us.rst:37
 msgid "https://t.me/voken100g"
-msgstr ""
+msgstr "https://t.me/voken100g"
 
 #: ../../contact_us.rst:38
 msgid "https://t.me/vokenCN (Chinese Group)"
-msgstr ""
+msgstr "https://t.me/vokenCN (中文群组)"
 
 #: ../../contact_us.rst:42
 msgid "News Channel"
-msgstr ""
+msgstr "消息频道"
 
 #: ../../contact_us.rst:41
 msgid "https://t.me/vokenNews"
-msgstr ""
+msgstr "https://t.me/vokenNews"
 
 #: ../../contact_us.rst:44
 msgid "|logo_doc|"
-msgstr ""
+msgstr "|logo_doc|"
 
 #: ../../contact_us.rst:47
 msgid "Documents"
-msgstr ""
+msgstr "文档"
 
 #: ../../contact_us.rst:49
 msgid "https://voken.io/"
-msgstr ""
+msgstr "https://voken.io/"
 
 #: ../../contact_us.rst:50
 msgid "https://voken.io/zh_CN/latest/ (Simplified Chinese)"
-msgstr ""
+msgstr "https://voken.io/zh_CN/latest/ (简体中文)"

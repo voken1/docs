@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-06 11:44+0800\n"
+"POT-Creation-Date: 2019-05-16 11:46+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -57,8 +57,8 @@ msgid "**ONLINE**"
 msgstr "**在线**"
 
 #: ../../services/autossr.rst:24
-msgid "`https://git.io/autossr_online`"
-msgstr "`https://git.io/autossr_online`"
+msgid "|sub_online|"
+msgstr ""
 
 #: ../../services/autossr.rst:24
 msgid "All the online servers, available more than one hour."
@@ -69,8 +69,8 @@ msgid "**STABLE**"
 msgstr "**稳定**"
 
 #: ../../services/autossr.rst:26
-msgid "`https://git.io/autossr_stable`"
-msgstr "`https://git.io/autossr_stable`"
+msgid "|sub_stable|"
+msgstr ""
 
 #: ../../services/autossr.rst:26
 msgid "Available more the 12 hours, seems they are stable."
@@ -81,37 +81,37 @@ msgid "**RECENT**"
 msgstr "**最近**"
 
 #: ../../services/autossr.rst:28
-msgid "`https://git.io/autossr_recent`"
-msgstr "`https://git.io/autossr_recent`"
+msgid "|sub_recent|"
+msgstr ""
 
 #: ../../services/autossr.rst:28
 msgid "Recent servers, active in 6 hours."
 msgstr "近 6 小时活跃过的服务器。"
 
-#: ../../services/autossr.rst:34
+#: ../../services/autossr.rst:37
 msgid "Supported clients"
 msgstr "支持的客户端"
 
-#: ../../services/autossr.rst:36
+#: ../../services/autossr.rst:39
 msgid "`Shadowrocket`_ on iOS"
 msgstr "`Shadowrocket`_ 在 iOS 上"
 
-#: ../../services/autossr.rst:37
+#: ../../services/autossr.rst:40
 msgid "SSR/`SSRR`_ on Android"
 msgstr "SSR/`SSRR`_ 在安卓上"
 
-#: ../../services/autossr.rst:38
+#: ../../services/autossr.rst:41
 msgid "`ShadowsocksR`_ on windows"
 msgstr "`ShadowsocksR`_ 在 Windows 上"
 
-#: ../../services/autossr.rst:47
+#: ../../services/autossr.rst:50
 msgid "Guides"
 msgstr "使用指导"
 
-#: ../../services/autossr.rst:49
+#: ../../services/autossr.rst:52
 msgid ":ref:`guide_for_shadowrocket`"
 msgstr ":ref:`guide_for_shadowrocket`"
 
-#: ../../services/autossr.rst:50
+#: ../../services/autossr.rst:53
 msgid ":ref:`guide_for_ssrr`"
 msgstr ":ref:`guide_for_ssrr`"

@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-27 18:25+0800\n"
 "PO-Revision-Date: 2019-02-27 08:27+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +29,7 @@ msgstr "基础原则"
 msgid ""
 "Freedom, equality, openness, sharing, is the basic gene of the Internet, "
 "communication security and privacy protection are the basic rights of users."
-msgstr "自由、平等、开放、自由是互联网的基础基因，通信安全和隐私保护是用户的基本权利。"
+msgstr "自由、平等、开放、共享是互联网的基础基因，通信安全和隐私保护是用户的基本权力。"
 
 #: ../../views/basic_principles.rst:8
 msgid "Service generates real value."

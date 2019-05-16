@@ -15,11 +15,11 @@ Rules in chatting group
 
 
 
-
 Text for BOT
 ------------
 
-For ``Group Butler``.
+For ``Group Butler``
+
 
 
 Welcome text

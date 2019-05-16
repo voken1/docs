@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Jill Henry <vnjillhenry@gmail.com>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-14 12:46+0800\n"
+"PO-Revision-Date: 2019-05-14 04:52+0000\n"
+"Last-Translator: Jill Henry <vnjillhenry@gmail.com>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../materials/posters.rst:4
+msgid "Posters"
+msgstr "海报"
+
+#: ../../materials/posters.rst:9
+msgid "Horizontal"
+msgstr "横版"
+
+#: ../../materials/posters.rst:13
+msgid "Shape the future Internet"
+msgstr "塑造互联网的未来"
+
+#: ../../materials/posters.rst:22
+msgid "Man was born free"
+msgstr "人，生而自由"
+
+#: ../../materials/posters.rst:31
+msgid "270 Million People"
+msgstr "2.7 亿用户"
+
+#: ../../materials/posters.rst:40
+msgid "Voken Airdrop"
+msgstr "Voken 空投"

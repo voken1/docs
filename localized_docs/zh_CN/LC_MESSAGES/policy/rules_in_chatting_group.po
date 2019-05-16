@@ -3,17 +3,13 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# VISION official <michael@vision.network>, 2019
-# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-09 16:29+0800\n"
-"PO-Revision-Date: 2019-03-09 08:31+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"PO-Revision-Date: 2019-05-14 04:49+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,28 +19,28 @@ msgstr ""
 
 #: ../../policy/rules_in_chatting_group.rst:4
 msgid "Rules in chatting group"
-msgstr "讨论组规则"
+msgstr ""
 
 #: ../../policy/rules_in_chatting_group.rst:6
 msgid "No political topics"
-msgstr "禁止任何政治话题"
+msgstr ""
 
 #: ../../policy/rules_in_chatting_group.rst:7
 msgid "No pornography, drugs, gambling topics"
-msgstr "禁止色情、毒品或赌博类话题"
+msgstr ""
 
 #: ../../policy/rules_in_chatting_group.rst:8
 msgid "Pay more attention to technology, applications, services, and value"
-msgstr "关注科技、应用、服务和价值"
+msgstr ""
 
 #: ../../policy/rules_in_chatting_group.rst:9
 msgid "No personal attacks"
-msgstr "禁止人身攻击"
+msgstr ""
 
 #: ../../policy/rules_in_chatting_group.rst:10
 msgid "Thinking and experience sharing are welcome"
-msgstr "欢迎分享思考和经验"
+msgstr ""
 
 #: ../../policy/rules_in_chatting_group.rst:11
 msgid "..."
-msgstr "..."
+msgstr ""
