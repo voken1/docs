@@ -18,19 +18,23 @@ Subscribe by URL
 
 Choose one or more URL below of the 3 levels, and add to your SSR client:
 
-+------------+---------------+-------------------------------------------------------+
-| LEVEL      | URL           |                                                       |
-+============+===============+=======================================================+
-| **ONLINE** | |sub_online|  | All the online servers, available more than one hour. |
-+------------+---------------+-------------------------------------------------------+
-| **STABLE** | |sub_stable|  | Available more the 12 hours, seems they are stable.   |
-+------------+---------------+-------------------------------------------------------+
-| **RECENT** | |sub_recent|  | Recent servers, active in 6 hours.                    |
-+------------+---------------+-------------------------------------------------------+
+ONLINE
+   All online servers, available more than 1 hour.
 
-.. |sub_online| replace:: ``https://git.io/autossr_online``
-.. |sub_stable| replace:: ``https://git.io/autossr_stable``
-.. |sub_recent| replace:: ``https://git.io/autossr_recent``
+   | ``https://git.io/autossr_online``
+   | ``https://raw.githubusercontent.com/voken100g/AutoSSR/master/online``
+
+STABLE
+   Available more than 6 hours, seems they are more stable.
+
+   | ``https://git.io/autossr_stable``
+   | ``https://raw.githubusercontent.com/voken100g/AutoSSR/master/stable``
+
+RECENT
+   Recent servers, active in 12 hours.
+
+   | ``https://git.io/autossr_recent``
+   | ``https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent``
 
 
 Supported clients

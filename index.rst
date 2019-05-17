@@ -110,6 +110,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    guide/register_voken_sale_whitelist
    guide/read_voken_sale_contract
    guide/batch_transfer
+   guide/imtoken
    guide/metamask
    guide/shadowrocket
    guide/ssrr

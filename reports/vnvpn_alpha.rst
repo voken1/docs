@@ -9,6 +9,12 @@ Just for internal testing and a small number of invited users.
 Changelog
 ---------
 
+`v0.5.3`_
+   - Fixed a bug during loading server node list.
+
+.. _v0.5.3: https://github.com/voken100g/vnVPN_windows/releases/tag/v0.5.3
+
+
 `v0.5.2`_
    - Allow LAN
    - System proxy

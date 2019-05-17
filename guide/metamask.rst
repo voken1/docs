@@ -1,7 +1,7 @@
 .. _guide_for_metamask:
 
-How to install and use MetaMask?
-================================
+ETH wallet: MetaMask on PC
+==========================
 
 |logo_metamask|
 
@@ -45,7 +45,7 @@ ____________________
 Create a new wallet
 -------------------
 
-If this is your first time using MetaMask,
+If this is your first time using MetaMask [#MetaMask]_,
 you need to create a new wallet as shown below.
 
 | **Never disclose your backup phrase.**
@@ -60,7 +60,7 @@ it is not guaranteed to be safe.
 So, **write them down on the paper, and keep it safe.**
 
 With these phrases,
-you can restore this wallet or reset the password via MetaMask.
+you can restore this wallet or reset the password via MetaMask [#MetaMask]_.
 
 .. image:: /_static/guide/metamask_create_wallet.gif
    :align: center
