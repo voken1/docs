@@ -185,6 +185,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :caption: Materials
 
    materials/posters
+..   materials/x_days_to_sale
 ..   materials/logos
 
 
