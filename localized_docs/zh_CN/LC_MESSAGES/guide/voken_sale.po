@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-25 19:45+0800\n"
+"POT-Creation-Date: 2019-05-17 21:31+0800\n"
 "PO-Revision-Date: 2019-04-25 12:27+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -21,6 +21,152 @@ msgstr ""
 msgid "How to participate in Voken Public-Sale?"
 msgstr ""
 
-#: ../../guide/voken_sale.rst:6
-msgid "TBC."
+#: ../../guide/voken_sale.rst:9
+msgid "Join the whitelist"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:12
+msgid "Why should I join the whitelist?"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:14
+msgid ""
+"Using a whitelisted ETH wallet address would enjoy a gift of **BUY ONE AND "
+"GET ONE MORE FREE** during the :ref:`voken_sale`."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:16
+msgid ""
+"By sharing your whitelisted ETH wallet address, you will **earn ETH and "
+"Vokens**."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:19
+msgid "How can I join the whitelist?"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:21
+msgid ""
+"Use your own ETH wallet, send **1,001 Vokens** to the address which is "
+"whitelisted already, and your wallet address will be successfully "
+"registered."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:27
+msgid "Get 1,002 Voken"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:29
+msgid ""
+"Send **1 ETH** to contract which address is "
+"**0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe**, you will receive exactly "
+"**1,002.0 Vokens** and **all the unused ETH** automatically."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:32
+msgid "More details: :ref:`get_1002voken_contract`"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:36
+msgid "Set `gas limit` to `300,000`, the rest will be returned automatically."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:40
+msgid "Send 1,001 Vokens to register"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:42
+msgid "Send **1,001 Vokens** to an address which is whitelisted."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:44
+msgid ""
+"Ask your friends for a whitelisted address, according to "
+":ref:`voken_referral_program`, your friends will receive some whitelist "
+"registration rewards. Or you can also find one in the :ref:`voken_telegram`."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:49
+msgid "More details: :ref:`guide_for_voken_sale_whitelist`"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:54
+msgid "Buy Voken using ETH"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:58
+msgid "If you do not have ETH yet, the exchanges can help."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:65
+msgid "**0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:67
+msgid ""
+"Use your own ETH wallet, send ETH to the **Voken Public-Sale contract "
+"address** above, you will receive Vokens automatically."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:74
+msgid "Send ETH to Voken Public-Sale contract"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:76
+msgid "Use your own ETH Wallet, chose **Send ETH**."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:77
+msgid "To address: **0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:78
+msgid "ETH amount: Greater than ``10 ETH`` would receive extra rewards."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:79
+msgid ""
+"Set **Gas Limit** >= ``3,000,000``, upper limit is ``8,000,000``. If the "
+"transaction interrupted with `out of gas`, all the unused ETH will return "
+"automatically."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:81
+msgid ""
+"Set **Gas Price**, if you want transaction speed up, you could choose higher"
+" price, or leave it as default."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:83
+msgid "Send the transaction."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:84
+msgid "Waiting for Ethereum blockchain to confirm."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:85
+msgid ""
+"**Receive Vokens**. Since one single transaction may span stages or even "
+"seasons, the price of the transaction would rise slightly."
+msgstr ""
+
+#: ../../guide/voken_sale.rst:92
+msgid "Recommended ETH Wallet"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:94
+msgid "Related links:"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:96
+msgid ":ref:`guide_for_metamask`"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:97
+msgid ":ref:`guide_for_imtoken`"
+msgstr ""
+
+#: ../../guide/voken_sale.rst:98
+msgid ":ref:`eth_wallet`"
 msgstr ""

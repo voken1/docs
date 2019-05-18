@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-16 11:46+0800\n"
+"POT-Creation-Date: 2019-05-17 21:31+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -44,74 +44,78 @@ msgid ""
 "Choose one or more URL below of the 3 levels, and add to your SSR client:"
 msgstr "在以下 3 个链接中的一个或多个，并且添加至你的 SSR 客户端："
 
-#: ../../services/autossr.rst:22
-msgid "LEVEL"
-msgstr "级别"
+#: ../../services/autossr.rst:25
+msgid "ONLINE"
+msgstr "ONLINE 在线"
 
 #: ../../services/autossr.rst:22
-msgid "URL"
-msgstr "链接"
-
-#: ../../services/autossr.rst:24
-msgid "**ONLINE**"
-msgstr "**在线**"
-
-#: ../../services/autossr.rst:24
-msgid "|sub_online|"
-msgstr ""
-
-#: ../../services/autossr.rst:24
-msgid "All the online servers, available more than one hour."
+msgid "All online servers, available more than 1 hour."
 msgstr "所有在线的服务器，在线时间大于 1 小时以上。"
 
-#: ../../services/autossr.rst:26
-msgid "**STABLE**"
-msgstr "**稳定**"
+#: ../../services/autossr.rst:0
+msgid "``https://git.io/autossr_online``"
+msgstr "``https://git.io/autossr_online``"
 
-#: ../../services/autossr.rst:26
-msgid "|sub_stable|"
-msgstr ""
+#: ../../services/autossr.rst:0
+msgid "``https://raw.githubusercontent.com/voken100g/AutoSSR/master/online``"
+msgstr "``https://raw.githubusercontent.com/voken100g/AutoSSR/master/online``"
 
-#: ../../services/autossr.rst:26
-msgid "Available more the 12 hours, seems they are stable."
-msgstr "在线时间大于 12 小时，这些服务器更稳定。"
-
-#: ../../services/autossr.rst:28
-msgid "**RECENT**"
-msgstr "**最近**"
+#: ../../services/autossr.rst:31
+msgid "STABLE"
+msgstr "STABLE 稳定"
 
 #: ../../services/autossr.rst:28
-msgid "|sub_recent|"
-msgstr ""
+msgid "Available more than 6 hours, seems they are more stable."
+msgstr "在线时间大于 6 小时，这些节点更稳定。"
 
-#: ../../services/autossr.rst:28
-msgid "Recent servers, active in 6 hours."
-msgstr "近 6 小时活跃过的服务器。"
+#: ../../services/autossr.rst:0
+msgid "``https://git.io/autossr_stable``"
+msgstr "``https://git.io/autossr_stable``"
 
-#: ../../services/autossr.rst:37
+#: ../../services/autossr.rst:0
+msgid "``https://raw.githubusercontent.com/voken100g/AutoSSR/master/stable``"
+msgstr "``https://raw.githubusercontent.com/voken100g/AutoSSR/master/stable``"
+
+#: ../../services/autossr.rst:38
+msgid "RECENT"
+msgstr "RECENT 最近"
+
+#: ../../services/autossr.rst:34
+msgid "Recent servers, active in 12 hours."
+msgstr "近 12 小时活跃过的服务器。"
+
+#: ../../services/autossr.rst:0
+msgid "``https://git.io/autossr_recent``"
+msgstr "``https://git.io/autossr_recent``"
+
+#: ../../services/autossr.rst:0
+msgid "``https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent``"
+msgstr "``https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent``"
+
+#: ../../services/autossr.rst:41
 msgid "Supported clients"
 msgstr "支持的客户端"
 
-#: ../../services/autossr.rst:39
+#: ../../services/autossr.rst:43
 msgid "`Shadowrocket`_ on iOS"
 msgstr "`Shadowrocket`_ 在 iOS 上"
 
-#: ../../services/autossr.rst:40
+#: ../../services/autossr.rst:44
 msgid "SSR/`SSRR`_ on Android"
 msgstr "SSR/`SSRR`_ 在安卓上"
 
-#: ../../services/autossr.rst:41
+#: ../../services/autossr.rst:45
 msgid "`ShadowsocksR`_ on windows"
 msgstr "`ShadowsocksR`_ 在 Windows 上"
 
-#: ../../services/autossr.rst:50
+#: ../../services/autossr.rst:54
 msgid "Guides"
 msgstr "使用指导"
 
-#: ../../services/autossr.rst:52
+#: ../../services/autossr.rst:56
 msgid ":ref:`guide_for_shadowrocket`"
 msgstr ":ref:`guide_for_shadowrocket`"
 
-#: ../../services/autossr.rst:53
+#: ../../services/autossr.rst:57
 msgid ":ref:`guide_for_ssrr`"
 msgstr ":ref:`guide_for_ssrr`"

@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-17 21:31+0800\n"
+"PO-Revision-Date: 2019-05-17 13:36+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../guide/imtoken.rst:4
+msgid "ETH wallet: imToken on Mobile"
+msgstr "手机端以太坊钱包： imToken"
+
+#: ../../guide/imtoken.rst:6
+msgid "|logo_imtoken|"
+msgstr "|logo_imtoken|"
+
+#: ../../guide/imtoken.rst:8
+msgid ""
+"imToken [#imToken]_ is an excellent multi-chain digital asset wallet APP for"
+" iOS and Android, supports Voken, Ethereum, Bitcoin, and EOS."
+msgstr ""
+"imToken [#imToken]_ 是一个卓越的 iOS 和 Android 端的多链数字资产钱包工具，支持  Voken, Ethereum, "
+"Bitcoin 和 EOS 。"
+
+#: ../../guide/imtoken.rst:14
+msgid "Installation"
+msgstr "安装"
+
+#: ../../guide/imtoken.rst:16
+msgid "Search **imToken** in APP Store, and install it."
+msgstr "在应用商店中搜索 **imToken** 并安装它。"
+
+#: ../../guide/imtoken.rst:25
+msgid ""
+"**imToken** might not be downloaded by iOS system in APP Store in some "
+"regions, You can try to switch the region of Apple ID to download, or select"
+" other wallet such as `Tokenary`."
+msgstr ""
+"一些特殊区域的账号可能无法在苹果 APP Store 中下载安装 **imToken** ，你可以尝试切换至其它区域的账号下载，或者尝试使用其它钱包 "
+"APP 比如 `Tokenary` 。"
+
+#: ../../guide/imtoken.rst:31
+msgid "Create a new wallet"
+msgstr "创建一个新钱包"
+
+#: ../../guide/imtoken.rst:33
+msgid ""
+"If this is your first time using imToken [#imToken]_, you need to create a "
+"new wallet as shown below."
+msgstr "如果您是第一次使用 imToken [#imToken]_ ，您需要按演示流程创建一个钱包。"
+
+#: ../../guide/imtoken.rst:36
+msgid "**Never disclose your backup mnemonic phrase.**"
+msgstr "**永远不要透露您的助记词。**"
+
+#: ../../guide/imtoken.rst:37
+msgid "**Anyone with the phrases can take all your ETH and Tokens forever.**"
+msgstr "**任何知晓助记词的人都可以永久性的转移走您钱包中的 ETH 和 Tokens。**"
+
+#: ../../guide/imtoken.rst:39
+msgid "Write them down **ON THE PAPER** is recommended."
+msgstr "把它们写下来，**在纸上** 是推荐的。"
+
+#: ../../guide/imtoken.rst:41
+msgid ""
+"From a security point of view, even if you save plain text on your computer "
+"or mobile phone, it is not guaranteed to be safe."
+msgstr "从安全的角度来考虑，在电脑或手机里明文文本保存也不一定是安全的。"
+
+#: ../../guide/imtoken.rst:45
+msgid "So, **write them down on the paper, and keep it safe.**"
+msgstr "所以，**把他们写在纸上，并保证安全。**"
+
+#: ../../guide/imtoken.rst:47
+msgid ""
+"With these phrases, you can restore this wallet or reset the password via "
+"imToken [#imToken]_."
+msgstr "通过 imToken [#imToken]_ 使用助记词，您还能恢复钱包或重置钱包密码。"
+
+#: ../../guide/imtoken.rst:57
+msgid "Send ETH"
+msgstr ""
+
+#: ../../guide/imtoken.rst:59 ../../guide/imtoken.rst:65
+msgid "TBC."
+msgstr ""
+
+#: ../../guide/imtoken.rst:63
+msgid "Send Voken"
+msgstr ""
+
+#: ../../guide/imtoken.rst:69
+msgid "**imToken** https://token.im/"
+msgstr ""

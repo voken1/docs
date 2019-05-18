@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../policy/chatting_group.rst:4
 msgid "Chatting group"
-msgstr ""
+msgstr "讨论组中的聊天交流"
 
 #: ../../policy/chatting_group.rst:7
 msgid "Rules in chatting group"

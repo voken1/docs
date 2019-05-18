@@ -5,15 +5,16 @@
 # 
 # Translators:
 # Jill Henry <vnjillhenry@gmail.com>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-06 14:20+0800\n"
+"POT-Creation-Date: 2019-05-17 21:31+0800\n"
 "PO-Revision-Date: 2019-05-06 06:21+0000\n"
-"Last-Translator: Jill Henry <vnjillhenry@gmail.com>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,7 +40,7 @@ msgstr "https://vision.network/"
 
 #: ../../contact_us.rst:13
 msgid "https://vision.network/zh-cn (Simplified Chinese)"
-msgstr "https://vision.network/zh-cn (简体中文)"
+msgstr "https://vision.network/zh-cn （简体中文）"
 
 #: ../../contact_us.rst:16
 msgid "|logo_github|"
@@ -59,52 +60,52 @@ msgstr "|logo_twitter|"
 
 #: ../../contact_us.rst:26
 msgid "Twitter"
-msgstr "Twitter"
+msgstr "Twitter 推特"
 
 #: ../../contact_us.rst:28
 msgid "https://twitter.com/voken100g"
 msgstr "https://twitter.com/voken100g"
 
-#: ../../contact_us.rst:31
+#: ../../contact_us.rst:32
 msgid "|logo_telegram|"
 msgstr "|logo_telegram|"
 
-#: ../../contact_us.rst:34
+#: ../../contact_us.rst:37
 msgid "Telegram"
-msgstr "Telegram"
+msgstr "Telegram 电报"
 
-#: ../../contact_us.rst:38
+#: ../../contact_us.rst:41
 msgid "Group"
 msgstr "群组"
 
-#: ../../contact_us.rst:37
+#: ../../contact_us.rst:40
 msgid "https://t.me/voken100g"
 msgstr "https://t.me/voken100g"
 
-#: ../../contact_us.rst:38
+#: ../../contact_us.rst:41
 msgid "https://t.me/vokenCN (Chinese Group)"
-msgstr "https://t.me/vokenCN (中文群组)"
+msgstr "https://t.me/vokenCN （中文组）"
 
-#: ../../contact_us.rst:42
+#: ../../contact_us.rst:45
 msgid "News Channel"
 msgstr "消息频道"
 
-#: ../../contact_us.rst:41
+#: ../../contact_us.rst:44
 msgid "https://t.me/vokenNews"
 msgstr "https://t.me/vokenNews"
 
-#: ../../contact_us.rst:44
+#: ../../contact_us.rst:47
 msgid "|logo_doc|"
 msgstr "|logo_doc|"
 
-#: ../../contact_us.rst:47
+#: ../../contact_us.rst:50
 msgid "Documents"
 msgstr "文档"
 
-#: ../../contact_us.rst:49
+#: ../../contact_us.rst:52
 msgid "https://voken.io/"
 msgstr "https://voken.io/"
 
-#: ../../contact_us.rst:50
+#: ../../contact_us.rst:53
 msgid "https://voken.io/zh_CN/latest/ (Simplified Chinese)"
-msgstr "https://voken.io/zh_CN/latest/ (简体中文)"
+msgstr "https://voken.io/zh_CN/latest/ （简体中文）"
