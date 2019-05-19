@@ -61,7 +61,7 @@ according to the latest price in the trading market,
 in order to ensure that Voken is relatively stable against legal tender
 at different times during the whole sale phase.
 
-**Latest Audit ETH price: $170**, That means you can use 1 ETH as $170 USD.
+**Latest Audit ETH price: $250**, That means you can use 1 ETH as $250 USD.
 
 
 .. _incremental_voken_sales_price:

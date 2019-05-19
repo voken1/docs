@@ -87,6 +87,14 @@ more open, more equal, more stable, more efficient, safer and freer.
    token/airdrop_to_eth_holders
 
 
+.. _letters:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Letters
+
+..   letters/join_the_revolution
+
 
 .. _available-services:
 

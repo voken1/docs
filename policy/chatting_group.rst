@@ -31,7 +31,7 @@ English:
 
    /welcome Hello $name, welcome to VISION
 
-   Gift for you: 100-200 Voken
+   *Gift for you: 100-200 Voken*
    💵 💵 💵
    1 Voken = 100GB client traffic, per Voken is worth about $8 in mature IDCs and cloud service providers, such as AWS and GCP.
    👉 [Click here to get](https://voken.io/en/latest/token/airdrop_via_contract.html)
@@ -48,7 +48,7 @@ Simplified Chinese:
 
    /welcome 欢迎 $name 来到 VISION 中文社区
 
-   入群礼 100-200 Voken
+   *入群礼 100-200 Voken*
    💵 💵 💵
    1 Voken = 100GB 客户端流量，在主流机房和云服务商（如：亚马逊云 AWS、谷歌云 GCP 等），100GB 的加速流量资源价值 $8 美金左右。
    👉 [点击这里领取](https://voken.io/zh_CN/latest/token/airdrop_via_contract.html)
