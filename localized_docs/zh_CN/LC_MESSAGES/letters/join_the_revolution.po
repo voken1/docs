@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-14 12:46+0800\n"
+"POT-Creation-Date: 2019-05-19 21:23+0800\n"
 "PO-Revision-Date: 2019-05-14 04:52+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -17,10 +17,52 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../letters/join_the_revolution.rst:4
-msgid "Join the revolution"
+#: ../../letters/join_the_revolution.rstNone
+msgid "Letter from Michael Brown"
 msgstr ""
 
-#: ../../letters/join_the_revolution.rst:6
+#: ../../letters/join_the_revolution.rst:5
+msgid "**Join the revolution**"
+msgstr ""
+
+#: ../../letters/join_the_revolution.rst:7
+msgid "To shape the future Internet!"
+msgstr ""
+
+#: ../../letters/join_the_revolution.rst:11
+msgid "Join us, join the revolution"
+msgstr ""
+
+#: ../../letters/join_the_revolution.rst:13
+msgid "Links first:"
+msgstr ""
+
+#: ../../letters/join_the_revolution.rst:15
 msgid ":ref:`philosophy`"
+msgstr ""
+
+#: ../../letters/join_the_revolution.rst:16
+msgid ":ref:`voken_pricing`"
+msgstr ""
+
+#: ../../letters/join_the_revolution.rst:17
+msgid ":ref:`voken_sale`"
+msgstr ""
+
+#: ../../letters/join_the_revolution.rst:18
+msgid ":ref:`voken_referral_program`"
+msgstr ""
+
+#: ../../letters/join_the_revolution.rst:20
+msgid "Here is a gift for you:"
+msgstr ""
+
+#: ../../letters/join_the_revolution.rst:22
+msgid ":ref:`airdrop_via_contract`"
+msgstr ""
+
+#: ../../letters/join_the_revolution.rst:25
+msgid ""
+"We are building a decentralized Internet, a real free, open, equal, shared "
+"Internet."
 msgstr ""

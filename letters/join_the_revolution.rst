@@ -7,8 +7,8 @@
    To shape the future Internet!
 
 
-Join the revolution
-===================
+Join us, join the revolution!
+=============================
 
 Links first:
 
@@ -20,4 +20,11 @@ Links first:
 Here is a gift for you:
 
 - :ref:`airdrop_via_contract`
+
+
+We are building a real free, open, equal, shared Internet,
+which is a set of infrastructure that everyone can use.
+To protect the basic rights of every user.
+
+
 

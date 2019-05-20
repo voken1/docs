@@ -89,11 +89,11 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. _letters:
 
-.. toctree::
+.. toctree
    :maxdepth: 1
    :caption: Letters
 
-..   letters/join_the_revolution
+   letters/join_the_revolution
 
 
 .. _available-services:
@@ -102,9 +102,11 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Available services
 
-   services/autossr
-   services/optss
    reports/vnvpn_alpha
+   services/autossr
+   guide/shadowrocket
+   guide/ssrr
+   services/optss
 
 
 

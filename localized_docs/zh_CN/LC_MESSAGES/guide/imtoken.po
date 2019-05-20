@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-17 21:31+0800\n"
+"POT-Creation-Date: 2019-05-19 14:43+0800\n"
 "PO-Revision-Date: 2019-05-17 13:36+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -97,7 +97,7 @@ msgid "Send ETH"
 msgstr ""
 
 #: ../../guide/imtoken.rst:59 ../../guide/imtoken.rst:65
-msgid "TBC."
+msgid "#TODO"
 msgstr ""
 
 #: ../../guide/imtoken.rst:63

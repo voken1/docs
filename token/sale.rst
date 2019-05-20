@@ -135,8 +135,9 @@ Per transaction
 Gas limit
 ---------
 
-- Recommended: ``8,000,000``
+- Recommended: ``3,000,000`` - ``6,000,000``
 - Minimum: ``3,000,000``
+- Maximum: ``8,000,000``
 - The rest will be returned automatically
 - A transaction with gas limits below 3,000,000 will be automatically reverted,
   and about 21,290 gas miners' fees will be exhausted.
@@ -210,9 +211,9 @@ Send ETH, and receive Vokens
 ----------------------------
 
 .. WARNING::
-   **HAS NOT STARTED YET.**
+   Will start at **Mon May-27 12:00 UTC 2019**
 
-   Please wait for the official announcement of the exact start time.
+   DO NOT send your ETH before this timestamp, it will be reverted.
 
    Make sure to use a wallet that **only you can control the private key** to send ETH.
    Sending ETH from an exchange or any contract will face irreparable double losses,
@@ -241,4 +242,5 @@ Matters needing attention and operation instruction:
    the most important one for you is that it **avoids unnecessary gas waste**.
    **The contract will automatically return all unused ETH and remaining gas**.
 
-   So, make sure you have set ``gas limit`` to ``8,000,000``.
+   So, make sure you have set ``gas limit`` greater than ``3,000,000``,
+   upper limit to ``8,000,000``.

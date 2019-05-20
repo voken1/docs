@@ -119,6 +119,7 @@ Season Top-Sales Reward: 15% - 65%
 - With the sales progress,
   ``15% - 65% of sales revenue`` will be used
   as **Top-Sales Reward** for each season.
+  ``15%`` for the first #0 stage, and ``65%`` for the last #60,000 stage.
 - Settled with ETH,
   will transfer to your wallet address after a season finished.
 - Awards to TOP100 by ranking:

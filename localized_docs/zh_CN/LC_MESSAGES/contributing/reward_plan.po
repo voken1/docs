@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-14 12:46+0800\n"
+"POT-Creation-Date: 2019-05-19 14:43+0800\n"
 "PO-Revision-Date: 2019-05-14 04:48+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -22,41 +22,5 @@ msgid "Voken Reward Plan"
 msgstr ""
 
 #: ../../contributing/reward_plan.rst:6
-msgid "Exchanges"
-msgstr ""
-
-#: ../../contributing/reward_plan.rst:8
-msgid "Public listing rewards."
-msgstr ""
-
-#: ../../contributing/reward_plan.rst:9
-msgid "Reward the Top10 exchanges in the order of listing."
-msgstr ""
-
-#: ../../contributing/reward_plan.rst:11
-msgid "Leaders and celebrities"
-msgstr ""
-
-#: ../../contributing/reward_plan.rst:12
-msgid "Public contributions"
-msgstr ""
-
-#: ../../contributing/reward_plan.rst:13
-msgid "Community cooperation"
-msgstr ""
-
-#: ../../contributing/reward_plan.rst:14
-msgid "Community contributions"
-msgstr ""
-
-#: ../../contributing/reward_plan.rst:15
-msgid "Columns social networks"
-msgstr ""
-
-#: ../../contributing/reward_plan.rst:16
-msgid "Electronic materials"
-msgstr ""
-
-#: ../../contributing/reward_plan.rst:17
-msgid "etc. to be released"
+msgid "#TODO"
 msgstr ""

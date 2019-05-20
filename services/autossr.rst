@@ -43,11 +43,12 @@ Supported clients
 - `Shadowrocket`_ on iOS
 - SSR/`SSRR`_ on Android
 - `ShadowsocksR`_ on windows
+- `ShadowsocksX-NG-R`_ on Mac
 
 .. _Shadowrocket: https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8
 .. _SSRR: https://github.com/shadowsocksrr/shadowsocksr-android/releases
 .. _ShadowsocksR: https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
-
+.. _ShadowsocksX-NG-R: https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
 
 
 Guides
