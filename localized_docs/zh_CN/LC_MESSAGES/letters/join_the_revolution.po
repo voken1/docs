@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-19 21:23+0800\n"
+"POT-Creation-Date: 2019-05-20 23:32+0800\n"
 "PO-Revision-Date: 2019-05-14 04:52+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgid "To shape the future Internet!"
 msgstr ""
 
 #: ../../letters/join_the_revolution.rst:11
-msgid "Join us, join the revolution"
+msgid "Join us, join the revolution!"
 msgstr ""
 
 #: ../../letters/join_the_revolution.rst:13
@@ -63,6 +63,7 @@ msgstr ""
 
 #: ../../letters/join_the_revolution.rst:25
 msgid ""
-"We are building a decentralized Internet, a real free, open, equal, shared "
-"Internet."
+"We are building a real free, open, equal, shared Internet, which is a set of"
+" infrastructure that everyone can use. To protect the basic rights of every "
+"user."
 msgstr ""

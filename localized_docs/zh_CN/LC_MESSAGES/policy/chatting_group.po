@@ -55,20 +55,20 @@ msgstr "..."
 
 #: ../../policy/chatting_group.rst:19
 msgid "Text for BOT"
-msgstr ""
+msgstr "群组 BOT 机器人相关文本"
 
 #: ../../policy/chatting_group.rst:21
 msgid "For ``Group Butler``"
-msgstr ""
+msgstr "使用 ``Group Butler``"
 
 #: ../../policy/chatting_group.rst:26
 msgid "Welcome text"
-msgstr ""
+msgstr "入群欢迎词"
 
 #: ../../policy/chatting_group.rst:28
 msgid "English:"
-msgstr ""
+msgstr "英文版："
 
 #: ../../policy/chatting_group.rst:45
 msgid "Simplified Chinese:"
-msgstr ""
+msgstr "简体中文版："

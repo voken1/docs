@@ -3,7 +3,7 @@
 How to use AutoSSR on Android?
 ==============================
 
-How to subscribe :ref:`autossr` in `SSRR`_ on Android
+Subscribe :ref:`autossr` in `SSRR`_ on Android.
 
 .. _SSRR: https://github.com/shadowsocksrr/shadowsocksr-android/releases
 

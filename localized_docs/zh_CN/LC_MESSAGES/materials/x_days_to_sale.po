@@ -27,36 +27,36 @@ msgstr "海报：Voken 公开销售倒计时"
 
 #: ../../materials/x_days_to_sale.rst:8
 msgid "9 days left"
-msgstr ""
+msgstr "9 days left"
 
 #: ../../materials/x_days_to_sale.rst:16
 msgid "8 days left"
-msgstr ""
+msgstr "8 days left"
 
 #: ../../materials/x_days_to_sale.rst:24
 msgid "7 days left"
-msgstr ""
+msgstr "7 days left"
 
 #: ../../materials/x_days_to_sale.rst:32
 msgid "6 days left"
-msgstr ""
+msgstr "6 days left"
 
 #: ../../materials/x_days_to_sale.rst:40
 msgid "5 days left"
-msgstr ""
+msgstr "5 days left"
 
 #: ../../materials/x_days_to_sale.rst:48
 msgid "4 days left"
-msgstr ""
+msgstr "4 days left"
 
 #: ../../materials/x_days_to_sale.rst:56
 msgid "3 days left"
-msgstr ""
+msgstr "3 days left"
 
 #: ../../materials/x_days_to_sale.rst:64
 msgid "2 days left"
-msgstr ""
+msgstr "2 days left"
 
 #: ../../materials/x_days_to_sale.rst:72
 msgid "1 day left"
-msgstr ""
+msgstr "1 day left"

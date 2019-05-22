@@ -106,6 +106,8 @@ more open, more equal, more stable, more efficient, safer and freer.
    services/autossr
    guide/shadowrocket
    guide/ssrr
+   guide/shadowsocksr_win
+   guide/shadowsocksr_mac
    services/optss
 
 
@@ -124,6 +126,8 @@ more open, more equal, more stable, more efficient, safer and freer.
    guide/metamask
    guide/shadowrocket
    guide/ssrr
+   guide/shadowsocksr_win
+   guide/shadowsocksr_mac
    guide/eth_wallet
    guide/gas
 

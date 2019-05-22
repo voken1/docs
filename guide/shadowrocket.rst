@@ -3,7 +3,7 @@
 How to use AutoSSR on iOS?
 ==========================
 
-How to subscribe :ref:`autossr` in `Shadowrocket`_ on iOS
+Subscribe :ref:`autossr` in `Shadowrocket`_ on iOS.
 
 .. _Shadowrocket: https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8
 

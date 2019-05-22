@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-17 21:31+0800\n"
+"POT-Creation-Date: 2019-05-20 23:32+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -108,14 +108,18 @@ msgstr "SSR/`SSRR`_ 在安卓上"
 msgid "`ShadowsocksR`_ on windows"
 msgstr "`ShadowsocksR`_ 在 Windows 上"
 
-#: ../../services/autossr.rst:54
+#: ../../services/autossr.rst:46
+msgid "`ShadowsocksX-NG-R`_ on Mac"
+msgstr "`ShadowsocksX-NG-R`_ 在 Mac 上"
+
+#: ../../services/autossr.rst:55
 msgid "Guides"
 msgstr "使用指导"
 
-#: ../../services/autossr.rst:56
+#: ../../services/autossr.rst:57
 msgid ":ref:`guide_for_shadowrocket`"
 msgstr ":ref:`guide_for_shadowrocket`"
 
-#: ../../services/autossr.rst:57
+#: ../../services/autossr.rst:58
 msgid ":ref:`guide_for_ssrr`"
 msgstr ":ref:`guide_for_ssrr`"

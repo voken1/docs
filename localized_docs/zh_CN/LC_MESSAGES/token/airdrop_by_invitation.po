@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-13 00:18+0800\n"
 "PO-Revision-Date: 2019-01-15 08:43+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,20 +23,20 @@ msgstr ""
 
 #: ../../token/airdrop_by_invitation.rst:4
 msgid "Vokens Airdrop by invitation (Canceled)"
-msgstr ""
+msgstr "Voken 邀请空投（已取消）"
 
 #: ../../token/airdrop_by_invitation.rst:10
 msgid "Planned amount:"
-msgstr ""
+msgstr "总量："
 
 #: ../../token/airdrop_by_invitation.rst:7
 msgid "50 Million Vokens"
-msgstr ""
+msgstr "5000 万 Vokens"
 
 #: ../../token/airdrop_by_invitation.rst:9
 msgid "Will be used in other forms of airdrops."
-msgstr ""
+msgstr "将用于其它形式的空投赠送支出。"
 
 #: ../../token/airdrop_by_invitation.rst:14
 msgid "Turn to learn about :ref:`voken_sale`."
-msgstr ""
+msgstr "点此转至 :ref:`voken_sale` 。"

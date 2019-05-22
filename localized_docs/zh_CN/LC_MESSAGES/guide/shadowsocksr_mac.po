@@ -1,0 +1,30 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-22 12:36+0800\n"
+"PO-Revision-Date: 2019-05-22 04:39+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../guide/shadowsocksr_mac.rst:4
+msgid "How to use ShadowsocksX-NG-R on Mac?"
+msgstr "如何在苹果电脑上免费使用 AutoSSR ？"
+
+#: ../../guide/shadowsocksr_mac.rst:6
+msgid "Subscribe :ref:`autossr` in `ShadowsocksX-NG-R`_ on Mac."
+msgstr "使用 `ShadowsocksX-NG-R`_ 客户端在 windows 上订阅 :ref:`autossr`"
