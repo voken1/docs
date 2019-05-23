@@ -4,7 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
+# Jill Henry <vnjillhenry@gmail.com>, 2019
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-23 15:53+0800\n"
 "PO-Revision-Date: 2019-01-19 08:47+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: Jill Henry <vnjillhenry@gmail.com>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -52,7 +53,7 @@ msgstr ""
 
 #: ../../whitepaper/technical_path.rst:19
 msgid "P2PNET:"
-msgstr ""
+msgstr "P2PNET:"
 
 #: ../../whitepaper/technical_path.rst:18
 msgid "`P2PNET - WikiPedia(English)`_"
@@ -64,11 +65,11 @@ msgstr "`维基百科：分散网络（中文）`_"
 
 #: ../../whitepaper/technical_path.rst:28
 msgid "BitTorrent:"
-msgstr ""
+msgstr "BitTorrent:"
 
 #: ../../whitepaper/technical_path.rst:26
 msgid "`bittorrent.com`_"
-msgstr ""
+msgstr "`bittorrent.com`_"
 
 #: ../../whitepaper/technical_path.rst:27
 msgid "`BitTorrent - WikiPedia(English)`_"
@@ -84,7 +85,7 @@ msgstr "比特币："
 
 #: ../../whitepaper/technical_path.rst:36
 msgid "`bitcoin.org`_"
-msgstr ""
+msgstr "`bitcoin.org`_"
 
 #: ../../whitepaper/technical_path.rst:37
 msgid "`Bitcoin Whitepaper`_"
@@ -104,11 +105,11 @@ msgstr "以太坊："
 
 #: ../../whitepaper/technical_path.rst:48
 msgid "`ethereum.org`_"
-msgstr ""
+msgstr "`ethereum.org`_"
 
 #: ../../whitepaper/technical_path.rst:49
 msgid "`Ethereum on Github`_"
-msgstr ""
+msgstr "`Ethereum on Github`_"
 
 #: ../../whitepaper/technical_path.rst:50
 msgid "`Ethereum - WikiPedia(English)`_"
@@ -182,7 +183,7 @@ msgstr ""
 
 #: ../../whitepaper/technical_path.rst:98
 msgid "vnSDK"
-msgstr ""
+msgstr "vnSDK"
 
 #: ../../whitepaper/technical_path.rst:100
 msgid ""
@@ -223,7 +224,7 @@ msgstr ""
 
 #: ../../whitepaper/technical_path.rst:135
 msgid "TCP:"
-msgstr ""
+msgstr "TCP:"
 
 #: ../../whitepaper/technical_path.rst:134
 msgid "`Transmission Control Protocol - WikiPedia(English)`_"
@@ -235,7 +236,7 @@ msgstr "`维基百科：传输控制协议（中文）`_"
 
 #: ../../whitepaper/technical_path.rst:143
 msgid "AES:"
-msgstr ""
+msgstr "AES:"
 
 #: ../../whitepaper/technical_path.rst:142
 msgid "`Advanced Encryption Standard - WikiPedia(English)`_"
@@ -247,7 +248,7 @@ msgstr "`维基百科：高级加密标准（中文）`_"
 
 #: ../../whitepaper/technical_path.rst:151
 msgid "HTTPS:"
-msgstr ""
+msgstr "HTTPS:"
 
 #: ../../whitepaper/technical_path.rst:150
 msgid "`HTTPS - WikiPedia(English)`_"
@@ -259,7 +260,7 @@ msgstr "`维基百科：超文本传输安全协议（中文）`_"
 
 #: ../../whitepaper/technical_path.rst:159
 msgid "Deep Packet Inspection:"
-msgstr ""
+msgstr "Deep Packet Inspection:"
 
 #: ../../whitepaper/technical_path.rst:158
 msgid "`Deep Packet Inspection - WikiPedia(English)`_"
@@ -286,7 +287,7 @@ msgstr ""
 
 #: ../../whitepaper/technical_path.rst:179
 msgid "Tunneling Protocol:"
-msgstr ""
+msgstr "Tunneling Protocol:"
 
 #: ../../whitepaper/technical_path.rst:178
 msgid "`Tunneling Protocol - WikiPedia(English)`_"
@@ -298,7 +299,7 @@ msgstr "`维基百科：隧道协议（中文）`_"
 
 #: ../../whitepaper/technical_path.rst:187
 msgid "OpenVPN:"
-msgstr ""
+msgstr "OpenVPN:"
 
 #: ../../whitepaper/technical_path.rst:186
 msgid "`OpenVPN - WikiPedia(English)`_"
@@ -310,7 +311,7 @@ msgstr "`维基百科：OpenVPN（中文）`_"
 
 #: ../../whitepaper/technical_path.rst:195
 msgid "Shadowsocks:"
-msgstr ""
+msgstr "Shadowsocks:"
 
 #: ../../whitepaper/technical_path.rst:194
 msgid "`Shadowsocks - WikiPedia(English)`_"
@@ -322,7 +323,7 @@ msgstr "`维基百科：Shadowsocks（中文）`_"
 
 #: ../../whitepaper/technical_path.rst:203
 msgid "UDP:"
-msgstr ""
+msgstr "UDP:"
 
 #: ../../whitepaper/technical_path.rst:202
 msgid "`User Datagram Protocol - WikiPedia(English)`_"
@@ -369,7 +370,7 @@ msgstr ""
 
 #: ../../whitepaper/technical_path.rst:222
 msgid "DNS:"
-msgstr ""
+msgstr "DNS:"
 
 #: ../../whitepaper/technical_path.rst:221
 msgid "`Domain Name System - WikiPedia(English)`_"
@@ -381,7 +382,7 @@ msgstr "`维基百科：域名系统（中文）`_"
 
 #: ../../whitepaper/technical_path.rst:229
 msgid "DNS pollution:"
-msgstr ""
+msgstr "DNS pollution:"
 
 #: ../../whitepaper/technical_path.rst:229
 msgid "`DNS pollution - WikiPedia(Chinese)`_"
@@ -389,7 +390,7 @@ msgstr "`维基百科：域名服务器缓存污染（中文）`_"
 
 #: ../../whitepaper/technical_path.rst:236
 msgid "Google Public DNS:"
-msgstr ""
+msgstr "Google Public DNS:"
 
 #: ../../whitepaper/technical_path.rst:235
 msgid "`Google Public DNS - WikiPedia(English)`_"
@@ -424,7 +425,7 @@ msgstr ""
 
 #: ../../whitepaper/technical_path.rst:257
 msgid "DDoS:"
-msgstr ""
+msgstr "DDoS:"
 
 #: ../../whitepaper/technical_path.rst:256
 msgid "`Denial-of-service attack - WikiPedia(English)`_"
@@ -464,7 +465,7 @@ msgstr "普通用户不需要进行复杂的手动配置、只需要保持 vnVPN
 
 #: ../../whitepaper/technical_path.rst:276
 msgid "PAC:"
-msgstr ""
+msgstr "PAC:"
 
 #: ../../whitepaper/technical_path.rst:275
 msgid "`Proxy auto-config - WikiPedia(English)`_"
@@ -476,7 +477,7 @@ msgstr "`维基百科：代理自动配置（中文）`_"
 
 #: ../../whitepaper/technical_path.rst:284
 msgid "ASN:"
-msgstr ""
+msgstr "ASN:"
 
 #: ../../whitepaper/technical_path.rst:283
 msgid "`Autonomous system (Internet) - WikiPedia(English)`_"
@@ -492,11 +493,11 @@ msgstr "ASN 查询："
 
 #: ../../whitepaper/technical_path.rst:291
 msgid "`ASN Lookup & Information on ultratools.com`_"
-msgstr ""
+msgstr "`ASN Lookup & Information on ultratools.com`_"
 
 #: ../../whitepaper/technical_path.rst:292
 msgid "`en.mk/asn`_"
-msgstr ""
+msgstr "`en.mk/asn`_"
 
 #: ../../whitepaper/technical_path.rst:300
 msgid "vnCDN"

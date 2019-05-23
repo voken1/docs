@@ -4,7 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
+# Jill Henry <vnjillhenry@gmail.com>, 2019
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-11 19:27+0800\n"
 "PO-Revision-Date: 2019-01-19 08:46+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: Jill Henry <vnjillhenry@gmail.com>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -68,10 +69,12 @@ msgstr "2016 电影《斯诺登 Snowden》"
 #: ../../whitepaper/more.rst:29
 msgid "http://storetorrents.com/hash/3937111709900E5D58C2C8945D9ABE63365C4545"
 msgstr ""
+"http://storetorrents.com/hash/3937111709900E5D58C2C8945D9ABE63365C4545"
 
 #: ../../whitepaper/more.rst:30
 msgid "http://storetorrents.com/hash/44BB5BBE5AFCFFD391DEC35EC9359AE07022F2B8"
 msgstr ""
+"http://storetorrents.com/hash/44BB5BBE5AFCFFD391DEC35EC9359AE07022F2B8"
 
 #: ../../whitepaper/more.rst:43
 msgid "Edward Snowden:"
@@ -79,11 +82,11 @@ msgstr "爱德华·斯诺登 Edward Snowden"
 
 #: ../../whitepaper/more.rst:42
 msgid "`Edward Snowden - WikiPedia(English)`_"
-msgstr ""
+msgstr "`Edward Snowden - WikiPedia(English)`_"
 
 #: ../../whitepaper/more.rst:43
 msgid "`Edward Snowden - WikiPedia(Chinese)`_"
-msgstr ""
+msgstr "`Edward Snowden - WikiPedia(Chinese)`_"
 
 #: ../../whitepaper/more.rst:51
 msgid "PRISM:"
@@ -91,27 +94,27 @@ msgstr "PRISM 棱镜计划"
 
 #: ../../whitepaper/more.rst:50
 msgid "`PRISM - WikiPedia(English)`_"
-msgstr ""
+msgstr "`PRISM - WikiPedia(English)`_"
 
 #: ../../whitepaper/more.rst:51
 msgid "`PRISM - WikiPedia(Chinese)`_"
-msgstr ""
+msgstr "`PRISM - WikiPedia(Chinese)`_"
 
 #: ../../whitepaper/more.rst:60
 msgid "Tor:"
-msgstr ""
+msgstr "Tor:"
 
 #: ../../whitepaper/more.rst:58
 msgid "`torproject.org`_"
-msgstr ""
+msgstr "`torproject.org`_"
 
 #: ../../whitepaper/more.rst:59
 msgid "`Tor - WikiPedia(English)`_"
-msgstr ""
+msgstr "`Tor - WikiPedia(English)`_"
 
 #: ../../whitepaper/more.rst:60
 msgid "`Tor - WikiPedia(Chinese)`_"
-msgstr ""
+msgstr "`Tor - WikiPedia(Chinese)`_"
 
 #: ../../whitepaper/more.rst:69
 msgid "vnTOR, Extensible anonymous network service"
@@ -158,15 +161,15 @@ msgstr "当然，未来这部分工作也有可能通过奖励 Voken 的方式�
 
 #: ../../whitepaper/more.rst:103
 msgid "The Hidden Wiki:"
-msgstr ""
+msgstr "The Hidden Wiki:"
 
 #: ../../whitepaper/more.rst:102
 msgid "`The Hidden Wiki - WikiPedia(English)`_"
-msgstr ""
+msgstr "`The Hidden Wiki - WikiPedia(English)`_"
 
 #: ../../whitepaper/more.rst:103
 msgid "`The Hidden Wiki - WikiPedia(Chinese)`_"
-msgstr ""
+msgstr "`The Hidden Wiki - WikiPedia(Chinese)`_"
 
 #: ../../whitepaper/more.rst:111
 msgid "Torch:"
@@ -174,11 +177,11 @@ msgstr "Torch 搜索引擎："
 
 #: ../../whitepaper/more.rst:110
 msgid "`Search engines - Tor onion services`_"
-msgstr ""
+msgstr "`Search engines - Tor onion services`_"
 
 #: ../../whitepaper/more.rst:111
 msgid "`List of Tor onion services`_"
-msgstr ""
+msgstr "`List of Tor onion services`_"
 
 #: ../../whitepaper/more.rst:122
 msgid "Dark net / Deep web:"
@@ -186,19 +189,19 @@ msgstr "Dark net 暗网 / Deep web 深网："
 
 #: ../../whitepaper/more.rst:118
 msgid "`Dark net - WikiPedia(English)`_"
-msgstr ""
+msgstr "`Dark net - WikiPedia(English)`_"
 
 #: ../../whitepaper/more.rst:119
 msgid "`Dark net - WikiPedia(Chinese)`_"
-msgstr ""
+msgstr "`Dark net - WikiPedia(Chinese)`_"
 
 #: ../../whitepaper/more.rst:121
 msgid "`Deep web - WikiPedia(English)`_"
-msgstr ""
+msgstr "`Deep web - WikiPedia(English)`_"
 
 #: ../../whitepaper/more.rst:122
 msgid "`Deep web - WikiPedia(Chinese)`_"
-msgstr ""
+msgstr "`Deep web - WikiPedia(Chinese)`_"
 
 #: ../../whitepaper/more.rst:132
 msgid ""

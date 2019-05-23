@@ -23,8 +23,8 @@ send **1,001 Vokens** to the address which is whitelisted already,
 and your wallet address will be successfully registered.
 
 
-Get 1,002 Voken
-~~~~~~~~~~~~~~~
+Get Vokens you need
+~~~~~~~~~~~~~~~~~~~
 
 Send **1 ETH** to contract which address is **0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe**,
 you will receive exactly **1,002.0 Vokens** and **all the unused ETH** automatically.
@@ -77,14 +77,17 @@ ________________________________________________
 #. To address: **0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**.
 #. ETH amount: Greater than ``10 ETH`` would receive extra rewards.
 #. Set **Gas Limit** >= ``3,000,000``, upper limit is ``8,000,000``.
-   If the transaction interrupted with `out of gas`, all the unused ETH will return automatically.
+   If the transaction interrupted with ``out of gas``, all the unused ETH will return automatically.
 #. Set **Gas Price**,
    if you want transaction speed up, you could choose higher price, or leave it as default.
 #. Send the transaction.
 #. Waiting for Ethereum blockchain to confirm.
 #. **Receive Vokens**.
+
+.. NOTE::
+
    Since one single transaction may span stages or even seasons,
-   the price of the transaction would rise slightly.
+   the prices of the stages may be different.
 
 
 

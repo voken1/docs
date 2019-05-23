@@ -50,6 +50,8 @@ msgid ""
 "the actual miner fee will only be calculated on demand, and the remaining "
 "portion will be automatically returned to the wallet balance."
 msgstr ""
+"在与 **Vision Network 远景网络** 相关的大多数合约交易中，我们推荐将 ``gas limit`` 设置为 ``3,000,000``"
+" 。Gas 并不会被浪费，实际的矿工费是按需计算，剩余部分将会被自动退回到钱包余额。"
 
 #: ../../guide/gas.rst:27
 msgid ""

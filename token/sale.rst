@@ -1,7 +1,7 @@
 .. _voken_sale:
 
-Voken Public-Sale (About to start)
-==================================
+Voken Public-Sale (Will start at May-27)
+========================================
 
 The entire Public-Sale process operates by a smart contract
 on Ethereum blockchain, with no other priviledged access given to any party.
