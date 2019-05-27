@@ -37,8 +37,9 @@ English:
    👉 [Click here to get](https://voken.io/en/latest/token/airdrop_via_contract.html)
 
    More info:
-   1. [Voken Public-Sale (About to start)](https://voken.io/en/latest/token/sale.html)
+   1. [Voken Public-Sale](https://voken.io/en/latest/token/sale.html)
    2. [Voken Referral Program](https://voken.io/en/latest/policy/voken_referral_program.html)
+   3. [Join Public-Sale whitelist](https://voken.io/en/latest/guide/register_voken_sale_whitelist.html)
 
 
 
@@ -54,6 +55,7 @@ Simplified Chinese:
    👉 [点击这里领取](https://voken.io/zh_CN/latest/token/airdrop_via_contract.html)
 
    更多信息：
-   1. [Voken 公开销售（即将开始）](https://voken.io/zh_CN/latest/token/sale.html)
+   1. [Voken 公开销售](https://voken.io/zh_CN/latest/token/sale.html)
    2. [Voken 转介引荐计划](https://voken.io/zh_CN/latest/policy/voken_referral_program.html)
+   3. [注册公开销售白名单](https://voken.io/zh_CN/latest/guide/register_voken_sale_whitelist.html)
 
