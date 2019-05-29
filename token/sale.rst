@@ -136,8 +136,8 @@ Per transaction
 Gas limit
 ---------
 
-- Recommended: ``3,000,000`` - ``6,000,000``
-- Minimum: ``3,000,000``
+- Recommended: ``3,000,001`` - ``6,000,000``
+- Minimum: ``3,000,001``
 - Maximum: ``8,000,000``
 - The rest will be returned automatically
 - A transaction with gas limits below 3,000,000 will be automatically reverted,

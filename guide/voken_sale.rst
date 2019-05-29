@@ -33,7 +33,7 @@ More details: :ref:`get_1002voken_contract`
 
 .. NOTE::
 
-   Set `gas limit` to `300,000`, the rest will be returned automatically.
+   Set `gas limit` greater than `300,000`, the rest will be returned automatically.
 
 
 Send 1,001 Vokens to register
@@ -76,7 +76,7 @@ ________________________________________________
 #. Use your own ETH Wallet, chose **Send ETH**.
 #. To address: **0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**.
 #. ETH amount: Greater than ``10 ETH`` would receive extra rewards.
-#. Set **Gas Limit** >= ``3,000,000``, upper limit is ``8,000,000``.
+#. Set **Gas Limit** > ``3,000,000``, upper limit is ``8,000,000``.
    If the transaction interrupted with ``out of gas``, all the unused ETH will return automatically.
 #. Set **Gas Price**,
    if you want transaction speed up, you could choose higher price, or leave it as default.

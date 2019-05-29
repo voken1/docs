@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-27 06:47+0800\n"
+"POT-Creation-Date: 2019-05-29 23:41+0800\n"
 "PO-Revision-Date: 2019-04-01 09:40+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -351,12 +351,12 @@ msgid "Gas limit"
 msgstr "Gas limit - Gas 数量"
 
 #: ../../token/sale.rst:139
-msgid "Recommended: ``3,000,000`` - ``6,000,000``"
-msgstr "推荐： ``3,000,000`` - ``6,000,000``"
+msgid "Recommended: ``3,000,001`` - ``6,000,000``"
+msgstr "推荐： ``3,000,001`` - ``6,000,000``"
 
 #: ../../token/sale.rst:140
-msgid "Minimum: ``3,000,000``"
-msgstr "最少： ``3,000,000``"
+msgid "Minimum: ``3,000,001``"
+msgstr "最少： ``3,000,001``"
 
 #: ../../token/sale.rst:141
 msgid "Maximum: ``8,000,000``"
