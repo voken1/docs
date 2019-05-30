@@ -47,6 +47,14 @@ Early Investors 13.47%
    - Till ``2020.06.30 23:59:59 UTC``.
 
 
+Community 12%
+   - For excellent community promoter.
+
+   - 50% freezed for 3.5 years.
+   - Till ``2021.06.30 23:59:59 UTC``.
+   - Release 0.5% per :ref:`voken_sale` season, for another 50%.
+
+
 Air Drops 2%
    For ETH holders and promotion before/during the :ref:`voken_sale`:
 
@@ -78,8 +86,7 @@ DAPPs Support Plan 10%
    to build more decentralized application services.
 
 
-Community and business 24.49%
+Business 12.49%
    By :ref:`business_fund_contract`.
 
-   It is used for exchange listing,
-   community construction and maintenance, etc.
+   For exchange listing, business partners, etc.
