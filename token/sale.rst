@@ -1,7 +1,7 @@
 .. _voken_sale:
 
-Voken Public-Sale (Will start at May-27)
-========================================
+Voken Public-Sale (Started at May-27)
+=====================================
 
 The entire Public-Sale process operates by a smart contract
 on Ethereum blockchain, with no other priviledged access given to any party.
@@ -136,11 +136,10 @@ Per transaction
 Gas limit
 ---------
 
-- Recommended: ``3,000,001`` - ``6,000,000``
-- Minimum: ``3,000,001``
+- Recommended: ``6,000,000``
 - Maximum: ``8,000,000``
 - The rest will be returned automatically
-- A transaction with gas limits below 3,000,000 will be automatically reverted,
+- A transaction with gas limits below ``3,000,001`` will be automatically reverted,
   and about 21,290 gas miners' fees will be exhausted.
 
 
@@ -243,5 +242,4 @@ Matters needing attention and operation instruction:
    the most important one for you is that it **avoids unnecessary gas waste**.
    **The contract will automatically return all unused ETH and remaining gas**.
 
-   So, make sure you have set ``gas limit`` greater than ``3,000,000``,
-   upper limit to ``8,000,000``.
+   So, make sure you have set ``gas limit`` to ``6,000,000``.

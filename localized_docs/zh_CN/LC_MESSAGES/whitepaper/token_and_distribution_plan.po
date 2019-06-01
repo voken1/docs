@@ -112,7 +112,7 @@ msgstr "社区建设 12%"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:51
 msgid "For excellent community promoter."
-msgstr "优秀的社区推广者奖励。"
+msgstr "奖励优秀的社区推广者。"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:53
 msgid "50% freezed for 3.5 years."

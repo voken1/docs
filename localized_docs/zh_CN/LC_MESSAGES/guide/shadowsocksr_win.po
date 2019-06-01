@@ -31,26 +31,26 @@ msgstr "使用 `ShadowsocksR`_ 客户端在 windows 上订阅 :ref:`autossr`"
 
 #: ../../guide/shadowsocksr_win.rst:10
 msgid "Step by step"
-msgstr ""
+msgstr "按步骤操作"
 
 #: ../../guide/shadowsocksr_win.rst:12
 msgid "Download `ShadowsocksR`_ from github."
-msgstr ""
+msgstr "在 github 上下载 `ShadowsocksR`_"
 
 #: ../../guide/shadowsocksr_win.rst:13
 msgid "Unzip it."
-msgstr ""
+msgstr "解压"
 
 #: ../../guide/shadowsocksr_win.rst:14
 msgid "Run ``ShadowsocksR-dotnet4.0.exe`` or ``ShadowsocksR-dotnet2.0.exe``."
-msgstr ""
+msgstr "运行 ``ShadowsocksR-dotnet4.0.exe`` 或者 ``ShadowsocksR-dotnet2.0.exe`` 。"
 
 #: ../../guide/shadowsocksr_win.rst:15
 msgid ""
 "Chose a subscription source link from :ref:`autossr`, and add it (use the "
 "longer one)."
-msgstr ""
+msgstr "在 :ref:`autossr` 选择一个订阅链接并添加（使用更长的链接）。"
 
 #: ../../guide/shadowsocksr_win.rst:17
 msgid "Update, chose a node, and enjoy it."
-msgstr ""
+msgstr "更新，选择一个节点，然后享受它。"
