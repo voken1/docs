@@ -59,6 +59,7 @@ you will receive exactly **1,002.0 Vokens** and all the unused ETH automatically
    Set ``gas limit`` to ``300,000``, the rest will be returned automatically.
 
 
+
 To use this contract, you must meet these two conditions
 ________________________________________________________
 
@@ -70,22 +71,3 @@ ________________________________________________________
 
 Transactions that do not meet the conditions will be automatically reverted by the contract.
 
-
-For example
-___________
-
-If the :ref:`voken_sale` has not been started:
-
-- The voken price is **$0.001** (price of stage #0)
-- If the `Audit ETH Price is $170.00`,
-  which means **you can use 1 ETH as $170 USD**.
-
-You can send any amount which is greater than **1 ETH** to the address of this contract above,
-for example **1 ETH**,
-you will receive exactly **1,002.0 Vokens**
-and all the unused **0.994105882352941177 ETH** automatically.
-
-   (For 1,002.0 Vokens, it costs `$0.001 x 1002 =` **$1.002 USD**,
-   there is `1 ETH` for `$170 USD` and only `$1.002 USD` will be used,
-   that is **0.005894117647058823 ETH**,
-   so you will get **1,002.0 Vokens** and **0.994105882352941177 ETH** back).
