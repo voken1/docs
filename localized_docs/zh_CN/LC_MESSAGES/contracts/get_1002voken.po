@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-06 11:37+0800\n"
+"POT-Creation-Date: 2019-06-02 01:41+0800\n"
 "PO-Revision-Date: 2019-05-01 14:42+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -89,7 +89,7 @@ msgid ""
 "Set ``gas limit`` to ``300,000``, the rest will be returned automatically."
 msgstr "请将 ``gas limit`` 设置为 ``300,000`` ，剩余部分将自动退回。"
 
-#: ../../contracts/get_1002voken.rst:63
+#: ../../contracts/get_1002voken.rst:64
 msgid "To use this contract, you must meet these two conditions"
 msgstr "使用这个合约，您必须满足两个条件"
 
@@ -112,47 +112,8 @@ msgid ""
 "in the very same transaction)."
 msgstr "您发送的交易总金额需要 **大于等于 1 ETH** （所有未使用的 ETH 将会被合约自动退款，就在同一笔交易里）"
 
-#: ../../contracts/get_1002voken.rst:71
+#: ../../contracts/get_1002voken.rst:72
 msgid ""
 "Transactions that do not meet the conditions will be automatically reverted "
 "by the contract."
 msgstr "所有不合条件的交易都将被合约自动拒绝。"
-
-#: ../../contracts/get_1002voken.rst:75
-msgid "For example"
-msgstr "举例说明"
-
-#: ../../contracts/get_1002voken.rst:77
-msgid "If the :ref:`voken_sale` has not been started:"
-msgstr "如果 :ref:`voken_sale` 还未开始："
-
-#: ../../contracts/get_1002voken.rst:79
-msgid "The voken price is **$0.001** (price of stage #0)"
-msgstr "Voken 价格是 **$0.001 美元** （销售第 0 阶段的价格）"
-
-#: ../../contracts/get_1002voken.rst:80
-msgid ""
-"If the `Audit ETH Price is $170.00`, which means **you can use 1 ETH as $170"
-" USD**."
-msgstr "如果 `ETH 审计价格是 $170.00 美元` ，这意味着 **您可以将 1 ETH 当作 $170 美元使用** 。"
-
-#: ../../contracts/get_1002voken.rst:83
-msgid ""
-"You can send any amount which is greater than **1 ETH** to the address of "
-"this contract above, for example **1 ETH**, you will receive exactly "
-"**1,002.0 Vokens** and all the unused **0.994105882352941177 ETH** "
-"automatically."
-msgstr ""
-"您可以发送任何大于 **1 ETH** 的金额到上边的合约地址，比如按 **1 ETH** 举例，您将自动收到刚刚好 **1,002.0 "
-"Vokens** 和所有未使用的 **0.994105882352941177 ETH** 。"
-
-#: ../../contracts/get_1002voken.rst:88
-msgid ""
-"(For 1,002.0 Vokens, it costs `$0.001 x 1002 =` **$1.002 USD**, there is `1 "
-"ETH` for `$170 USD` and only `$1.002 USD` will be used, that is "
-"**0.005894117647058823 ETH**, so you will get **1,002.0 Vokens** and "
-"**0.994105882352941177 ETH** back)."
-msgstr ""
-"（对于 1,002.0 Vokens ，价格 `$0.001 x 1002 =` **$1.002 美元** ，每 `1 ETH` 作为 `$170 "
-"美元` 使用，那么只有 `$1.002 美元` 将被使用，也就是 **0.005894117647058823 ETH** ，所以您将得到 "
-"**1,002.0 Vokens** 和退回的 **0.994105882352941177 ETH** ）。"

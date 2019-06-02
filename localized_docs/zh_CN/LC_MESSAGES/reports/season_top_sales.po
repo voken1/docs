@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-29 06:37+0800\n"
+"POT-Creation-Date: 2019-06-02 09:37+0800\n"
 "PO-Revision-Date: 2019-05-28 22:07+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -25,45 +25,150 @@ msgstr ""
 msgid "Season Top-Sales"
 msgstr "赛季销售排名奖励"
 
-#: ../../reports/season_top_sales.rst:7
-msgid "#1 Season (#0-#600 stage)"
-msgstr "第 1 赛季（第 0-600 阶段）"
+#: ../../reports/season_top_sales.rst:6
+msgid ""
+":ref:`top_sales_reward` by contract "
+"**0x2F7f6AC16469cE0Fed396A6C514e8d1366E4ADA8**"
+msgstr ""
+":ref:`top_sales_reward` 通过合约 **0x2F7f6AC16469cE0Fed396A6C514e8d1366E4ADA8** "
+"执行。"
+
+#: ../../reports/season_top_sales.rst:21
+msgid "Season #.4"
+msgstr "第 4 赛季"
 
 #: ../../reports/season_top_sales.rst:10
-msgid "Sales revenue:"
-msgstr "销售收入："
+msgid "Stage #.1801-2400"
+msgstr "第 1801-2400 阶段"
 
-#: ../../reports/season_top_sales.rst:10
+#: ../../reports/season_top_sales.rst:13 ../../reports/season_top_sales.rst:27
+#: ../../reports/season_top_sales.rst:41 ../../reports/season_top_sales.rst:55
+msgid "Item"
+msgstr "项目"
+
+#: ../../reports/season_top_sales.rst:13 ../../reports/season_top_sales.rst:27
+#: ../../reports/season_top_sales.rst:41 ../../reports/season_top_sales.rst:55
+msgid "Value"
+msgstr "数值"
+
+#: ../../reports/season_top_sales.rst:15 ../../reports/season_top_sales.rst:29
+#: ../../reports/season_top_sales.rst:43 ../../reports/season_top_sales.rst:57
+msgid "Season Number"
+msgstr "赛季数"
+
+#: ../../reports/season_top_sales.rst:15
+msgid "4"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:16 ../../reports/season_top_sales.rst:30
+#: ../../reports/season_top_sales.rst:44 ../../reports/season_top_sales.rst:58
+msgid "Address"
+msgstr "地址数"
+
+#: ../../reports/season_top_sales.rst:16 ../../reports/season_top_sales.rst:30
+#: ../../reports/season_top_sales.rst:44
+msgid "100"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:17 ../../reports/season_top_sales.rst:31
+#: ../../reports/season_top_sales.rst:45 ../../reports/season_top_sales.rst:59
+msgid "Sales Revenue"
+msgstr "销售收入"
+
+#: ../../reports/season_top_sales.rst:17
+msgid "4918.132654231972457582 ETH"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:18 ../../reports/season_top_sales.rst:32
+#: ../../reports/season_top_sales.rst:46 ../../reports/season_top_sales.rst:60
+msgid "Top-Sales reward"
+msgstr "销售排名奖"
+
+#: ../../reports/season_top_sales.rst:18
+msgid "824.300266794779287263 ETH"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:19 ../../reports/season_top_sales.rst:33
+#: ../../reports/season_top_sales.rst:47 ../../reports/season_top_sales.rst:61
+msgid "Top-Sales ratio"
+msgstr "销售排名奖比"
+
+#: ../../reports/season_top_sales.rst:19
+msgid "16.76043174 %"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:35
+msgid "Season #.3"
+msgstr "每 3 赛季"
+
+#: ../../reports/season_top_sales.rst:24
+msgid "Stage #.1201-1800"
+msgstr "第 1201-1800 阶段"
+
+#: ../../reports/season_top_sales.rst:29
+msgid "3"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:31
+msgid "3693.46153846153846112 ETH"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:32
+msgid "600.7797967576923072 ETH"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:33
+msgid "16.26603635 %"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:49
+msgid "Season #.2"
+msgstr "第 2 赛季"
+
+#: ../../reports/season_top_sales.rst:38
+msgid "Stage #.601-1200"
+msgstr "第 601-1200 阶段"
+
+#: ../../reports/season_top_sales.rst:43
+msgid "2"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:45
+msgid "2151.00743613762115039 ETH"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:46
+msgid "339.314673969312606438 ETH"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:47
+msgid "15.77468623 %"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:61
+msgid "Season #.1"
+msgstr "第 1 赛季"
+
+#: ../../reports/season_top_sales.rst:52
+msgid "Stage #.0-600"
+msgstr "第 0-600 阶段"
+
+#: ../../reports/season_top_sales.rst:57
+msgid "1"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:58
+msgid "64"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:59
 msgid "887.855193939393939062 ETH"
 msgstr "887.855193939393939062 ETH"
 
-#: ../../reports/season_top_sales.rst:13
-msgid "Top-Sales reward:"
-msgstr "销售排名奖："
-
-#: ../../reports/season_top_sales.rst:13
+#: ../../reports/season_top_sales.rst:60
 msgid "135.950525036026935681 ETH"
 msgstr "135.950525036026935681 ETH"
 
-#: ../../reports/season_top_sales.rst:17
-msgid "Top-Sales ratio:"
-msgstr "销售排名奖比例："
-
-#: ../../reports/season_top_sales.rst:16
-msgid "15.312240775752795 %"
-msgstr "15.312240775752795 %"
-
-#: ../../reports/season_top_sales.rst:19
-msgid ""
-"But, there are only 64 addresses in #1 season, that is **less than 100 "
-"addresses**."
-msgstr "但是，第 1 赛季一共只有 64 个地址，这是 **少于 100 个地址** 的。"
-
-#: ../../reports/season_top_sales.rst:21
-msgid ""
-"This is a situation that has not been considered before. We need to redeploy"
-" a contract for the season's top-sales reward distribution. It will take 1 "
-"day, sorry for that."
+#: ../../reports/season_top_sales.rst:61
+msgid "15.31224077 %"
 msgstr ""
-"这种情况超出了我们的预设的范围（译注：总奖少于 100 个地址）。我们需要重新部署一个合约用于分配销售排名奖励，这将会多花费 1 "
-"天的时间，我们对此表示非常抱歉。"
