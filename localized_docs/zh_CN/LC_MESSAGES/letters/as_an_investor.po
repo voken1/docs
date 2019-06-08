@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-08 14:33+0800\n"
+"POT-Creation-Date: 2019-06-08 14:44+0800\n"
 "PO-Revision-Date: 2019-06-08 05:50+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -22,14 +22,14 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../letters/as_an_investor.rst:4
-msgid "What you need to know as an investor (IMPORTANT)"
-msgstr "投资者需知（重要）"
+msgid "What you need to know as an investor"
+msgstr "投资者需知"
 
 #: ../../letters/as_an_investor.rst:6
 msgid ""
 "You need to have a certain understanding in the blockchain field, and 1 year"
 " experience for crypto-currency investment at least."
-msgstr "您要对区块链领域有一定了解，至少1年以上加密货币投资经验。"
+msgstr "您要对区块链领域有一定了解，至少 1 年以上加密货币投资经验。"
 
 #: ../../letters/as_an_investor.rst:8
 msgid ""

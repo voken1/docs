@@ -1,7 +1,7 @@
 .. _as_an_investor:
 
-What you need to know as an investor (IMPORTANT)
-================================================
+What you need to know as an investor
+====================================
 
 #. You need to have a certain understanding in the blockchain field,
    and 1 year experience for crypto-currency investment at least.
