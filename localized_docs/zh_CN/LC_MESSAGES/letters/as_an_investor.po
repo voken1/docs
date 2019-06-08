@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-08 14:33+0800\n"
+"PO-Revision-Date: 2019-06-08 05:50+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../letters/as_an_investor.rst:4
+msgid "What you need to know as an investor (IMPORTANT)"
+msgstr "投资者需知（重要）"
+
+#: ../../letters/as_an_investor.rst:6
+msgid ""
+"You need to have a certain understanding in the blockchain field, and 1 year"
+" experience for crypto-currency investment at least."
+msgstr "您要对区块链领域有一定了解，至少1年以上加密货币投资经验。"
+
+#: ../../letters/as_an_investor.rst:8
+msgid ""
+"If you don't have any experience in crypto-currency investment, please read "
+"the :ref:`whitepaper` more than 2 times."
+msgstr "如果您没有数字货币投资经验，请阅读白皮书 2 遍以上。"
+
+#: ../../letters/as_an_investor.rst:10
+msgid ""
+"You need to know clearly that the project is in the middle and early stage, "
+"and there is still a certain time from the product release. Please visit the"
+" :ref:`voken_doc` for the project progress and white-paper."
+msgstr "您需要清楚的知道项目处于中早期，距离产品交付使用还有一定时间，请访问 :ref:`voken_doc` 以获取项目进展和白皮书。"
+
+#: ../../letters/as_an_investor.rst:13
+msgid ""
+"Currently, our project team is anonymous (we have the right to choose this),"
+" such as Bitcoin, no one knows who Satoshi Nakamoto is. However, the "
+"contract code of the project is open-source verified already, the data is "
+"transparent in the blockchain which everyone can check it."
+msgstr ""
+"目前，项目团队是匿名的（我们有权选择如此），比如比特币，没有任何人知道中本聪是谁。然而，项目的合约代码是已经开源验证的，数据公开透明在区块链上，每个人都可以查询。"
+
+#: ../../letters/as_an_investor.rst:17
+msgid ""
+"Do the trading process yourself, don't look for someone else to do it, and "
+"make sure your wallet is safe, especially your private key."
+msgstr "自己操作买卖流程，不找他人代买，并且确保钱包安全，尤其是您的私钥。"
+
+#: ../../letters/as_an_investor.rst:20
+msgid ""
+"We will promptly publish project information on :ref:`voken_website`, "
+":ref:`voken_doc`, :ref:`voken_twitter`, :ref:`voken_telegram`, etc. Do not "
+"believe in information disseminated by other non-official channels."
+msgstr ""
+"我们会适时发布信息在 :ref:`voken_website` 、 :ref:`voken_doc` 、 :ref:`voken_twitter` 、 "
+":ref:`voken_telegram`, 等渠道。不要轻信其它非官方渠道散播的信息。"
+
+#: ../../letters/as_an_investor.rst:23
+msgid ""
+"Our project team will work as planned and make it available to the "
+"community. When necessary, our team will adjust some of the work plans and "
+"adopt suggestions from the community members, but the project team always "
+"has the right to advance the progress and ensure it orderly."
+msgstr ""
+"项目团队将按计划开展工作，并向社区公布。我们团队在有必要的情况下，会采纳社区建议、调整部分工作计划，但项目团队始终对项目进度的推进留有权利并保证其有序。"
+
+#: ../../letters/as_an_investor.rst:27
+msgid ""
+"The only cooperation party for sales and marketing is the :ref:`v5`. The V5 "
+"team is responsible for the formation and service, including but not limited"
+" to the Chinese language community. It is responsible for the implementation"
+" of the :ref:`voken_sale`, finding qualified investors, forming communities "
+"and managing and serving, and promoting consensus."
+msgstr ""
+"销售与市场唯一合作方为 :ref:`v5` ，V5 "
+"团队负责包括但不限于中文社区的组建与服务、公开销售计划的推进落实、寻找合格投资者、组建社区并管理服务、促进共识。"
+
+#: ../../letters/as_an_investor.rst:32
+msgid ""
+"In order to allow more enthusiasts to participate in community organization "
+"and work, we have launched a whitelist system for those who want to "
+"participate in this program. We have set up a generous sales rewards in the "
+"public-sale plan. Read :ref:`voken_referral_program` for more information."
+msgstr ""
+"为了让更多的爱好者可以参与到社区组建与工作中来，我们启动了白名单系统。我们在销售计划中设置了丰厚的销售奖励，详细您可以参阅 "
+":ref:`voken_referral_program` 。"
+
+#: ../../letters/as_an_investor.rst:36
+msgid ""
+"Voken will be traded on exchanges near the 10th season of the "
+":ref:`voken_sale`."
+msgstr "Voken 将在公售第 #10 个赛季附近登录交易所交易流通。"
+
+#: ../../letters/as_an_investor.rst:37
+msgid ""
+"We welcome more people to join and build the community. If you have good "
+"suggestions or cooperation intentions, please send us an email: "
+"david@vision.network."
+msgstr "我们欢迎更多人加入和共建社区，如果您有好的建议或合作意向可以给我们发邮件，邮箱地址： david@vision.network 。"
+
+#: ../../letters/as_an_investor.rst:40
+msgid ""
+"Thank you for your support of Voken, let us build a decentralized, free, "
+"open and safe Internet."
+msgstr "感谢您对 Voken 的认可和支持，让我们一起共建一个去中心化的、自由的、开放且安全的国际互联网。"
+
+#: ../../letters/as_an_investor.rst:43
+msgid "by Vision.Network Project Team"
+msgstr "by Vision.Network 远景网络项目团队"

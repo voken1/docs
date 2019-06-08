@@ -82,6 +82,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Voken
 
+   letters/as_an_investor
    token/sale
    policy/voken_referral_program
    token/airdrop_via_contract

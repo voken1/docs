@@ -6,6 +6,8 @@ Contact us
 
 |logo_earth|
 
+.. _voken_website:
+
 Official Website
 ----------------
 
@@ -20,7 +22,10 @@ GitHub
 https://github.com/voken100g
 
 
+
 |logo_twitter|
+
+.. _voken_twitter:
 
 Twitter
 -------
@@ -46,8 +51,10 @@ News Channel
 
 |logo_doc|
 
-Documents
----------
+.. _voken_doc:
+
+Documentations
+--------------
 
 - https://voken.io/
 - https://voken.io/zh_CN/latest/ (Simplified Chinese)
