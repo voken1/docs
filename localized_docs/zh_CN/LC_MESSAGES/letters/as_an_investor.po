@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-08 14:44+0800\n"
+"POT-Creation-Date: 2019-06-08 15:14+0800\n"
 "PO-Revision-Date: 2019-06-08 05:50+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -35,7 +35,7 @@ msgstr "您要对区块链领域有一定了解，至少 1 年以上加密货币
 msgid ""
 "If you don't have any experience in crypto-currency investment, please read "
 "the :ref:`whitepaper` more than 2 times."
-msgstr "如果您没有数字货币投资经验，请阅读白皮书 2 遍以上。"
+msgstr "如果您没有数字货币投资经验，请阅读 :ref:`whitepaper` 2 遍以上。"
 
 #: ../../letters/as_an_investor.rst:10
 msgid ""
@@ -66,7 +66,7 @@ msgid ""
 "believe in information disseminated by other non-official channels."
 msgstr ""
 "我们会适时发布信息在 :ref:`voken_website` 、 :ref:`voken_doc` 、 :ref:`voken_twitter` 、 "
-":ref:`voken_telegram`, 等渠道。不要轻信其它非官方渠道散播的信息。"
+":ref:`voken_telegram` 等渠道。不要轻信其它非官方渠道散播的信息。"
 
 #: ../../letters/as_an_investor.rst:23
 msgid ""
@@ -79,14 +79,14 @@ msgstr ""
 
 #: ../../letters/as_an_investor.rst:27
 msgid ""
-"The only cooperation party for sales and marketing is the :ref:`v5`. The V5 "
+"The only cooperation party for sales and community is the :ref:`v5`. The V5 "
 "team is responsible for the formation and service, including but not limited"
 " to the Chinese language community. It is responsible for the implementation"
 " of the :ref:`voken_sale`, finding qualified investors, forming communities "
 "and managing and serving, and promoting consensus."
 msgstr ""
-"销售与市场唯一合作方为 :ref:`v5` ，V5 "
-"团队负责包括但不限于中文社区的组建与服务、公开销售计划的推进落实、寻找合格投资者、组建社区并管理服务、促进共识。"
+"销售与市场唯一合作方为 :ref:`v5` ，V5 团队负责包括但不限于中文社区的组建与服务、:ref:`voken_sale` "
+"的推进落实、寻找合格投资者、组建社区并管理服务、促进共识。"
 
 #: ../../letters/as_an_investor.rst:32
 msgid ""
@@ -102,7 +102,7 @@ msgstr ""
 msgid ""
 "Voken will be traded on exchanges near the 10th season of the "
 ":ref:`voken_sale`."
-msgstr "Voken 将在公售第 #10 个赛季附近登录交易所交易流通。"
+msgstr "Voken 将在 :ref:`voken_sale` 的第 #10 个赛季附近登录交易所交易流通。"
 
 #: ../../letters/as_an_investor.rst:37
 msgid ""

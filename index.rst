@@ -187,11 +187,14 @@ more open, more equal, more stable, more efficient, safer and freer.
    :caption: Contribute
 
    contributing/contribute
-   contributing/reward_plan
+   contributing/v5
+   contributing/ex_plan
    contributing/chat
    contributing/donate
-   contributing/community_partner
    contributing/issue
+
+.. contributing/reward_plan
+.. contributing/community_partner
 
 
 .. _materials:

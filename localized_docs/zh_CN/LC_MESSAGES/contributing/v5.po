@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-08 16:21+0800\n"
+"PO-Revision-Date: 2019-06-08 07:17+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../contributing/v5.rst:4
+msgid "V5 Community Union"
+msgstr "V5 社区联盟"
+
+#: ../../contributing/v5.rst:6
+msgid "The only cooperation party for sales and community."
+msgstr "唯一销售与社区合作伙伴。"
+
+#: ../../contributing/v5.rst:10
+msgid "Scope of cooperation"
+msgstr "合作范围"
+
+#: ../../contributing/v5.rst:12
+msgid ""
+"Promote the implementation of the :ref:`voken_sale` and find qualified "
+"investors."
+msgstr ":ref:`voken_sale` 的推进落实，寻找合格投资者。"
+
+#: ../../contributing/v5.rst:13
+msgid "Build a community, serve the community, build the culture."
+msgstr "组建社区、服务社区、文化建设。"
+
+#: ../../contributing/v5.rst:14
+msgid "Culture promotion and value guidance."
+msgstr "文化宣传及价值观引导。"
+
+#: ../../contributing/v5.rst:15
+msgid ""
+"Maintain and manage the community and promote public opinion that is "
+"conducive to the whole ecology."
+msgstr "维护和管理社区，宣导有利于全生态的舆论。"
+
+#: ../../contributing/v5.rst:16
+msgid ""
+"Others are related to sales, including but not limited to sales, promotion, "
+"media, emergency handling and other collaborative work."
+msgstr "其它与销售相关，包括但不限于销售、宣传、媒体、紧急事件处理等配合性工作。"
+
+#: ../../contributing/v5.rst:22
+msgid "Duties of V5"
+msgstr "V5 职责"
+
+#: ../../contributing/v5.rst:24
+msgid "Find qualified investors."
+msgstr "寻找合格投资者。"
+
+#: ../../contributing/v5.rst:25
+msgid "Warn risks, guide investors to read :ref:`as_an_investor`."
+msgstr "提示风险，引导投资者阅读 :ref:`as_an_investor` 。"
+
+#: ../../contributing/v5.rst:26
+msgid "No inducible propaganda."
+msgstr "不可诱导性宣传。"
+
+#: ../../contributing/v5.rst:27
+msgid "Promising a certain return on investment is not allowed."
+msgstr "承诺一个确定的回报预期是不被允许的。"
+
+#: ../../contributing/v5.rst:28
+msgid ""
+"Do not forward or create information from unknown sources, and do not "
+"mislead the community and investors."
+msgstr "不转发、不制造不明来源的信息，不误导社区及投资者。"
+
+#: ../../contributing/v5.rst:30
+msgid ""
+"Important promotional notices must be reported to the project team for "
+"approval before they are released."
+msgstr "重要的宣导性通知在发布前需报备官方获准。"
+
+#: ../../contributing/v5.rst:32
+msgid ""
+"Regularly participate in the online meetings via `Telegram`_ of the core "
+"leadership members of the two parties on time (the time agreed by both "
+"parties) to facilitate the communication and sharing of project information,"
+" so as to help smooth the work."
+msgstr "双方核心领导成员通过 `Telegram`_ 定时按期参加核心会议（在双方协定的时间）以方便项目信息的共享与沟通交流，从而让工作顺畅。"
+
+#: ../../contributing/v5.rst:41
+msgid "PS"
+msgstr "注："
+
+#: ../../contributing/v5.rst:38
+msgid ""
+"Others that are not expressly stated here, as the project is carried out, "
+"will be determined after consultation between the two parties."
+msgstr "其它未能在此明确表述的，随着项目的开展，双方以实际情况协商后决定。"
+
+#: ../../contributing/v5.rst:44
+msgid "Contacts of V5"
+msgstr "V5 联系方式"
+
+#: ../../contributing/v5.rst:46
+msgid "Will be announced after the collection is confirmed."
+msgstr "将在汇总完成后确后发布。"
+
+#: ../../contributing/v5.rst:52
+msgid "by Vision.Network Project Team"
+msgstr "by Vision.Network 远景网络项目团队"

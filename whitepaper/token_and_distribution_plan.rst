@@ -48,7 +48,7 @@ Early Investors 13.47%
 
 
 Community 12%
-   For excellent community promoter.
+   For :ref:`v5`.
 
    - 50% freezed for 3.5 years.
    - Till ``2021.06.30 23:59:59 UTC``.

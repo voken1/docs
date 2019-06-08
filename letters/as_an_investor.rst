@@ -24,7 +24,7 @@ What you need to know as an investor
    When necessary, our team will adjust some of the work plans
    and adopt suggestions from the community members,
    but the project team always has the right to advance the progress and ensure it orderly.
-#. The only cooperation party for sales and marketing is the :ref:`v5`.
+#. The only cooperation party for sales and community is the :ref:`v5`.
    The V5 team is responsible for the formation and service,
    including but not limited to the Chinese language community.
    It is responsible for the implementation of the :ref:`voken_sale`,

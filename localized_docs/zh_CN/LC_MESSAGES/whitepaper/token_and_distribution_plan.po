@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-31 02:00+0800\n"
+"POT-Creation-Date: 2019-06-08 15:52+0800\n"
 "PO-Revision-Date: 2019-01-19 08:47+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -111,8 +111,8 @@ msgid "Community 12%"
 msgstr "社区建设 12%"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:51
-msgid "For excellent community promoter."
-msgstr "奖励优秀的社区推广者。"
+msgid "For :ref:`v5`."
+msgstr ":ref:`v5` 。"
 
 #: ../../whitepaper/token_and_distribution_plan.rst:53
 msgid "50% freezed for 3.5 years."

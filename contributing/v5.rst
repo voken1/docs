@@ -1,7 +1,57 @@
 .. _v5:
 
-V5 Community
-============
+V5 Community Union
+==================
 
-To be released.
+The only cooperation party for sales and community.
+
+
+Scope of cooperation
+--------------------
+
+#. Promote the implementation of the :ref:`voken_sale` and find qualified investors.
+#. Build a community, serve the community, build the culture.
+#. Culture promotion and value guidance.
+#. Maintain and manage the community and promote public opinion that is conducive to the whole ecology.
+#. Others are related to sales,
+   including but not limited to sales, promotion, media, emergency handling
+   and other collaborative work.
+
+
+Duties of V5
+------------
+
+#. Find qualified investors.
+#. Warn risks, guide investors to read :ref:`as_an_investor`.
+#. No inducible propaganda.
+#. Promising a certain return on investment is not allowed.
+#. Do not forward or create information from unknown sources,
+   and do not mislead the community and investors.
+#. Important promotional notices must be reported to the project team
+   for approval before they are released.
+#. Regularly participate in the online meetings via `Telegram`_ of the core leadership members
+   of the two parties on time (the time agreed by both parties)
+   to facilitate the communication and sharing of project information, so as to help smooth the work.
+
+
+PS
+   Others that are not expressly stated here,
+   as the project is carried out,
+   will be determined after consultation between the two parties.
+
+
+Contacts of V5
+--------------
+
+Will be announced after the collection is confirmed.
+
+
+
+------
+
+by Vision.Network Project Team
+
+
+
+.. _Telegram: https://telegram.org/
 
