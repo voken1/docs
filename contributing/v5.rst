@@ -43,7 +43,19 @@ PS
 Contacts of V5
 --------------
 
-Will be announced after the collection is confirmed.
+Email: v5club@126.com
+
+#TBC
+
+
+.. table
+   =============  ========================
+   Username       Telegram link
+   =============  ========================
+   @zero168       https://t.me/zero168
+   @cursor100g    https://t.me/cursor100g
+   =============  ========================
+.. Will be updated when there is a new member in the core group.
 
 
 
