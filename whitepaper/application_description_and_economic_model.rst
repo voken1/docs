@@ -18,7 +18,8 @@ The Vision Network uses distributed peer-to-peer network technology to build a d
 intelligent virtual network on the physical layer and ISP network layer through
 a large number of nodes, which can surely connect the whole world.
 
-The Vision Network provides distributed services such as VPN, CDN, DNS, and DDoS defense.
+The Vision Network provides distributed services such as Auto-Proxy,
+multi-layer anonymous network, IM, non-polluted DNS, even CDN and DDoS defense, etc.
 The :ref:`voken` with stable value scale will be used in the ecology and produce
 an incentive effect. Everyone can participate in distributed network construction.
 We believe the Vision Network,
@@ -115,7 +116,7 @@ The technical advantage is that there is no need to set up a centralized interme
 vnVPN create a decentralized platform based on blockchain and code rule.
 The contract is settled automatically, the node inside the wall pays the :ref:`voken` as the demand side,
 and the outside node uses the idle bandwidth as the service party to provide
-the encrypted trafficproxy service and automatically accept the :ref:`voken` settlement,
+the encrypted traffic-proxy service and automatically accept the :ref:`voken` settlement,
 and use the PoT consensus based on the traffic. Online service, blockchain settlement.
 
 

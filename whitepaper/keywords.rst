@@ -4,10 +4,10 @@ Keywords
 - Distributed Network
 - Infrastructure
 - Communication Protocol
-- Global Interoperability
-- VPN
-- Cross Internet Blockade
+- Freedom of Communication
+- Proxy
 - CDN
 - Idle Bandwidth Mining
 - Privacy Protection
+- Security
 

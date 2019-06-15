@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Michael Brown <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 16:56+0800\n"
+"POT-Creation-Date: 2019-06-15 21:54+0800\n"
 "PO-Revision-Date: 2019-01-11 05:18+0000\n"
-"Last-Translator: Michael Brown <michael@vision.network>, 2019\n"
-"Language-Team: Chinese (China) (https://www.transifex.com/vision_network/teams/95092/zh_CN/)\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,8 +26,8 @@ msgid "Background"
 msgstr "背景"
 
 #: ../../whitepaper/background.rst:4
-msgid "Regional network blockades"
-msgstr "区域性网络封锁，翻墙难度和成本增加"
+msgid "Access restrictions in different regions of the Internet"
+msgstr "不同地区的 Internet 网络访问限制"
 
 #: ../../whitepaper/background.rst:5
 msgid ""
