@@ -6,6 +6,20 @@ Season Top-Sales
 :ref:`top_sales_reward` by contract **0x2F7f6AC16469cE0Fed396A6C514e8d1366E4ADA8**
 
 
+Season #.5
+   Stage #.2401-3000
+
+   ================  ===========================
+   Item              Value
+   ================  ===========================
+   Season Number     5
+   Address           100
+   Sales Revenue     6321.117000906149545288 ETH
+   Top-Sales reward  1091.025065079664569524 ETH
+   Top-Sales ratio   17.26000428 %
+   ================  ===========================
+
+
 Season #.4
    Stage #.1801-2400
 

@@ -74,6 +74,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: News
 
+   reports/20190619
    reports/season_top_sales
    news/voken_contract_upgraded
    reports/summary2019

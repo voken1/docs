@@ -1,0 +1,44 @@
+.. _report_20190619:
+
+<Report> June 19th 2019
+=======================
+
+.. sidebar:: Progress report
+
+   Vision.Network Project Team
+
+   June 19th 2019
+
+
+Core
+----
+
+- Nodes networking optimization.
+- Bug fixes.
+- A demo plan on Android is launched, and will be released in a month.
+
+
+Voken Tracker
+-------------
+
+- Voken holders: **23,525**
+- Transfers: **457,054**
+
+by `Voken Tracker`_
+
+.. _Voken Tracker: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a
+
+
+
+Public-sale
+-----------
+
+- Stage: **No. 3259**
+- Season: **No. 6**
+- Master Progress：**5.43%**
+
+
+by `Voken Public-Sale`_
+
+.. _Voken Public-Sale: https://vision.network/en/voken-sale
+

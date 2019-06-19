@@ -21,3 +21,5 @@ Summary 2019
    - **airdrop.voken100g.eth** for :ref:`airdrop_via_contract`
    - **get1002.voken100g.eth** for :ref:`get_1002voken_contract`
    - :ref:`vnVPN_alpha` v0.5.1, pre-released
+   - :ref:`report_20190619`
+
