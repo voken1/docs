@@ -18,7 +18,7 @@ What you need to know as an investor
    don't look for someone else to do it,
    and make sure your wallet is safe, especially your private key.
 #. We will promptly publish project information on :ref:`voken_website`,
-   :ref:`voken_doc`, :ref:`voken_twitter`, :ref:`voken_telegram`, etc.
+   :ref:`voken_doc`, :ref:`voken_telegram`, etc.
    Do not believe in information disseminated by other non-official channels.
 #. Our project team will work as planned and make it available to the community.
    When necessary, our team will adjust some of the work plans

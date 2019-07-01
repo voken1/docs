@@ -38,15 +38,20 @@ https://twitter.com/voken100g
 
 .. _voken_telegram:
 
-Telegram
---------
+Telegram Group
+--------------
 
-Group
-   - https://t.me/voken100g
-   - https://t.me/vokenCN (Chinese Group)
+- https://t.me/voken100g
+- https://t.me/vokenCN (Chinese Group)
 
-News Channel
-   - https://t.me/vokenNews
+
+.. _voken_telegram_channel:
+
+Telegram Channel
+----------------
+
+- https://t.me/vokenNews
+
 
 
 |logo_doc|
