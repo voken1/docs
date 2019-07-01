@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Ferrari <ferrari820@pm.me>, 2019
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-30 15:35+0800\n"
+"PO-Revision-Date: 2019-06-21 09:46+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../reports/20190619.rst:4
+msgid "Report: June 19th 2019"
+msgstr "2019 年 6 月 19 日进展总结"
+
+#: ../../reports/20190619.rstNone
+msgid "Progress report"
+msgstr "进展报告"
+
+#: ../../reports/20190619.rst:8
+msgid "Vision.Network Project Team"
+msgstr "Vision.Network 远景网络项目组"
+
+#: ../../reports/20190619.rst:10
+msgid "June 19th 2019"
+msgstr "2019 年 6 月 19 日"
+
+#: ../../reports/20190619.rst:14
+msgid "Core"
+msgstr "核心工作"
+
+#: ../../reports/20190619.rst:16
+msgid "Nodes networking optimization."
+msgstr "节点组网优化。 "
+
+#: ../../reports/20190619.rst:17
+msgid "Bug fixes."
+msgstr "BUG 修复。 "
+
+#: ../../reports/20190619.rst:18
+msgid "A demo plan on Android is launched, and will be released in a month."
+msgstr "启动了一个安卓系统的演示体验版计划，计划在一个月内发布。"
+
+#: ../../reports/20190619.rst:22
+msgid "Voken Tracker"
+msgstr "Voken 数据跟踪"
+
+#: ../../reports/20190619.rst:24
+msgid "Voken holders: **23,525**"
+msgstr "Voken 持有地址数： **23,525** "
+
+#: ../../reports/20190619.rst:25
+msgid "Transfers: **457,054**"
+msgstr "转账数量： **457,054**"
+
+#: ../../reports/20190619.rst:27
+msgid "by `Voken Tracker`_"
+msgstr "来源于 `Voken Tracker`_"
+
+#: ../../reports/20190619.rst:34
+msgid "Public-sale"
+msgstr "公开销售数据"
+
+#: ../../reports/20190619.rst:36
+msgid "Stage: **No. 3259**"
+msgstr "阶段： **No. 3259**"
+
+#: ../../reports/20190619.rst:37
+msgid "Season: **No. 6**"
+msgstr "赛季： **No. 6**"
+
+#: ../../reports/20190619.rst:38
+msgid "Master Progress：**5.43%**"
+msgstr "总进度： **5.43%**"
+
+#: ../../reports/20190619.rst:41
+msgid "by `Voken Public-Sale`_"
+msgstr "来源于 `Voken Public-Sale`_"

@@ -62,7 +62,7 @@ ____
    // solidity
 
    string private _name = "Vision.Network 100G Token";
-   string private _symbol = "ABC";
+   string private _symbol = "Voken";
    uint8 private _decimals = 6;                // 6 decimals
    uint256 private _cap = 35000000000000000;   // 35 billion
    uint256 private _totalSupply;

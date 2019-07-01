@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-02 09:37+0800\n"
+"POT-Creation-Date: 2019-06-20 01:20+0800\n"
 "PO-Revision-Date: 2019-05-28 22:07+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -34,141 +34,172 @@ msgstr ""
 "执行。"
 
 #: ../../reports/season_top_sales.rst:21
-msgid "Season #.4"
-msgstr "第 4 赛季"
+msgid "Season #.5"
+msgstr ""
 
 #: ../../reports/season_top_sales.rst:10
-msgid "Stage #.1801-2400"
-msgstr "第 1801-2400 阶段"
+msgid "Stage #.2401-3000"
+msgstr ""
 
 #: ../../reports/season_top_sales.rst:13 ../../reports/season_top_sales.rst:27
 #: ../../reports/season_top_sales.rst:41 ../../reports/season_top_sales.rst:55
+#: ../../reports/season_top_sales.rst:69
 msgid "Item"
 msgstr "项目"
 
 #: ../../reports/season_top_sales.rst:13 ../../reports/season_top_sales.rst:27
 #: ../../reports/season_top_sales.rst:41 ../../reports/season_top_sales.rst:55
+#: ../../reports/season_top_sales.rst:69
 msgid "Value"
 msgstr "数值"
 
 #: ../../reports/season_top_sales.rst:15 ../../reports/season_top_sales.rst:29
 #: ../../reports/season_top_sales.rst:43 ../../reports/season_top_sales.rst:57
+#: ../../reports/season_top_sales.rst:71
 msgid "Season Number"
 msgstr "赛季数"
 
 #: ../../reports/season_top_sales.rst:15
-msgid "4"
+msgid "5"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:16 ../../reports/season_top_sales.rst:30
 #: ../../reports/season_top_sales.rst:44 ../../reports/season_top_sales.rst:58
+#: ../../reports/season_top_sales.rst:72
 msgid "Address"
 msgstr "地址数"
 
 #: ../../reports/season_top_sales.rst:16 ../../reports/season_top_sales.rst:30
-#: ../../reports/season_top_sales.rst:44
+#: ../../reports/season_top_sales.rst:44 ../../reports/season_top_sales.rst:58
 msgid "100"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:17 ../../reports/season_top_sales.rst:31
 #: ../../reports/season_top_sales.rst:45 ../../reports/season_top_sales.rst:59
+#: ../../reports/season_top_sales.rst:73
 msgid "Sales Revenue"
 msgstr "销售收入"
 
 #: ../../reports/season_top_sales.rst:17
-msgid "4918.132654231972457582 ETH"
+msgid "6321.117000906149545288 ETH"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:18 ../../reports/season_top_sales.rst:32
 #: ../../reports/season_top_sales.rst:46 ../../reports/season_top_sales.rst:60
+#: ../../reports/season_top_sales.rst:74
 msgid "Top-Sales reward"
 msgstr "销售排名奖"
 
 #: ../../reports/season_top_sales.rst:18
-msgid "824.300266794779287263 ETH"
+msgid "1091.025065079664569524 ETH"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:19 ../../reports/season_top_sales.rst:33
 #: ../../reports/season_top_sales.rst:47 ../../reports/season_top_sales.rst:61
+#: ../../reports/season_top_sales.rst:75
 msgid "Top-Sales ratio"
 msgstr "销售排名奖比"
 
 #: ../../reports/season_top_sales.rst:19
-msgid "16.76043174 %"
+msgid "17.26000428 %"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:35
-msgid "Season #.3"
-msgstr "每 3 赛季"
+msgid "Season #.4"
+msgstr "第 4 赛季"
 
 #: ../../reports/season_top_sales.rst:24
-msgid "Stage #.1201-1800"
-msgstr "第 1201-1800 阶段"
+msgid "Stage #.1801-2400"
+msgstr "第 1801-2400 阶段"
 
 #: ../../reports/season_top_sales.rst:29
-msgid "3"
+msgid "4"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:31
-msgid "3693.46153846153846112 ETH"
+msgid "4918.132654231972457582 ETH"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:32
-msgid "600.7797967576923072 ETH"
+msgid "824.300266794779287263 ETH"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:33
-msgid "16.26603635 %"
+msgid "16.76043174 %"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:49
-msgid "Season #.2"
-msgstr "第 2 赛季"
+msgid "Season #.3"
+msgstr "每 3 赛季"
 
 #: ../../reports/season_top_sales.rst:38
-msgid "Stage #.601-1200"
-msgstr "第 601-1200 阶段"
+msgid "Stage #.1201-1800"
+msgstr "第 1201-1800 阶段"
 
 #: ../../reports/season_top_sales.rst:43
-msgid "2"
+msgid "3"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:45
-msgid "2151.00743613762115039 ETH"
+msgid "3693.46153846153846112 ETH"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:46
-msgid "339.314673969312606438 ETH"
+msgid "600.7797967576923072 ETH"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:47
-msgid "15.77468623 %"
+msgid "16.26603635 %"
 msgstr ""
 
-#: ../../reports/season_top_sales.rst:61
-msgid "Season #.1"
-msgstr "第 1 赛季"
+#: ../../reports/season_top_sales.rst:63
+msgid "Season #.2"
+msgstr "第 2 赛季"
 
 #: ../../reports/season_top_sales.rst:52
-msgid "Stage #.0-600"
-msgstr "第 0-600 阶段"
+msgid "Stage #.601-1200"
+msgstr "第 601-1200 阶段"
 
 #: ../../reports/season_top_sales.rst:57
-msgid "1"
-msgstr ""
-
-#: ../../reports/season_top_sales.rst:58
-msgid "64"
+msgid "2"
 msgstr ""
 
 #: ../../reports/season_top_sales.rst:59
+msgid "2151.00743613762115039 ETH"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:60
+msgid "339.314673969312606438 ETH"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:61
+msgid "15.77468623 %"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:75
+msgid "Season #.1"
+msgstr "第 1 赛季"
+
+#: ../../reports/season_top_sales.rst:66
+msgid "Stage #.0-600"
+msgstr "第 0-600 阶段"
+
+#: ../../reports/season_top_sales.rst:71
+msgid "1"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:72
+msgid "64"
+msgstr ""
+
+#: ../../reports/season_top_sales.rst:73
 msgid "887.855193939393939062 ETH"
 msgstr "887.855193939393939062 ETH"
 
-#: ../../reports/season_top_sales.rst:60
+#: ../../reports/season_top_sales.rst:74
 msgid "135.950525036026935681 ETH"
 msgstr "135.950525036026935681 ETH"
 
-#: ../../reports/season_top_sales.rst:61
+#: ../../reports/season_top_sales.rst:75
 msgid "15.31224077 %"
 msgstr ""

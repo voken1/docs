@@ -1,7 +1,7 @@
 .. _report_20190619:
 
-<Report> June 19th 2019
-=======================
+Report: June 19th 2019
+======================
 
 .. sidebar:: Progress report
 
