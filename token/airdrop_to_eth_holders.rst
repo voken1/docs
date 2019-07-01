@@ -28,8 +28,7 @@ Remove duplicate addresses
 __________________________
 
 - 62% (5,013,278 Blocks, June 15th - July 1st,  2019)
-
-#TBC
+- #TBC
 
 
 Get ETH balance by every address

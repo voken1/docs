@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-06 11:37+0800\n"
+"POT-Creation-Date: 2019-07-01 22:50+0800\n"
 "PO-Revision-Date: 2019-04-13 10:44+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -22,10 +22,56 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../token/airdrop_to_eth_holders.rst:4
-msgid "Voken Airdrop to ETH Holders"
-msgstr "向 ETH 持有者空投"
+msgid "Voken Airdrop to ETH Holders (with progress)"
+msgstr "向 ETH 持有者的空投（附进度）"
 
 #: ../../token/airdrop_to_eth_holders.rst:6
+msgid "Via :ref:`airdrop_to_eth_holders_contract`."
+msgstr "通过 :ref:`airdrop_to_eth_holders_contract` 。"
+
+#: ../../token/airdrop_to_eth_holders.rst:8
+msgid "Ethereum snapshot block height: `Block #8062292`_"
+msgstr "以太坊快照区块高度： `Block #8062292`_"
+
+#: ../../token/airdrop_to_eth_holders.rst:10
 msgid ""
-"Will started in the 2019 Q2-Q3 via :ref:`airdrop_to_eth_holders_contract`."
-msgstr "将会在 2019 Q2-Q3 启动，通过 :ref:`airdrop_to_eth_holders_contract` 。"
+"Every address which hold more than 1 ETH before the block number above, will"
+" get a 1:1 Voken airdrop."
+msgstr "每个在上述区块高度前持有 1 ETH 以上的地址都将获得 1:1 的 Voken 空投。"
+
+#: ../../token/airdrop_to_eth_holders.rst:19
+msgid "Airdrop Progress"
+msgstr "空投进度"
+
+#: ../../token/airdrop_to_eth_holders.rst:22
+msgid "Extract address data from every block"
+msgstr "提取地址数据从每一个区块"
+
+#: ../../token/airdrop_to_eth_holders.rst:24
+msgid "100% Finished (June 2nd - July 1st, 2019)"
+msgstr "100% 完成 （ 2019 年 6 月 2 日至 7 月 1 日）"
+
+#: ../../token/airdrop_to_eth_holders.rst:28
+msgid "Remove duplicate addresses"
+msgstr "去除重复的地址"
+
+#: ../../token/airdrop_to_eth_holders.rst:30
+msgid "62% (5,013,278 Blocks, June 15th - July 1st,  2019)"
+msgstr "62% （ 5,013,278 个区块， 2019年 6 月 15 日至 7 月 1 日）"
+
+#: ../../token/airdrop_to_eth_holders.rst:32
+msgid "#TBC"
+msgstr "待续"
+
+#: ../../token/airdrop_to_eth_holders.rst:36
+msgid "Get ETH balance by every address"
+msgstr "获取每个地址的 ETH 余额"
+
+#: ../../token/airdrop_to_eth_holders.rst:38
+#: ../../token/airdrop_to_eth_holders.rst:44
+msgid "#TODO"
+msgstr "待办"
+
+#: ../../token/airdrop_to_eth_holders.rst:42
+msgid "Airdrop"
+msgstr "空投"

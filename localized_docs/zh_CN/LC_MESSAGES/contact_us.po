@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-01 13:13+0800\n"
+"POT-Creation-Date: 2019-07-01 22:50+0800\n"
 "PO-Revision-Date: 2019-05-06 06:21+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -66,7 +66,7 @@ msgstr "Twitter 推特"
 msgid "https://twitter.com/voken100g"
 msgstr "https://twitter.com/voken100g"
 
-#: ../../contact_us.rst:37 ../../contact_us.rst:50
+#: ../../contact_us.rst:37
 msgid "|logo_telegram|"
 msgstr "|logo_telegram|"
 
@@ -74,42 +74,34 @@ msgstr "|logo_telegram|"
 msgid "Telegram Group"
 msgstr "电报群组"
 
-#: ../../contact_us.rst:48
-msgid "Group"
-msgstr "群组"
-
-#: ../../contact_us.rst:45
+#: ../../contact_us.rst:44
 msgid "https://t.me/voken100g"
 msgstr "https://t.me/voken100g"
 
-#: ../../contact_us.rst:46
+#: ../../contact_us.rst:45
 msgid "https://t.me/vokenCN (Chinese Group)"
 msgstr "https://t.me/vokenCN （中文组）"
 
-#: ../../contact_us.rst:55
+#: ../../contact_us.rst:51
 msgid "Telegram Channel"
 msgstr "电报新闻频道"
 
-#: ../../contact_us.rst:60
-msgid "News Channel"
-msgstr "消息频道"
-
-#: ../../contact_us.rst:58
+#: ../../contact_us.rst:53
 msgid "https://t.me/vokenNews"
 msgstr "https://t.me/vokenNews"
 
-#: ../../contact_us.rst:62
+#: ../../contact_us.rst:57
 msgid "|logo_doc|"
 msgstr "|logo_doc|"
 
-#: ../../contact_us.rst:67
+#: ../../contact_us.rst:62
 msgid "Documentations"
 msgstr "项目文档"
 
-#: ../../contact_us.rst:69
+#: ../../contact_us.rst:64
 msgid "https://voken.io/"
 msgstr "https://voken.io/"
 
-#: ../../contact_us.rst:70
+#: ../../contact_us.rst:65
 msgid "https://voken.io/zh_CN/latest/ (Simplified Chinese)"
 msgstr "https://voken.io/zh_CN/latest/ （简体中文）"
