@@ -1,7 +1,7 @@
 .. _vision_connect:
 
-VISION CONNECT
-==============
+VISION CONNECT (Alpha)
+======================
 
 Just for internal testing and a small number of invited users.
 
