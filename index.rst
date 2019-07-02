@@ -23,12 +23,6 @@ Welcome to vision.network!
       https://github.com/voken100g
 
 
-   |logo_twitter|
-
-   Twitter
-      https://twitter.com/voken100g
-
-
    |logo_telegram|
 
    Telegram Group

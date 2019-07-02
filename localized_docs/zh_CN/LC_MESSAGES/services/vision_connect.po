@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-01 23:44+0800\n"
+"POT-Creation-Date: 2019-07-02 10:16+0800\n"
 "PO-Revision-Date: 2019-07-01 15:49+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -22,33 +22,49 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../services/vision_connect.rst:4
-msgid "VISION CONNECT"
-msgstr ""
+msgid "VISION CONNECT (Alpha)"
+msgstr "VISION CONNECT （内测版）"
 
 #: ../../services/vision_connect.rst:6
 msgid "Just for internal testing and a small number of invited users."
 msgstr "仅对团队内部测试及少量受邀用户。"
 
-#: ../../services/vision_connect.rst:11
-msgid "Changelog"
-msgstr "更新记录"
+#: ../../services/vision_connect.rst:10
+msgid "Platform"
+msgstr "平台"
 
-#: ../../services/vision_connect.rst:15
-msgid "`v0.1.1`_"
-msgstr "`v0.1.1`_"
+#: ../../services/vision_connect.rst:10
+msgid "Latest Version"
+msgstr "最新版本"
 
-#: ../../services/vision_connect.rst:14
+#: ../../services/vision_connect.rst:12
+msgid "Android"
+msgstr "安卓"
+
+#: ../../services/vision_connect.rst:12
+msgid "`VISION CONNECT (Alpha edition) for Android v0.1.1`_"
+msgstr "`VISION CONNECT (Alpha edition) for Android v0.1.1`_"
+
+#: ../../services/vision_connect.rst:20
+msgid "Changelog for Android"
+msgstr "更新记录 for 安卓"
+
+#: ../../services/vision_connect.rst:24
+msgid "v0.1.1"
+msgstr "v0.1.1"
+
+#: ../../services/vision_connect.rst:23
 msgid "Fix bug when disconnect"
 msgstr "BUG 修复：当断开连接时的错误"
 
-#: ../../services/vision_connect.rst:15
+#: ../../services/vision_connect.rst:24
 msgid "Fix bug of reloading nodes"
 msgstr "BUG 修复：重新载入节点"
 
-#: ../../services/vision_connect.rst:21
+#: ../../services/vision_connect.rst:26
 msgid "v0.1.0"
 msgstr "v0.1.0"
 
-#: ../../services/vision_connect.rst:21
+#: ../../services/vision_connect.rst:27
 msgid "Easy connect by one touch"
 msgstr "一次触摸完成简易连接"
