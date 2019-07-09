@@ -28,13 +28,14 @@ Remove duplicate addresses
 __________________________
 
 - 62% (5,013,278 Blocks, June 15th - July 1st,  2019)
-- #TBC
+- 100% (8,062,292 Blocks, July 1st - 8th,  2019)
 
 
 Get ETH balance by every address
 ________________________________
 
-#TODO
+- 0% (July 8th, 2019)
+- #TBC
 
 
 Airdrop
