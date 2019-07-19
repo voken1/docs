@@ -22,4 +22,4 @@ Summary 2019
    - **get1002.voken100g.eth** for :ref:`get_1002voken_contract`
    - :ref:`vnVPN_alpha` v0.5.1, pre-released
    - :ref:`report_20190619`
-
+   - :ref:`report_20190719`

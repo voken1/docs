@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-19 13:41+0800\n"
+"PO-Revision-Date: 2019-07-19 05:26+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../reports/20190719.rst:4
+msgid "Report: July 19th 2019"
+msgstr "2019 年 7 月 19 日进展总结"
+
+#: ../../reports/20190719.rstNone
+msgid "Progress report"
+msgstr "进展报告"
+
+#: ../../reports/20190719.rst:8
+msgid "Vision.Network Project Team"
+msgstr "Vision.Network 远景网络项目组"
+
+#: ../../reports/20190719.rst:10
+msgid "July 19th 2019"
+msgstr "2019 年 7 月 19 日"
+
+#: ../../reports/20190719.rst:14
+msgid "Core"
+msgstr "核心工作"
+
+#: ../../reports/20190719.rst:16
+msgid ":ref:`vision_connect` v0.1.1 for Android, alpha edition pre-released"
+msgstr ":ref:`vision_connect` 安卓 v0.1.1 内测版本预发布"
+
+#: ../../reports/20190719.rst:17
+msgid "Migrate workflow management to Jira"
+msgstr "迁移工作流管理至 Jira"
+
+#: ../../reports/20190719.rst:18
+msgid "RSA Encrypt for core-node on JAVA"
+msgstr "JAVA 版本的核心节点 RSA 加密"
+
+#: ../../reports/20190719.rst:19
+msgid "RSA Decrypt for core-node on JAVA"
+msgstr "JAVA 版本的核心节点 RSA 解密"
+
+#: ../../reports/20190719.rst:20
+msgid "Signature-verification module for core-node on JAVA"
+msgstr "JAVA 版本的核心节点签名与验证模块"
+
+#: ../../reports/20190719.rst:21
+msgid "Communication protocol for core-node on JAVA"
+msgstr "JAVA 版本的核心节的通信协议"
+
+#: ../../reports/20190719.rst:25
+msgid "Voken Tracker"
+msgstr "Voken 数据跟踪"
+
+#: ../../reports/20190719.rst:27
+msgid "Voken holders: **22,705**"
+msgstr "Voken 持有地址数： **22,705**"
+
+#: ../../reports/20190719.rst:28
+msgid "Transfers: **469,162**"
+msgstr "转账数量： **469,162**"
+
+#: ../../reports/20190719.rst:30
+msgid "by `Voken Tracker`_"
+msgstr "来源于 `Voken Tracker`_"
+
+#: ../../reports/20190719.rst:37
+msgid "Public-sale"
+msgstr "公开销售数据"
+
+#: ../../reports/20190719.rst:39
+msgid "Stage: **No. 3274**"
+msgstr "阶段： **No. 3274**"
+
+#: ../../reports/20190719.rst:40
+msgid "Season: **No. 6**"
+msgstr "赛季： **No. 6**"
+
+#: ../../reports/20190719.rst:41
+msgid "Master Progress：**5.46%**"
+msgstr "总进度： **5.46%**"
+
+#: ../../reports/20190719.rst:44
+msgid "by `Voken Public-Sale`_"
+msgstr "来源于 `Voken Public-Sale`_"

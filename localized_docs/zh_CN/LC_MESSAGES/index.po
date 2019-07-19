@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-15 11:54+0800\n"
+"POT-Creation-Date: 2019-07-02 10:16+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -54,62 +54,50 @@ msgid "https://github.com/voken100g"
 msgstr "https://github.com/voken100g"
 
 #: ../../index.rst:26
-msgid "|logo_twitter|"
-msgstr "|logo_twitter|"
-
-#: ../../index.rst:30
-msgid "Twitter"
-msgstr "Twitter"
-
-#: ../../index.rst:29
-msgid "https://twitter.com/voken100g"
-msgstr "https://twitter.com/voken100g"
-
-#: ../../index.rst:32
 msgid "|logo_telegram|"
 msgstr "|logo_telegram|"
 
-#: ../../index.rst:36
+#: ../../index.rst:30
 msgid "Telegram Group"
 msgstr "电报群组"
 
-#: ../../index.rst:35
+#: ../../index.rst:29
 msgid "https://t.me/voken100g"
 msgstr "https://t.me/voken100g"
 
-#: ../../index.rst:36
+#: ../../index.rst:30
 msgid "https://t.me/vokenCN (Chinese Group)"
 msgstr "https://t.me/vokenCN （中文组）"
 
-#: ../../index.rst:40
+#: ../../index.rst:34
 msgid "Telegram News Channel"
 msgstr "官方电报新闻频道"
 
-#: ../../index.rst:39
+#: ../../index.rst:33
 msgid "https://t.me/vokenNews"
 msgstr "https://t.me/vokenNews"
 
-#: ../../index.rst:42
+#: ../../index.rst:36
 msgid "|logo_doc|"
 msgstr "|logo_doc|"
 
-#: ../../index.rst:45
+#: ../../index.rst:39
 msgid "Documents"
 msgstr "项目文档"
 
-#: ../../index.rst:45
+#: ../../index.rst:39
 msgid "https://voken.io/"
 msgstr "https://voken.io/"
 
-#: ../../index.rst:46
+#: ../../index.rst:40
 msgid "https://voken.io/zh_CN/latest/ (Simplified Chinese)"
 msgstr "https://voken.io/zh_CN/latest/ （简体中文）"
 
-#: ../../index.rst:49
+#: ../../index.rst:43
 msgid ":ref:`philosophy`"
 msgstr ":ref:`philosophy`"
 
-#: ../../index.rst:51
+#: ../../index.rst:45
 msgid ""
 "We are reconstructing the transport layer of the Internet, we are re-"
 "defining the Internet. Each user and each terminal is no longer just the "
@@ -117,14 +105,14 @@ msgid ""
 " the Internet and services."
 msgstr "我们正在重构互联网传输层协议，我们正在重新定义互联网。每个用户和每个终端不再仅仅是食物链的底层，而应该是互联网和服务的提供者和共同建设者。"
 
-#: ../../index.rst:56
+#: ../../index.rst:50
 msgid ""
 "The Vision Network is a set of infrastructure for building a decentralized "
 "Internet. It is a distributed extensible virtual network, based on the "
 "physical network layer and the ISP network layer."
 msgstr "Vision Network 远景网络是构建去中心化互联网的一系列基础设施。是在物理网络层、ISP 网络层之上构建的分布式智能虚拟网络。"
 
-#: ../../index.rst:60
+#: ../../index.rst:54
 msgid ""
 "Vision Network uses blockchain technology, distributed networks and "
 "asymmetric encryption, provides distributed services such as Auto-Proxy, "
@@ -134,7 +122,7 @@ msgstr ""
 "Vision Network 远景网络使用区块链、分布式网络和非对称加密等技术，提供一系列分布式服务，如自动代理服务、多层匿名网络、 IM "
 "即时通信、无污染的 DNS 解析，甚至是 CDN 内容加速分发和 DDoS 防御等。"
 
-#: ../../index.rst:64
+#: ../../index.rst:58
 msgid ""
 "The :ref:`voken` with stable value scale will be used in the entire ecology "
 "and produce an incentive effect. Everyone can participate in distributed "
@@ -145,46 +133,46 @@ msgstr ""
 "使用价值尺度稳定的 :ref:`voken` "
 "作为生态“货币”激励，是由全球无限节点参与构建的、具有成长性的分布式互联网基础设施，使互联网更开放、更平等、更稳定、更高效、更安全、更自由。"
 
-#: ../../index.rst:73
+#: ../../index.rst:67
 msgid "News"
 msgstr "最新消息"
 
-#: ../../index.rst:86
+#: ../../index.rst:81
 msgid "Voken"
 msgstr "Voken 流量币"
 
-#: ../../index.rst:108
+#: ../../index.rst:103
 msgid "Available services"
 msgstr "当前可用服务"
 
-#: ../../index.rst:124
+#: ../../index.rst:120
 msgid "Guides"
 msgstr "使用与操作指导"
 
-#: ../../index.rst:146
+#: ../../index.rst:142
 msgid "References and views"
 msgstr "推荐阅读与观点集"
 
-#: ../../index.rst:162
+#: ../../index.rst:158
 msgid "Contracts on Ethereum"
 msgstr "以太坊智能合约"
 
-#: ../../index.rst:190
+#: ../../index.rst:186
 msgid "Contribute"
 msgstr "共建"
 
-#: ../../index.rst:207
+#: ../../index.rst:203
 msgid "Materials"
 msgstr "素材"
 
-#: ../../index.rst:218
+#: ../../index.rst:214
 msgid "Policy"
 msgstr "政策"
 
-#: ../../index.rst:229
+#: ../../index.rst:225
 msgid "Whitepaper v1.1.0"
 msgstr "白皮书 v1.1.0"
 
-#: ../../index.rst:250
+#: ../../index.rst:246
 msgid "Contact us"
 msgstr "联系我们"

@@ -1,0 +1,47 @@
+.. _report_20190719:
+
+Report: July 19th 2019
+======================
+
+.. sidebar:: Progress report
+
+   Vision.Network Project Team
+
+   July 19th 2019
+
+
+Core
+----
+
+- :ref:`vision_connect` v0.1.1 for Android, alpha edition pre-released
+- Migrate workflow management to Jira
+- RSA Encrypt for core-node on JAVA
+- RSA Decrypt for core-node on JAVA
+- Signature-verification module for core-node on JAVA
+- Communication protocol for core-node on JAVA
+
+
+Voken Tracker
+-------------
+
+- Voken holders: **22,705**
+- Transfers: **469,162**
+
+by `Voken Tracker`_
+
+.. _Voken Tracker: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a
+
+
+
+Public-sale
+-----------
+
+- Stage: **No. 3274**
+- Season: **No. 6**
+- Master Progress：**5.46%**
+
+
+by `Voken Public-Sale`_
+
+.. _Voken Public-Sale: https://vision.network/en/voken-sale
+
