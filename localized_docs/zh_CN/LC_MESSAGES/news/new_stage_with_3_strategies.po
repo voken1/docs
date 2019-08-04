@@ -1,0 +1,149 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-04 10:13+0800\n"
+"PO-Revision-Date: 2019-08-04 02:16+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../news/new_stage_with_3_strategies.rst:4
+msgid "New stage with 3 strategies"
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rstNone
+msgid "HOLD VOKEN, HOLD VALUE."
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:8
+msgid "Vision.Network Project Team"
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:10
+msgid "Aug 2019"
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:13
+msgid ""
+"Dear holders, technical geeks, community members, supporters, hello to "
+"everyone!"
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:15
+msgid ""
+"Since the :ref:`voken_sale`, the Vision Network project has received much "
+"attention. Under the multi-dimensional and wide-ranging awareness, the "
+"Vision Network has won the favor of a group of holders with vision. They not"
+" only bought VOKENs but also sent emails to provide advice on community "
+"governance and ecological construction."
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:17
+msgid ""
+"At the same time, more and more members have joined the volunteer work of "
+"the VOKEN community. They have done a lot of experimental, exploratory, and "
+"far-sighted practical work, which has provided an excellent imperative for "
+"the whole ecological construction."
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:19
+msgid ""
+"There are also technical geeks from all over the world. Statistics show that"
+" since the release of the VISION CONNECT alpha version on July 1st, 2019, we"
+" have received collaborative requests from technical geeks from 7 countries "
+"around the world."
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:21
+msgid ""
+"At present, the Vision Network has more than 30 stable test nodes all over "
+"the world, which provides a fundamental basis for the smooth use and in-"
+"depth development of the network in the future. We are also happy to see the"
+" massive user and activity data: more than 2,600 users have entree to the "
+"test-net, averaging 1.9 hours per day. In the current situation where the "
+"vnCHAIN is under development, it is beneficial to have such data for every "
+"user."
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:23
+msgid ""
+"We want to thank all Vision Network participants and VOKEN holders. The "
+"contribution of Vision Network Ecology is inseparable from the input of "
+"every member, thank you, everyone!"
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:25
+msgid ""
+"As we all know, since the public sale, we have encountered some unforeseen "
+"troubles. The most challenging thing is that the centralized exchanges "
+"forced the listing of the VOKEN. It not only interrupted our sales plan but "
+"also brought some holders in the loss of interest. Our original plan was to "
+"announce the exchange whitelist plan after the 10th season and start the "
+"trading market in an orderly manner. Why should we start the trading plan at"
+" a particular stage, to maximize the protection of the holder's profits? "
+"However, due to the open-source feature of VOKEN, many exchanges forcibly "
+"meddled the ecology, without approved. They also disrupted the market price,"
+" which has brought many troubles to the public-sale and community "
+"foundation."
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:27
+msgid ""
+"A project without value never gets noticed, and many exchanges have seen the"
+" value of the Vision Network project, which is an excellent performance for "
+"the industry. In the prior time, some exchanges have also used their traffic"
+" to drive, which is worth affirming. However, according to our observations,"
+" some unknown exchanges produced a large amount of fake VOKENs and data. "
+"That is not consistent with the actual circumstance of the market, because "
+"some people want to create panic to gain personal benefit. It also confirms "
+"our speculation, but at that time, we did not have rather data, and it is "
+"not advisable to make arbitrary conclusions by guessing. That is why we made"
+" a global announcement, rejected some of the community members' requests for"
+" us to manipulate the market to drive prices. Therefore, we lost some "
+"supporters who thought we were not following the advice. However, the real "
+"situation is that we don't want all the participants to run hard, but only "
+"the exchanges get the benefits. No matter who plays in the market price "
+"manipulation, the profiteering party can only be the exchange, not the "
+"holders of VOKEN."
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:29
+msgid ""
+"In the past two months, we have continued to maintain the healthy "
+"development of the work, while also trying to find effective strategies to "
+"help public-sale and protect the interests of the holders. Here we would "
+"like to thank the many community members, including the V5 team, who "
+"provided valuable feedback and suggestions from multiple perspectives."
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:31
+msgid ""
+"Based on long-term, multi-perspective careful considerations, we have 3 "
+"crucial strategies for the entire ecological construction and common "
+"interests of the Vision Network. We hope that all community members can "
+"support and cooperate to promote the steady realization of ecological "
+"values. Thus, ensure that all holders become the ultimate winner of this "
+"ecology."
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:33
+msgid "VOKEN Main Contract Upgrade Program"
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:34
+msgid "VOKEN Shareholders Program"
+msgstr ""
+
+#: ../../news/new_stage_with_3_strategies.rst:35
+msgid "VOKEN Public-sale Upgrade Program"
+msgstr ""

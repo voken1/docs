@@ -1,6 +1,6 @@
 .. _airdrop_via_contract:
 
-Voken Airdrop via contract (Closed)
+VOKEN Airdrop via contract (Closed)
 ===================================
 
 Total amount:
@@ -21,7 +21,7 @@ Looking forward to:
 
 .. NOTE::
 
-   We detected organized bulk use of airdrop contracts to receive vokens at low cost.
+   We detected organized bulk use of airdrop contracts to receive vokens at a low cost.
 
    Therefore,
    we decided to temporarily suspend the airdrop contract

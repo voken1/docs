@@ -1,6 +1,6 @@
 .. _airdrop_to_eth_holders:
 
-Voken Airdrop to ETH Holders (with progress)
+VOKEN Airdrop to ETH Holders (with progress)
 ============================================
 
 Via :ref:`airdrop_to_eth_holders_contract`.

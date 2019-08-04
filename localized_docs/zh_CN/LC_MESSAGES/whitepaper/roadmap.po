@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-27 11:28+0800\n"
+"POT-Creation-Date: 2019-08-04 10:30+0800\n"
 "PO-Revision-Date: 2019-01-19 08:47+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,122 +21,157 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../whitepaper/roadmap.rst:2
+#: ../../whitepaper/roadmap.rst:4
 msgid "Roadmap"
 msgstr "路线图"
 
-#: ../../whitepaper/roadmap.rst:5
+#: ../../whitepaper/roadmap.rst:7
 msgid "2017.Q3"
 msgstr "2017.Q3"
 
-#: ../../whitepaper/roadmap.rst:5
+#: ../../whitepaper/roadmap.rst:7
 msgid "Project committee established"
 msgstr "项目组成立"
 
-#: ../../whitepaper/roadmap.rst:8
+#: ../../whitepaper/roadmap.rst:10
 msgid "2018.Q1"
 msgstr "2018.Q1"
 
-#: ../../whitepaper/roadmap.rst:8
+#: ../../whitepaper/roadmap.rst:10
 msgid "Feasibility and technical demonstration completed"
 msgstr "可行性论证和技术验证完成"
 
-#: ../../whitepaper/roadmap.rst:11
+#: ../../whitepaper/roadmap.rst:13
 msgid "2018.Q2"
 msgstr "2018.Q2"
 
-#: ../../whitepaper/roadmap.rst:11
-msgid "Vision Network whitepaper v1.0 released"
-msgstr "Vision Network 远景网络白皮书 v1.0 发布"
+#: ../../whitepaper/roadmap.rst:13
+msgid "Vision Network :ref:`whitepaper` v1.0 released"
+msgstr ""
 
-#: ../../whitepaper/roadmap.rst:17
+#: ../../whitepaper/roadmap.rst:19
 msgid "2018.Q3"
 msgstr "2018.Q3"
 
-#: ../../whitepaper/roadmap.rst:14
+#: ../../whitepaper/roadmap.rst:16 ../../whitepaper/roadmap.rst:29
 msgid ":ref:`airdrop_via_contract`"
 msgstr ":ref:`airdrop_via_contract`"
 
-#: ../../whitepaper/roadmap.rst:15
+#: ../../whitepaper/roadmap.rst:17
 msgid "Voken Pre-Sale (Canceled)"
 msgstr "Voken 预售（已取消）"
 
-#: ../../whitepaper/roadmap.rst:16
+#: ../../whitepaper/roadmap.rst:18
 msgid "Voken Airdrop by Invitation (Canceled)"
 msgstr "Voken 邀请空投（已取消）"
 
-#: ../../whitepaper/roadmap.rst:17
-msgid "150-500 official nodes launched"
-msgstr "150-500 个官网节启动"
+#: ../../whitepaper/roadmap.rst:19
+msgid "10-50 official nodes launched"
+msgstr ""
 
-#: ../../whitepaper/roadmap.rst:20
+#: ../../whitepaper/roadmap.rst:22
 msgid "2018.Q4"
 msgstr "2018.Q4"
 
-#: ../../whitepaper/roadmap.rst:20
+#: ../../whitepaper/roadmap.rst:22
 msgid "vnVPN alpha"
 msgstr "vnVPN 内测版"
 
-#: ../../whitepaper/roadmap.rst:23
+#: ../../whitepaper/roadmap.rst:25
 msgid "2019.Q1"
 msgstr "2019.Q1"
 
-#: ../../whitepaper/roadmap.rst:23
-msgid "Voken Directed Airdrop (Delayed)"
-msgstr "Voken 直接空投（已推延）"
+#: ../../whitepaper/roadmap.rst:25 ../../whitepaper/roadmap.rst:33
+msgid ":ref:`airdrop_to_eth_holders`"
+msgstr ""
 
-#: ../../whitepaper/roadmap.rst:27
+#: ../../whitepaper/roadmap.rst:30
 msgid "2019.Q2"
 msgstr "2019.Q2"
 
-#: ../../whitepaper/roadmap.rst:26
+#: ../../whitepaper/roadmap.rst:28
 msgid ":ref:`voken_sale`"
 msgstr ":ref:`voken_sale`"
 
-#: ../../whitepaper/roadmap.rst:27
+#: ../../whitepaper/roadmap.rst:30
 msgid "vnP2PNET alpha"
 msgstr "vnP2PNET 点对点分布式网络内测"
 
-#: ../../whitepaper/roadmap.rst:30
-msgid "2019.Q3"
-msgstr "2019.Q3"
-
-#: ../../whitepaper/roadmap.rst:30
-msgid "vnSDK alpha"
-msgstr "vnSDK 内测"
-
-#: ../../whitepaper/roadmap.rst:35
-msgid "2019.Q4"
-msgstr "2019.Q4"
-
-#: ../../whitepaper/roadmap.rst:33
-msgid "vnCHAIN alpha"
-msgstr "vnCHAIN 主链内测"
+#: ../../whitepaper/roadmap.rst:42
+msgid ""
+"2019.Q3 Thoroughly optimize and refactor the vnTUNNEL transport layer "
+"protocol"
+msgstr ""
 
 #: ../../whitepaper/roadmap.rst:34
-msgid "vnSDK beta"
-msgstr "vnSDK 公测"
+msgid ""
+"[CORE] Completely refactoring vnP2PNET, including NAT intranet penetration, "
+"UDP/TCP networking, node discovery, node discovery, and management, "
+"reconnection, offline confirmation, automatic routing between nodes, etc."
+msgstr ""
 
-#: ../../whitepaper/roadmap.rst:35
-msgid "vnVPN beta"
-msgstr "vnVPN 公测"
+#: ../../whitepaper/roadmap.rst:38
+msgid ""
+"[CORE] Refactor the encrypted communication protocol, refactor the vnTUNNEL "
+"transport layer, including the signature and encryption, segmentation, "
+"transmission, restoration and merge, decryption, integrity check, result "
+"confirmation, and retransmission mechanism of the data packets."
+msgstr ""
 
-#: ../../whitepaper/roadmap.rst:39
+#: ../../whitepaper/roadmap.rst:41
+msgid ""
+"[CORE] Further improve long connections, active-keeping, high concurrency, "
+"and high availability."
+msgstr ""
+
+#: ../../whitepaper/roadmap.rst:42
+msgid ""
+"[VisionConnectDemo] Add delay detection and availability features, on the "
+"Windows platform."
+msgstr ""
+
+#: ../../whitepaper/roadmap.rst:48
+msgid "2019.Q4 Wallet and transaction interface"
+msgstr ""
+
+#: ../../whitepaper/roadmap.rst:45
+msgid ""
+"[CORE] Define data structures and data models, encryption, decryption, "
+"verification, transaction signature and verification."
+msgstr ""
+
+#: ../../whitepaper/roadmap.rst:46
+msgid ""
+"[CORE] Define wallet models, transaction models, contract interactions, "
+"operational interfaces, and specifications."
+msgstr ""
+
+#: ../../whitepaper/roadmap.rst:47
+msgid ""
+"[VisionConnectDemo] Add delay detection and availability features, on the "
+"Android platform."
+msgstr ""
+
+#: ../../whitepaper/roadmap.rst:48
+msgid "[VisionConnectDemo] Refactor the UI, on the Windows platform."
+msgstr ""
+
+#: ../../whitepaper/roadmap.rst:52
 msgid "2020"
 msgstr "2020"
 
-#: ../../whitepaper/roadmap.rst:38
+#: ../../whitepaper/roadmap.rst:51
 msgid "Complete migration upgrade from ERC20 Voken to vnCHAIN"
 msgstr "完成 Voken ERC20 代币到 vnCHAIN 主链的映射"
 
-#: ../../whitepaper/roadmap.rst:41
+#: ../../whitepaper/roadmap.rst:54
 msgid "Related Reports:"
-msgstr ""
+msgstr "相关总结："
 
-#: ../../whitepaper/roadmap.rst:43
+#: ../../whitepaper/roadmap.rst:56
 msgid ":ref:`summary2019`"
-msgstr ""
+msgstr ":ref:`summary2019`"
 
-#: ../../whitepaper/roadmap.rst:44
+#: ../../whitepaper/roadmap.rst:57
 msgid ":ref:`summary2018`"
-msgstr ""
+msgstr ":ref:`summary2018`"

@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../reports/20190719.rst:4
 msgid "Report: July 19th 2019"
-msgstr "2019 年 7 月 19 日进展总结"
+msgstr "2019 年 7 月 19 日进展报告"
 
 #: ../../reports/20190719.rstNone
 msgid "Progress report"

@@ -543,4 +543,4 @@ msgstr ""
 
 #: ../../token/sale.rst:245
 msgid "So, make sure you have set ``gas limit`` to ``6,000,000``."
-msgstr ""
+msgstr "所以，请确保您已经设置 ``gas limit`` 为 ``6,000,000`` 。"

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-01 22:40+0800\n"
+"POT-Creation-Date: 2019-08-04 10:13+0800\n"
 "PO-Revision-Date: 2019-01-17 02:53+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -22,8 +22,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../token/airdrop_via_contract.rst:4
-msgid "Voken Airdrop via contract (Closed)"
-msgstr "Voken 合约空投（暂时关闭）"
+msgid "VOKEN Airdrop via contract (Closed)"
+msgstr "VOKEN 合约空投（暂时关闭）"
 
 #: ../../token/airdrop_via_contract.rst:7
 msgid "Total amount:"
@@ -71,8 +71,8 @@ msgstr "分享、传播、普及 Vision Network 理念，让更多人认识远�
 
 #: ../../token/airdrop_via_contract.rst:24
 msgid ""
-"We detected organized bulk use of airdrop contracts to receive vokens at low"
-" cost."
+"We detected organized bulk use of airdrop contracts to receive vokens at a "
+"low cost."
 msgstr "我们检测到有组织的大量利用空投合约低成本获取 Voken 的行为。"
 
 #: ../../token/airdrop_via_contract.rst:26

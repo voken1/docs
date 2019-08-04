@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-09 11:06+0800\n"
+"POT-Creation-Date: 2019-08-04 10:13+0800\n"
 "PO-Revision-Date: 2019-04-13 10:44+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../token/airdrop_to_eth_holders.rst:4
-msgid "Voken Airdrop to ETH Holders (with progress)"
+msgid "VOKEN Airdrop to ETH Holders (with progress)"
 msgstr "向 ETH 持有者的空投（附进度）"
 
 #: ../../token/airdrop_to_eth_holders.rst:6
