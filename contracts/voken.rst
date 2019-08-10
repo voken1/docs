@@ -1,7 +1,7 @@
 .. _voken_contract:
 
-Voken Main Contract
-===================
+Voken Main Contract (Deprecated in Aug 2019)
+============================================
 
 This is the **MAIN CONTRACT** of :ref:`voken`.
 

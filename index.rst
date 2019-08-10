@@ -74,6 +74,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    reports/summary2019
    reports/summary2018
 
+.. letters/new_voken
 
 
 .. _token:
@@ -154,6 +155,14 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 
 .. _contracts:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: New Contracts on Ethereum
+
+   voken/voken_main_contract
+   voken/voken_shareholders_contract
+
 
 .. toctree::
    :maxdepth: 1
