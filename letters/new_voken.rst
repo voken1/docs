@@ -94,8 +94,8 @@ In the past, we have seen many holders impulsively selling;
 they did not understand the project in-depth and were also affected by panic.
 There are also many factors (includes the exchanges) that combine to form the current situation.
 
-With rigid demand and a solid technical foundation,
-ecological growth is only a matter of time.
+We believe in rigid demand and a solid technical foundation.
+Ecological growth is only a matter of time.
 
 Based on long-term, multi-perspective careful considerations,
 we have a serial of crucial strategies
@@ -132,7 +132,7 @@ Supports **SAFE-MODE**:
    That is a **SAFE-MODE** for VOKEN.
 
 Optimized whitelist rules:
-   By transferring 1001 VOKEN to a whitelisted address,
+   By transferring 1,001 VOKEN to a whitelisted address,
    will sign-up for whitelist and get 1 VOKEN refund as a success signal automatically.
 
 

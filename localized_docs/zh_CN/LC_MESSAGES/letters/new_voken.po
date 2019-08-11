@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-11 21:56+0800\n"
+"POT-Creation-Date: 2019-08-11 22:23+0800\n"
 "PO-Revision-Date: 2019-08-11 05:12+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -176,9 +176,9 @@ msgstr ""
 
 #: ../../letters/new_voken.rst:97
 msgid ""
-"With rigid demand and a solid technical foundation, ecological growth is "
-"only a matter of time."
-msgstr "由于刚性需求和坚实的技术基础，生态的成长只是时间问题。"
+"We believe in rigid demand and a solid technical foundation. Ecological "
+"growth is only a matter of time."
+msgstr "我们相信，由于刚性需求和坚实的技术基础，生态的成长只是时间问题。"
 
 #: ../../letters/new_voken.rst:100
 msgid ""
@@ -246,9 +246,9 @@ msgstr "优化过的白名单规则"
 
 #: ../../letters/new_voken.rst:135
 msgid ""
-"By transferring 1001 VOKEN to a whitelisted address, will sign-up for "
+"By transferring 1,001 VOKEN to a whitelisted address, will sign-up for "
 "whitelist and get 1 VOKEN refund as a success signal automatically."
-msgstr "向白名单地址转账 1001 VOKEN 登记新的白名单，并且获得自动退回的 1 VOKEN 作为成功信号。"
+msgstr "向白名单地址转账 1,001 VOKEN 登记新的白名单，并且获得自动退回的 1 VOKEN 作为成功信号。"
 
 #: ../../letters/new_voken.rst:143
 msgid "VOKEN Migration Program & Guide"
