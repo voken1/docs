@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-06 11:37+0800\n"
+"POT-Creation-Date: 2019-08-11 13:07+0800\n"
 "PO-Revision-Date: 2019-04-11 14:15+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -22,8 +22,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../contracts/voken.rst:4
-msgid "Voken Main Contract"
-msgstr "Voken 主合约"
+msgid "Voken Main Contract (Deprecated in Aug 2019)"
+msgstr ""
 
 #: ../../contracts/voken.rst:6
 msgid "This is the **MAIN CONTRACT** of :ref:`voken`."

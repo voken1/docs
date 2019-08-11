@@ -1,0 +1,288 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-11 13:07+0800\n"
+"PO-Revision-Date: 2019-08-11 05:12+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../voken/voken_main_contract.rst:4
+msgid "VOKEN Main Contract"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:6
+msgid ""
+"This is the **MAIN CONTRACT** of :ref:`voken`, updated and deployed in Aug "
+"2019."
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:8
+msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:10
+msgid "ENS Domain is **#TBC**"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:11
+msgid "Contract address is **#TBC**"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:12
+msgid "Deployed at `Tx Hash #TBC...`_"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:13
+msgid "Block height `#TBC`_"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:14
+msgid "Open-sourced under the `GNU General Public License v3.0`_"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:15
+msgid "`View contract code on github repository`_"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:17
+msgid "View on Etherscan.io:"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:19
+msgid "`Voken Tracker`_"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:20
+msgid "`Read contract on Etherscan.io`_"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:21
+msgid "`Write contract on Etherscan.io`_"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:47
+msgid "The token symbol named ``VokenNEW``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:49
+msgid ""
+"Displayed in various wallet software such as `MetaMask`_, `MyEtherWallet`_, "
+"`imToken`_, `etherscan.io`_ and Ethereum blockchain browsers."
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:59
+msgid "Features and functions"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:86
+msgid "Based on `[EIP 20] ERC-20 Token Standard`_ of `Ethereum`_"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:64
+msgid "Includes:"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:66
+msgid "``function name() public view returns (string)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:67
+msgid "``function symbol() public view returns (string)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:68
+msgid "``function decimals() public view returns (uint8)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:69
+msgid "``function totalSupply() public view returns (uint256)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:70
+msgid "``function balanceOf(address account) public view returns (uint256)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:71
+msgid ""
+"``function transfer(address recipient, uint256 amount) public returns "
+"(bool)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:72
+msgid ""
+"``function transferFrom(address sender, address recipient, uint256 amount) "
+"public returns (bool)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:73
+msgid ""
+"``function approve(address spender, uint256 value) public returns (bool)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:74
+msgid ""
+"``function allowance(address owner, address spender) public view returns "
+"(uint256)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:75
+msgid ""
+"``event Transfer(address indexed from, address indexed to, uint256 value)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:76
+msgid ""
+"``event Approval(address indexed owner, address indexed spender, uint256 "
+"value)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:78
+msgid "With advanced functions for allowance:"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:80
+msgid ""
+"``function increaseAllowance(address spender, uint256 addedValue) public "
+"returns (bool)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:81
+msgid ""
+"``function decreaseAllowance(address spender, uint256 subtractedValue) "
+"public returns (bool)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:83
+msgid "With a **TOTAL SUPPLY CAP LIMIT**:"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:85
+msgid "``function cap() public view returns (uint256)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:109
+msgid "Supports flexible rules for **FREEZING**"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:95
+msgid "Flexible rules by external contracts with interface of::"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:104
+#: ../../voken/voken_main_contract.rst:142
+msgid "Functions for query:"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:106
+msgid "``function reservedOf(address account) public view returns (uint256)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:107
+msgid ""
+"``function availableOf(address account) public view returns (uint256)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:108
+msgid ""
+"``function allocations(address account) public view returns (address[])``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:122
+msgid "Supports **BURNING**"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:114
+msgid ""
+"Supports burning with a ``Burn`` event and also reduces the **TOTAL SUPPLY "
+"CAP LIMIT**, by:"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:116
+msgid "Transfer VOKEN to this contract address"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:117
+msgid "Transfer VOKEN to ``address(0)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:118
+msgid "Call functions:"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:120
+msgid "``function burn(uint256 amount) public returns (bool)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:121
+msgid ""
+"``function burnFrom(address account, uint256 amount) public returns (bool)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:134
+msgid "Supports **SAFE-MODE**"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:127
+msgid ""
+"Transfers from non-whitelisted addresses are restricted when the amount "
+"number of VOKEN holders is insufficient to form a healthy ecological "
+"foundation. That is a **SAFE-MODE** for VOKEN."
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:131
+msgid "Function for query:"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:133
+msgid "``function safeMode() public view returns (bool)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:148
+msgid "Optimized **WHITELIST RULES**"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:139
+msgid ""
+"By transferring 1001 VOKEN to a whitelisted address, will sign-up for "
+"whitelist and get 1 VOKEN refund as a success signal automatically."
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:144
+msgid "``function whitelisted(address account) public view returns (bool)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:145
+msgid "``function whitelistCounter() public view returns (uint256)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:146
+msgid "``function whitelistingMode() public view returns (bool)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:147
+msgid ""
+"``function whitelistReferee(address account) public view returns (address)``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:148
+msgid ""
+"``function whitelistReferrals(address account) public view returns "
+"(address[])``"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:149
+msgid ""
+"``function whitelistReferralsCount(address account) public view returns "
+"(uint256)``"
+msgstr ""

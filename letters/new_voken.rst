@@ -33,7 +33,7 @@ which provides a fundamental basis for the smooth use and in-depth development o
 We are also happy to see the massive users and activity data:
 more than 2,600 users have entree to the test-net, averaging 1.9 hours per day.
 In the current situation where the vnCHAIN is under development,
-it is beneficial to have such data for every user.
+it is beneficial to have such data for everyone.
 
 We want to thank all Vision Network participants and VOKEN holders.
 The contribution of Vision Network Ecology is inseparable from the input of every member, thank you, everyone!
@@ -74,6 +74,26 @@ while also trying to find effective strategies to help public-sale and protect t
 Here we would like to thank the many community members, including the V5 team,
 who provided valuable feedback and suggestions from multiple perspectives.
 
+We know something: our team is good at technology,
+but not good at bragging and marketing.
+What is certain is that the business design of the Vision Network is not a cash game,
+but based on real needs, rigid demand, and in line with the fundamental laws of business.
+We believe that we can reach these steadily,
+which is the source of confidence for our project team.
+
+A large-scale, healthy,
+and ecological creation and growth must take a certain amount of time,
+which requires the efforts of many people.
+VOKEN's early low-price sales reserved plenty of profit room for subsequent growth,
+which should be shared by all eco-participants.
+Moreover, the current number of users is not enough.
+In the past, we have seen many holders impulsively selling;
+they did not understand the project in-depth and were also affected by panic.
+There are also many factors (includes the exchanges) that combine to form the current situation.
+
+With rigid demand and a solid technical foundation,
+ecological growth is only a matter of time.
+
 Based on long-term, multi-perspective careful considerations,
 we have a serial of crucial strategies
 for the entire ecological construction and common interests of the Vision Network.
@@ -82,10 +102,20 @@ Thus, to ensure that all holders become the ultimate winner of this ecology.
 
 
 
-VOKEN Main Contract Upgrade Program
------------------------------------
+Strategies
+----------
 
-By :ref:`voken_main_contract`.
+
+VOKEN Main Contract Upgrade Program
+___________________________________
+
+By :ref:`voken_main_contract`, the new symbol is **VokenNEW**,
+and every holder should follow :ref:`new_voken_migration_guide`.
+
+
+
+
+Here are the significant features of **VokenNEW**:
 
 Supports flexible rules for **FREEZING**:
    Flexible rules by external contracts.
@@ -99,20 +129,22 @@ Supports **SAFE-MODE**:
    That is a **SAFE-MODE** for VOKEN.
 
 Optimized whitelist rules:
-   For **WHITELIST**. By transferring 1001 VOKEN to a whitelisted address,
-   will sign-up for whitelist and get 1 VOKEN refund as a success signal automatically
+   By transferring 1001 VOKEN to a whitelisted address,
+   will sign-up for whitelist and get 1 VOKEN refund as a success signal automatically.
 
 
 
-NEW Voken Migration Program
----------------------------
+.. _new_voken_migration_guide:
+
+VOKEN Migration Program & Guide
+_______________________________
 
 #TODO
 
 
 
 VOKEN Shareholders Program
---------------------------
+__________________________
 
 By :ref:`voken_shareholders_contract`.
 
@@ -121,13 +153,19 @@ As a shareholder, yuo can enjoy the dividend of public-sale during #7-20 season.
 
 
 VOKEN Public-sale Upgrade Program
----------------------------------
+_________________________________
 
 #TBC
 
 
 
 VOKEN Community Alliance Program
---------------------------------
+________________________________
 
 #TBC
+
+
+
+------
+
+HOLD VOKEN, HOLD VALUE.

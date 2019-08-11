@@ -5,34 +5,32 @@ VOKEN Shareholders Contract
 
 Only for **VOKEN shareholders**.
 
-As a shareholder, yuo can enjoy the dividend of public-sale during #7-20 season.
+Deployed at ``Aug-11-2019 01:44:15 PM +UTC``.
 
-Will deployed in Aug 2019.
+As a shareholder, yuo can enjoy the dividend of public-sale during #7-20 season.
 
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
 - ENS Domain is **#TBC**
-- Contract address is **#TBC**
-- Deployed at `Tx Hash #TBC...`_
-- Block height `#TBC`_
+- Contract address is **0xE11C2d241819491191bedc33241a605B2Ac6c756**
+- Deployed at `Tx Hash 0x09ef2189e9263f1c90c0eea6bdd005b9...`_
+- Block height `#8329614`_
 - Open-sourced under the `GNU General Public License v3.0`_
 - `View contract code on github repository`_
 
 View on Etherscan.io:
 
-- `Voken Tracker`_
 - `Read contract on Etherscan.io`_
 - `Write contract on Etherscan.io`_
 
 
-.. _Tx Hash #TBC...: https://etherscan.io/tx/#TBC
-.. _#TBC: https://etherscan.io/tx/#TBC
+.. _Tx Hash 0x09ef2189e9263f1c90c0eea6bdd005b9...: https://etherscan.io/tx/0x09ef2189e9263f1c90c0eea6bdd005b9bf8f615b830f6dc80cff2e317b6d447b
+.. _#8329614: https://etherscan.io/block/8329614
 .. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
 .. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/VokenShareholders.sol
-.. _Voken Tracker: https://etherscan.io/token/#TBC
-.. _Read contract on Etherscan.io: https://etherscan.io/token/#TBC#readContract
-.. _Write contract on Etherscan.io: https://etherscan.io/token/#TBC#writeContract
+.. _Read contract on Etherscan.io: https://etherscan.io/address/0xE11C2d241819491191bedc33241a605B2Ac6c756#readContract
+.. _Write contract on Etherscan.io: https://etherscan.io/address/0xE11C2d241819491191bedc33241a605B2Ac6c756#writeContract
 
 
 .. |logo_github| image:: /_static/logos/github.svg

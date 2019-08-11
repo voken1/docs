@@ -3,14 +3,14 @@
 VOKEN Main Contract
 ===================
 
-This is the **MAIN CONTRACT** of :ref:`voken`, updated and deployed in Aug 2019.
+This is the **MAIN CONTRACT** of :ref:`voken`, updated and deployed at ``Aug-11-2019 01:39:37 PM +UTC``.
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
-- ENS Domain is **#TBC**
-- Contract address is **#TBC**
-- Deployed at `Tx Hash #TBC...`_
-- Block height `#TBC`_
+- ENS Domain is **voken100g.eth**
+- Contract address is **0x0ef2b77B03279cdbE23C30E4653E1F7743fd20c1**
+- Deployed at `Tx Hash 0xadb7e7a1f0360ad3d61ac790cf526a76...`_
+- Block height `#8329600`_
 - Open-sourced under the `GNU General Public License v3.0`_
 - `View contract code on github repository`_
 
@@ -21,13 +21,13 @@ View on Etherscan.io:
 - `Write contract on Etherscan.io`_
 
 
-.. _Tx Hash #TBC...: https://etherscan.io/tx/#TBC
-.. _#TBC: https://etherscan.io/tx/#TBC
+.. _Tx Hash 0xadb7e7a1f0360ad3d61ac790cf526a76...: https://etherscan.io/tx/0xadb7e7a1f0360ad3d61ac790cf526a766b1c4159dccdbfa6170f28218895f90b
+.. _#8329600: https://etherscan.io/block/8329600
 .. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
 .. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/Voken.sol
-.. _Voken Tracker: https://etherscan.io/token/#TBC
-.. _Read contract on Etherscan.io: https://etherscan.io/token/#TBC#readContract
-.. _Write contract on Etherscan.io: https://etherscan.io/token/#TBC#writeContract
+.. _Voken Tracker: https://etherscan.io/token/0x0ef2b77B03279cdbE23C30E4653E1F7743fd20c1
+.. _Read contract on Etherscan.io: https://etherscan.io/token/0x0ef2b77B03279cdbE23C30E4653E1F7743fd20c1#readContract
+.. _Write contract on Etherscan.io: https://etherscan.io/token/0x0ef2b77B03279cdbE23C30E4653E1F7743fd20c1#writeContract
 
 
 .. |logo_github| image:: /_static/logos/github.svg
@@ -58,7 +58,9 @@ Displayed in various wallet software such as `MetaMask`_,
 Features and functions
 ----------------------
 
-Based on `[EIP 20] ERC-20 Token Standard`_ of `Ethereum`_.
+.. _voken_based_on_erc20:
+
+Based on `[EIP 20] ERC-20 Token Standard`_ of `Ethereum`_
    Includes:
 
    - ``function name() public view returns (string)``
@@ -87,7 +89,9 @@ Based on `[EIP 20] ERC-20 Token Standard`_ of `Ethereum`_.
 .. _Ethereum: https://www.ethereum.org
 
 
-Supports flexible rules for **FREEZING**:
+.. _voken_supports_freezing:
+
+Supports flexible rules for **FREEZING**
    Flexible rules by external contracts with interface of::
 
       /**
@@ -104,7 +108,9 @@ Supports flexible rules for **FREEZING**:
    - ``function allocations(address account) public view returns (address[])``
 
 
-Supports **BURNING**:
+.. _voken_supports_burning:
+
+Supports **BURNING**
    Supports burning with a ``Burn`` event and also reduces the **TOTAL SUPPLY CAP LIMIT**, by:
 
    - Transfer VOKEN to this contract address
@@ -115,7 +121,9 @@ Supports **BURNING**:
       - ``function burnFrom(address account, uint256 amount) public returns (bool)``
 
 
-Supports **SAFE-MODE**:
+.. _voken_supports_safe_mode:
+
+Supports **SAFE-MODE**
    Transfers from non-whitelisted addresses are restricted
    when the amount number of VOKEN holders is insufficient to form a healthy ecological foundation.
    That is a **SAFE-MODE** for VOKEN.
@@ -125,9 +133,11 @@ Supports **SAFE-MODE**:
    - ``function safeMode() public view returns (bool)``
 
 
-Optimized whitelist rules:
-   For **WHITELIST**. By transferring 1001 VOKEN to a whitelisted address,
-   will sign-up for whitelist and get 1 VOKEN refund as a success signal automatically
+.. _voken_whitelist_rules:
+
+Optimized **WHITELIST RULES**
+   By transferring 1001 VOKEN to a whitelisted address,
+   will sign-up for whitelist and get 1 VOKEN refund as a success signal automatically.
 
    Functions for query:
 
