@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-11 20:58+0800\n"
+"POT-Creation-Date: 2019-08-11 21:56+0800\n"
 "PO-Revision-Date: 2019-08-11 05:12+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -25,7 +25,7 @@ msgstr ""
 msgid "New VOKEN"
 msgstr "新 VOKEN"
 
-#: ../../letters/new_voken.rstNone ../../letters/new_voken.rst:171
+#: ../../letters/new_voken.rstNone ../../letters/new_voken.rst:174
 msgid "HOLD VOKEN, HOLD VALUE."
 msgstr "持有 VOKEN 持有价值"
 
@@ -79,22 +79,23 @@ msgid ""
 "the world, which provides a fundamental basis for the smooth use and in-"
 "depth development of the network in the future. We are also happy to see the"
 " massive users and activity data: more than 2,600 users have entree to the "
-"test-net, averaging 1.9 hours per day. In the current situation where the "
-"vnCHAIN is under development, it is beneficial to have such data for "
-"everyone."
+"test-net, averaging 1.9 hours per day. Our github.com `code repository`_ "
+"received 138 stars. In the current situation where the vnCHAIN is under "
+"development, it is beneficial to have such data for everyone."
 msgstr ""
 "目前，Vision Network 远景网络在全球拥有多于 30 "
 "稳定的测试节点，为未来网络的顺利使用和深入开发提供了基础。我们也很高兴看到大量的用户和活跃数据：超过 2,600 名用户进入测试网络，平均每天 1.9 "
-"小时。在当前正在开发 vnCHAIN 的情况下，对每个用户而言，这样的数据是有益的。"
+"小时。我们在 github.com 上的 `代码仓库`_ 也获得了 138 个星标关注。在当前正在开发 vnCHAIN "
+"的情况下，对每个用户而言，这样的数据是有益的。"
 
-#: ../../letters/new_voken.rst:38
+#: ../../letters/new_voken.rst:41
 msgid ""
 "We want to thank all Vision Network participants and VOKEN holders. The "
 "contribution of Vision Network Ecology is inseparable from the input of "
 "every member, thank you, everyone!"
 msgstr "我们要感谢所有 Vision Network 远景网络的参与者和 VOKEN 持有者。远景网络生态的建设离不开每个成员的投入，谢谢大家！"
 
-#: ../../letters/new_voken.rst:41
+#: ../../letters/new_voken.rst:44
 msgid ""
 "As we all know, since the public sale, we have encountered some unforeseen "
 "troubles. The most challenging thing is that the centralized exchanges "
@@ -113,7 +114,7 @@ msgstr ""
 "赛季后公布交易所白名单计划，并有条不紊地开始交易。我们为什么要在特定阶段启动交易计划，是为了最大限度地保护持有人的利润！然而，由于 VOKEN "
 "的开源特征，许多交易所在未经批准的情况下强行干预了生态。他们还扰乱了市场价格，这给公共销售和社区建设会带来了许多麻烦。"
 
-#: ../../letters/new_voken.rst:53
+#: ../../letters/new_voken.rst:56
 msgid ""
 "A project without value never gets noticed, and many exchanges have seen the"
 " value of the Vision Network project, which is an excellent performance for "
@@ -137,7 +138,7 @@ msgstr ""
 "和数据。这与市场的实际情况不符，因为有些人想制造恐慌以获得个人利益。这也证实了我们的猜测，但当时我们没有足够的数据，并且不想通过猜测做出武断的结论。这就是我们做出全球公告、拒绝了一些社区成员要求我们操纵市场来推动价格的原因。因此，我们失去了一些认为我们没有遵循建议的支持者。然而，真实情况是我们不希望参与者的努力，最后只有交易所获益。无论谁参与市场价格操纵，获利方只能是交易所，而不是"
 " VOKEN 的持有者。"
 
-#: ../../letters/new_voken.rst:71
+#: ../../letters/new_voken.rst:74
 msgid ""
 "In the past two months, we have continued to maintain the healthy "
 "development of the work, while also trying to find effective strategies to "
@@ -148,7 +149,7 @@ msgstr ""
 "在过去的两个月里，我们既要继续保持开发工作的正常进行，同时也在努力寻找有效的策略来帮助公开销售并保护持有者的利益。在此，我们要感谢包括 V5 "
 "团队在内的许多社区成员，他们从多个角度提供了宝贵的反馈和建议。"
 
-#: ../../letters/new_voken.rst:77
+#: ../../letters/new_voken.rst:80
 msgid ""
 "We know something: our team is good at technology, but not good at bragging "
 "and marketing. What is certain is that the business design of the Vision "
@@ -159,7 +160,7 @@ msgstr ""
 "我们知道一些事情：我们的团队擅长技术，但不善于吹嘘和营销。可以肯定的是，远景网络的业务设计并不是一个资金游戏，而是基于实际需求、刚性需求，并符合商业的基本规律。"
 " 我们相信我们可以稳定地实现这些目标，这是我们项目团队的信心来源。"
 
-#: ../../letters/new_voken.rst:84
+#: ../../letters/new_voken.rst:87
 msgid ""
 "A large-scale, healthy, and ecological creation and growth must take a "
 "certain amount of time, which requires the efforts of many people. VOKEN's "
@@ -173,13 +174,13 @@ msgstr ""
 "大规模、健康的生态创建和发展肯定会花费一定的时间，这需要许多人的努力。VOKEN "
 "的早期低价销售为后续增长留下了充足的利润空间，这些应由所有生态参与者共享。目前的用户数量还不够，在过去，我们看到很多持有者冲动的卖出，他们没有深入了解项目，也受到恐慌情绪的影响。还有许多因素（包括交易所）结合起来形成了当前形势。"
 
-#: ../../letters/new_voken.rst:94
+#: ../../letters/new_voken.rst:97
 msgid ""
 "With rigid demand and a solid technical foundation, ecological growth is "
 "only a matter of time."
 msgstr "由于刚性需求和坚实的技术基础，生态的成长只是时间问题。"
 
-#: ../../letters/new_voken.rst:97
+#: ../../letters/new_voken.rst:100
 msgid ""
 "Based on long-term, multi-perspective careful considerations, we have a "
 "serial of crucial strategies for the entire ecological construction and "
@@ -190,15 +191,15 @@ msgid ""
 msgstr ""
 "基于长远的、多视角的仔细考虑，我们为整个生态建设和远景网络的共同利益制定了一系列重要策略。我们希望所有社区成员都能够支持并合作，促进生态价值的稳步实现。以确保所有持有者成为生态的最终赢家。"
 
-#: ../../letters/new_voken.rst:106
+#: ../../letters/new_voken.rst:109
 msgid "Strategies"
 msgstr "策略"
 
-#: ../../letters/new_voken.rst:110
+#: ../../letters/new_voken.rst:113
 msgid "VOKEN Main Contract Upgrade Program"
 msgstr "VOKEN 主合约升级"
 
-#: ../../letters/new_voken.rst:112
+#: ../../letters/new_voken.rst:115
 msgid ""
 "By :ref:`voken_main_contract`, the new symbol is **VokenNEW**, and every "
 "holder should follow :ref:`new_voken_migration_guide`."
@@ -206,79 +207,79 @@ msgstr ""
 "使用 :ref:`voken_main_contract` ，新的符号是 **VokenNEW** ，每个持有者需要按 "
 ":ref:`new_voken_migration_guide` 完成操作。"
 
-#: ../../letters/new_voken.rst:118
+#: ../../letters/new_voken.rst:121
 msgid "Here are the significant features of **VokenNEW**:"
 msgstr "这是 **VokenNEW** 的重要特性："
 
-#: ../../letters/new_voken.rst:121
+#: ../../letters/new_voken.rst:124
 msgid "Supports flexible rules for **FREEZING**:"
 msgstr "支持灵活的 **锁仓** 规则"
 
-#: ../../letters/new_voken.rst:121
+#: ../../letters/new_voken.rst:124
 msgid "Flexible rules by external contracts."
 msgstr "由外部合约灵活的定义条件。"
 
-#: ../../letters/new_voken.rst:124
+#: ../../letters/new_voken.rst:127
 msgid "Supports **BURNING**:"
 msgstr "支持 **销毁**"
 
-#: ../../letters/new_voken.rst:124
+#: ../../letters/new_voken.rst:127
 msgid ""
 "Supports burning with a ``Burn`` event and also reduces the **TOTAL SUPPLY "
 "CAP LIMIT**."
 msgstr "支持销毁功能同时记录 ``Burn`` 事件，同时减少 **总量上限** 。"
 
-#: ../../letters/new_voken.rst:129
+#: ../../letters/new_voken.rst:132
 msgid "Supports **SAFE-MODE**:"
 msgstr "支持 **安全模式**"
 
-#: ../../letters/new_voken.rst:127
+#: ../../letters/new_voken.rst:130
 msgid ""
 "Transfers from non-whitelisted addresses are restricted when the amount "
 "number of VOKEN holders is insufficient to form a healthy ecological "
 "foundation. That is a **SAFE-MODE** for VOKEN."
 msgstr "当 VOKEN 持有者数量不足以形成生态健康发展时，限制非白名单地址的转账。即是 VOKEN 的 **安全模式** 。"
 
-#: ../../letters/new_voken.rst:135
+#: ../../letters/new_voken.rst:138
 msgid "Optimized whitelist rules:"
 msgstr "优化过的白名单规则"
 
-#: ../../letters/new_voken.rst:132
+#: ../../letters/new_voken.rst:135
 msgid ""
 "By transferring 1001 VOKEN to a whitelisted address, will sign-up for "
 "whitelist and get 1 VOKEN refund as a success signal automatically."
 msgstr "向白名单地址转账 1001 VOKEN 登记新的白名单，并且获得自动退回的 1 VOKEN 作为成功信号。"
 
-#: ../../letters/new_voken.rst:140
+#: ../../letters/new_voken.rst:143
 msgid "VOKEN Migration Program & Guide"
 msgstr "VOKEN 映射迁移方案和操作指导"
 
-#: ../../letters/new_voken.rst:142
+#: ../../letters/new_voken.rst:145
 msgid "#TODO"
 msgstr ""
 
-#: ../../letters/new_voken.rst:147
+#: ../../letters/new_voken.rst:150
 msgid "VOKEN Shareholders Program"
 msgstr "VOKEN 股东计划"
 
-#: ../../letters/new_voken.rst:149
+#: ../../letters/new_voken.rst:152
 msgid "By :ref:`voken_shareholders_contract`."
 msgstr "使用 :ref:`voken_shareholders_contract` 。"
 
-#: ../../letters/new_voken.rst:151
+#: ../../letters/new_voken.rst:154
 msgid ""
 "As a shareholder, yuo can enjoy the dividend of public-sale during #7-20 "
 "season."
 msgstr "作为股东，你可以在公开销售的第 7-20 赛季中享受分红。"
 
-#: ../../letters/new_voken.rst:156
+#: ../../letters/new_voken.rst:159
 msgid "VOKEN Public-sale Upgrade Program"
 msgstr "VOKEN 公开销售升级计划"
 
-#: ../../letters/new_voken.rst:158 ../../letters/new_voken.rst:165
+#: ../../letters/new_voken.rst:161 ../../letters/new_voken.rst:168
 msgid "#TBC"
 msgstr ""
 
-#: ../../letters/new_voken.rst:163
+#: ../../letters/new_voken.rst:166
 msgid "VOKEN Community Alliance Program"
 msgstr "VOKEN 社区联盟计划"

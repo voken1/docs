@@ -32,8 +32,11 @@ At present, the Vision Network has more than 30 stable test nodes all over the w
 which provides a fundamental basis for the smooth use and in-depth development of the network in the future.
 We are also happy to see the massive users and activity data:
 more than 2,600 users have entree to the test-net, averaging 1.9 hours per day.
+Our github.com `code repository`_ received 138 stars.
 In the current situation where the vnCHAIN is under development,
 it is beneficial to have such data for everyone.
+
+.. _code repository: https://github.com/voken100g
 
 We want to thank all Vision Network participants and VOKEN holders.
 The contribution of Vision Network Ecology is inseparable from the input of every member, thank you, everyone!
