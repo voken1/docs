@@ -1,6 +1,6 @@
 .. _voken_shareholders_contract:
 
-VOKEN Shareholders Contract
+Voken Shareholders Contract
 ===========================
 
 Only for **VOKEN shareholders**.

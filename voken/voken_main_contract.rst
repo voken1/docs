@@ -1,16 +1,16 @@
 .. _voken_main_contract:
 
-VOKEN Main Contract
-===================
+Voken2.0 Main Contract
+======================
 
-This is the **MAIN CONTRACT** of :ref:`voken`, updated and deployed at ``Aug-11-2019 01:39:37 PM +UTC``.
+This is the **MAIN CONTRACT** of :ref:`voken`, updated and deployed at ``Aug-13-2019 03:02:54 AM +UTC``.
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
 - ENS Domain is **voken100g.eth**
-- Contract address is **0x0ef2b77B03279cdbE23C30E4653E1F7743fd20c1**
-- Deployed at `Tx Hash 0xadb7e7a1f0360ad3d61ac790cf526a76...`_
-- Block height `#8329600`_
+- Contract address is **0xf74C9f202F7bf44E6EEC02EF98896012153AC464**
+- Deployed at `Tx Hash 0xeb0e601d98f2605442d174eb5258c868...`_
+- Block height `#8339662`_
 - Open-sourced under the `GNU General Public License v3.0`_
 - `View contract code on github repository`_
 
@@ -21,8 +21,8 @@ View on Etherscan.io:
 - `Write contract on Etherscan.io`_
 
 
-.. _Tx Hash 0xadb7e7a1f0360ad3d61ac790cf526a76...: https://etherscan.io/tx/0xadb7e7a1f0360ad3d61ac790cf526a766b1c4159dccdbfa6170f28218895f90b
-.. _#8329600: https://etherscan.io/block/8329600
+.. _Tx Hash 0xeb0e601d98f2605442d174eb5258c868...: https://etherscan.io/tx/0xeb0e601d98f2605442d174eb5258c8689f38e7081c87548fcf82a456165d3895
+.. _#8339662: https://etherscan.io/block/8339662
 .. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
 .. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/Voken.sol
 .. _Voken Tracker: https://etherscan.io/token/0x0ef2b77B03279cdbE23C30E4653E1F7743fd20c1
@@ -43,7 +43,7 @@ View on Etherscan.io:
    :height: 36px
 
 
-The token symbol named ``VokenNEW``
+The token symbol named ``Voken2.0``
 -----------------------------------
 
 Displayed in various wallet software such as `MetaMask`_,

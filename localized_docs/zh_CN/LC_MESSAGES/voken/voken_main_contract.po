@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-11 13:07+0800\n"
+"POT-Creation-Date: 2019-08-13 11:09+0800\n"
 "PO-Revision-Date: 2019-08-11 05:12+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -18,13 +18,13 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../voken/voken_main_contract.rst:4
-msgid "VOKEN Main Contract"
+msgid "Voken2.0 Main Contract"
 msgstr ""
 
 #: ../../voken/voken_main_contract.rst:6
 msgid ""
-"This is the **MAIN CONTRACT** of :ref:`voken`, updated and deployed in Aug "
-"2019."
+"This is the **MAIN CONTRACT** of :ref:`voken`, updated and deployed at "
+"``Aug-13-2019 03:02:54 AM +UTC``."
 msgstr ""
 
 #: ../../voken/voken_main_contract.rst:8
@@ -32,19 +32,19 @@ msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
 msgstr ""
 
 #: ../../voken/voken_main_contract.rst:10
-msgid "ENS Domain is **#TBC**"
+msgid "ENS Domain is **voken100g.eth**"
 msgstr ""
 
 #: ../../voken/voken_main_contract.rst:11
-msgid "Contract address is **#TBC**"
+msgid "Contract address is **0xf74C9f202F7bf44E6EEC02EF98896012153AC464**"
 msgstr ""
 
 #: ../../voken/voken_main_contract.rst:12
-msgid "Deployed at `Tx Hash #TBC...`_"
+msgid "Deployed at `Tx Hash 0xeb0e601d98f2605442d174eb5258c868...`_"
 msgstr ""
 
 #: ../../voken/voken_main_contract.rst:13
-msgid "Block height `#TBC`_"
+msgid "Block height `#8339662`_"
 msgstr ""
 
 #: ../../voken/voken_main_contract.rst:14
@@ -72,7 +72,7 @@ msgid "`Write contract on Etherscan.io`_"
 msgstr ""
 
 #: ../../voken/voken_main_contract.rst:47
-msgid "The token symbol named ``VokenNEW``"
+msgid "The token symbol named ``Voken2.0``"
 msgstr ""
 
 #: ../../voken/voken_main_contract.rst:49

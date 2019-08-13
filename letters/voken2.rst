@@ -1,7 +1,7 @@
-.. _new_voken:
+.. _voken2_is_coming:
 
-New VOKEN
-=========
+Voken 2.0 is coming...
+======================
 
 .. sidebar:: HOLD VOKEN, HOLD VALUE.
 
@@ -97,6 +97,13 @@ There are also many factors (includes the exchanges) that combine to form the cu
 We believe in rigid demand and a solid technical foundation.
 Ecological growth is only a matter of time.
 
+Experienced in the past time, we have acquired valuable experience as the project team.
+We know that every single person, even a company or a team,
+all have their strengths and limitations.
+It also involves the V5 team that made contributions to the early stages of the project.
+A thriving ecosystem must have the participation of many drives;
+we are looking forward to and welcome more people to join the Vision Network.
+
 Based on long-term, multi-perspective careful considerations,
 we have a serial of crucial strategies
 for the entire ecological construction and common interests of the Vision Network.
@@ -109,16 +116,14 @@ Strategies
 ----------
 
 
-VOKEN Main Contract Upgrade Program
-___________________________________
+Voken2.0 Main Contract Upgrade
+______________________________
 
-By :ref:`voken_main_contract`, the new symbol is **VokenNEW**,
-and every holder should follow :ref:`new_voken_migration_guide`.
-
-
+By :ref:`voken_main_contract`, the new symbol is **Voken2.0**,
+and every holder should follow the :ref:`voken_migration_guide`.
 
 
-Here are the significant features of **VokenNEW**:
+Here are some significant features of **Voken2.0**:
 
 Supports flexible rules for **FREEZING**:
    Flexible rules by external contracts.
@@ -137,16 +142,16 @@ Optimized whitelist rules:
 
 
 
-.. _new_voken_migration_guide:
+.. _voken_migration_guide:
 
-VOKEN Migration Program & Guide
+Voken Migration Program & Guide
 _______________________________
 
 #TODO
 
 
 
-VOKEN Shareholders Program
+Voken Shareholders Program
 __________________________
 
 By :ref:`voken_shareholders_contract`.
@@ -155,14 +160,14 @@ As a shareholder, yuo can enjoy the dividend of public-sale during #7-20 season.
 
 
 
-VOKEN Public-sale Upgrade Program
+Voken Public-sale Upgrade Program
 _________________________________
 
 #TBC
 
 
 
-VOKEN Community Alliance Program
+Voken Community Alliance Program
 ________________________________
 
 #TBC
