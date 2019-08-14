@@ -7,7 +7,6 @@ This is the **MAIN CONTRACT** of :ref:`voken`.
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
-- ENS Domain is **voken100g.eth**
 - Contract address is **0x82070415FEe803f94Ce5617Be1878503e58F0a6a**
 - Deployed at `Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...`_
 - Block height `7635415`_

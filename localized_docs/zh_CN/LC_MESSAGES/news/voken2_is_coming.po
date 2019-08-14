@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-13 00:46+0800\n"
-"PO-Revision-Date: 2019-08-14 06:14+0000\n"
+"POT-Creation-Date: 2019-08-14 14:09+0800\n"
+"PO-Revision-Date: 2019-08-14 07:46+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,29 +17,29 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../letters/voken2.rst:4
+#: ../../news/voken2_is_coming.rst:4
 msgid "Voken 2.0 is coming..."
 msgstr ""
 
-#: ../../letters/voken2.rstNone ../../letters/voken2.rst:179
+#: ../../news/voken2_is_coming.rstNone ../../news/voken2_is_coming.rst:179
 msgid "HOLD VOKEN, HOLD VALUE."
 msgstr ""
 
-#: ../../letters/voken2.rst:8
+#: ../../news/voken2_is_coming.rst:8
 msgid "Vision.Network Project Team"
 msgstr ""
 
-#: ../../letters/voken2.rst:10
+#: ../../news/voken2_is_coming.rst:10
 msgid "Aug 2019"
 msgstr ""
 
-#: ../../letters/voken2.rst:13
+#: ../../news/voken2_is_coming.rst:13
 msgid ""
 "Dear holders, technical geeks, community members, supporters, hello to "
 "everyone!"
 msgstr ""
 
-#: ../../letters/voken2.rst:15
+#: ../../news/voken2_is_coming.rst:15
 msgid ""
 "Since the Voken public-sale, the Vision Network project has received much "
 "attention. Under the multi-dimensional and wide-ranging awareness, the "
@@ -48,7 +48,7 @@ msgid ""
 "governance and ecological construction."
 msgstr ""
 
-#: ../../letters/voken2.rst:22
+#: ../../news/voken2_is_coming.rst:22
 msgid ""
 "At the same time, more and more members have joined the volunteer work of "
 "the VOKEN community. They have done a lot of experimental, exploratory, and "
@@ -56,7 +56,7 @@ msgid ""
 "the whole ecological construction."
 msgstr ""
 
-#: ../../letters/voken2.rst:27
+#: ../../news/voken2_is_coming.rst:27
 msgid ""
 "There are also technical geeks from all over the world. Statistics show that"
 " since the release of the :ref:`vision_connect` on July 1st, 2019, we have "
@@ -64,7 +64,7 @@ msgid ""
 " the world."
 msgstr ""
 
-#: ../../letters/voken2.rst:31
+#: ../../news/voken2_is_coming.rst:31
 msgid ""
 "At present, the Vision Network has more than 30 stable test nodes all over "
 "the world, which provides a fundamental basis for the smooth use and in-"
@@ -75,14 +75,14 @@ msgid ""
 "development, it is beneficial to have such data for everyone."
 msgstr ""
 
-#: ../../letters/voken2.rst:41
+#: ../../news/voken2_is_coming.rst:41
 msgid ""
 "We want to thank all Vision Network participants and VOKEN holders. The "
 "contribution of Vision Network Ecology is inseparable from the input of "
 "every member, thank you, everyone!"
 msgstr ""
 
-#: ../../letters/voken2.rst:44
+#: ../../news/voken2_is_coming.rst:44
 msgid ""
 "As we all know, since the public sale, we have encountered some unforeseen "
 "troubles. The most challenging thing is that the centralized exchanges "
@@ -97,7 +97,7 @@ msgid ""
 "foundation."
 msgstr ""
 
-#: ../../letters/voken2.rst:56
+#: ../../news/voken2_is_coming.rst:56
 msgid ""
 "A project without value never gets noticed, and many exchanges have seen the"
 " value of the Vision Network project, which is an excellent performance for "
@@ -117,7 +117,7 @@ msgid ""
 "holders of VOKEN."
 msgstr ""
 
-#: ../../letters/voken2.rst:74
+#: ../../news/voken2_is_coming.rst:74
 msgid ""
 "In the past two months, we have continued to maintain the healthy "
 "development of the work, while also trying to find effective strategies to "
@@ -126,7 +126,7 @@ msgid ""
 "provided valuable feedback and suggestions from multiple perspectives."
 msgstr ""
 
-#: ../../letters/voken2.rst:80
+#: ../../news/voken2_is_coming.rst:80
 msgid ""
 "We know something: our team is good at technology, but not good at bragging "
 "and marketing. What is certain is that the business design of the Vision "
@@ -135,7 +135,7 @@ msgid ""
 "these steadily, which is the source of confidence for our project team."
 msgstr ""
 
-#: ../../letters/voken2.rst:87
+#: ../../news/voken2_is_coming.rst:87
 msgid ""
 "A large-scale, healthy, and ecological creation and growth must take a "
 "certain amount of time, which requires the efforts of many people. VOKEN's "
@@ -147,13 +147,13 @@ msgid ""
 " to form the current situation."
 msgstr ""
 
-#: ../../letters/voken2.rst:97
+#: ../../news/voken2_is_coming.rst:97
 msgid ""
 "We believe in rigid demand and a solid technical foundation. Ecological "
 "growth is only a matter of time."
 msgstr ""
 
-#: ../../letters/voken2.rst:100
+#: ../../news/voken2_is_coming.rst:100
 msgid ""
 "Experienced in the past time, we have acquired valuable experience as the "
 "project team. We know that every single person, even a company or a team, "
@@ -163,7 +163,7 @@ msgid ""
 "welcome more people to join the Vision Network."
 msgstr ""
 
-#: ../../letters/voken2.rst:107
+#: ../../news/voken2_is_coming.rst:107
 msgid ""
 "Based on long-term, multi-perspective careful considerations, we have a "
 "serial of crucial strategies for the entire ecological construction and "
@@ -173,93 +173,93 @@ msgid ""
 "ecology."
 msgstr ""
 
-#: ../../letters/voken2.rst:116
+#: ../../news/voken2_is_coming.rst:116
 msgid "Strategies"
 msgstr ""
 
-#: ../../letters/voken2.rst:120
+#: ../../news/voken2_is_coming.rst:120
 msgid "Voken2.0 Main Contract Upgrade"
 msgstr ""
 
-#: ../../letters/voken2.rst:122
+#: ../../news/voken2_is_coming.rst:122
 msgid ""
 "By :ref:`voken_main_contract`, the new symbol is **Voken2.0**, and every "
 "holder should follow the :ref:`voken_migration_guide`."
 msgstr ""
 
-#: ../../letters/voken2.rst:126
+#: ../../news/voken2_is_coming.rst:126
 msgid "Here are some significant features of **Voken2.0**:"
 msgstr ""
 
-#: ../../letters/voken2.rst:129
+#: ../../news/voken2_is_coming.rst:129
 msgid "Supports flexible rules for **FREEZING**:"
 msgstr ""
 
-#: ../../letters/voken2.rst:129
+#: ../../news/voken2_is_coming.rst:129
 msgid "Flexible rules by external contracts."
 msgstr ""
 
-#: ../../letters/voken2.rst:132
+#: ../../news/voken2_is_coming.rst:132
 msgid "Supports **BURNING**:"
 msgstr ""
 
-#: ../../letters/voken2.rst:132
+#: ../../news/voken2_is_coming.rst:132
 msgid ""
 "Supports burning with a ``Burn`` event and also reduces the **TOTAL SUPPLY "
 "CAP LIMIT**."
 msgstr ""
 
-#: ../../letters/voken2.rst:137
+#: ../../news/voken2_is_coming.rst:137
 msgid "Supports **SAFE-MODE**:"
 msgstr ""
 
-#: ../../letters/voken2.rst:135
+#: ../../news/voken2_is_coming.rst:135
 msgid ""
 "Transfers from non-whitelisted addresses are restricted when the amount "
 "number of VOKEN holders is insufficient to form a healthy ecological "
 "foundation. That is a **SAFE-MODE** for VOKEN."
 msgstr ""
 
-#: ../../letters/voken2.rst:143
+#: ../../news/voken2_is_coming.rst:143
 msgid "Optimized whitelist rules:"
 msgstr ""
 
-#: ../../letters/voken2.rst:140
+#: ../../news/voken2_is_coming.rst:140
 msgid ""
 "By transferring 1,001 VOKEN to a whitelisted address, will sign-up for "
 "whitelist and get 1 VOKEN refund as a success signal automatically."
 msgstr ""
 
-#: ../../letters/voken2.rst:148
+#: ../../news/voken2_is_coming.rst:148
 msgid "Voken Migration Program & Guide"
 msgstr ""
 
-#: ../../letters/voken2.rst:150
+#: ../../news/voken2_is_coming.rst:150
 msgid "#TODO"
 msgstr ""
 
-#: ../../letters/voken2.rst:155
+#: ../../news/voken2_is_coming.rst:155
 msgid "Voken Shareholders Program"
 msgstr ""
 
-#: ../../letters/voken2.rst:157
+#: ../../news/voken2_is_coming.rst:157
 msgid "By :ref:`voken_shareholders_contract`."
 msgstr ""
 
-#: ../../letters/voken2.rst:159
+#: ../../news/voken2_is_coming.rst:159
 msgid ""
 "As a shareholder, yuo can enjoy the dividend of public-sale during #7-20 "
 "season."
 msgstr ""
 
-#: ../../letters/voken2.rst:164
+#: ../../news/voken2_is_coming.rst:164
 msgid "Voken Public-sale Upgrade Program"
 msgstr ""
 
-#: ../../letters/voken2.rst:166 ../../letters/voken2.rst:173
+#: ../../news/voken2_is_coming.rst:166 ../../news/voken2_is_coming.rst:173
 msgid "#TBC"
 msgstr ""
 
-#: ../../letters/voken2.rst:171
+#: ../../news/voken2_is_coming.rst:171
 msgid "Voken Community Alliance Program"
 msgstr ""

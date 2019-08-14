@@ -23,3 +23,4 @@ Summary 2019
    - :ref:`vnVPN_alpha` v0.5.1, pre-released
    - :ref:`report_20190619`
    - :ref:`report_20190719`
+   - :ref:`report_20190811`

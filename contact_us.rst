@@ -23,17 +23,6 @@ https://github.com/voken100g
 
 
 
-|logo_twitter|
-
-.. _voken_twitter:
-
-Twitter
--------
-
-https://twitter.com/voken100g
-
-
-
 |logo_telegram|
 
 .. _voken_telegram:

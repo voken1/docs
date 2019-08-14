@@ -1,0 +1,162 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-14 16:10+0800\n"
+"PO-Revision-Date: 2019-08-14 06:37+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../reports/20190811.rst:4
+msgid "Report: Aug 11th 2019"
+msgstr "2019 年 8 月 11 日进展报告"
+
+#: ../../reports/20190811.rstNone
+msgid "Progress report"
+msgstr "进展报告"
+
+#: ../../reports/20190811.rst:8
+msgid "Vision.Network Project Team"
+msgstr "Vision.Network 远景网络项目组"
+
+#: ../../reports/20190811.rst:10
+msgid "Aug 11th 2019"
+msgstr "2019 年 8 月 11 日"
+
+#: ../../reports/20190811.rst:14
+msgid "Global"
+msgstr "全局工作"
+
+#: ../../reports/20190811.rst:16
+msgid "Voken2.0 draft plan"
+msgstr "Voken2.0 规划草案"
+
+#: ../../reports/20190811.rst:21
+msgid "Core"
+msgstr "核心工作"
+
+#: ../../reports/20190811.rst:23
+msgid "Defined block data structure and Genesis block"
+msgstr "定义区块结构和创世区块"
+
+#: ../../reports/20190811.rst:24
+msgid "Defined transaction data structures and wallet data structures"
+msgstr "定义交易数据结构和钱包结构"
+
+#: ../../reports/20190811.rst:25
+msgid "Finished the wallet data storage solution"
+msgstr "完成钱包数据存储方案"
+
+#: ../../reports/20190811.rst:26
+msgid "Core wallet on Java"
+msgstr "Java 版本的核心钱包"
+
+#: ../../reports/20190811.rst:27
+msgid "Short address for wallet on Java"
+msgstr "钱包短地址的 Java 实现"
+
+#: ../../reports/20190811.rst:28
+msgid "Wallet interface"
+msgstr "钱包接口"
+
+#: ../../reports/20190811.rst:29
+msgid "Local debug environment for core servers"
+msgstr "核心服务器的本地调试环境"
+
+#: ../../reports/20190811.rst:30
+msgid "Communication between core servers and clients on Java"
+msgstr "核心服务器和客户端之间的通信的 Java 实现"
+
+#: ../../reports/20190811.rst:31
+msgid "Defined core server data structure and encoded with Java"
+msgstr "定义核心服务器数据结构并使用 Java 编码实现"
+
+#: ../../reports/20190811.rst:32
+msgid "User information in relational database for core servers"
+msgstr "核心服务器的关系型数据库中的用户信息"
+
+#: ../../reports/20190811.rst:33
+msgid "Updated dev-tools"
+msgstr "升级 dev-tools"
+
+#: ../../reports/20190811.rst:34
+msgid "Binding wallet with core server"
+msgstr "钱包和核心服务器的绑定"
+
+#: ../../reports/20190811.rst:35
+msgid "Binding wallet with service node"
+msgstr "钱包和服务节点的绑定"
+
+#: ../../reports/20190811.rst:36
+msgid "Connection and heartbeat for core servers"
+msgstr "核心服务器的连接和心跳包"
+
+#: ../../reports/20190811.rst:37
+msgid "Keeping-alive for service node on Java, interact with client on GO"
+msgstr "Java 编码的服务节点的长连接，并与 GO 编码的客户端交互"
+
+#: ../../reports/20190811.rst:38
+msgid "Event handling mechanisms on server-side"
+msgstr "服务端的事件处理机制"
+
+#: ../../reports/20190811.rst:39
+msgid "Login, logout, heartbeat, exception handling for C2S"
+msgstr "C2S 的登录、登出、心跳、意外处理"
+
+#: ../../reports/20190811.rst:40
+msgid "HTTP console panel for client"
+msgstr "Client 端的 HTTP 控制面板"
+
+#: ../../reports/20190811.rst:41
+msgid "Other improvements"
+msgstr "其它更新和提升"
+
+#: ../../reports/20190811.rst:46
+msgid "Voken Tracker"
+msgstr "Voken 数据跟踪"
+
+#: ../../reports/20190811.rst:48
+msgid "Voken holders: **22,690**"
+msgstr "Voken 持有地址数： **22,690**"
+
+#: ../../reports/20190811.rst:49
+msgid "Transfers: **470,778**"
+msgstr "转账数量： **470,778**"
+
+#: ../../reports/20190811.rst:51
+msgid "by `Voken Tracker`_"
+msgstr "来源于 `Voken Tracker`_"
+
+#: ../../reports/20190811.rst:58
+msgid "Public-sale"
+msgstr "公开销售数据"
+
+#: ../../reports/20190811.rst:60
+msgid "Stage: **No. 3277**"
+msgstr "阶段： **No. 3277**"
+
+#: ../../reports/20190811.rst:61
+msgid "Season: **No. 6**"
+msgstr "赛季： **No. 6**"
+
+#: ../../reports/20190811.rst:62
+msgid "Master Progress：**5.46%**"
+msgstr "总进度： **5.46%**"
+
+#: ../../reports/20190811.rst:65
+msgid "by `Voken Public-Sale`_"
+msgstr "来源于 `Voken Public-Sale`_"

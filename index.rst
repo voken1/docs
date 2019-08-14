@@ -68,13 +68,13 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: News
 
-   reports/20190719
+   reports/20190811
    reports/season_top_sales
    news/voken_contract_upgraded
    reports/summary2019
    reports/summary2018
 
-.. letters/new_voken
+.. news/voken2
 
 
 .. _token:

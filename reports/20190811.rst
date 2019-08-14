@@ -1,0 +1,73 @@
+.. _report_20190811:
+
+Report: Aug 11th 2019
+=====================
+
+.. sidebar:: Progress reports
+
+   - :ref:`report_20190719`
+   - :ref:`report_20190619`
+   - :ref:`summary2019`
+   - :ref:`summary2018`
+
+
+Global
+------
+
+- Voken2.0 draft plan
+
+
+
+Core
+----
+
+- Defined block data structure and Genesis block
+- Defined transaction data structures and wallet data structures
+- Finished the wallet data storage solution
+- Core wallet on Java
+- Short address for wallet on Java
+- Wallet interface
+- Local debug environment for core servers
+- Communication between core servers and clients on Java
+- Defined core server data structure and encoded with Java
+- User information in relational database for core servers
+- Updated dev-tools
+- Binding wallet with core server
+- Binding wallet with service node
+- Connection and heartbeat for core servers
+- Keeping-alive for service node on Java, interact with client on GO
+- Event handling mechanisms on server-side
+- Login, logout, heartbeat, exception handling for C2S
+- HTTP console panel for client
+- Other improvements
+
+
+
+Voken Tracker
+-------------
+
+- Voken holders: **22,690**
+- Transfers: **470,778**
+
+by `Voken Tracker`_
+
+.. _Voken Tracker: https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a
+
+
+
+Public-sale
+-----------
+
+- Stage: **No. 3277**
+- Season: **No. 6**
+- Master Progress：**5.46%**
+
+
+by `Voken Public-Sale`_
+
+.. _Voken Public-Sale: https://vision.network/en/voken-sale
+
+
+by Vision.Network Project Team
+
+Aug 11th 2019
