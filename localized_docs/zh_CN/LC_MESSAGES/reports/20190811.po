@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-14 16:10+0800\n"
+"POT-Creation-Date: 2019-08-15 00:21+0800\n"
 "PO-Revision-Date: 2019-08-14 06:37+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -25,138 +25,155 @@ msgstr ""
 msgid "Report: Aug 11th 2019"
 msgstr "2019 年 8 月 11 日进展报告"
 
-#: ../../reports/20190811.rstNone
-msgid "Progress report"
-msgstr "进展报告"
-
 #: ../../reports/20190811.rst:8
-msgid "Vision.Network Project Team"
-msgstr "Vision.Network 远景网络项目组"
+msgid ":ref:`report_20190719`"
+msgstr ":ref:`report_20190719`"
+
+#: ../../reports/20190811.rst:9
+msgid ":ref:`report_20190619`"
+msgstr ":ref:`report_20190619`"
 
 #: ../../reports/20190811.rst:10
-msgid "Aug 11th 2019"
-msgstr "2019 年 8 月 11 日"
+msgid ":ref:`summary2019`"
+msgstr ":ref:`summary2019`"
 
-#: ../../reports/20190811.rst:14
+#: ../../reports/20190811.rst:11
+msgid ":ref:`summary2018`"
+msgstr ":ref:`summary2018`"
+
+#: ../../reports/20190811.rst:15
 msgid "Global"
 msgstr "全局工作"
 
-#: ../../reports/20190811.rst:16
-msgid "Voken2.0 draft plan"
-msgstr "Voken2.0 规划草案"
+#: ../../reports/20190811.rst:17
+msgid "A draft plan for **Voken2.0**"
+msgstr "一份关于 **Voken2.0** 的草案"
 
-#: ../../reports/20190811.rst:21
+#: ../../reports/20190811.rst:22
 msgid "Core"
 msgstr "核心工作"
 
-#: ../../reports/20190811.rst:23
+#: ../../reports/20190811.rst:24
 msgid "Defined block data structure and Genesis block"
 msgstr "定义区块结构和创世区块"
 
-#: ../../reports/20190811.rst:24
+#: ../../reports/20190811.rst:25
 msgid "Defined transaction data structures and wallet data structures"
 msgstr "定义交易数据结构和钱包结构"
 
-#: ../../reports/20190811.rst:25
+#: ../../reports/20190811.rst:26
 msgid "Finished the wallet data storage solution"
 msgstr "完成钱包数据存储方案"
 
-#: ../../reports/20190811.rst:26
+#: ../../reports/20190811.rst:27
 msgid "Core wallet on Java"
 msgstr "Java 版本的核心钱包"
 
-#: ../../reports/20190811.rst:27
+#: ../../reports/20190811.rst:28
 msgid "Short address for wallet on Java"
 msgstr "钱包短地址的 Java 实现"
 
-#: ../../reports/20190811.rst:28
+#: ../../reports/20190811.rst:29
 msgid "Wallet interface"
 msgstr "钱包接口"
 
-#: ../../reports/20190811.rst:29
+#: ../../reports/20190811.rst:30
 msgid "Local debug environment for core servers"
 msgstr "核心服务器的本地调试环境"
 
-#: ../../reports/20190811.rst:30
+#: ../../reports/20190811.rst:31
 msgid "Communication between core servers and clients on Java"
 msgstr "核心服务器和客户端之间的通信的 Java 实现"
 
-#: ../../reports/20190811.rst:31
+#: ../../reports/20190811.rst:32
 msgid "Defined core server data structure and encoded with Java"
 msgstr "定义核心服务器数据结构并使用 Java 编码实现"
 
-#: ../../reports/20190811.rst:32
+#: ../../reports/20190811.rst:33
 msgid "User information in relational database for core servers"
 msgstr "核心服务器的关系型数据库中的用户信息"
 
-#: ../../reports/20190811.rst:33
+#: ../../reports/20190811.rst:34
 msgid "Updated dev-tools"
 msgstr "升级 dev-tools"
 
-#: ../../reports/20190811.rst:34
+#: ../../reports/20190811.rst:35
 msgid "Binding wallet with core server"
 msgstr "钱包和核心服务器的绑定"
 
-#: ../../reports/20190811.rst:35
+#: ../../reports/20190811.rst:36
 msgid "Binding wallet with service node"
 msgstr "钱包和服务节点的绑定"
 
-#: ../../reports/20190811.rst:36
+#: ../../reports/20190811.rst:37
 msgid "Connection and heartbeat for core servers"
 msgstr "核心服务器的连接和心跳包"
 
-#: ../../reports/20190811.rst:37
+#: ../../reports/20190811.rst:38
 msgid "Keeping-alive for service node on Java, interact with client on GO"
 msgstr "Java 编码的服务节点的长连接，并与 GO 编码的客户端交互"
 
-#: ../../reports/20190811.rst:38
+#: ../../reports/20190811.rst:39
 msgid "Event handling mechanisms on server-side"
 msgstr "服务端的事件处理机制"
 
-#: ../../reports/20190811.rst:39
+#: ../../reports/20190811.rst:40
 msgid "Login, logout, heartbeat, exception handling for C2S"
 msgstr "C2S 的登录、登出、心跳、意外处理"
 
-#: ../../reports/20190811.rst:40
+#: ../../reports/20190811.rst:41
 msgid "HTTP console panel for client"
 msgstr "Client 端的 HTTP 控制面板"
 
-#: ../../reports/20190811.rst:41
+#: ../../reports/20190811.rst:42
+msgid ""
+"Optimized the efficiency of the encryption proxy communication protocol"
+msgstr "优化了加密代理通信协议的效率"
+
+#: ../../reports/20190811.rst:43
 msgid "Other improvements"
 msgstr "其它更新和提升"
 
-#: ../../reports/20190811.rst:46
+#: ../../reports/20190811.rst:48
 msgid "Voken Tracker"
 msgstr "Voken 数据跟踪"
 
-#: ../../reports/20190811.rst:48
+#: ../../reports/20190811.rst:50
 msgid "Voken holders: **22,690**"
 msgstr "Voken 持有地址数： **22,690**"
 
-#: ../../reports/20190811.rst:49
+#: ../../reports/20190811.rst:51
 msgid "Transfers: **470,778**"
 msgstr "转账数量： **470,778**"
 
-#: ../../reports/20190811.rst:51
+#: ../../reports/20190811.rst:53
 msgid "by `Voken Tracker`_"
 msgstr "来源于 `Voken Tracker`_"
 
-#: ../../reports/20190811.rst:58
+#: ../../reports/20190811.rst:60
 msgid "Public-sale"
 msgstr "公开销售数据"
 
-#: ../../reports/20190811.rst:60
+#: ../../reports/20190811.rst:62
 msgid "Stage: **No. 3277**"
 msgstr "阶段： **No. 3277**"
 
-#: ../../reports/20190811.rst:61
+#: ../../reports/20190811.rst:63
 msgid "Season: **No. 6**"
 msgstr "赛季： **No. 6**"
 
-#: ../../reports/20190811.rst:62
+#: ../../reports/20190811.rst:64
 msgid "Master Progress：**5.46%**"
 msgstr "总进度： **5.46%**"
 
-#: ../../reports/20190811.rst:65
+#: ../../reports/20190811.rst:67
 msgid "by `Voken Public-Sale`_"
 msgstr "来源于 `Voken Public-Sale`_"
+
+#: ../../reports/20190811.rst:72
+msgid "by Vision.Network Project Team"
+msgstr "by Vision.Network 远景网络项目团队"
+
+#: ../../reports/20190811.rst:74
+msgid "Aug 11th 2019"
+msgstr "2019 年 8 月 11 日"

@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-14 14:09+0800\n"
+"POT-Creation-Date: 2019-08-14 18:00+0800\n"
 "PO-Revision-Date: 2019-08-14 06:12+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,4 +23,119 @@ msgstr ""
 
 #: ../../policy/voken2_migration.rst:4
 msgid "Voken 2.0 migration guide"
+msgstr "Voken2.0 迁移指导"
+
+#: ../../policy/voken2_migration.rst:6
+msgid ""
+"All Voken holders should follow this instruction to finish the migration in "
+"a month. Convert your Voken to **Voken2.0**."
+msgstr "所有 Voken 持有者都应按此指示，在一个月内完成迁移。将您的 Voken 转换为 **Voken2.0** 。"
+
+#: ../../policy/voken2_migration.rst:12
+msgid "Only 1 step"
+msgstr "只需 1 步"
+
+#: ../../policy/voken2_migration.rst:14
+msgid ""
+"Send your **Voken** to the :ref:`voken_main_contract` address "
+"**0xf74C9f202F7bf44E6EEC02EF98896012153AC464**."
 msgstr ""
+"将你的 **Voken** 发送到 :ref:`voken_main_contract` 地址 "
+"**0xf74C9f202F7bf44E6EEC02EF98896012153AC464** 。"
+
+#: ../../policy/voken2_migration.rst:19
+msgid "You will receive"
+msgstr "你将收到"
+
+#: ../../policy/voken2_migration.rst:21
+msgid "You will receive **Voken2.0** in 48 hours."
+msgstr "你将在 48 小时内收到 **Voken2.0** 。"
+
+#: ../../policy/voken2_migration.rst:26
+msgid "Additional benefits of completing the migration"
+msgstr "完成迁移的附加好处"
+
+#: ../../policy/voken2_migration.rst:28
+msgid ""
+"After Voken is migrated to Voken2.0, you will automatically become a VOKEN "
+"**SHAREHOLDER**, have a 30% annual interest rate, and enjoy the #7-20 season"
+" sales dividend according to the shareholding ratio."
+msgstr ""
+"Voken 迁移到 Voken2.0 之后，你将自动成为 VOKEN **股东** ，年利率为 30％ ，并根据持股比例享受第 7-20 "
+"销售赛季的销售分红。"
+
+#: ../../policy/voken2_migration.rst:33
+msgid "See :ref:`voken_shareholders_program` for more details."
+msgstr "点击 :ref:`voken_shareholders_program` 了解更多细节。"
+
+#: ../../policy/voken2_migration.rst:35
+msgid ""
+"Every one week is a statistical period, and all the holders who complete the"
+" migration will jointly allocate a part of ETH as an additional reward "
+"according to the proportion in :ref:`voken_shareholders_program`."
+msgstr ""
+"每 1 周是一个统计周期，所有完成迁移的持有者将按 :ref:`voken_shareholders_program` 比例共同分配一部分 ETH "
+"作为额外奖励。"
+
+#: ../../policy/voken2_migration.rst:40
+msgid "Week"
+msgstr "周"
+
+#: ../../policy/voken2_migration.rst:40
+msgid "Deadline"
+msgstr "截止时间"
+
+#: ../../policy/voken2_migration.rst:40
+msgid "ETH amount"
+msgstr "ETH 数量"
+
+#: ../../policy/voken2_migration.rst:42
+msgid "1st"
+msgstr "第 1 周"
+
+#: ../../policy/voken2_migration.rst:42
+msgid "2019-08-31 23:59:59 +UTC"
+msgstr "2019-08-31 23:59:59 +UTC"
+
+#: ../../policy/voken2_migration.rst:42 ../../policy/voken2_migration.rst:43
+#: ../../policy/voken2_migration.rst:44
+msgid "100 ETH"
+msgstr "100 ETH"
+
+#: ../../policy/voken2_migration.rst:43
+msgid "2nd"
+msgstr "第 2 周"
+
+#: ../../policy/voken2_migration.rst:43
+msgid "2019-09-07 23:59:59 +UTC"
+msgstr "2019-09-07 23:59:59 +UTC"
+
+#: ../../policy/voken2_migration.rst:44
+msgid "3rd"
+msgstr "第 3 周"
+
+#: ../../policy/voken2_migration.rst:44
+msgid "2019-09-14 23:59:59 +UTC"
+msgstr "2019-09-14 23:59:59 +UTC"
+
+#: ../../policy/voken2_migration.rst:49
+msgid "Precautions"
+msgstr "注意事项"
+
+#: ../../policy/voken2_migration.rst:51
+msgid ""
+"All **Voken** should be migrated to **Voken2.0**, and the deadline is "
+"**2019-09-30 23:59:59 +UTC**."
+msgstr ""
+"所有 **Voken** 都应迁移升级为 **Voken2.0** ，截止日期为 **2019-09-30 23:59:59 +UTC** 。"
+
+#: ../../policy/voken2_migration.rst:53
+msgid ""
+"After that time, the transfer function of the original contract will stop. "
+"Voken that has not completed the migration will be considered as no-own, and"
+" no longer valid."
+msgstr "在上述时间之后，原始合约的转账功能将停止。未完成迁移的 Voken 将被视为无主，并且不再有效。"
+
+#: ../../policy/voken2_migration.rst:56
+msgid "The project team and early angel investors had no sales dividends."
+msgstr "项目团队和早期天使投资者没有销售红利。"

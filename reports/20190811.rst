@@ -14,7 +14,7 @@ Report: Aug 11th 2019
 Global
 ------
 
-- Voken2.0 draft plan
+- A draft plan for **Voken2.0**
 
 
 
@@ -39,6 +39,7 @@ Core
 - Event handling mechanisms on server-side
 - Login, logout, heartbeat, exception handling for C2S
 - HTTP console panel for client
+- Optimized the efficiency of the encryption proxy communication protocol
 - Other improvements
 
 

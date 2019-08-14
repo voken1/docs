@@ -70,11 +70,13 @@ more open, more equal, more stable, more efficient, safer and freer.
 
    reports/20190811
    reports/season_top_sales
-   news/voken_contract_upgraded
    reports/summary2019
    reports/summary2018
 
 .. news/voken2
+   policy/voken2_migration
+   policy/voken_shareholders_program
+   policy/voken_community_alliance_program
 
 
 .. _token:
