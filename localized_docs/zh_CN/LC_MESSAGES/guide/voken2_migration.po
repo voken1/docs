@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-23 21:26+0800\n"
-"PO-Revision-Date: 2019-08-14 06:12+0000\n"
+"POT-Creation-Date: 2019-08-24 02:04+0800\n"
+"PO-Revision-Date: 2019-08-23 14:31+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -21,21 +21,24 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../policy/voken2_migration.rst:4
+#: ../../guide/voken2_migration.rst:4
 msgid "Voken 2.0 migration guide"
 msgstr "Voken 2.0 迁移指导"
 
-#: ../../policy/voken2_migration.rst:7
+#: ../../guide/voken2_migration.rst:7 ../../guide/voken2_migration.rst:10
+#: ../../guide/voken2_migration.rst:13
 msgid ""
 "All Voken holders should follow this instruction to finish the migration "
 "before **2019-09-07 23:59:59 UTC**. Convert your Voken to **Voken2.0**."
 msgstr ""
+"所有 Voken 持有者都应按此指示，在 **2019-09-07 23:59:59 UTC** 前完成迁移。将您的 Voken 转换升级为 "
+"**Voken2.0** 。"
 
-#: ../../policy/voken2_migration.rst:13
+#: ../../guide/voken2_migration.rst:18
 msgid "Only 1 step"
 msgstr "只需 1 步"
 
-#: ../../policy/voken2_migration.rst:15
+#: ../../guide/voken2_migration.rst:20
 msgid ""
 "Send your **Voken** to the :ref:`voken2_main_contract` address "
 "**0x7712F76D2A52141D44461CDbC8b660506DCAB752**."
@@ -43,19 +46,19 @@ msgstr ""
 "将你的 **Voken** 发送到 :ref:`voken2_main_contract` 地址 "
 "**0x7712F76D2A52141D44461CDbC8b660506DCAB752** 。"
 
-#: ../../policy/voken2_migration.rst:21
+#: ../../guide/voken2_migration.rst:26
 msgid "You will receive"
 msgstr "你将收到"
 
-#: ../../policy/voken2_migration.rst:23
+#: ../../guide/voken2_migration.rst:28
 msgid "You will receive **Voken2.0** in 48 hours."
 msgstr "你将在 48 小时内收到 **Voken2.0** 。"
 
-#: ../../policy/voken2_migration.rst:28
+#: ../../guide/voken2_migration.rst:33
 msgid "Additional benefits of completing the migration"
 msgstr "完成迁移的附加好处"
 
-#: ../../policy/voken2_migration.rst:30
+#: ../../guide/voken2_migration.rst:35
 msgid ""
 "Once your Voken is migrated to Voken2.0, you will automatically become a "
 "Voken **SHAREHOLDER**, have a 30% annual interest rate, and enjoy the #6-20 "
@@ -64,60 +67,62 @@ msgstr ""
 "一旦 Voken 迁移到 Voken2.0 之后，你将自动成为 VOKEN **股东** ，年利率为 30％ ，并根据持股比例享受第 6-20 "
 "销售赛季的销售分红。"
 
-#: ../../policy/voken2_migration.rst:35
+#: ../../guide/voken2_migration.rst:40
 msgid "See :ref:`voken2_shareholders_program` for more details."
-msgstr ""
+msgstr "点击 :ref:`voken2_shareholders_program` 了解更多细节。"
 
-#: ../../policy/voken2_migration.rst:37
+#: ../../guide/voken2_migration.rst:42
 msgid ""
 "There are 3 statistic timestamps below, and all the holders who complete the"
-" migration will jointly allocate a part of ETH as an additional reward "
+" migration will jointly allocate a part of ETH as an **additional reward** "
 "according to the proportion in :ref:`voken2_shareholders_program`."
 msgstr ""
+"下面有 3 个统计时间点，所有完成迁移的持有者将按 :ref:`voken2_shareholders_program` 比例共同分配一部分 ETH "
+"作为 **额外奖励** 。"
 
-#: ../../policy/voken2_migration.rst:42
+#: ../../guide/voken2_migration.rst:47
 msgid "Deadline"
 msgstr "截止时间"
 
-#: ../../policy/voken2_migration.rst:42
+#: ../../guide/voken2_migration.rst:47
 msgid "ETH amount"
 msgstr "ETH 数量"
 
-#: ../../policy/voken2_migration.rst:44
+#: ../../guide/voken2_migration.rst:49
 msgid "2019-08-25 23:59:59 UTC"
 msgstr "2019-08-25 23:59:59 UTC"
 
-#: ../../policy/voken2_migration.rst:44 ../../policy/voken2_migration.rst:45
-#: ../../policy/voken2_migration.rst:46
+#: ../../guide/voken2_migration.rst:49 ../../guide/voken2_migration.rst:50
+#: ../../guide/voken2_migration.rst:51
 msgid "100 ETH"
 msgstr "100 ETH"
 
-#: ../../policy/voken2_migration.rst:45
+#: ../../guide/voken2_migration.rst:50
 msgid "2019-08-28 23:59:59 UTC"
 msgstr "2019-08-28 23:59:59 UTC"
 
-#: ../../policy/voken2_migration.rst:46
+#: ../../guide/voken2_migration.rst:51
 msgid "2019-09-04 23:59:59 UTC"
 msgstr "2019-09-04 23:59:59 UTC"
 
-#: ../../policy/voken2_migration.rst:51
+#: ../../guide/voken2_migration.rst:56
 msgid "Precautions"
 msgstr "注意事项"
 
-#: ../../policy/voken2_migration.rst:53
+#: ../../guide/voken2_migration.rst:58
 msgid ""
 "All **Voken** should be migrated to **Voken2.0**, and the deadline is "
 "**2019-09-07 23:59:59 UTC**."
 msgstr ""
 "所有 **Voken** 都应迁移升级为 **Voken2.0** ，截止日期为 **2019-09-07 23:59:59 UTC** 。"
 
-#: ../../policy/voken2_migration.rst:55
+#: ../../guide/voken2_migration.rst:60
 msgid ""
 "After that time, the transfer function of the original contract will stop. "
 "Voken that has not completed the migration will be considered as no-own, and"
 " no longer valid."
 msgstr "在上述时间之后，原始合约的转账功能将停止。未完成迁移的 Voken 将被视为无主，并且不再有效。"
 
-#: ../../policy/voken2_migration.rst:58
+#: ../../guide/voken2_migration.rst:63
 msgid "The project team and early angel investors had no sales dividends."
 msgstr "项目团队和早期天使投资者没有销售红利。"

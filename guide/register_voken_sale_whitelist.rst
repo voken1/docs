@@ -3,7 +3,7 @@
 How to register Voken Public-Sale whitelist?
 ============================================
 
-- Is there a friend told you about Vision Network, :ref:`voken`, and :ref:`voken_sale`?
+- Is there a friend told you about Vision Network, :ref:`voken`, and :ref:`voken2_sale`?
   Congratulations!! Ask him for a ``whitelisted address``.
 - Use your ETH wallet, send ``1,001 Vokens`` to the address which is whitelisted already.
 - Finished. Your wallet address will be successfully registered.
@@ -11,7 +11,7 @@ How to register Voken Public-Sale whitelist?
 
 .. NOTE::
 
-   Set ``gas limit`` to ``300,000``, the rest will be returned automatically.
+   Set ``gas limit`` to ``600,000``, the rest will be returned automatically.
 
 
 FAQ about whitelist registration

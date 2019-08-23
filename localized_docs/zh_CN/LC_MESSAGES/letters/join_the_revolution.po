@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-20 23:32+0800\n"
+"POT-Creation-Date: 2019-08-24 02:04+0800\n"
 "PO-Revision-Date: 2019-05-14 04:52+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -46,22 +46,14 @@ msgid ":ref:`voken_pricing`"
 msgstr ""
 
 #: ../../letters/join_the_revolution.rst:17
-msgid ":ref:`voken_sale`"
+msgid ":ref:`voken2_sale`"
 msgstr ""
 
 #: ../../letters/join_the_revolution.rst:18
 msgid ":ref:`voken_referral_program`"
 msgstr ""
 
-#: ../../letters/join_the_revolution.rst:20
-msgid "Here is a gift for you:"
-msgstr ""
-
-#: ../../letters/join_the_revolution.rst:22
-msgid ":ref:`airdrop_via_contract`"
-msgstr ""
-
-#: ../../letters/join_the_revolution.rst:25
+#: ../../letters/join_the_revolution.rst:21
 msgid ""
 "We are building a real free, open, equal, shared Internet, which is a set of"
 " infrastructure that everyone can use. To protect the basic rights of every "

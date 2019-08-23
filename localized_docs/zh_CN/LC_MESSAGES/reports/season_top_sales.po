@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-20 01:20+0800\n"
+"POT-Creation-Date: 2019-08-23 03:48+0800\n"
 "PO-Revision-Date: 2019-05-28 22:07+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -27,11 +27,8 @@ msgstr "赛季销售排名奖励"
 
 #: ../../reports/season_top_sales.rst:6
 msgid ""
-":ref:`top_sales_reward` by contract "
-"**0x2F7f6AC16469cE0Fed396A6C514e8d1366E4ADA8**"
+"TOP-sales reward by contract **0x2F7f6AC16469cE0Fed396A6C514e8d1366E4ADA8**"
 msgstr ""
-":ref:`top_sales_reward` 通过合约 **0x2F7f6AC16469cE0Fed396A6C514e8d1366E4ADA8** "
-"执行。"
 
 #: ../../reports/season_top_sales.rst:21
 msgid "Season #.5"

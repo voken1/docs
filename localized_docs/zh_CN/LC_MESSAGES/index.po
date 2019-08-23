@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-11 13:07+0800\n"
+"POT-Creation-Date: 2019-08-24 02:44+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -133,50 +133,46 @@ msgstr ""
 "使用价值尺度稳定的 :ref:`voken` "
 "作为生态“货币”激励，是由全球无限节点参与构建的、具有成长性的分布式互联网基础设施，使互联网更开放、更平等、更稳定、更高效、更安全、更自由。"
 
-#: ../../index.rst:67
-msgid "News"
-msgstr "最新消息"
+#: ../../index.rst:68
+msgid "TOP"
+msgstr "置顶"
 
-#: ../../index.rst:82
-msgid "Voken"
-msgstr "Voken 流量币"
+#: ../../index.rst:84
+msgid "Reports"
+msgstr "进展报告"
 
-#: ../../index.rst:104
+#: ../../index.rst:107
 msgid "Available services"
 msgstr "当前可用服务"
 
-#: ../../index.rst:121
+#: ../../index.rst:124
 msgid "Guides"
 msgstr "使用与操作指导"
 
-#: ../../index.rst:143
+#: ../../index.rst:146
 msgid "References and views"
 msgstr "推荐阅读与观点集"
 
-#: ../../index.rst:159
+#: ../../index.rst:162
 msgid "New Contracts on Ethereum"
-msgstr ""
+msgstr "以太坊智能合约（新）"
 
-#: ../../index.rst:167
+#: ../../index.rst:171
 msgid "Contracts on Ethereum"
 msgstr "以太坊智能合约"
 
-#: ../../index.rst:195
+#: ../../index.rst:199
 msgid "Contribute"
 msgstr "共建"
 
-#: ../../index.rst:212
-msgid "Materials"
-msgstr "素材"
-
-#: ../../index.rst:223
+#: ../../index.rst:227
 msgid "Policy"
 msgstr "政策"
 
-#: ../../index.rst:234
+#: ../../index.rst:239
 msgid "Whitepaper v1.1.0"
 msgstr "白皮书 v1.1.0"
 
-#: ../../index.rst:255
+#: ../../index.rst:260
 msgid "Contact us"
 msgstr "联系我们"

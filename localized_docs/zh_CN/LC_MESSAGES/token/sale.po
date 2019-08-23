@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-01 22:44+0800\n"
+"POT-Creation-Date: 2019-08-23 04:26+0800\n"
 "PO-Revision-Date: 2019-04-01 09:40+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -23,8 +23,8 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../token/sale.rst:4
-msgid "Voken Public-Sale (Started at May-27)"
-msgstr "Voken 公开销售（5月27日启动）"
+msgid "Voken Public-Sale (STOPPED)"
+msgstr ""
 
 #: ../../token/sale.rst:6
 msgid ""
@@ -208,7 +208,7 @@ msgstr "$100 + $2 = **$102**"
 #: ../../token/sale.rst:96 ../../token/sale.rst:96 ../../token/sale.rst:117
 #: ../../token/sale.rst:117 ../../token/sale.rst:117 ../../token/sale.rst:117
 #: ../../token/sale.rst:121 ../../token/sale.rst:121 ../../token/sale.rst:121
-#: ../../token/sale.rst:121 ../../token/sale.rst:238
+#: ../../token/sale.rst:121 ../../token/sale.rst:237
 msgid "..."
 msgstr "..."
 
@@ -424,19 +424,15 @@ msgstr "在销售计划中，50% - 100% 的销售收入被设计为 **社区和�
 msgid ":ref:`sales_referral_reward`"
 msgstr ":ref:`sales_referral_reward`"
 
-#: ../../token/sale.rst:184
-msgid ":ref:`top_sales_reward`"
-msgstr ":ref:`top_sales_reward`"
-
-#: ../../token/sale.rst:186
+#: ../../token/sale.rst:185
 msgid "Learn more about: :ref:`voken_referral_program`"
 msgstr "了解更多关于 :ref:`voken_referral_program`"
 
-#: ../../token/sale.rst:190
+#: ../../token/sale.rst:189
 msgid "For example"
 msgstr "举例说明"
 
-#: ../../token/sale.rst:192
+#: ../../token/sale.rst:191
 msgid ""
 "If you send **20 ETH** to the :ref:`voken_sale_contract` at the **37500th "
 "stage**, and the **Audit ETH price** goes to **$200 USD** for example:"
@@ -444,11 +440,11 @@ msgstr ""
 "如果您在 **第 37500 个阶段** 发送 **20 ETH** 到 :ref:`voken_sale_contract` ，假设当时 **ETH "
 "以太坊审计价格** 上涨到了 **$200 美元** ，那么："
 
-#: ../../token/sale.rst:196
+#: ../../token/sale.rst:195
 msgid "This **20 ETH** will be treated as `$200 x20 ETH =` **$4,000 USD**."
 msgstr "这 **20 ETH** 将被视同于 `$200 x20 ETH =` **$4,000 美元** 。"
 
-#: ../../token/sale.rst:197
+#: ../../token/sale.rst:196
 msgid ""
 "At the **37500th stage**, the exchange price is **$0.37600**, that is `$4000"
 " / $0.37600 =` **10638.297872 Vokens**."
@@ -456,7 +452,7 @@ msgstr ""
 "在 **第 37500 个阶段** ，兑换价格是 **$0.37600** ，也就是 `$4000 / $0.37600 =` "
 "**10638.297872 Vokens** 。"
 
-#: ../../token/sale.rst:200
+#: ../../token/sale.rst:199
 msgid ""
 "A single transaction ``> 10 ETH`` will receive **10% bonus**, that is "
 "`10638.297872 x 10% =` **1063.829787 Vokens**."
@@ -464,35 +460,35 @@ msgstr ""
 "单笔转账 ``> 10 ETH`` 将收到 **10% 额外奖励** ，`10638.297872 x 10% =` **1063.829787 "
 "Vokens** 。"
 
-#: ../../token/sale.rst:202
+#: ../../token/sale.rst:201
 msgid "Subtotal: `10638.297872 + 1063.829787 =` **11702.667659 Vokens**."
 msgstr "小计： `10638.297872 + 1063.829787 =` **11702.667659 Vokens** 。"
 
-#: ../../token/sale.rst:203
+#: ../../token/sale.rst:202
 msgid ""
 "If your address is whitelisted, according to **BUY ONE AND GET ONE MORE "
 "FREE** privilege, you will receive a gift of **11702.667659 Vokens**."
 msgstr "如果您的钱包地址在白名单列表中，根据 **买一送一** 特权，您还将收到一份 **11702.667659 Vokens** 。"
 
-#: ../../token/sale.rst:207
+#: ../../token/sale.rst:206
 msgid ""
 "Finally, the amount is `11702.667659 + 11702.667659 =` **23405.335318 "
 "Vokens**."
 msgstr "最终总量是 `11702.667659 + 11702.667659 =` **23405.335318 Vokens** 。"
 
-#: ../../token/sale.rst:211
+#: ../../token/sale.rst:210
 msgid "Send ETH, and receive Vokens"
 msgstr "发送 ETH 并接收 Vokens"
 
-#: ../../token/sale.rst:214
+#: ../../token/sale.rst:213
 msgid "Will start at **Mon May-27 12:00 UTC 2019**"
 msgstr "将在 **北京时间 2019 年 5 月 27 日 20:00** 始"
 
-#: ../../token/sale.rst:216
+#: ../../token/sale.rst:215
 msgid "DO NOT send your ETH before this timestamp, it will be reverted."
 msgstr "不要在这个时间戳之前发送 ETH ，合约会自动拒绝转账。"
 
-#: ../../token/sale.rst:218
+#: ../../token/sale.rst:217
 msgid ""
 "Make sure to use a wallet that **only you can control the private key** to "
 "send ETH. Sending ETH from an exchange or any contract will face irreparable"
@@ -500,39 +496,39 @@ msgid ""
 msgstr ""
 "请务必确认使用 **只有您控制私钥的钱包** 发送 ETH 。从交易所或任何合约发送 ETH 将面临不可挽回的 ETH 和 Vokens 双重损失。"
 
-#: ../../token/sale.rst:227
+#: ../../token/sale.rst:226
 msgid "**0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**"
 msgstr "**0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**"
 
-#: ../../token/sale.rst:229
+#: ../../token/sale.rst:228
 msgid "Just **USE YOUR OWN ETH WALLET**"
 msgstr "只需 **使用您的以太坊钱包**"
 
-#: ../../token/sale.rst:230
+#: ../../token/sale.rst:229
 msgid "**SEND ETH TO THE CONTRACT ADDRESS ABOVE**"
 msgstr "**发送 ETH 到上边的合约地址**"
 
-#: ../../token/sale.rst:231
+#: ../../token/sale.rst:230
 msgid "and you will **RECEIVE VOKENS AUTOMATICALLY**"
 msgstr "然后您将 **自动收到对应的 Vokens**"
 
-#: ../../token/sale.rst:233
+#: ../../token/sale.rst:232
 msgid "Matters needing attention and operation instruction:"
 msgstr "注意事项和操作指导："
 
-#: ../../token/sale.rst:235
+#: ../../token/sale.rst:234
 msgid ":ref:`guide_for_voken_sale_whitelist`"
 msgstr ":ref:`guide_for_voken_sale_whitelist`"
 
-#: ../../token/sale.rst:236
+#: ../../token/sale.rst:235
 msgid ":ref:`guide_for_voken_sale`"
 msgstr ":ref:`guide_for_voken_sale`"
 
-#: ../../token/sale.rst:237
+#: ../../token/sale.rst:236
 msgid ":ref:`guide_for_gas`"
 msgstr ":ref:`guide_for_gas`"
 
-#: ../../token/sale.rst:241
+#: ../../token/sale.rst:240
 msgid ""
 "We have made a series of security settings in the contract, the most "
 "important one for you is that it **avoids unnecessary gas waste**. **The "
@@ -541,6 +537,6 @@ msgstr ""
 "合约中有一系列安全设置，对您而言最重要的一条是它可以 **避免不必要的 gas 浪费** 。 **合约会自动退回所有未使用的 ETH 和剩余的 "
 "gas** 。"
 
-#: ../../token/sale.rst:245
+#: ../../token/sale.rst:244
 msgid "So, make sure you have set ``gas limit`` to ``6,000,000``."
 msgstr "所以，请确保您已经设置 ``gas limit`` 为 ``6,000,000`` 。"

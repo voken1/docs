@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-14 14:09+0800\n"
+"POT-Creation-Date: 2019-08-23 23:55+0800\n"
 "PO-Revision-Date: 2019-08-14 06:12+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -18,5 +18,128 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../policy/voken_community_alliance_program.rst:4
-msgid "Voken community alliance program"
+msgid "Voken 2.0 community alliance program"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:6
+msgid ""
+"We know that every single person, even a company or a team, all have their "
+"strengths and limitations. It also involves the V5 team that made "
+"contributions to the early stages of the project. A thriving ecosystem must "
+"have the participation of many drives; we are looking forward to and welcome"
+" more people to join the Vision Network."
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:12
+msgid ""
+"If you have the resources and capabilities and are willing to participate in"
+" the community, please send us an email."
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:19
+msgid "Work and rewards program"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:21
+msgid "Here is an initial work and rewards program for the community:"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:24
+msgid "4 primary characters"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:27
+#: ../../policy/voken_community_alliance_program.rst:39
+#: ../../policy/voken_community_alliance_program.rst:53
+msgid "Character"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:27
+msgid "Description"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:29
+msgid "Centurion"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:29
+msgid "The one with abundant resources in a region"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:30
+#: ../../policy/voken_community_alliance_program.rst:43
+msgid "Captain"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:30
+msgid "Backbone Evangelist"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:31
+#: ../../policy/voken_community_alliance_program.rst:42
+#: ../../policy/voken_community_alliance_program.rst:56
+msgid "Marquis"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:31
+msgid "Senior Evangelist"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:32
+#: ../../policy/voken_community_alliance_program.rst:41
+#: ../../policy/voken_community_alliance_program.rst:55
+msgid "Suzerain"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:32
+msgid "Junior Evangelist"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:35
+msgid ""
+"The evangelist will get the corresponding title according to the number of "
+"accumulated meetings:"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:39
+msgid "Task"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:41
+msgid "Organize 15 meetings, 20+ people for each meeting."
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:42
+msgid "Organize +15 meetings, 40+ people for each meeting."
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:43
+msgid "Organize +5 voluntary meetings, 100+ people for each meeting."
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:46
+msgid ""
+"You will get **Suzerain** title after 15 meetings, get **Marquis** title "
+"after another 45 meetings, and **Captain** after 5 voluntary meetings."
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:50
+msgid ""
+"Meanwhile, you can receive some Voken as task reward, after you get a title:"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:53
+msgid "Task reward"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:55
+msgid "3000 Voken"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:56
+msgid "22500 Voken"
+msgstr ""
+
+#: ../../policy/voken_community_alliance_program.rst:60
+msgid "Reward for meeting"
 msgstr ""

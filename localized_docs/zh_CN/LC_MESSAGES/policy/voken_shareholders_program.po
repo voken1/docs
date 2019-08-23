@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-14 14:09+0800\n"
+"POT-Creation-Date: 2019-08-23 23:55+0800\n"
 "PO-Revision-Date: 2019-08-14 06:12+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,5 +22,198 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../policy/voken_shareholders_program.rst:4
-msgid "Voken shareholders program"
+msgid "Voken 2.0 shareholders program"
+msgstr "Voken 2.0 股东计划"
+
+#: ../../policy/voken_shareholders_program.rst:6
+msgid ""
+"As a shareholder, you can enjoy the dividend of public-sale during #6-20 "
+"season."
+msgstr "作为股东，你可以在公开销售的第 6-20 赛季中享受分红。"
+
+#: ../../policy/voken_shareholders_program.rst:8
+msgid ""
+"More than $14,885,025.49 is about to be paid as a dividend, settled with "
+"ETH, as follow:"
+msgstr "大约将有 $14,885,025.49 美元将被用于支付分红，以 ETH 结算："
+
+#: ../../policy/voken_shareholders_program.rst:11
+msgid "Season"
+msgstr "赛季"
+
+#: ../../policy/voken_shareholders_program.rst:11
+msgid "Dividend"
+msgstr "分红"
+
+#: ../../policy/voken_shareholders_program.rst:13
+msgid "#6"
+msgstr "#6"
+
+#: ../../policy/voken_shareholders_program.rst:13
+msgid "$ 204,845.98 USD"
+msgstr "$ 204,845.98 USD"
+
+#: ../../policy/voken_shareholders_program.rst:14
+msgid "#7"
+msgstr "#7"
+
+#: ../../policy/voken_shareholders_program.rst:14
+msgid "$ 438,214.75 USD"
+msgstr "$ 438,214.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:15
+msgid "#8"
+msgstr "#8"
+
+#: ../../policy/voken_shareholders_program.rst:15
+msgid "$ 517,717.75 USD"
+msgstr "$ 517,717.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:16
+msgid "#9"
+msgstr "#9"
+
+#: ../../policy/voken_shareholders_program.rst:16
+msgid "$ 600,820.75 USD"
+msgstr "$ 600,820.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:17
+msgid "#10"
+msgstr "#10"
+
+#: ../../policy/voken_shareholders_program.rst:17
+msgid "$ 687,523.75 USD"
+msgstr "$ 687,523.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:18
+msgid "#11"
+msgstr "#11"
+
+#: ../../policy/voken_shareholders_program.rst:18
+msgid "$ 777,826.75 USD"
+msgstr "$ 777,826.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:19
+msgid "#12"
+msgstr "#12"
+
+#: ../../policy/voken_shareholders_program.rst:19
+msgid "$ 871,729.75 USD"
+msgstr "$ 871,729.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:20
+msgid "#13"
+msgstr "#13"
+
+#: ../../policy/voken_shareholders_program.rst:20
+msgid "$ 969,232.75 USD"
+msgstr "$ 969,232.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:21
+msgid "#14"
+msgstr "#14"
+
+#: ../../policy/voken_shareholders_program.rst:21
+msgid "$ 1,070,335.75 USD"
+msgstr "$ 1,070,335.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:22
+msgid "#15"
+msgstr "#15"
+
+#: ../../policy/voken_shareholders_program.rst:22
+msgid "$ 1,175,038.75 USD"
+msgstr "$ 1,175,038.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:23
+msgid "#16"
+msgstr "#16"
+
+#: ../../policy/voken_shareholders_program.rst:23
+msgid "$ 1,283,341.75 USD"
+msgstr "$ 1,283,341.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:24
+msgid "#17"
+msgstr "#17"
+
+#: ../../policy/voken_shareholders_program.rst:24
+msgid "$ 1,395,244.75 USD"
+msgstr "$ 1,395,244.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:25
+msgid "#18"
+msgstr "#18"
+
+#: ../../policy/voken_shareholders_program.rst:25
+msgid "$ 1,510,747.75 USD"
+msgstr "$ 1,510,747.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:26
+msgid "#19"
+msgstr "#19"
+
+#: ../../policy/voken_shareholders_program.rst:26
+msgid "$ 1,629,850.75 USD"
+msgstr "$ 1,629,850.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:27
+msgid "#20"
+msgstr "#20"
+
+#: ../../policy/voken_shareholders_program.rst:27
+msgid "$ 1,752,553.75 USD"
+msgstr "$ 1,752,553.75 USD"
+
+#: ../../policy/voken_shareholders_program.rst:33
+msgid "Control by contract on Ethereum"
+msgstr "由以太坊智能合约控制"
+
+#: ../../policy/voken_shareholders_program.rst:35
+msgid ""
+":ref:`voken2_shareholders_contract` was deployed at ``2019-08-22-2019 "
+"18:02:37 UTC``, address is **0x7712F76D2A52141D44461CDbC8b660506DCAB752**."
 msgstr ""
+":ref:`voken2_shareholders_contract` 部署于 ``2019-08-22-2019 18:02:37 UTC`` "
+"，地址为 **0x7712F76D2A52141D44461CDbC8b660506DCAB752** 。"
+
+#: ../../policy/voken_shareholders_program.rst:38
+msgid "No one can tamper with the dividend rules."
+msgstr "没有人有能力篡改分红规则。"
+
+#: ../../policy/voken_shareholders_program.rst:43
+msgid "Deposit ETH"
+msgstr "存入 ETH"
+
+#: ../../policy/voken_shareholders_program.rst:45
+msgid "All ETH sent to the contract address will be used for dividends."
+msgstr "所有转入合约约的 ETH 都将用于分红。"
+
+#: ../../policy/voken_shareholders_program.rst:47
+msgid ""
+"A certain percentage of ETH will be deposited into this contract "
+"automatically once a transaction of public-sale completed."
+msgstr "每笔销售完成后，一定比例的 ETH 将被存入此合约。"
+
+#: ../../policy/voken_shareholders_program.rst:50
+msgid "So, there is no need to send your ETH greater than 0 here personally."
+msgstr "所以，你不需要个人向此合约转入大于 0 的 ETH 。"
+
+#: ../../policy/voken_shareholders_program.rst:55
+msgid "Withdraw ETH"
+msgstr "取出 ETH"
+
+#: ../../policy/voken_shareholders_program.rst:57
+msgid ""
+"By sending **0 ETH** the contract address, you can **withdraw** ETH from it."
+msgstr "向合约转账 **0 ETH** 你就可以从中 **提取** ETH 。"
+
+#: ../../policy/voken_shareholders_program.rst:62
+msgid "Cannot transfer these Voken before..."
+msgstr "在以下时间前，不可以转出 Voken"
+
+#: ../../policy/voken_shareholders_program.rst:64
+msgid ""
+"You cannot transfer these Voken before ``2020-08-30 23:59:59 UTC``. It will "
+"then be released daily in two months."
+msgstr "你不可以在 ``2020-08-30 23:59:59 UTC`` 前转移这些 Voken ，然后它将在 2 个月内每天释放。"

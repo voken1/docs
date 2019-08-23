@@ -62,34 +62,35 @@ We believe the Vision Network will make the future Internet
 more open, more equal, more stable, more efficient, safer and freer.
 
 
-.. _news:
+
+.. _top:
 
 .. toctree::
    :maxdepth: 1
-   :caption: News
+   :caption: TOP
+
+   news/voken2
+   guide/voken2_migration
+   letters/as_an_investor
+   policy/voken_shareholders_program
+   voken/voken_sale
+   policy/voken_referral_program
+   revision
+.. policy/voken_community_alliance_program
+
+
+.. _reports:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Reports
 
    reports/20190811
-   reports/season_top_sales
+   reports/20190719
+   reports/20190619
    reports/summary2019
    reports/summary2018
-
-.. news/voken2
-   policy/voken2_migration
-   policy/voken_shareholders_program
-   policy/voken_community_alliance_program
-
-
-.. _token:
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Voken
-
-   letters/as_an_investor
-   token/sale
-   policy/voken_referral_program
-   token/airdrop_via_contract
-   token/airdrop_to_eth_holders
+.. reports/season_top_sales
 
 
 .. _letters:
@@ -164,6 +165,7 @@ more open, more equal, more stable, more efficient, safer and freer.
 
    voken/voken_main_contract
    voken/voken_shareholders_contract
+   voken/voken_public_sale_contract
 
 
 .. toctree::
@@ -211,11 +213,11 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. _materials:
 
-.. toctree::
+.. toctree
    :maxdepth: 2
    :caption: Materials
 
-   materials/posters
+..   materials/posters
    materials/x_days_to_sale
 ..   materials/logos
 
@@ -227,6 +229,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :caption: Policy
 
    policy/chatting_group
+.. policy/voken_community_alliance_program
 
 
 ------

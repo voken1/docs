@@ -24,16 +24,11 @@ What you need to know as an investor
    When necessary, our team will adjust some of the work plans
    and adopt suggestions from the community members,
    but the project team always has the right to advance the progress and ensure it orderly.
-#. The only cooperation party for sales and community is the :ref:`v5`.
-   The V5 team is responsible for the formation and service,
-   including but not limited to the Chinese language community.
-   It is responsible for the implementation of the :ref:`voken_sale`,
-   finding qualified investors, forming communities and managing and serving, and promoting consensus.
 #. In order to allow more enthusiasts to participate in community organization and work,
    we have launched a whitelist system for those who want to participate in this program.
    We have set up a generous sales rewards in the public-sale plan.
    Read :ref:`voken_referral_program` for more information.
-#. Voken will be traded on exchanges near the 10th season of the :ref:`voken_sale`.
+#. Voken2.0 will list on exchanges for trading when the number of users is sufficient to ensure ecological health.
 #. We welcome more people to join and build the community.
    If you have good suggestions or cooperation intentions,
    please send us an email: david@vision.network.

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-14 14:45+0800\n"
+"POT-Creation-Date: 2019-08-24 01:04+0800\n"
 "PO-Revision-Date: 2019-08-11 05:12+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -22,10 +22,10 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../news/voken2.rst:4
-msgid "Voken 2.0 is coming..."
-msgstr "Voken 2.0 即将到来..."
+msgid "Voken 2.0"
+msgstr "Voken 2.0"
 
-#: ../../news/voken2.rstNone ../../news/voken2.rst:179
+#: ../../news/voken2.rstNone ../../news/voken2.rst:196
 msgid "HOLD VOKEN, HOLD VALUE."
 msgstr "持有 VOKEN 持有价值"
 
@@ -182,18 +182,6 @@ msgstr "我们相信，由于刚性需求和坚实的技术基础，生态的成
 
 #: ../../news/voken2.rst:100
 msgid ""
-"Experienced in the past time, we have acquired valuable experience as the "
-"project team. We know that every single person, even a company or a team, "
-"all have their strengths and limitations. It also involves the V5 team that "
-"made contributions to the early stages of the project. A thriving ecosystem "
-"must have the participation of many drives; we are looking forward to and "
-"welcome more people to join the Vision Network."
-msgstr ""
-"在过去的经历中，我们项目团队也获得了的宝贵经验。我们知道每个人、甚至公司或团队，都有自己的优势和局限。这也包括为项目早期阶段做出贡献的 V5 "
-"团队。繁荣的生态系统一定有许多驱动力量的参与，我们期待并欢迎更多人加入远景网络。"
-
-#: ../../news/voken2.rst:107
-msgid ""
 "Based on long-term, multi-perspective careful considerations, we have a "
 "serial of crucial strategies for the entire ecological construction and "
 "common interests of the Vision Network. We hope that all community members "
@@ -203,95 +191,161 @@ msgid ""
 msgstr ""
 "基于长远的、多视角的仔细考虑，我们为整个生态建设和远景网络的共同利益制定了一系列重要策略。我们希望所有社区成员都能够支持并合作，促进生态价值的稳步实现。以确保所有持有者成为生态的最终赢家。"
 
-#: ../../news/voken2.rst:116
-msgid "Strategies"
-msgstr "策略"
-
-#: ../../news/voken2.rst:120
+#: ../../news/voken2.rst:109
 msgid "Voken2.0 Main Contract Upgrade"
 msgstr "Voken2.0 主合约升级"
 
-#: ../../news/voken2.rst:122
+#: ../../news/voken2.rst:111
 msgid ""
-"By :ref:`voken_main_contract`, the new symbol is **Voken2.0**, and every "
-"holder should follow the :ref:`voken_migration_guide`."
+"By :ref:`voken2_main_contract`, the new symbol is **Voken2.0**, and every "
+"holder should follow the :ref:`voken2_migration`."
 msgstr ""
-"使用 :ref:`voken_main_contract` ，新的符号是 **Voken2.0** ，每个持有者需要按 "
-":ref:`voken_migration_guide` 完成操作。"
+"使用 :ref:`voken2_main_contract` ，新的符号是 **Voken2.0** ，每个持有者需要按 "
+":ref:`voken2_migration` 完成操作。"
 
-#: ../../news/voken2.rst:126
+#: ../../news/voken2.rst:115
 msgid "Here are some significant features of **Voken2.0**:"
 msgstr "这是 **Voken2.0** 的一些重要特性："
 
-#: ../../news/voken2.rst:129
+#: ../../news/voken2.rst:118
 msgid "Supports flexible rules for **FREEZING**:"
 msgstr "支持灵活的 **锁仓** 规则"
 
-#: ../../news/voken2.rst:129
+#: ../../news/voken2.rst:118
 msgid "Flexible rules by external contracts."
 msgstr "由外部合约灵活的定义条件。"
 
-#: ../../news/voken2.rst:132
+#: ../../news/voken2.rst:121
 msgid "Supports **BURNING**:"
 msgstr "支持 **销毁**"
 
-#: ../../news/voken2.rst:132
+#: ../../news/voken2.rst:121
 msgid ""
 "Supports burning with a ``Burn`` event and also reduces the **TOTAL SUPPLY "
 "CAP LIMIT**."
 msgstr "支持销毁功能同时记录 ``Burn`` 事件，同时减少 **总量上限** 。"
 
-#: ../../news/voken2.rst:137
+#: ../../news/voken2.rst:126
 msgid "Supports **SAFE-MODE**:"
 msgstr "支持 **安全模式**"
 
-#: ../../news/voken2.rst:135
+#: ../../news/voken2.rst:124
 msgid ""
 "Transfers from non-whitelisted addresses are restricted when the amount "
-"number of VOKEN holders is insufficient to form a healthy ecological "
-"foundation. That is a **SAFE-MODE** for VOKEN."
-msgstr "当 VOKEN 持有者数量不足以形成生态健康发展时，限制非白名单地址的转账。即是 VOKEN 的 **安全模式** 。"
+"number of Voken2.0 holders is insufficient to form a healthy ecological "
+"foundation. That is a **SAFE-MODE** for Voken2.0."
+msgstr "当 Voken2.0 持有者数量不足以形成生态健康发展时，限制非白名单地址的转账。即是 Voken2.0 的 **安全模式** 。"
 
-#: ../../news/voken2.rst:143
+#: ../../news/voken2.rst:129
+msgid "Supports **BURNING-MODE**:"
+msgstr "支持 **燃烧模式**"
+
+#: ../../news/voken2.rst:129
+msgid ""
+"When **Burning-mode** is on, **1%** will be **burned** for every transaction"
+" of Voken2.0."
+msgstr "当 **燃烧模式** 开启，每笔 Voken2.0 转账将有 1% 被 **销毁** 。"
+
+#: ../../news/voken2.rst:133
 msgid "Optimized whitelist rules:"
 msgstr "优化过的白名单规则"
 
-#: ../../news/voken2.rst:140
+#: ../../news/voken2.rst:132
 msgid ""
-"By transferring 1,001 VOKEN to a whitelisted address, will sign-up for "
-"whitelist and get 1 VOKEN refund as a success signal automatically."
-msgstr "向白名单地址转账 1,001 VOKEN 登记新的白名单，并且获得自动退回的 1 VOKEN 作为成功信号。"
+"By transferring 1,001 Voken2.0 to a whitelisted address, will sign-up for "
+"whitelist and get 1 Voken2.0 refund as a success signal automatically."
+msgstr "向白名单地址转账 1,001 Voken2.0 登记新的白名单，并且获得自动退回的 1 Voken2.0 作为成功信号。"
+
+#: ../../news/voken2.rst:139
+msgid "Whitelist migration:"
+msgstr "白名单映射迁移"
+
+#: ../../news/voken2.rst:136
+msgid ""
+"A total of 6736 whitelist migrations have been completed before the #8404486"
+" block (2019-08-23 04:48:51 UTC)."
+msgstr "在 #8404486 区块（2019-08-23 04:48:51 UTC）前，共有 6736 个白名单映射迁移已经完成。"
+
+#: ../../news/voken2.rst:142
+msgid "Voken 2.0 Migration Program & Guide"
+msgstr "Voken 2.0 映射迁移方案和操作指导"
+
+#: ../../news/voken2.rst:144
+msgid ""
+"All Voken holders should follow :ref:`voken2_migration` to finish the "
+"migration before **2019-09-07 23:59:59 UTC**. Convert your Voken to "
+"**Voken2.0**."
+msgstr ""
+"所有 Voken 持有者都应按 :ref:`voken2_migration` 在 **2019-09-07 23:59:59 UTC** "
+"前完成迁移。将您的 Voken 转换升级为 **Voken2.0** 。"
 
 #: ../../news/voken2.rst:148
-msgid "Voken Migration Program & Guide"
-msgstr "Voken 映射迁移方案和操作指导"
-
-#: ../../news/voken2.rst:150
-msgid "#TODO"
-msgstr ""
-
-#: ../../news/voken2.rst:155
-msgid "Voken Shareholders Program"
-msgstr "Voken 股东计划"
-
-#: ../../news/voken2.rst:157
-msgid "By :ref:`voken_shareholders_contract`."
-msgstr "使用 :ref:`voken_shareholders_contract` 。"
-
-#: ../../news/voken2.rst:159
 msgid ""
-"As a shareholder, yuo can enjoy the dividend of public-sale during #7-20 "
-"season."
-msgstr "作为股东，你可以在公开销售的第 7-20 赛季中享受分红。"
-
-#: ../../news/voken2.rst:164
-msgid "Voken Public-sale Upgrade Program"
-msgstr "Voken 公开销售升级计划"
-
-#: ../../news/voken2.rst:166 ../../news/voken2.rst:173
-msgid "#TBC"
+"Once your Voken is migrated to Voken2.0, you will automatically become a "
+"Voken **SHAREHOLDER**, have a 30% annual interest rate, and enjoy the #6-20 "
+"season sales dividend according to :ref:`voken2_shareholders_program`."
 msgstr ""
+"一旦 Voken 迁移到 Voken2.0 之后，你将自动成为 VOKEN **股东** ，年利率为 30％ ，并根据 "
+":ref:`voken2_shareholders_program` 享受第 6-20 销售赛季的销售分红。"
 
-#: ../../news/voken2.rst:171
-msgid "Voken Community Alliance Program"
-msgstr "Voken 社区联盟计划"
+#: ../../news/voken2.rst:156
+msgid "Voken 2.0 Shareholders Program"
+msgstr "Voken 2.0 股东计划"
+
+#: ../../news/voken2.rst:158
+msgid ""
+"More than $14,885,025.49 is about to be paid as a dividend, settled with "
+"ETH, control by :ref:`voken2_shareholders_contract` on Ethereum."
+msgstr ""
+"大于 $14,885,025.49 美元将被用于支付分红，以 ETH 结算，由以太坊上的 "
+":ref:`voken2_shareholders_contract` 控制。"
+
+#: ../../news/voken2.rst:161
+msgid ""
+"You can read :ref:`voken2_shareholders_program` for more details, and there "
+"is a dividend table."
+msgstr "你可以阅读 :ref:`voken2_shareholders_program` 了解更多细节，那里还有一份分红表格。"
+
+#: ../../news/voken2.rst:166
+msgid "Voken 2.0 Public-sale Program"
+msgstr "Voken 2.0 公开销售计划"
+
+#: ../../news/voken2.rst:168
+msgid "#6 - 20 season"
+msgstr "第 6-20 赛季"
+
+#: ../../news/voken2.rst:169
+msgid "#3277 - 12000 stage"
+msgstr "第 3277-12000 阶段"
+
+#: ../../news/voken2.rst:170
+msgid "$0.03377 - $0.12100 USD"
+msgstr "$0.03377 - $0.12100 美元"
+
+#: ../../news/voken2.rst:172
+msgid "More details: :ref:`voken2_sale`"
+msgstr "详细信息见： :ref:`voken2_sale`"
+
+#: ../../news/voken2.rst:177
+msgid "One contract for data query"
+msgstr "一份合约用于数据查询"
+
+#: ../../news/voken2.rst:179
+msgid "Whitelisted"
+msgstr "白名单"
+
+#: ../../news/voken2.rst:180
+msgid "Sales data"
+msgstr "销售数据"
+
+#: ../../news/voken2.rst:181
+msgid "more..."
+msgstr "更多……"
+
+#: ../../news/voken2.rst:183 ../../news/voken2.rst:189
+msgid "#TBC"
+msgstr "#待续"
+
+#: ../../news/voken2.rst:187
+msgid "Voken 2.0 Community Alliance Program"
+msgstr "Voken 2.0 社区联盟计划"

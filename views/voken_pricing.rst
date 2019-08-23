@@ -75,14 +75,14 @@ GCP Google Cloud Platform:
 
 
 
-Voken price during the Public-Sale: $0.001 - $0.601
----------------------------------------------------
+Voken price during the Public-Sale: $0.03377 - $0.121
+-----------------------------------------------------
 
 :ref:`incremental_voken_sales_price`
 
-Starting at **1 Voken = $0.001**, until the price reaches **$0.601**.
+Starting at **1 Voken2.0 = $0.03377**, until the price reaches **$0.121**.
 
-More details: :ref:`voken_sale`
+More details: :ref:`voken2_sale`
 
 
 
@@ -105,22 +105,6 @@ the value of the entire project will be established, for sure, no doubt it.
 
 
 
-Most Voken will be handed over to users
----------------------------------------
-
-74.53% of the Vokens will ultimately be held by users. See: :ref:`distribution_plan`
-
-This is a large ecosystem built by all participants.
-The more service nodes and more users, the stronger the network will be.
-
-Incremental sales prices will promote the market price of the entire system,
-during the :ref:`voken_sale`,
-about **595.13 million USD** (50-100% of all the sales revenue)
-will be owned by the community promoters.
-
-See:
-
-- :ref:`voken_sale`
-- :ref:`voken_referral_program`
+------
 
 Join us, join the revolution.

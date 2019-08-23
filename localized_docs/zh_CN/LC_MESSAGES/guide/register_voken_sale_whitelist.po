@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-02 09:57+0800\n"
+"POT-Creation-Date: 2019-08-23 21:47+0800\n"
 "PO-Revision-Date: 2019-04-11 14:18+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -29,10 +29,8 @@ msgstr "如何注册 Voken 公开销售白名单？"
 #: ../../guide/register_voken_sale_whitelist.rst:6
 msgid ""
 "Is there a friend told you about Vision Network, :ref:`voken`, and "
-":ref:`voken_sale`? Congratulations!! Ask him for a ``whitelisted address``."
+":ref:`voken2_sale`? Congratulations!! Ask him for a ``whitelisted address``."
 msgstr ""
-"是否有朋友向你介绍了远景网络，:ref:`voken`，和 :ref:`voken_sale` 的消息呢？恭喜你！！直接向他索要一个 "
-"``已加入白名单的地址`` 吧。"
 
 #: ../../guide/register_voken_sale_whitelist.rst:8
 msgid ""
@@ -46,8 +44,8 @@ msgstr "完成了。你的钱包地址已经成功注册。"
 
 #: ../../guide/register_voken_sale_whitelist.rst:14
 msgid ""
-"Set ``gas limit`` to ``300,000``, the rest will be returned automatically."
-msgstr "请将 ``gas limit`` 设置为 ``300,000`` ，剩余部分将自动退回。"
+"Set ``gas limit`` to ``600,000``, the rest will be returned automatically."
+msgstr ""
 
 #: ../../guide/register_voken_sale_whitelist.rst:18
 msgid "FAQ about whitelist registration"

@@ -14,12 +14,8 @@ Links first:
 
 - :ref:`philosophy`
 - :ref:`voken_pricing`
-- :ref:`voken_sale`
+- :ref:`voken2_sale`
 - :ref:`voken_referral_program`
-
-Here is a gift for you:
-
-- :ref:`airdrop_via_contract`
 
 
 We are building a real free, open, equal, shared Internet,

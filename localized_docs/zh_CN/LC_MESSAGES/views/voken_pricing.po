@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-28 11:14+0800\n"
+"POT-Creation-Date: 2019-08-24 02:44+0800\n"
 "PO-Revision-Date: 2019-04-27 10:48+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -69,7 +69,7 @@ msgid ""
 "**Voken** is the unique token in the Vision Network ecosystem, which uses "
 "Proof of Traffic consensus mechanism. It is the native asset on the vnCHAIN."
 msgstr ""
-"**Voken** 使用 PoT 流量证明，是 Vision Network 生态系统中的唯一 token 。它是 vnCHAIN "
+"**Voken** 使用 PoT 流量证明，是 Vision Network 生态系统中的唯一 Token 。它是 vnCHAIN "
 "区块链上的原生资产，可称之为“流量币”。"
 
 #: ../../views/voken_pricing.rst:33
@@ -144,20 +144,21 @@ msgid "`GCP CDN Pricing`_"
 msgstr "`GCP CDN Pricing`_"
 
 #: ../../views/voken_pricing.rst:79
-msgid "Voken price during the Public-Sale: $0.001 - $0.601"
-msgstr "Voken 公开销售的价格： $0.001 - $0.601"
+msgid "Voken price during the Public-Sale: $0.03377 - $0.121"
+msgstr "Voken 公开销售的价格： $0.03377 - $0.121"
 
 #: ../../views/voken_pricing.rst:81
 msgid ":ref:`incremental_voken_sales_price`"
 msgstr ":ref:`incremental_voken_sales_price`"
 
 #: ../../views/voken_pricing.rst:83
-msgid "Starting at **1 Voken = $0.001**, until the price reaches **$0.601**."
-msgstr "初始价格 **1 Voken = $0.001 美元**，上涨至 **$0.601** 时截止。"
+msgid ""
+"Starting at **1 Voken2.0 = $0.03377**, until the price reaches **$0.121**."
+msgstr "初始价格 **1 Voken2.0 = $0.03377 美元**，上涨至 **$0.121** 时截止。"
 
 #: ../../views/voken_pricing.rst:85
-msgid "More details: :ref:`voken_sale`"
-msgstr "详细信息见： :ref:`voken_sale`"
+msgid "More details: :ref:`voken2_sale`"
+msgstr "详细信息见： :ref:`voken2_sale`"
 
 #: ../../views/voken_pricing.rst:90
 msgid "3 basic principles of the Vision Network"
@@ -192,43 +193,6 @@ msgid ""
 "value of the entire project will be established, for sure, no doubt it."
 msgstr "他们是项目的基础，是非人力可以左右的价值规律，也是我们的信念：如果这 3 条基础原则成立，那么整个项目的价值成立，这是必然，没有任何疑问。"
 
-#: ../../views/voken_pricing.rst:109
-msgid "Most Voken will be handed over to users"
-msgstr "绝大多数的 Voken 将交由用户持有"
-
-#: ../../views/voken_pricing.rst:111
-msgid ""
-"74.53% of the Vokens will ultimately be held by users. See: "
-":ref:`distribution_plan`"
-msgstr "Voken 总量的 74.53% 将最终交给用户持有。详细可见： :ref:`distribution_plan`"
-
-#: ../../views/voken_pricing.rst:113
-msgid ""
-"This is a large ecosystem built by all participants. The more service nodes "
-"and more users, the stronger the network will be."
-msgstr "这是一个所有参与者共建的大生态系统。越多的服务节点和用户，网络就越健壮。"
-
-#: ../../views/voken_pricing.rst:116
-msgid ""
-"Incremental sales prices will promote the market price of the entire system,"
-" during the :ref:`voken_sale`, about **595.13 million USD** (50-100% of all "
-"the sales revenue) will be owned by the community promoters."
-msgstr ""
-"递增的发售价格将促进整个系统的市值表现，在 :ref:`voken_sale` 过程中，有大约 **5.95 亿美元** （总销售收入的 50-100%"
-" ）将被归属于社区推动者。"
-
-#: ../../views/voken_pricing.rst:121
-msgid "See:"
-msgstr "见："
-
-#: ../../views/voken_pricing.rst:123
-msgid ":ref:`voken_sale`"
-msgstr ":ref:`voken_sale`"
-
-#: ../../views/voken_pricing.rst:124
-msgid ":ref:`voken_referral_program`"
-msgstr ":ref:`voken_referral_program`"
-
-#: ../../views/voken_pricing.rst:126
+#: ../../views/voken_pricing.rst:110
 msgid "Join us, join the revolution."
 msgstr "加入我们，加入变革。"

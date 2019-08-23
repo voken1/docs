@@ -1,21 +1,21 @@
-.. _voken_shareholders_contract:
+.. _voken2_shareholders_contract:
 
-Voken Shareholders Contract
-===========================
+Voken 2.0 Shareholders Contract
+===============================
 
-Only for **VOKEN shareholders**.
+Only for **Voken2.0 shareholders**.
 
-Deployed at ``Aug-11-2019 01:44:15 PM +UTC``.
+Deployed at ``2019-08-22-2019 18:02:37 UTC``.
 
-As a shareholder, yuo can enjoy the dividend of public-sale during #7-20 season.
+As a shareholder, yuo can enjoy the dividend of public-sale during #6-20 season.
 
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
-- ENS Domain is **#TBC**
-- Contract address is **0xE11C2d241819491191bedc33241a605B2Ac6c756**
-- Deployed at `Tx Hash 0x09ef2189e9263f1c90c0eea6bdd005b9...`_
-- Block height `#8329614`_
+- ENS Domain is **shareholders.voken100g.eth**
+- Contract address is **0x7712F76D2A52141D44461CDbC8b660506DCAB752**
+- Deployed at `Tx Hash 0x911f90cc8eda4905b5ea362505eec36a...`_
+- Block height `#8401578`_
 - Open-sourced under the `GNU General Public License v3.0`_
 - `View contract code on github repository`_
 
@@ -25,12 +25,12 @@ View on Etherscan.io:
 - `Write contract on Etherscan.io`_
 
 
-.. _Tx Hash 0x09ef2189e9263f1c90c0eea6bdd005b9...: https://etherscan.io/tx/0x09ef2189e9263f1c90c0eea6bdd005b9bf8f615b830f6dc80cff2e317b6d447b
-.. _#8329614: https://etherscan.io/block/8329614
+.. _Tx Hash 0x911f90cc8eda4905b5ea362505eec36a...: https://etherscan.io/tx/0x911f90cc8eda4905b5ea362505eec36af0b26c3d8f241e02bd950a7a0d742339
+.. _#8401578: https://etherscan.io/block/8401578
 .. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
 .. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/VokenShareholders.sol
-.. _Read contract on Etherscan.io: https://etherscan.io/address/0xE11C2d241819491191bedc33241a605B2Ac6c756#readContract
-.. _Write contract on Etherscan.io: https://etherscan.io/address/0xE11C2d241819491191bedc33241a605B2Ac6c756#writeContract
+.. _Read contract on Etherscan.io: https://etherscan.io/address/0x7712F76D2A52141D44461CDbC8b660506DCAB752#readContract
+.. _Write contract on Etherscan.io: https://etherscan.io/address/0x7712F76D2A52141D44461CDbC8b660506DCAB752#writeContract
 
 
 .. |logo_github| image:: /_static/logos/github.svg
@@ -49,7 +49,7 @@ View on Etherscan.io:
 Features and functions
 ----------------------
 
-Related to :ref:`voken_main_contract` and #TODO-PUBLIC-SALE-UPGRADED.
+Related to :ref:`voken2_main_contract` and :ref:`voken2_sale_contract`.
 
 Query data:
    Functions:

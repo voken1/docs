@@ -1,33 +1,33 @@
-.. _voken_main_contract:
+.. _voken2_main_contract:
 
-Voken2.0 Main Contract
-======================
+Voken 2.0 Main Contract
+=======================
 
-This is the **MAIN CONTRACT** of :ref:`voken`, updated and deployed at ``Aug-13-2019 03:02:54 AM +UTC``.
+This is the **MAIN CONTRACT** of :ref:`voken`, updated and deployed at ``2019-08-22 17:59:43 UTC``.
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
 - ENS Domain is **voken100g.eth** and **main.voken100g.eth**
-- Contract address is **0xf74C9f202F7bf44E6EEC02EF98896012153AC464**
-- Deployed at `Tx Hash 0xeb0e601d98f2605442d174eb5258c868...`_
-- Block height `#8339662`_
+- Contract address is **0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB**
+- Deployed at `Tx Hash 0x09991e525e3436fb008b580627bb8ed6...`_
+- Block height `#8401569`_
 - Open-sourced under the `GNU General Public License v3.0`_
 - `View contract code on github repository`_
 
 View on Etherscan.io:
 
-- `Voken Tracker`_
+- `Voken 2.0 Tracker`_
 - `Read contract on Etherscan.io`_
 - `Write contract on Etherscan.io`_
 
 
-.. _Tx Hash 0xeb0e601d98f2605442d174eb5258c868...: https://etherscan.io/tx/0xeb0e601d98f2605442d174eb5258c8689f38e7081c87548fcf82a456165d3895
-.. _#8339662: https://etherscan.io/block/8339662
+.. _Tx Hash 0x09991e525e3436fb008b580627bb8ed6...: https://etherscan.io/tx/0x09991e525e3436fb008b580627bb8ed6b41a3461fbdf71e8accea02c9036f7dd
+.. _#8401569: https://etherscan.io/block/8401569
 .. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
 .. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/Voken.sol
-.. _Voken Tracker: https://etherscan.io/token/0x0ef2b77B03279cdbE23C30E4653E1F7743fd20c1
-.. _Read contract on Etherscan.io: https://etherscan.io/token/0x0ef2b77B03279cdbE23C30E4653E1F7743fd20c1#readContract
-.. _Write contract on Etherscan.io: https://etherscan.io/token/0x0ef2b77B03279cdbE23C30E4653E1F7743fd20c1#writeContract
+.. _Voken 2.0 Tracker: https://etherscan.io/token/0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB
+.. _Read contract on Etherscan.io: https://etherscan.io/token/0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB#readContract
+.. _Write contract on Etherscan.io: https://etherscan.io/token/0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB#writeContract
 
 
 .. |logo_github| image:: /_static/logos/github.svg
@@ -101,11 +101,9 @@ Supports flexible rules for **FREEZING**
           function reservedOf(address account) external view returns (uint256);
       }
 
-   Functions for query:
+   Function for query:
 
    - ``function reservedOf(address account) public view returns (uint256)``
-   - ``function availableOf(address account) public view returns (uint256)``
-   - ``function allocations(address account) public view returns (address[])``
 
 
 .. _voken_supports_burning:
@@ -113,8 +111,8 @@ Supports flexible rules for **FREEZING**
 Supports **BURNING**
    Supports burning with a ``Burn`` event and also reduces the **TOTAL SUPPLY CAP LIMIT**, by:
 
-   - Transfer VOKEN to this contract address
-   - Transfer VOKEN to ``address(0)``
+   - Transfer Voken2.0 to this contract address
+   - Transfer Voken2.0 to ``address(0)``
    - Call functions:
 
       - ``function burn(uint256 amount) public returns (bool)``
@@ -125,19 +123,28 @@ Supports **BURNING**
 
 Supports **SAFE-MODE**
    Transfers from non-whitelisted addresses are restricted
-   when the amount number of VOKEN holders is insufficient to form a healthy ecological foundation.
-   That is a **SAFE-MODE** for VOKEN.
+   when the amount number of Voken2.0 holders is insufficient to form a healthy ecological foundation.
+   That is a **SAFE-MODE** for Voken2.0.
 
    Function for query:
 
    - ``function safeMode() public view returns (bool)``
 
 
+Supports **BURNING-MODE**:
+   When **Burning-mode** is on, **1%** will be **burned** for every transaction of Voken2.0.
+
+   Function for query:
+
+   - ``function burningMode() public view returns (bool, uint16)``
+
+
+
 .. _voken_whitelist_rules:
 
 Optimized **WHITELIST RULES**
-   By transferring 1001 VOKEN to a whitelisted address,
-   will sign-up for whitelist and get 1 VOKEN refund as a success signal automatically.
+   By transferring 1,001 Voken2.0 to a whitelisted address,
+   will sign-up for whitelist and get 1 Voken2.0 refund as a success signal automatically.
 
    Functions for query:
 

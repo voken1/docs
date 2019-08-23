@@ -1,7 +1,7 @@
 .. _voken_sale:
 
-Voken Public-Sale (Started at May-27)
-=====================================
+Voken Public-Sale (STOPPED)
+===========================
 
 The entire Public-Sale process operates by a smart contract
 on Ethereum blockchain, with no other priviledged access given to any party.
@@ -64,8 +64,6 @@ at different times during the whole sale phase.
 And you can get the latest Audit ETH price by :ref:`guide_for_read_voken_sale_contract`
 
 
-
-.. _incremental_voken_sales_price:
 
 Incremental sales price: $0.001 - $0.601
 ----------------------------------------
@@ -181,7 +179,6 @@ In this sales plan,
 that is about **595.13 million USD**:
 
 - :ref:`sales_referral_reward`
-- :ref:`top_sales_reward`
 
 Learn more about: :ref:`voken_referral_program`
 

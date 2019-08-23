@@ -1,7 +1,7 @@
-.. _voken2_is_coming:
+.. _news_voken2:
 
-Voken 2.0 is coming...
-======================
+Voken 2.0
+=========
 
 .. sidebar:: HOLD VOKEN, HOLD VALUE.
 
@@ -97,13 +97,6 @@ There are also many factors (includes the exchanges) that combine to form the cu
 We believe in rigid demand and a solid technical foundation.
 Ecological growth is only a matter of time.
 
-Experienced in the past time, we have acquired valuable experience as the project team.
-We know that every single person, even a company or a team,
-all have their strengths and limitations.
-It also involves the V5 team that made contributions to the early stages of the project.
-A thriving ecosystem must have the participation of many drives;
-we are looking forward to and welcome more people to join the Vision Network.
-
 Based on long-term, multi-perspective careful considerations,
 we have a serial of crucial strategies
 for the entire ecological construction and common interests of the Vision Network.
@@ -112,15 +105,11 @@ Thus, to ensure that all holders become the ultimate winner of this ecology.
 
 
 
-Strategies
-----------
-
-
 Voken2.0 Main Contract Upgrade
-______________________________
+------------------------------
 
-By :ref:`voken_main_contract`, the new symbol is **Voken2.0**,
-and every holder should follow the :ref:`voken_migration_guide`.
+By :ref:`voken2_main_contract`, the new symbol is **Voken2.0**,
+and every holder should follow the :ref:`voken2_migration`.
 
 
 Here are some significant features of **Voken2.0**:
@@ -133,44 +122,72 @@ Supports **BURNING**:
 
 Supports **SAFE-MODE**:
    Transfers from non-whitelisted addresses are restricted
-   when the amount number of VOKEN holders is insufficient to form a healthy ecological foundation.
-   That is a **SAFE-MODE** for VOKEN.
+   when the amount number of Voken2.0 holders is insufficient to form a healthy ecological foundation.
+   That is a **SAFE-MODE** for Voken2.0.
+
+Supports **BURNING-MODE**:
+   When **Burning-mode** is on, **1%** will be **burned** for every transaction of Voken2.0.
 
 Optimized whitelist rules:
-   By transferring 1,001 VOKEN to a whitelisted address,
-   will sign-up for whitelist and get 1 VOKEN refund as a success signal automatically.
+   By transferring 1,001 Voken2.0 to a whitelisted address,
+   will sign-up for whitelist and get 1 Voken2.0 refund as a success signal automatically.
+
+Whitelist migration:
+   A total of 6736 whitelist migrations have been completed
+   before the #8404486 block (2019-08-23 04:48:51 UTC).
 
 
 
-.. _voken_migration_guide:
+Voken 2.0 Migration Program & Guide
+-----------------------------------
 
-Voken Migration Program & Guide
-_______________________________
+All Voken holders should follow :ref:`voken2_migration`
+to finish the migration before **2019-09-07 23:59:59 UTC**.
+Convert your Voken to **Voken2.0**.
 
-#TODO
-
-
-
-Voken Shareholders Program
-__________________________
-
-By :ref:`voken_shareholders_contract`.
-
-As a shareholder, yuo can enjoy the dividend of public-sale during #7-20 season.
+Once your Voken is migrated to Voken2.0,
+you will automatically become a Voken **SHAREHOLDER**,
+have a 30% annual interest rate,
+and enjoy the #6-20 season sales dividend according to :ref:`voken2_shareholders_program`.
 
 
 
-Voken Public-sale Upgrade Program
-_________________________________
+Voken 2.0 Shareholders Program
+------------------------------
+
+More than $14,885,025.49 is about to be paid as a dividend, settled with ETH,
+control by :ref:`voken2_shareholders_contract` on Ethereum.
+
+You can read :ref:`voken2_shareholders_program` for more details, and there is a dividend table.
+
+
+
+Voken 2.0 Public-sale Program
+-----------------------------
+
+- #6 - 20 season
+- #3277 - 12000 stage
+- $0.03377 - $0.12100 USD
+
+More details: :ref:`voken2_sale`
+
+
+
+One contract for data query
+---------------------------
+
+- Whitelisted
+- Sales data
+- more...
 
 #TBC
 
 
-
-Voken Community Alliance Program
-________________________________
+Voken 2.0 Community Alliance Program
+------------------------------------
 
 #TBC
+
 
 
 

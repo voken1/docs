@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-13 11:09+0800\n"
+"POT-Creation-Date: 2019-08-24 01:04+0800\n"
 "PO-Revision-Date: 2019-08-11 05:12+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,80 +22,82 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../voken/voken_main_contract.rst:4
-msgid "Voken2.0 Main Contract"
-msgstr ""
+msgid "Voken 2.0 Main Contract"
+msgstr "Voken 2.0 主合约"
 
 #: ../../voken/voken_main_contract.rst:6
 msgid ""
 "This is the **MAIN CONTRACT** of :ref:`voken`, updated and deployed at "
-"``Aug-13-2019 03:02:54 AM +UTC``."
-msgstr ""
+"``2019-08-22 17:59:43 UTC``."
+msgstr "这是 :ref:`voken` 的 **主合约** ，更新并部署于 ``2019-08-22 17:59:43 UTC`` 。"
 
 #: ../../voken/voken_main_contract.rst:8
 msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
-msgstr ""
+msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
 
 #: ../../voken/voken_main_contract.rst:10
-msgid "ENS Domain is **voken100g.eth**"
-msgstr ""
+msgid "ENS Domain is **voken100g.eth** and **main.voken100g.eth**"
+msgstr "ENS 域名 **voken100g.eth** 和 **main.voken100g.eth**"
 
 #: ../../voken/voken_main_contract.rst:11
-msgid "Contract address is **0xf74C9f202F7bf44E6EEC02EF98896012153AC464**"
-msgstr ""
+msgid "Contract address is **0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB**"
+msgstr "合约地址 **0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB**"
 
 #: ../../voken/voken_main_contract.rst:12
-msgid "Deployed at `Tx Hash 0xeb0e601d98f2605442d174eb5258c868...`_"
-msgstr ""
+msgid "Deployed at `Tx Hash 0x09991e525e3436fb008b580627bb8ed6...`_"
+msgstr "部署于 `Tx Hash 0x09991e525e3436fb008b580627bb8ed6...`_"
 
 #: ../../voken/voken_main_contract.rst:13
-msgid "Block height `#8339662`_"
-msgstr ""
+msgid "Block height `#8401569`_"
+msgstr "区块高度 `#8401569`_"
 
 #: ../../voken/voken_main_contract.rst:14
 msgid "Open-sourced under the `GNU General Public License v3.0`_"
-msgstr ""
+msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
 
 #: ../../voken/voken_main_contract.rst:15
 msgid "`View contract code on github repository`_"
-msgstr ""
+msgstr "`查看合约代码在 github 仓库`_"
 
 #: ../../voken/voken_main_contract.rst:17
 msgid "View on Etherscan.io:"
-msgstr ""
+msgstr "在 Etherscan.io 查看："
 
 #: ../../voken/voken_main_contract.rst:19
-msgid "`Voken Tracker`_"
-msgstr ""
+msgid "`Voken 2.0 Tracker`_"
+msgstr "`Voken2.0 跟踪`_"
 
 #: ../../voken/voken_main_contract.rst:20
 msgid "`Read contract on Etherscan.io`_"
-msgstr ""
+msgstr "`通过 Etherscan.io 读取合约信息`_"
 
 #: ../../voken/voken_main_contract.rst:21
 msgid "`Write contract on Etherscan.io`_"
-msgstr ""
+msgstr "`通过 Etherscan.io 操作合约`_"
 
 #: ../../voken/voken_main_contract.rst:47
 msgid "The token symbol named ``Voken2.0``"
-msgstr ""
+msgstr "新的字母符号 ``Voken2.0``"
 
 #: ../../voken/voken_main_contract.rst:49
 msgid ""
 "Displayed in various wallet software such as `MetaMask`_, `MyEtherWallet`_, "
 "`imToken`_, `etherscan.io`_ and Ethereum blockchain browsers."
 msgstr ""
+"用于在各种钱包软件和以太坊区块链浏览器中显示，比如 `MetaMask`_, `MyEtherWallet`_, `imToken`_, "
+"`etherscan.io`_ 等。"
 
 #: ../../voken/voken_main_contract.rst:59
 msgid "Features and functions"
-msgstr ""
+msgstr "特性和功能"
 
 #: ../../voken/voken_main_contract.rst:86
 msgid "Based on `[EIP 20] ERC-20 Token Standard`_ of `Ethereum`_"
-msgstr ""
+msgstr "基于 `以太坊`_ 的 `[EIP 20] ERC-20 Token 标准`_"
 
 #: ../../voken/voken_main_contract.rst:64
 msgid "Includes:"
-msgstr ""
+msgstr "包括："
 
 #: ../../voken/voken_main_contract.rst:66
 msgid "``function name() public view returns (string)``"
@@ -165,123 +171,128 @@ msgstr ""
 
 #: ../../voken/voken_main_contract.rst:83
 msgid "With a **TOTAL SUPPLY CAP LIMIT**:"
-msgstr ""
+msgstr "**总限上限**"
 
 #: ../../voken/voken_main_contract.rst:85
 msgid "``function cap() public view returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_main_contract.rst:109
+#: ../../voken/voken_main_contract.rst:107
 msgid "Supports flexible rules for **FREEZING**"
-msgstr ""
+msgstr "支持灵活的 **锁仓** 规则"
 
 #: ../../voken/voken_main_contract.rst:95
 msgid "Flexible rules by external contracts with interface of::"
-msgstr ""
+msgstr "由外部合约灵活的定义条件，合约接口："
 
 #: ../../voken/voken_main_contract.rst:104
-#: ../../voken/voken_main_contract.rst:142
-msgid "Functions for query:"
-msgstr ""
+#: ../../voken/voken_main_contract.rst:129
+#: ../../voken/voken_main_contract.rst:137
+msgid "Function for query:"
+msgstr "功能和查询："
 
 #: ../../voken/voken_main_contract.rst:106
 msgid "``function reservedOf(address account) public view returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_main_contract.rst:107
-msgid ""
-"``function availableOf(address account) public view returns (uint256)``"
-msgstr ""
-
-#: ../../voken/voken_main_contract.rst:108
-msgid ""
-"``function allocations(address account) public view returns (address[])``"
-msgstr ""
-
-#: ../../voken/voken_main_contract.rst:122
+#: ../../voken/voken_main_contract.rst:120
 msgid "Supports **BURNING**"
-msgstr ""
+msgstr "支持 **销毁**"
 
-#: ../../voken/voken_main_contract.rst:114
+#: ../../voken/voken_main_contract.rst:112
 msgid ""
 "Supports burning with a ``Burn`` event and also reduces the **TOTAL SUPPLY "
 "CAP LIMIT**, by:"
-msgstr ""
+msgstr "支持销毁功能同时记录 ``Burn`` 事件，同时减少 **总量上限** ："
+
+#: ../../voken/voken_main_contract.rst:114
+msgid "Transfer Voken2.0 to this contract address"
+msgstr "转账 Voken2.0 到本合约地址"
+
+#: ../../voken/voken_main_contract.rst:115
+msgid "Transfer Voken2.0 to ``address(0)``"
+msgstr "转账到 Voken2.0 到 ``0 地址``"
 
 #: ../../voken/voken_main_contract.rst:116
-msgid "Transfer VOKEN to this contract address"
-msgstr ""
-
-#: ../../voken/voken_main_contract.rst:117
-msgid "Transfer VOKEN to ``address(0)``"
-msgstr ""
-
-#: ../../voken/voken_main_contract.rst:118
 msgid "Call functions:"
 msgstr ""
 
-#: ../../voken/voken_main_contract.rst:120
+#: ../../voken/voken_main_contract.rst:118
 msgid "``function burn(uint256 amount) public returns (bool)``"
 msgstr ""
 
-#: ../../voken/voken_main_contract.rst:121
+#: ../../voken/voken_main_contract.rst:119
 msgid ""
 "``function burnFrom(address account, uint256 amount) public returns (bool)``"
 msgstr ""
 
-#: ../../voken/voken_main_contract.rst:134
+#: ../../voken/voken_main_contract.rst:132
 msgid "Supports **SAFE-MODE**"
-msgstr ""
+msgstr "支持 **安全模式**"
 
-#: ../../voken/voken_main_contract.rst:127
+#: ../../voken/voken_main_contract.rst:125
 msgid ""
 "Transfers from non-whitelisted addresses are restricted when the amount "
-"number of VOKEN holders is insufficient to form a healthy ecological "
-"foundation. That is a **SAFE-MODE** for VOKEN."
+"number of Voken2.0 holders is insufficient to form a healthy ecological "
+"foundation. That is a **SAFE-MODE** for Voken2.0."
 msgstr ""
 
 #: ../../voken/voken_main_contract.rst:131
-msgid "Function for query:"
-msgstr ""
-
-#: ../../voken/voken_main_contract.rst:133
 msgid "``function safeMode() public view returns (bool)``"
 msgstr ""
 
-#: ../../voken/voken_main_contract.rst:148
-msgid "Optimized **WHITELIST RULES**"
+#: ../../voken/voken_main_contract.rst:141
+msgid "Supports **BURNING-MODE**:"
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:135
+msgid ""
+"When **Burning-mode** is on, **1%** will be **burned** for every transaction"
+" of Voken2.0."
 msgstr ""
 
 #: ../../voken/voken_main_contract.rst:139
-msgid ""
-"By transferring 1001 VOKEN to a whitelisted address, will sign-up for "
-"whitelist and get 1 VOKEN refund as a success signal automatically."
+msgid "``function burningMode() public view returns (bool, uint16)``"
 msgstr ""
 
-#: ../../voken/voken_main_contract.rst:144
+#: ../../voken/voken_main_contract.rst:155
+msgid "Optimized **WHITELIST RULES**"
+msgstr "优化的 **白名单规则**"
+
+#: ../../voken/voken_main_contract.rst:146
+msgid ""
+"By transferring 1,001 Voken2.0 to a whitelisted address, will sign-up for "
+"whitelist and get 1 Voken2.0 refund as a success signal automatically."
+msgstr ""
+
+#: ../../voken/voken_main_contract.rst:149
+msgid "Functions for query:"
+msgstr "功能和查询："
+
+#: ../../voken/voken_main_contract.rst:151
 msgid "``function whitelisted(address account) public view returns (bool)``"
 msgstr ""
 
-#: ../../voken/voken_main_contract.rst:145
+#: ../../voken/voken_main_contract.rst:152
 msgid "``function whitelistCounter() public view returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_main_contract.rst:146
+#: ../../voken/voken_main_contract.rst:153
 msgid "``function whitelistingMode() public view returns (bool)``"
 msgstr ""
 
-#: ../../voken/voken_main_contract.rst:147
+#: ../../voken/voken_main_contract.rst:154
 msgid ""
 "``function whitelistReferee(address account) public view returns (address)``"
 msgstr ""
 
-#: ../../voken/voken_main_contract.rst:148
+#: ../../voken/voken_main_contract.rst:155
 msgid ""
 "``function whitelistReferrals(address account) public view returns "
 "(address[])``"
 msgstr ""
 
-#: ../../voken/voken_main_contract.rst:149
+#: ../../voken/voken_main_contract.rst:156
 msgid ""
 "``function whitelistReferralsCount(address account) public view returns "
 "(uint256)``"

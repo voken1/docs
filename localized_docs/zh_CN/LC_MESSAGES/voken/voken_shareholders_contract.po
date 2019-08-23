@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-12 18:03+0800\n"
+"POT-Creation-Date: 2019-08-24 02:44+0800\n"
 "PO-Revision-Date: 2019-08-11 05:12+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,78 +22,79 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../voken/voken_shareholders_contract.rst:4
-msgid "Voken Shareholders Contract"
-msgstr ""
+msgid "Voken 2.0 Shareholders Contract"
+msgstr "Voken 2.0 股东合约"
 
 #: ../../voken/voken_shareholders_contract.rst:6
-msgid "Only for **VOKEN shareholders**."
-msgstr ""
+msgid "Only for **Voken2.0 shareholders**."
+msgstr "仅面向 **Voken 2.0 股东**"
 
 #: ../../voken/voken_shareholders_contract.rst:8
-msgid "Deployed at ``Aug-11-2019 01:44:15 PM +UTC``."
-msgstr ""
+msgid "Deployed at ``2019-08-22-2019 18:02:37 UTC``."
+msgstr "部署于 ``2019-08-22-2019 18:02:37 UTC`` 。"
 
 #: ../../voken/voken_shareholders_contract.rst:10
 msgid ""
-"As a shareholder, yuo can enjoy the dividend of public-sale during #7-20 "
+"As a shareholder, yuo can enjoy the dividend of public-sale during #6-20 "
 "season."
-msgstr ""
+msgstr "作为股东，你可以在公开销售的第 6-20 赛季中享受分红。"
 
 #: ../../voken/voken_shareholders_contract.rst:13
 msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
-msgstr ""
+msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
 
 #: ../../voken/voken_shareholders_contract.rst:15
-msgid "ENS Domain is **#TBC**"
-msgstr ""
+msgid "ENS Domain is **shareholders.voken100g.eth**"
+msgstr "ENS 域名 **shareholders.voken100g.eth**"
 
 #: ../../voken/voken_shareholders_contract.rst:16
-msgid "Contract address is **0xE11C2d241819491191bedc33241a605B2Ac6c756**"
-msgstr ""
+msgid "Contract address is **0x7712F76D2A52141D44461CDbC8b660506DCAB752**"
+msgstr "合约地址 **0x7712F76D2A52141D44461CDbC8b660506DCAB752**"
 
 #: ../../voken/voken_shareholders_contract.rst:17
-msgid "Deployed at `Tx Hash 0x09ef2189e9263f1c90c0eea6bdd005b9...`_"
-msgstr ""
+msgid "Deployed at `Tx Hash 0x911f90cc8eda4905b5ea362505eec36a...`_"
+msgstr "部署于 `Tx Hash 0x911f90cc8eda4905b5ea362505eec36a...`_"
 
 #: ../../voken/voken_shareholders_contract.rst:18
-msgid "Block height `#8329614`_"
-msgstr ""
+msgid "Block height `#8401578`_"
+msgstr "区块高度 `#8401578`_"
 
 #: ../../voken/voken_shareholders_contract.rst:19
 msgid "Open-sourced under the `GNU General Public License v3.0`_"
-msgstr ""
+msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
 
 #: ../../voken/voken_shareholders_contract.rst:20
 msgid "`View contract code on github repository`_"
-msgstr ""
+msgstr "`查看合约代码在 github 仓库`_"
 
 #: ../../voken/voken_shareholders_contract.rst:22
 msgid "View on Etherscan.io:"
-msgstr ""
+msgstr "在 Etherscan.io 查看："
 
 #: ../../voken/voken_shareholders_contract.rst:24
 msgid "`Read contract on Etherscan.io`_"
-msgstr ""
+msgstr "`通过 Etherscan.io 读取合约信息`_"
 
 #: ../../voken/voken_shareholders_contract.rst:25
 msgid "`Write contract on Etherscan.io`_"
-msgstr ""
+msgstr "`通过 Etherscan.io 操作合约`_"
 
 #: ../../voken/voken_shareholders_contract.rst:50
 msgid "Features and functions"
-msgstr ""
+msgstr "特性和功能"
 
 #: ../../voken/voken_shareholders_contract.rst:52
-msgid "Related to :ref:`voken_main_contract` and #TODO-PUBLIC-SALE-UPGRADED."
+msgid ""
+"Related to :ref:`voken2_main_contract` and :ref:`voken2_sale_contract`."
 msgstr ""
 
 #: ../../voken/voken_shareholders_contract.rst:72
 msgid "Query data:"
-msgstr ""
+msgstr "查询数据："
 
 #: ../../voken/voken_shareholders_contract.rst:55
 msgid "Functions:"
-msgstr ""
+msgstr "功能："
 
 #: ../../voken/voken_shareholders_contract.rst:57
 msgid "``function page() public view returns (uint256)``"
@@ -170,10 +175,10 @@ msgstr ""
 
 #: ../../voken/voken_shareholders_contract.rst:75
 msgid "How to withdraw dividend?"
-msgstr ""
+msgstr "如何取出分红？"
 
 #: ../../voken/voken_shareholders_contract.rst:77
 msgid ""
 "Send 0 ETH to the address of this contract, you will get the dividend "
 "settled with ETH automatically."
-msgstr ""
+msgstr "发送 0 ETH 到本合约地址，你将自动获得以 ETH 结算的分红。"

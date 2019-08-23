@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-01 13:13+0800\n"
+"POT-Creation-Date: 2019-08-24 02:04+0800\n"
 "PO-Revision-Date: 2019-06-08 05:50+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -79,17 +79,6 @@ msgstr ""
 
 #: ../../letters/as_an_investor.rst:27
 msgid ""
-"The only cooperation party for sales and community is the :ref:`v5`. The V5 "
-"team is responsible for the formation and service, including but not limited"
-" to the Chinese language community. It is responsible for the implementation"
-" of the :ref:`voken_sale`, finding qualified investors, forming communities "
-"and managing and serving, and promoting consensus."
-msgstr ""
-"销售与市场唯一合作方为 :ref:`v5` ，V5 团队负责包括但不限于中文社区的组建与服务、:ref:`voken_sale` "
-"的推进落实、寻找合格投资者、组建社区并管理服务、促进共识。"
-
-#: ../../letters/as_an_investor.rst:32
-msgid ""
 "In order to allow more enthusiasts to participate in community organization "
 "and work, we have launched a whitelist system for those who want to "
 "participate in this program. We have set up a generous sales rewards in the "
@@ -98,25 +87,25 @@ msgstr ""
 "为了让更多的爱好者可以参与到社区组建与工作中来，我们启动了白名单系统。我们在销售计划中设置了丰厚的销售奖励，详细您可以参阅 "
 ":ref:`voken_referral_program` 。"
 
-#: ../../letters/as_an_investor.rst:36
+#: ../../letters/as_an_investor.rst:31
 msgid ""
-"Voken will be traded on exchanges near the 10th season of the "
-":ref:`voken_sale`."
-msgstr "Voken 将在 :ref:`voken_sale` 的第 #10 个赛季附近登录交易所交易流通。"
+"Voken2.0 will list on exchanges for trading when the number of users is "
+"sufficient to ensure ecological health."
+msgstr "当用户数量足以确保生态健康时， Voken2.0 将登录交易所进行交易。"
 
-#: ../../letters/as_an_investor.rst:37
+#: ../../letters/as_an_investor.rst:32
 msgid ""
 "We welcome more people to join and build the community. If you have good "
 "suggestions or cooperation intentions, please send us an email: "
 "david@vision.network."
 msgstr "我们欢迎更多人加入和共建社区，如果您有好的建议或合作意向可以给我们发邮件，邮箱地址： david@vision.network 。"
 
-#: ../../letters/as_an_investor.rst:40
+#: ../../letters/as_an_investor.rst:35
 msgid ""
 "Thank you for your support of Voken, let us build a decentralized, free, "
 "open and safe Internet."
 msgstr "感谢您对 Voken 的认可和支持，让我们一起共建一个去中心化的、自由的、开放且安全的国际互联网。"
 
-#: ../../letters/as_an_investor.rst:43
+#: ../../letters/as_an_investor.rst:38
 msgid "by Vision.Network Project Team"
 msgstr "by Vision.Network 远景网络项目团队"

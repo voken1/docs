@@ -3,7 +3,7 @@
 Season Top-Sales
 ================
 
-:ref:`top_sales_reward` by contract **0x2F7f6AC16469cE0Fed396A6C514e8d1366E4ADA8**
+TOP-sales reward by contract **0x2F7f6AC16469cE0Fed396A6C514e8d1366E4ADA8**
 
 
 Season #.5
