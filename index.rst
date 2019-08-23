@@ -79,6 +79,18 @@ more open, more equal, more stable, more efficient, safer and freer.
 .. policy/voken_community_alliance_program
 
 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: New Contracts on Ethereum
+
+   voken/voken_main_contract
+   voken/voken_shareholders_contract
+   voken/voken_public_sale_contract
+
+
+
+
 .. _reports:
 
 .. toctree::
@@ -159,13 +171,6 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. _contracts:
 
-.. toctree::
-   :maxdepth: 1
-   :caption: New Contracts on Ethereum
-
-   voken/voken_main_contract
-   voken/voken_shareholders_contract
-   voken/voken_public_sale_contract
 
 
 .. toctree::
