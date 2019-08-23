@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-24 02:44+0800\n"
+"POT-Creation-Date: 2019-08-24 04:58+0800\n"
 "PO-Revision-Date: 2019-08-23 13:34+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -322,8 +322,8 @@ msgid "Gas limit"
 msgstr "Gas limit - Gas 数量"
 
 #: ../../voken/voken_sale.rst:127
-msgid "Minimum: ``6,000,000``"
-msgstr "最少： ``6,000,000``"
+msgid "Minimum: ``6,500,000``"
+msgstr "最少： ``6,500,000``"
 
 #: ../../voken/voken_sale.rst:128
 msgid "Maximum: ``8,000,000``"
@@ -388,8 +388,8 @@ msgid "Send ETH, and receive Voken2.0"
 msgstr "发送 ETH 并接收 Voken2.0"
 
 #: ../../voken/voken_sale.rst:178
-msgid "**0xbad9103654C05517Cc86673c20C77be2781be196**"
-msgstr "**0xbad9103654C05517Cc86673c20C77be2781be196**"
+msgid "**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
+msgstr "**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
 
 #: ../../voken/voken_sale.rst:180
 msgid "Just **USE YOUR OWN ETH WALLET**"
@@ -412,5 +412,5 @@ msgid ":ref:`guide_for_gas`"
 msgstr ":ref:`guide_for_gas`"
 
 #: ../../voken/voken_sale.rst:193
-msgid "Make sure you have set ``gas limit`` to ``6,000,000``."
-msgstr "请确保您已经设置 ``gas limit`` 为 ``6,000,000`` 。"
+msgid "Make sure you have set ``gas limit`` to ``6,500,000``."
+msgstr "请确保您已经设置 ``gas limit`` 为 ``6,500,000`` 。"

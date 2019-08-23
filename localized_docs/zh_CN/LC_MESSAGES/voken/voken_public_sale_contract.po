@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-24 01:04+0800\n"
+"POT-Creation-Date: 2019-08-24 04:57+0800\n"
 "PO-Revision-Date: 2019-08-22 20:32+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -34,16 +34,16 @@ msgid "ENS Domain is **sale.voken100g.eth**"
 msgstr "ENS 域名 **sale.voken100g.eth**"
 
 #: ../../voken/voken_public_sale_contract.rst:9
-msgid "Contract address is **0xbad9103654C05517Cc86673c20C77be2781be196**"
-msgstr "合约地址 **0xbad9103654C05517Cc86673c20C77be2781be196**"
+msgid "Contract address is **0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
+msgstr "合约地址 **0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
 
 #: ../../voken/voken_public_sale_contract.rst:10
-msgid "Deployed at `Tx Hash 0xfacd06e4197c70fb510b80592f2f8067...`_"
-msgstr "部署于 `Tx Hash 0xfacd06e4197c70fb510b80592f2f8067...`_"
+msgid "Deployed at `Tx Hash 0x5491dace3cd5ba2ced1447cb547ba70d...`_"
+msgstr "部署于 `Tx Hash 0x5491dace3cd5ba2ced1447cb547ba70d...`_"
 
 #: ../../voken/voken_public_sale_contract.rst:11
-msgid "Block height `#8407716`_"
-msgstr "区块高度 `#8407716`_"
+msgid "Block height `#8408789`_"
+msgstr "区块高度 `#8408789`_"
 
 #: ../../voken/voken_public_sale_contract.rst:12
 msgid "Open-sourced under the `GNU General Public License v3.0`_"

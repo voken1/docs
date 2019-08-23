@@ -124,7 +124,7 @@ the remaining ETH will be returned to the payment address.
 Gas limit
 ---------
 
-- Minimum: ``6,000,000``
+- Minimum: ``6,500,000``
 - Maximum: ``8,000,000``
 - The rest will be returned automatically
 
@@ -175,7 +175,7 @@ Send ETH, and receive Voken2.0
    :width: 35 %
    :alt: qrcode_voken2_sale.svg
 
-**0xbad9103654C05517Cc86673c20C77be2781be196**
+**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**
 
 1. Just **USE YOUR OWN ETH WALLET**
 2. **SEND ETH TO THE CONTRACT ADDRESS ABOVE**
@@ -190,7 +190,4 @@ Matters needing attention and operation instruction:
 
 
 .. NOTE::
-   Make sure you have set ``gas limit`` to ``6,000,000``.
-
-
-
+   Make sure you have set ``gas limit`` to ``6,500,000``.
