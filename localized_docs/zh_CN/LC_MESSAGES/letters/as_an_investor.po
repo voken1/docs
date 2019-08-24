@@ -35,7 +35,7 @@ msgstr "您要对区块链领域有一定了解，至少 1 年以上加密货币
 msgid ""
 "If you don't have any experience in crypto-currency investment, please read "
 "the :ref:`whitepaper` more than 2 times."
-msgstr "如果您没有数字货币投资经验，请阅读 :ref:`whitepaper` 2 遍以上。"
+msgstr "如果您没有加密货币投资经验，请阅读 :ref:`whitepaper` 2 遍以上。"
 
 #: ../../letters/as_an_investor.rst:10
 msgid ""

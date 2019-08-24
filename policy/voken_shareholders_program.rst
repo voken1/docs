@@ -3,6 +3,9 @@
 Voken 2.0 shareholders program
 ==============================
 
+If you have completed the Voken2.0 migration by following :ref:`voken2_migration`,
+you become a shareholder.
+
 As a shareholder, you can enjoy the dividend of public-sale during #6-20 season.
 
 More than $14,885,025.49 is about to be paid as a dividend, settled with ETH, as follow:
@@ -32,10 +35,17 @@ Season  Dividend
 Control by contract on Ethereum
 -------------------------------
 
-:ref:`voken2_shareholders_contract` was deployed at ``2019-08-22-2019 18:02:37 UTC``,
+:ref:`voken2_shareholders_contract` was deployed at ``2019-08-22 18:02:37 UTC``,
 address is **0x7712F76D2A52141D44461CDbC8b660506DCAB752**.
 
 No one can tamper with the dividend rules.
+
+
+
+Withdraw dividend
+-----------------
+
+By sending **0 ETH** the contract address, you can **withdraw** dividend which is settled by ETH.
 
 
 
@@ -48,13 +58,6 @@ A certain percentage of ETH will be deposited into this contract automatically
 once a transaction of public-sale completed.
 
 So, there is no need to send your ETH greater than 0 here personally.
-
-
-
-Withdraw ETH
-------------
-
-By sending **0 ETH** the contract address, you can **withdraw** ETH from it.
 
 
 

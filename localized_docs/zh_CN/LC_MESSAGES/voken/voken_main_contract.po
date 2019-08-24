@@ -243,13 +243,13 @@ msgstr ""
 
 #: ../../voken/voken_main_contract.rst:141
 msgid "Supports **BURNING-MODE**:"
-msgstr ""
+msgstr "支持 **燃烧模式**"
 
 #: ../../voken/voken_main_contract.rst:135
 msgid ""
 "When **Burning-mode** is on, **1%** will be **burned** for every transaction"
 " of Voken2.0."
-msgstr ""
+msgstr "当 **燃烧模式** 开启，每笔 Voken2.0 转账将有 1% 被 **销毁** 。"
 
 #: ../../voken/voken_main_contract.rst:139
 msgid "``function burningMode() public view returns (bool, uint16)``"
@@ -263,7 +263,7 @@ msgstr "优化的 **白名单规则**"
 msgid ""
 "By transferring 1,001 Voken2.0 to a whitelisted address, will sign-up for "
 "whitelist and get 1 Voken2.0 refund as a success signal automatically."
-msgstr ""
+msgstr "向白名单地址转账 1,001 Voken2.0 登记新的白名单，并且获得自动退回的 1 Voken2.0 作为成功信号。"
 
 #: ../../voken/voken_main_contract.rst:149
 msgid "Functions for query:"

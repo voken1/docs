@@ -38,8 +38,8 @@ Service Value & Usage Value ANCHORING
 
 
 
-About 17,448 million Voken2.0 for Sale
---------------------------------------
+About 17,448 million Voken2.0 for this sale
+-------------------------------------------
 
 There are about **17,448 million Voken2.0** would released during #6-20 season.
 
@@ -103,18 +103,18 @@ We hope that more users will hold Voken 2.0, which is more conducive to the enti
 
 Below is the limited sales form for each season:
 
-=======  =======================
-ETH      Max-number of addresses
-=======  =======================
-100 ETH  1 addresses
-50 ETH   3 addresses
-40 ETH   10 addresses
-30 ETH   50 addresses
-20 ETH   100 addresses
-10 ETH   200 addresses
-5 ETH    300 addresses
-3 ETH    Unlimited
-=======  =======================
+========  =======================
+ETH       Max-number of addresses
+========  =======================
+100 ETH   1 addresses
+50 ETH    3 addresses
+40 ETH    10 addresses
+30 ETH    50 addresses
+20 ETH    100 addresses
+10 ETH    200 addresses
+5 ETH     300 addresses
+<= 3 ETH  Unlimited
+========  =======================
 
 If an max limit is reached,
 the remaining ETH will be returned to the payment address.

@@ -86,7 +86,7 @@ msgstr "特性和功能"
 #: ../../voken/voken_shareholders_contract.rst:52
 msgid ""
 "Related to :ref:`voken2_main_contract` and :ref:`voken2_sale_contract`."
-msgstr ""
+msgstr "与 :ref:`voken2_main_contract` 和 :ref:`voken2_sale` 关联。"
 
 #: ../../voken/voken_shareholders_contract.rst:72
 msgid "Query data:"

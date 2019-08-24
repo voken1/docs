@@ -30,6 +30,8 @@ msgid ""
 "All Voken holders should follow this instruction to finish the migration "
 "before **2019-09-07 23:59:59 UTC**. Convert your Voken to **Voken2.0**."
 msgstr ""
+"所有 Voken 持有者都应按此指示，在 **2019-09-07 23:59:59 UTC** 前完成迁移。将您的 Voken 转换升级为 "
+"**Voken2.0** 。"
 
 #: ../../policy/voken2_migration.rst:13
 msgid "Only 1 step"
@@ -66,7 +68,7 @@ msgstr ""
 
 #: ../../policy/voken2_migration.rst:35
 msgid "See :ref:`voken2_shareholders_program` for more details."
-msgstr ""
+msgstr "点击 :ref:`voken2_shareholders_program` 了解更多细节。"
 
 #: ../../policy/voken2_migration.rst:37
 msgid ""
@@ -74,6 +76,8 @@ msgid ""
 " migration will jointly allocate a part of ETH as an additional reward "
 "according to the proportion in :ref:`voken2_shareholders_program`."
 msgstr ""
+"下面有 3 个统计时间点，所有完成迁移的持有者将按 :ref:`voken2_shareholders_program` 比例共同分配一部分 ETH "
+"作为额外奖励。"
 
 #: ../../policy/voken2_migration.rst:42
 msgid "Deadline"
