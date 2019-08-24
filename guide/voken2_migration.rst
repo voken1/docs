@@ -75,6 +75,14 @@ The project team and early angel investors had no sales dividends.
 Migration progress report
 -------------------------
 
+View :ref:`voken2_shareholders_contract` on Etherscan.io:
+
+- `Voken txs on 0x7712F76D2A52141D44461CDbC8b660506DCAB752`_
+
+.. _Voken txs on 0x7712F76D2A52141D44461CDbC8b660506DCAB752:
+   https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a?a=0x7712f76d2a52141d44461cdbc8b660506dcab752
+
+
 =======================  ==========  ===================  ===================
 Date and time            Addresses   Voken                Voken2.0
 =======================  ==========  ===================  ===================
