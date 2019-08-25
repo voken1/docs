@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-25 00:24+0800\n"
+"POT-Creation-Date: 2019-08-25 03:51+0800\n"
 "PO-Revision-Date: 2019-08-23 13:34+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -72,7 +72,7 @@ msgstr ""
 
 #: ../../voken/voken_sale.rst:42
 msgid "About 17,448 million Voken2.0 for this sale"
-msgstr "大约 17.448 亿 Voken2.0 用于本次·销售"
+msgstr "大约 17.448 亿 Voken2.0 用于本次销售"
 
 #: ../../voken/voken_sale.rst:44
 msgid ""
@@ -304,8 +304,8 @@ msgid "300 addresses"
 msgstr "300 个地址"
 
 #: ../../voken/voken_sale.rst:116
-msgid "< 3 ETH"
-msgstr "< 3 ETH"
+msgid "<= 3 ETH"
+msgstr "<= 3 ETH"
 
 #: ../../voken/voken_sale.rst:116
 msgid "Unlimited"

@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-25 22:18+0800\n"
+"PO-Revision-Date: 2019-08-25 11:17+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../guide/get_1001voken2.rst:4
+msgid "Get 1,001 Voken2.0 with 20% OFF"
+msgstr "8 折获取 1,001 个 Voken2.0"
+
+#: ../../guide/get_1001voken2.rst:6
+msgid ""
+"Release 1,001 Voken2.0 to a new ETH wallet address, limited. It is "
+"convenient to use a small amount of ETH for 1,001 Voken2.0 to register "
+"whitelist. Executed at the real-time price of :ref:`voken2_sale` with 20% "
+"OFF."
+msgstr ""
+"限量释放 1,001 Voken2.0 到一个新的以太坊钱包地址。方便使用 ETH 限量换取 1,001 Voken2.0 用于白名单注册，按 "
+":ref:`voken2_sale` 的 Voken 实时价格的 80% 执行。"
+
+#: ../../guide/get_1001voken2.rst:10
+msgid ""
+"Just send **1 ETH** to the contract address below, you will receive exactly "
+"**1,001 Voken2.0** and all the unused ETH automatically."
+msgstr ""
+"只需发送 **1 ETH** 到下边的合约地址，你将会自动收到刚刚好 **1,001.0 Voken2.0** ，并退回所有未使用的 ETH 。"
+
+#: ../../guide/get_1001voken2.rst:17
+msgid "**0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**"
+msgstr "**0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**"
+
+#: ../../guide/get_1001voken2.rst:24
+msgid ""
+"Set ``gas limit`` to ``200,000`` or more, the rest will be returned "
+"automatically."
+msgstr "请将 ``gas limit`` 设置为 ``200,000`` 或更多，剩余部分将自动退回。"
+
+#: ../../guide/get_1001voken2.rst:29
+msgid "To use this contract, you must meet these two conditions"
+msgstr "使用这个合约，您必须满足两个条件"
+
+#: ../../guide/get_1001voken2.rst:0
+msgid "**The address is new for Voken2.0**"
+msgstr "**Voken2.0 的新地址**"
+
+#: ../../guide/get_1001voken2.rst:0
+msgid "(Balance is 0, and not whitelisted)"
+msgstr "（余额为 0 且不在白名单中）"
+
+#: ../../guide/get_1001voken2.rst:0
+msgid "**Asset verification**"
+msgstr "**资产验证**"
+
+#: ../../guide/get_1001voken2.rst:0
+msgid ""
+"You will need to send the transaction in a total amount **1 ETH or more**, "
+"(and all unused ETH will be automatically refunded, in the very same "
+"transaction)."
+msgstr "你发送的交易总金额需要为 **1 ETH 或更多** （所有未使用的 ETH 将会被合约自动退款，就在同一笔交易里）"
+
+#: ../../guide/get_1001voken2.rst:37
+msgid ""
+"Transactions that do not meet the conditions will be automatically reverted "
+"by the contract."
+msgstr "所有不合条件的交易都将被合约自动拒绝。"

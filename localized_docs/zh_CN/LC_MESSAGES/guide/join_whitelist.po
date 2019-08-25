@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-25 20:34+0800\n"
+"PO-Revision-Date: 2019-08-25 12:39+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../guide/join_whitelist.rst:4
+msgid "Hot to join the whitelist"
+msgstr ""
+
+#: ../../guide/join_whitelist.rst:6
+msgid ""
+"Is there a friend told you about Vision Network, :ref:`voken`, and "
+":ref:`voken2_sale`? Congratulations!! Ask him for a **whitelisted address**."
+msgstr ""
+
+#: ../../guide/join_whitelist.rst:8
+msgid ""
+"Use your ETH wallet, send **1,001 Voken2.0** to the address which is "
+"whitelisted already."
+msgstr ""
+
+#: ../../guide/join_whitelist.rst:9
+msgid "You will receive **1 Voken2.0** back, as a success signal."
+msgstr ""
+
+#: ../../guide/join_whitelist.rst:10
+msgid "Finished. Your wallet address has already whitelisted."
+msgstr ""
+
+#: ../../guide/join_whitelist.rst:15
+msgid ""
+"Set ``gas limit`` to ``600,000`` or more, the rest will be returned "
+"automatically."
+msgstr ""

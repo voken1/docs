@@ -25,8 +25,13 @@ Please move your Voken to your own ETH wallet and upgrade to Voken2.0.
 Only 1 step
 -----------
 
-Send your **Voken** to the :ref:`voken2_shareholders_contract`
-address **0x7712F76D2A52141D44461CDbC8b660506DCAB752**.
+Send your **Voken** to the :ref:`voken2_shareholders_contract` address below:
+
+.. image:: /_static/contract/qrcode_voken2_shareholders.svg
+   :width: 35 %
+   :alt: qrcode_voken2_shareholders.svg
+
+**0x7712F76D2A52141D44461CDbC8b660506DCAB752**
 
 
 
@@ -83,11 +88,13 @@ View :ref:`voken2_shareholders_contract` on Etherscan.io:
    https://etherscan.io/token/0x82070415fee803f94ce5617be1878503e58f0a6a?a=0x7712f76d2a52141d44461cdbc8b660506dcab752
 
 
-=======================  ==========  ===================  ===================
+=======================  ==========  ===================  ====================
 Date and time            Addresses   Voken                Voken2.0
-=======================  ==========  ===================  ===================
+=======================  ==========  ===================  ====================
 2019-08-24 19:39:41 UTC  169         192,775,612.581588   256,456,165.529807
-=======================  ==========  ===================  ===================
+2019-08-25 15:26:32 UTC  393         835,083,852.033711   1,109,046,050.747382
+=======================  ==========  ===================  ====================
+
 
 .. NOTE::
 

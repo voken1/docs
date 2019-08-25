@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-25 22:18+0800\n"
+"PO-Revision-Date: 2019-08-25 11:20+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../voken/get_1001voken_contract.rst:4
+msgid "Get 1001 Voken2.0 contract"
+msgstr ""
+
+#: ../../voken/get_1001voken_contract.rst:6
+msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
+msgstr ""
+
+#: ../../voken/get_1001voken_contract.rst:8
+msgid "ENS Domain is **get.voken100g.eth**"
+msgstr ""
+
+#: ../../voken/get_1001voken_contract.rst:9
+msgid "Contract address is **0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**"
+msgstr ""
+
+#: ../../voken/get_1001voken_contract.rst:10
+msgid "Deployed at `Tx Hash 0x937664fa71be3641150bfa7beffdf468...`_"
+msgstr ""
+
+#: ../../voken/get_1001voken_contract.rst:11
+msgid "Block height `#8419559`_"
+msgstr ""
+
+#: ../../voken/get_1001voken_contract.rst:12
+msgid "Open-sourced under the `GNU General Public License v3.0`_"
+msgstr ""
+
+#: ../../voken/get_1001voken_contract.rst:13
+msgid "`View contract code on github repository`_"
+msgstr ""
+
+#: ../../voken/get_1001voken_contract.rst:14
+msgid "`View contract on Etherscan.io`_"
+msgstr ""

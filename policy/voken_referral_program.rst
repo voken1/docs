@@ -104,6 +104,6 @@ Referrals  Level  Reward (35% Total)
 =========  =====  ==================
 
 - All unallocated ETH rewards (due to some Lv absence),
-  will be temporarily held by :ref:`voken2_sale`,
+  will be temporarily held by :ref:`voken2_sale_contract`,
   and a new reward plan will be determined later.
 

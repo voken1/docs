@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-25 00:24+0800\n"
+"POT-Creation-Date: 2019-08-25 22:45+0800\n"
 "PO-Revision-Date: 2019-04-11 14:19+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -113,7 +113,7 @@ msgstr "奖励（共 1,000 Voken2.0）"
 #: ../../policy/voken_referral_program.rst:49
 #: ../../policy/voken_referral_program.rst:89
 msgid ">= 1"
-msgstr ""
+msgstr ">= 1"
 
 #: ../../policy/voken_referral_program.rst:49
 #: ../../policy/voken_referral_program.rst:89
@@ -127,7 +127,7 @@ msgstr "**300 Voken2.0**"
 #: ../../policy/voken_referral_program.rst:50
 #: ../../policy/voken_referral_program.rst:90
 msgid ">= 2"
-msgstr ""
+msgstr ">= 2"
 
 #: ../../policy/voken_referral_program.rst:50
 #: ../../policy/voken_referral_program.rst:90
@@ -141,7 +141,7 @@ msgstr "200 Voken2.0"
 #: ../../policy/voken_referral_program.rst:51
 #: ../../policy/voken_referral_program.rst:91
 msgid ">= 3"
-msgstr ""
+msgstr ">= 3"
 
 #: ../../policy/voken_referral_program.rst:51
 #: ../../policy/voken_referral_program.rst:91
@@ -157,7 +157,7 @@ msgstr "100 Voken2.0"
 #: ../../policy/voken_referral_program.rst:52
 #: ../../policy/voken_referral_program.rst:92
 msgid ">= 4"
-msgstr ""
+msgstr ">= 4"
 
 #: ../../policy/voken_referral_program.rst:52
 #: ../../policy/voken_referral_program.rst:92
@@ -167,7 +167,7 @@ msgstr "Lv.4"
 #: ../../policy/voken_referral_program.rst:53
 #: ../../policy/voken_referral_program.rst:93
 msgid ">= 5"
-msgstr ""
+msgstr ">= 5"
 
 #: ../../policy/voken_referral_program.rst:53
 #: ../../policy/voken_referral_program.rst:93
@@ -177,7 +177,7 @@ msgstr "Lv.5"
 #: ../../policy/voken_referral_program.rst:54
 #: ../../policy/voken_referral_program.rst:94
 msgid ">= 6"
-msgstr ""
+msgstr ">= 6"
 
 #: ../../policy/voken_referral_program.rst:54
 #: ../../policy/voken_referral_program.rst:94
@@ -191,7 +191,7 @@ msgstr "50 Voken2.0"
 #: ../../policy/voken_referral_program.rst:55
 #: ../../policy/voken_referral_program.rst:95
 msgid ">= 7"
-msgstr ""
+msgstr ">= 7"
 
 #: ../../policy/voken_referral_program.rst:55
 #: ../../policy/voken_referral_program.rst:95
@@ -205,7 +205,7 @@ msgstr "40 Voken2.0"
 #: ../../policy/voken_referral_program.rst:56
 #: ../../policy/voken_referral_program.rst:96
 msgid ">= 8"
-msgstr ""
+msgstr ">= 8"
 
 #: ../../policy/voken_referral_program.rst:56
 #: ../../policy/voken_referral_program.rst:96
@@ -219,7 +219,7 @@ msgstr "30 Voken2.0"
 #: ../../policy/voken_referral_program.rst:57
 #: ../../policy/voken_referral_program.rst:97
 msgid ">= 9"
-msgstr ""
+msgstr ">= 9"
 
 #: ../../policy/voken_referral_program.rst:57
 #: ../../policy/voken_referral_program.rst:97
@@ -233,7 +233,7 @@ msgstr "20 Voken2.0"
 #: ../../policy/voken_referral_program.rst:58
 #: ../../policy/voken_referral_program.rst:98
 msgid ">= 10"
-msgstr ""
+msgstr ">= 10"
 
 #: ../../policy/voken_referral_program.rst:58
 #: ../../policy/voken_referral_program.rst:98
@@ -252,7 +252,7 @@ msgstr "10 Voken2.0"
 #: ../../policy/voken_referral_program.rst:59
 #: ../../policy/voken_referral_program.rst:99
 msgid ">= 11"
-msgstr ""
+msgstr ">= 11"
 
 #: ../../policy/voken_referral_program.rst:59
 #: ../../policy/voken_referral_program.rst:99
@@ -262,7 +262,7 @@ msgstr "Lv.11"
 #: ../../policy/voken_referral_program.rst:60
 #: ../../policy/voken_referral_program.rst:100
 msgid ">= 12"
-msgstr ""
+msgstr ">= 12"
 
 #: ../../policy/voken_referral_program.rst:60
 #: ../../policy/voken_referral_program.rst:100
@@ -272,7 +272,7 @@ msgstr "Lv.12"
 #: ../../policy/voken_referral_program.rst:61
 #: ../../policy/voken_referral_program.rst:101
 msgid ">= 13"
-msgstr ""
+msgstr ">= 13"
 
 #: ../../policy/voken_referral_program.rst:61
 #: ../../policy/voken_referral_program.rst:101
@@ -282,7 +282,7 @@ msgstr "Lv.13"
 #: ../../policy/voken_referral_program.rst:62
 #: ../../policy/voken_referral_program.rst:102
 msgid ">= 14"
-msgstr ""
+msgstr ">= 14"
 
 #: ../../policy/voken_referral_program.rst:62
 #: ../../policy/voken_referral_program.rst:102
@@ -292,7 +292,7 @@ msgstr "Lv.14"
 #: ../../policy/voken_referral_program.rst:63
 #: ../../policy/voken_referral_program.rst:103
 msgid ">= 15"
-msgstr ""
+msgstr ">= 15"
 
 #: ../../policy/voken_referral_program.rst:63
 #: ../../policy/voken_referral_program.rst:103
@@ -345,27 +345,27 @@ msgstr "奖励（共 35%）"
 
 #: ../../policy/voken_referral_program.rst:89
 msgid "**6% ETH**"
-msgstr ""
+msgstr "**6% ETH**"
 
 #: ../../policy/voken_referral_program.rst:90
 msgid "6% ETH"
-msgstr ""
+msgstr "6% ETH"
 
 #: ../../policy/voken_referral_program.rst:91
 msgid "5% ETH"
-msgstr ""
+msgstr "5% ETH"
 
 #: ../../policy/voken_referral_program.rst:92
 msgid "4% ETH"
-msgstr ""
+msgstr "4% ETH"
 
 #: ../../policy/voken_referral_program.rst:93
 msgid "3% ETH"
-msgstr ""
+msgstr "3% ETH"
 
 #: ../../policy/voken_referral_program.rst:94
 msgid "2% ETH"
-msgstr ""
+msgstr "2% ETH"
 
 #: ../../policy/voken_referral_program.rst:95
 #: ../../policy/voken_referral_program.rst:96
@@ -377,11 +377,11 @@ msgstr ""
 #: ../../policy/voken_referral_program.rst:102
 #: ../../policy/voken_referral_program.rst:103
 msgid "1% ETH"
-msgstr ""
+msgstr "1% ETH"
 
 #: ../../policy/voken_referral_program.rst:106
 msgid ""
 "All unallocated ETH rewards (due to some Lv absence), will be temporarily "
-"stored in a pending pool holding by :ref:`voken2_sale`, and a new reward "
-"plan will be determined later."
-msgstr "所有未分配的奖励（某些 Lv 缺位）都将由 :ref:`voken2_sale` 持有，奖励方案待定。"
+"held by :ref:`voken2_sale_contract`, and a new reward plan will be "
+"determined later."
+msgstr "所有未分配的奖励（某些 Lv 缺位）都将由 :ref:`voken2_sale_contract` 暂存，奖励方案待定。"

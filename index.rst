@@ -75,6 +75,8 @@ more open, more equal, more stable, more efficient, safer and freer.
    policy/voken_shareholders_program
    voken/voken_sale
    policy/voken_referral_program
+   guide/how_to_join_the_whitelist
+   guide/get_1001voken2
    revision
 .. policy/voken_community_alliance_program
 
@@ -87,6 +89,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    voken/voken_main_contract
    voken/voken_shareholders_contract
    voken/voken_public_sale_contract
+   voken/get_1001voken_contract
 
 
 
