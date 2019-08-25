@@ -47,6 +47,11 @@ Withdraw dividend
 
 By sending **0 ETH** the contract address, you can **withdraw** dividend which is settled by ETH.
 
+.. NOTE::
+
+   Set ``gas limit`` to ``600,000`` or more,
+   the rest will be returned automatically.
+
 
 
 Deposit ETH
