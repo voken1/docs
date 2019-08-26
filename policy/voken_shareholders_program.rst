@@ -47,6 +47,13 @@ Withdraw dividend
 
 By sending **0 ETH** the contract address, you can **withdraw** dividend which is settled by ETH.
 
+.. image:: /_static/contract/qrcode_voken2_shareholders.svg
+   :width: 35 %
+   :alt: qrcode_voken2_shareholders.svg
+
+**0x7712F76D2A52141D44461CDbC8b660506DCAB752**
+
+
 .. NOTE::
 
    Set ``gas limit`` to ``600,000`` or more,
