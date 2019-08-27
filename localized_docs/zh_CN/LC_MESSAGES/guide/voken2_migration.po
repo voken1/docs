@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-25 23:11+0800\n"
+"POT-Creation-Date: 2019-08-28 03:56+0800\n"
 "PO-Revision-Date: 2019-08-23 14:31+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -191,81 +191,113 @@ msgid "256,456,165.529807"
 msgstr "256,456,165.529807"
 
 #: ../../guide/voken2_migration.rst:95
-msgid "2019-08-25 15:07:24 UTC"
+msgid "2019-08-25 23:59:07 UTC"
 msgstr ""
 
 #: ../../guide/voken2_migration.rst:95
-msgid "388"
+msgid "418"
 msgstr ""
 
 #: ../../guide/voken2_migration.rst:95
-msgid "833,666,131.319643"
+msgid "991,979,423.999787"
 msgstr ""
 
 #: ../../guide/voken2_migration.rst:95
-msgid "1,107,165,808.024807"
+msgid "1,316,988,024.930678"
 msgstr ""
 
-#: ../../guide/voken2_migration.rst:101
+#: ../../guide/voken2_migration.rst:96
+msgid "2019-08-26 01:19:28 UTC"
+msgstr ""
+
+#: ../../guide/voken2_migration.rst:96
+msgid "429"
+msgstr ""
+
+#: ../../guide/voken2_migration.rst:96
+msgid "997,160,055.841481"
+msgstr ""
+
+#: ../../guide/voken2_migration.rst:96
+msgid "1,323,851,233.807258"
+msgstr ""
+
+#: ../../guide/voken2_migration.rst:97
+msgid "2019-08-27 00:10:48 UTC"
+msgstr ""
+
+#: ../../guide/voken2_migration.rst:97
+msgid "566"
+msgstr ""
+
+#: ../../guide/voken2_migration.rst:97
+msgid "1,039,657,108.744721"
+msgstr ""
+
+#: ../../guide/voken2_migration.rst:97
+msgid "1,380,108,919.981091"
+msgstr ""
+
+#: ../../guide/voken2_migration.rst:103
 msgid "**Algorithm**"
 msgstr "**算法**"
 
-#: ../../guide/voken2_migration.rst:103
+#: ../../guide/voken2_migration.rst:105
 msgid "M = S * \\frac{(1598918399 - T)}{60 \\cdot 60 \\cdot 24 \\cdot 365} \\cdot 1.3"
 msgstr "M = S * \\frac{(1598918399 - T)}{60 \\cdot 60 \\cdot 24 \\cdot 365} \\cdot 1.3"
 
-#: ../../guide/voken2_migration.rst:107
+#: ../../guide/voken2_migration.rst:109
 msgid "**M** The amount of Voken2.0 you will receive"
 msgstr "**M** 你将收到的 Voken2.0 数量"
 
-#: ../../guide/voken2_migration.rst:108
+#: ../../guide/voken2_migration.rst:110
 msgid "**S** The amount of Voken you've sent"
 msgstr "**S** 你发送的 Voken 数量"
 
-#: ../../guide/voken2_migration.rst:109
+#: ../../guide/voken2_migration.rst:111
 msgid "**1598918399** The UNIX timestamp of ``2019-09-07 23:59:59 UTC``"
 msgstr "**1598918399** ``2019-09-07 23:59:59 UTC`` 的 UNIX 时间戳"
 
-#: ../../guide/voken2_migration.rst:110
+#: ../../guide/voken2_migration.rst:112
 msgid "**T** The timestamp of migration tx you've sent"
 msgstr "**T** 迁移交易的时间戳"
 
-#: ../../guide/voken2_migration.rst:111
+#: ../../guide/voken2_migration.rst:113
 msgid "**60 x60 x24 x365** The seconds of a year"
 msgstr "**60 x60 x24 x365** 一年的秒数"
 
-#: ../../guide/voken2_migration.rst:112
+#: ../../guide/voken2_migration.rst:114
 msgid "**1.3** 1 + 30%"
 msgstr "**1.3** 1 + 30%"
 
-#: ../../guide/voken2_migration.rst:114
+#: ../../guide/voken2_migration.rst:116
 msgid "For example:"
 msgstr "举例："
 
-#: ../../guide/voken2_migration.rst:116
+#: ../../guide/voken2_migration.rst:118
 msgid "Address: 0xc3B4EbECC0D668485a286d332b90Fb3927264AC3"
 msgstr "地址： 0xc3B4EbECC0D668485a286d332b90Fb3927264AC3"
 
-#: ../../guide/voken2_migration.rst:117
+#: ../../guide/voken2_migration.rst:119
 msgid "Sent: 1,000,000.000000 Voken"
 msgstr "发送： 1,000,000.000000 Voken"
 
-#: ../../guide/voken2_migration.rst:118
+#: ../../guide/voken2_migration.rst:120
 msgid ""
 "At tx hash: "
 "`0x54d93f56f4ffef379e3f37c81c42d07d9af0b148551f9626344019e4e726a2cd`_"
 msgstr ""
 "交易哈希： `0x54d93f56f4ffef379e3f37c81c42d07d9af0b148551f9626344019e4e726a2cd`_"
 
-#: ../../guide/voken2_migration.rst:119
+#: ../../guide/voken2_migration.rst:121
 msgid "Timestamp: 1566656611"
 msgstr "时间戳： 1566656611"
 
-#: ../../guide/voken2_migration.rst:124
+#: ../../guide/voken2_migration.rst:126
 msgid "That is:"
 msgstr "即："
 
-#: ../../guide/voken2_migration.rst:126
+#: ../../guide/voken2_migration.rst:128
 msgid ""
 "1,000,000.000000 \\cdot \\frac{(1598918399 - 1566656611)}{60 \\cdot 60 "
 "\\cdot 24 \\cdot 365} \\cdot 1.3 = 1,329,918.962455"
@@ -273,6 +305,6 @@ msgstr ""
 "1,000,000.000000 \\cdot \\frac{(1598918399 - 1566656611)}{60 \\cdot 60 "
 "\\cdot 24 \\cdot 365} \\cdot 1.3 = 1,329,918.962455"
 
-#: ../../guide/voken2_migration.rst:131
+#: ../../guide/voken2_migration.rst:133
 msgid "The result is: **1,329,918.962455 Voken2.0** he received."
 msgstr "结果是：收到 **1,329,918.962455 Voken2.0** 。"

@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-25 22:18+0800\n"
-"PO-Revision-Date: 2019-08-25 11:20+0000\n"
+"POT-Creation-Date: 2019-08-28 03:56+0800\n"
+"PO-Revision-Date: 2019-08-27 20:06+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -21,38 +21,34 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../voken/get_1001voken_contract.rst:4
-msgid "Get 1001 Voken2.0 contract"
-msgstr "获取 1001 Voken2.0 的合约"
+#: ../../voken/query_panel_contract.rst:4
+msgid "Query panel contract"
+msgstr "数据查询合约"
 
-#: ../../voken/get_1001voken_contract.rst:6
+#: ../../voken/query_panel_contract.rst:7
 msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
 msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
 
-#: ../../voken/get_1001voken_contract.rst:8
-msgid "ENS Domain is **get.voken100g.eth**"
-msgstr "ENS 域名 **get.voken100g.eth**"
+#: ../../voken/query_panel_contract.rst:9
+msgid "Contract address is **0xb8cc4b5638a54280aA730756038701D1D9C0227B**"
+msgstr "合约地址 **0xb8cc4b5638a54280aA730756038701D1D9C0227B**"
 
-#: ../../voken/get_1001voken_contract.rst:9
-msgid "Contract address is **0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**"
-msgstr "**0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**"
+#: ../../voken/query_panel_contract.rst:10
+msgid "Deployed at `Tx Hash 0x9116b5df08fe07d1aac62b0a11849476...`_"
+msgstr "部署于 `Tx Hash 0x9116b5df08fe07d1aac62b0a11849476...`_"
 
-#: ../../voken/get_1001voken_contract.rst:10
-msgid "Deployed at `Tx Hash 0x937664fa71be3641150bfa7beffdf468...`_"
-msgstr "部署于 `Tx Hash 0x937664fa71be3641150bfa7beffdf468...`_"
+#: ../../voken/query_panel_contract.rst:11
+msgid "Block height `#8434148`_"
+msgstr "区块高度 `#8434148`_"
 
-#: ../../voken/get_1001voken_contract.rst:11
-msgid "Block height `#8419559`_"
-msgstr "区块高度 `#8419559`_"
-
-#: ../../voken/get_1001voken_contract.rst:12
+#: ../../voken/query_panel_contract.rst:12
 msgid "Open-sourced under the `GNU General Public License v3.0`_"
 msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
 
-#: ../../voken/get_1001voken_contract.rst:13
+#: ../../voken/query_panel_contract.rst:13
 msgid "`View contract code on github repository`_"
 msgstr "`查看合约代码在 github 仓库`_"
 
-#: ../../voken/get_1001voken_contract.rst:14
+#: ../../voken/query_panel_contract.rst:14
 msgid "`View contract on Etherscan.io`_"
 msgstr "`通过 Etherscan.io 查看合约`_"

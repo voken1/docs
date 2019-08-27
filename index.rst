@@ -90,6 +90,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    voken/voken_shareholders_contract
    voken/voken_public_sale_contract
    voken/get_1001voken_contract
+   voken/query_panel_contract
 
 
 
