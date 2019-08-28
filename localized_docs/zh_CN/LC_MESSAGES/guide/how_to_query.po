@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-29 02:50+0800\n"
+"PO-Revision-Date: 2019-08-28 19:17+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../guide/how_to_query.rst:4
+msgid "How to query data"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:6
+msgid ""
+"There is a dedicated :ref:`query_panel_contract` on Ethereum blockchain. "
+"Through it, you can query the data you need."
+msgstr ""
+
+#: ../../guide/how_to_query.rst:12
+msgid "Link"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:14
+msgid ""
+"https://etherscan.io/address/0xb8cc4b5638a54280aA730756038701D1D9C0227B#readContract"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:16
+msgid "Click ``Contract`` => ``Read Contract``"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:21
+msgid "Function #3: voken2"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:23
+msgid "Main status for Voken2.0."
+msgstr ""
+
+#: ../../guide/how_to_query.rst:27
+msgid "totalSupply"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:27
+msgid "Total supply of Voken2.0."
+msgstr ""
+
+#: ../../guide/how_to_query.rst:31
+msgid "whitelistingMode"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:30
+msgid ""
+"``True`` means whitelisting is **ON**, you can follow "
+":ref:`how_to_join_the_whitelist` to join the whitelist. And ``False`` for "
+"**OFF**."
+msgstr ""
+
+#: ../../guide/how_to_query.rst:34
+msgid "safeMode"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:34
+msgid "``True`` means the **SAFE-MODE** is **ON**, and ``False`` for **OFF**."
+msgstr ""
+
+#: ../../guide/how_to_query.rst:39
+msgid "burningMode"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:37
+msgid ""
+"``True`` means the **BURNING-MODE** is **ON**, and ``False`` for **OFF**."
+msgstr ""
+
+#: ../../guide/how_to_query.rst:42
+msgid "Function #8: accountVoken2"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:44
+msgid "Query an ETH wallet address in Voken2.0."
+msgstr ""
+
+#: ../../guide/how_to_query.rst:47
+msgid "whitelisted"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:47
+msgid ""
+"``True`` means the address is whitelisted already, and ``False`` for not."
+msgstr ""
+
+#: ../../guide/how_to_query.rst:50
+msgid "whitelistReferralsCount"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:50
+msgid "The quantity of whitelisted addresses of referrals."
+msgstr ""
+
+#: ../../guide/how_to_query.rst:53
+msgid "balance"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:53
+msgid "Balance of Voken2.0, with 6 decimals."
+msgstr ""
+
+#: ../../guide/how_to_query.rst:56
+msgid "reserved"
+msgstr ""
+
+#: ../../guide/how_to_query.rst:56
+msgid "Reserved amount of Voken2.0, with 6 decimals."
+msgstr ""

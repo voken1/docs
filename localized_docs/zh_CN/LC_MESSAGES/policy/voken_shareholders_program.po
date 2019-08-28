@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-28 03:56+0800\n"
+"POT-Creation-Date: 2019-08-29 03:11+0800\n"
 "PO-Revision-Date: 2019-08-14 06:12+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -199,37 +199,49 @@ msgstr "向合约转账 **0 ETH** 你就可以从中 **提取** 分红，使用 
 
 #: ../../policy/voken_shareholders_program.rst:54
 msgid "**0x7712F76D2A52141D44461CDbC8b660506DCAB752**"
-msgstr ""
+msgstr "**0x7712F76D2A52141D44461CDbC8b660506DCAB752**"
 
-#: ../../policy/voken_shareholders_program.rst:59
+#: ../../policy/voken_shareholders_program.rst:58
 msgid ""
-"Set ``gas limit`` to ``600,000`` or more, the rest will be returned "
+"Set ``gas limit`` to ``300,000`` or more, the rest will be returned "
 "automatically."
-msgstr "请将 ``gas limit`` 设置为 ``600,000`` 或更多，剩余部分将自动退回。"
+msgstr "请将 ``gas limit`` 设置为 ``300,000`` 或更多，剩余部分将自动退回。"
 
-#: ../../policy/voken_shareholders_program.rst:65
+#: ../../policy/voken_shareholders_program.rst:61
+msgid "Related link: :ref:`gas`"
+msgstr "相关链接： :ref:`gas`"
+
+#: ../../policy/voken_shareholders_program.rst:66
+msgid "Dividend records"
+msgstr "分红记录"
+
+#: ../../policy/voken_shareholders_program.rst:68
+msgid "`Click here to view all`_."
+msgstr "`点击这里查看所有`_ 。"
+
+#: ../../policy/voken_shareholders_program.rst:75
 msgid "Deposit ETH"
 msgstr "存入 ETH"
 
-#: ../../policy/voken_shareholders_program.rst:67
+#: ../../policy/voken_shareholders_program.rst:77
 msgid "All ETH sent to the contract address will be used for dividends."
 msgstr "所有转入合约的 ETH 都将用于分红。"
 
-#: ../../policy/voken_shareholders_program.rst:69
+#: ../../policy/voken_shareholders_program.rst:79
 msgid ""
 "A certain percentage of ETH will be deposited into this contract "
 "automatically once a transaction of public-sale completed."
 msgstr "每笔销售完成后，一定比例的 ETH 将被存入此合约。"
 
-#: ../../policy/voken_shareholders_program.rst:72
+#: ../../policy/voken_shareholders_program.rst:82
 msgid "So, there is no need to send your ETH greater than 0 here personally."
 msgstr "所以，你不需要个人向此合约转入大于 0 的 ETH 。"
 
-#: ../../policy/voken_shareholders_program.rst:77
+#: ../../policy/voken_shareholders_program.rst:87
 msgid "Cannot transfer these Voken before..."
 msgstr "在以下时间前，不可以转出 Voken"
 
-#: ../../policy/voken_shareholders_program.rst:79
+#: ../../policy/voken_shareholders_program.rst:89
 msgid ""
 "You cannot transfer these Voken before ``2020-08-30 23:59:59 UTC``. It will "
 "then be released daily in two months."

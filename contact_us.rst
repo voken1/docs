@@ -15,6 +15,15 @@ Official Website
 - https://vision.network/zh-cn (Simplified Chinese)
 
 
+
+|logo_email|
+
+E-mail
+------
+support@vision.network
+
+
+
 |logo_github|
 
 GitHub
@@ -55,6 +64,10 @@ Documentations
 
 
 .. |logo_earth| image:: /_static/logos/earth.svg
+   :width: 36px
+   :height: 36px
+
+.. |logo_email| image:: /_static/logos/email.svg
    :width: 36px
    :height: 36px
 

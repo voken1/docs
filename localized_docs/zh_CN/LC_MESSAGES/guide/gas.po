@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-25 00:24+0800\n"
+"POT-Creation-Date: 2019-08-29 03:05+0800\n"
 "PO-Revision-Date: 2019-02-22 07:10+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -44,39 +44,84 @@ msgid ""
 msgstr "Gas 是使用以太坊的计量和燃料。``Gas limit`` 即是手动设置一笔以太坊交易的最大 gas 数量。"
 
 #: ../../guide/gas.rst:19
-msgid ""
-"In most contract transactions related to **Vision Network**, we recommend "
-"setting ``gas limit`` to ``6,500,000`` uniformly. Gas will not be wasted, "
-"the actual miner fee will only be calculated on demand, and the remaining "
-"portion will be automatically returned to the wallet balance."
-msgstr ""
-"在与 **Vision Network 远景网络** 相关的大多数合约交易中，我们推荐将 ``gas limit`` 设置为 ``6,500,000``"
-" 。Gas 并不会被浪费，实际的矿工费是按需计算，剩余部分将会被自动退回到钱包余额。"
+msgid "For transactions related to **Vision Network**, here is a form:"
+msgstr "与 **Vision Network 远景网络** 相关的交易，这里有一个表格："
+
+#: ../../guide/gas.rst:22
+msgid "Usage"
+msgstr "用途"
+
+#: ../../guide/gas.rst:22
+msgid "Minimum"
+msgstr "最小值"
+
+#: ../../guide/gas.rst:24
+msgid "Voken2.0 transfer"
+msgstr "Voken2.0 转账"
+
+#: ../../guide/gas.rst:24
+msgid "100,000"
+msgstr "100,000"
+
+#: ../../guide/gas.rst:25
+msgid "Join the whitelist"
+msgstr "加入白名单"
+
+#: ../../guide/gas.rst:25
+msgid "600,000"
+msgstr "600,000"
+
+#: ../../guide/gas.rst:26
+msgid ":ref:`voken2_sale`"
+msgstr ":ref:`voken2_sale`"
+
+#: ../../guide/gas.rst:26
+msgid "6,500,000"
+msgstr "6,500,000"
 
 #: ../../guide/gas.rst:27
+msgid "Withdraw dividend from :ref:`voken2_shareholders_contract`"
+msgstr "从 :ref:`voken2_shareholders_contract` 取出分红"
+
+#: ../../guide/gas.rst:27
+msgid "300,000"
+msgstr "300,000"
+
+#: ../../guide/gas.rst:30
+msgid ""
+"Gas will not be wasted, the actual miner fee will only be calculated on "
+"demand, and the remaining portion will be automatically returned to the "
+"wallet balance."
+msgstr "Gas 并不会被浪费，实际的矿工费是按需计算，剩余部分将会被自动退回到钱包余额。"
+
+#: ../../guide/gas.rst:36
 msgid ""
 "There is an article here `Ethereum, Gas, Fuel & Fees. (English, by Joseph "
 "Chow)`_, that can be used as an extended reading material."
 msgstr ""
 "这里有一篇文章 `Ethereum, Gas, Fuel & Fees. (English, by Joseph Chow)`_，可用作扩展阅读材料。"
 
-#: ../../guide/gas.rst:35
+#: ../../guide/gas.rst:44
 msgid "Gas price"
 msgstr "Gas price - Gas 价格"
 
-#: ../../guide/gas.rst:37
+#: ../../guide/gas.rst:46
 msgid "``Gas price`` is the price of gas, its unit is ``gwei``."
 msgstr "``Gas price`` 就是 gas 的价格，它的单位是 ``gwei`` 。"
 
-#: ../../guide/gas.rst:39
+#: ../../guide/gas.rst:48
 msgid ""
 "Generally speaking, the higher the price is set, the faster the Ethereum "
 "miners will process your transaction. But reasonable settings can avoid "
 "unnecessary waste without having to grab time."
 msgstr "一般来说，价格设置越高，以太坊矿工就会越快的处理您的交易。而在不必要抢时间的情况下，合理的设置能够避免不必要的浪费。"
 
-#: ../../guide/gas.rst:44
+#: ../../guide/gas.rst:53
 msgid ""
 "There is a website `ETH Gas Station`_ you should know, you can read the "
 "current ``Gas price`` easily."
 msgstr "`ETH Gas Station`_ 这个工具网站能让你很容易的读到当前最新的 ``Gas price`` 。"
+
+#: ../../guide/gas.rst:66
+msgid "Both **FAST** and **STANDARD** is recommended."
+msgstr "**FAST 快速** 和 **STANDARD 标准** 都是推荐的。"

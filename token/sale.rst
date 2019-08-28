@@ -229,10 +229,9 @@ Send ETH, and receive Vokens
 
 Matters needing attention and operation instruction:
 
-- :ref:`guide_for_voken_sale_whitelist`
-- :ref:`guide_for_voken_sale`
-- :ref:`guide_for_gas`
-- ...
+.. ref:`guide_for_voken_sale_whitelist`
+   :ref:`guide_for_voken_sale`
+   :ref:`guide_for_gas`
 
 .. NOTE::
    We have made a series of security settings in the contract,

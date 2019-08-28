@@ -24,6 +24,8 @@ you will receive exactly **1,001 Voken2.0** and all the unused ETH automatically
    Set ``gas limit`` to ``200,000`` or more,
    the rest will be returned automatically.
 
+   Related link: :ref:`gas`
+
 
 To use this contract, you must meet these two conditions
 --------------------------------------------------------

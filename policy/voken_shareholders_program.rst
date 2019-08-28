@@ -53,11 +53,21 @@ By sending **0 ETH** the contract address, you can **withdraw** dividend which i
 
 **0x7712F76D2A52141D44461CDbC8b660506DCAB752**
 
-
 .. NOTE::
 
-   Set ``gas limit`` to ``600,000`` or more,
+   Set ``gas limit`` to ``300,000`` or more,
    the rest will be returned automatically.
+
+   Related link: :ref:`gas`
+
+
+
+Dividend records
+----------------
+
+`Click here to view all`_.
+
+.. _Click here to view all: https://etherscan.io/txsInternal?a=0x7712f76d2a52141d44461cdbc8b660506dcab752
 
 
 

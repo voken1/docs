@@ -33,6 +33,13 @@ Send your **Voken** to the :ref:`voken2_shareholders_contract` address below:
 
 **0x7712F76D2A52141D44461CDbC8b660506DCAB752**
 
+.. NOTE::
+
+   Set ``gas limit`` to ``60,000`` or more,
+   the rest will be returned automatically.
+
+   Related link: :ref:`gas`
+
 
 
 You will receive

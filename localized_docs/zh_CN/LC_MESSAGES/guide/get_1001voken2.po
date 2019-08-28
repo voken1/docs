@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-26 00:14+0800\n"
+"POT-Creation-Date: 2019-08-29 03:26+0800\n"
 "PO-Revision-Date: 2019-08-25 11:17+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -54,7 +54,11 @@ msgid ""
 "automatically."
 msgstr "请将 ``gas limit`` 设置为 ``200,000`` 或更多，剩余部分将自动退回。"
 
-#: ../../guide/get_1001voken2.rst:29
+#: ../../guide/get_1001voken2.rst:27
+msgid "Related link: :ref:`gas`"
+msgstr "相关链接： :ref:`gas`"
+
+#: ../../guide/get_1001voken2.rst:31
 msgid "To use this contract, you must meet these two conditions"
 msgstr "使用这个合约，您必须满足两个条件"
 
@@ -77,7 +81,7 @@ msgid ""
 "transaction)."
 msgstr "你发送的交易总金额需要为 **1 ETH 或更多** （所有未使用的 ETH 将会被合约自动退款，就在同一笔交易里）"
 
-#: ../../guide/get_1001voken2.rst:37
+#: ../../guide/get_1001voken2.rst:39
 msgid ""
 "Transactions that do not meet the conditions will be automatically reverted "
 "by the contract."

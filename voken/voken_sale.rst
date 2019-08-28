@@ -170,6 +170,12 @@ Finally, the amount is `52,631.578947 + 52,631.578947 =` **105,263.157894 Voken2
 Send ETH, and receive Voken2.0
 ------------------------------
 
+#. Just **USE YOUR OWN ETH WALLET**
+#. **SEND ETH TO THE CONTRACT ADDRESS BELOW**
+#. and you will **RECEIVE VOKEN2.0 AUTOMATICALLY**
+#. :ref:`how_to_join_the_whitelist`
+
+.. guide_for_voken_sale
 
 .. image:: /_static/contract/qrcode_voken2_sale.svg
    :width: 35 %
@@ -177,17 +183,10 @@ Send ETH, and receive Voken2.0
 
 **0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**
 
-1. Just **USE YOUR OWN ETH WALLET**
-2. **SEND ETH TO THE CONTRACT ADDRESS ABOVE**
-3. and you will **RECEIVE VOKEN2.0 AUTOMATICALLY**
-
-Matters needing attention and operation instruction:
-
-- :ref:`guide_for_gas`
-
-.. guide_for_voken_sale_whitelist
-   guide_for_voken_sale
-
 
 .. NOTE::
-   Make sure you have set ``gas limit`` to ``6,500,000``.
+   Make sure you have set ``gas limit`` to ``6,500,000`` or more,
+   the rest will be returned automatically.
+
+   Related link: :ref:`gas`
+

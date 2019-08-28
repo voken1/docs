@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-25 03:51+0800\n"
+"POT-Creation-Date: 2019-08-29 03:41+0800\n"
 "PO-Revision-Date: 2019-08-23 13:34+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -387,30 +387,32 @@ msgstr "最终总量是 `52,631.578947 + 52,631.578947 =` **105,263.157894 Voken
 msgid "Send ETH, and receive Voken2.0"
 msgstr "发送 ETH 并接收 Voken2.0"
 
-#: ../../voken/voken_sale.rst:178
-msgid "**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
-msgstr "**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
-
-#: ../../voken/voken_sale.rst:180
+#: ../../voken/voken_sale.rst:173
 msgid "Just **USE YOUR OWN ETH WALLET**"
 msgstr "只需 **使用您的以太坊钱包**"
 
-#: ../../voken/voken_sale.rst:181
-msgid "**SEND ETH TO THE CONTRACT ADDRESS ABOVE**"
-msgstr "**发送 ETH 到上边的合约地址**"
+#: ../../voken/voken_sale.rst:174
+msgid "**SEND ETH TO THE CONTRACT ADDRESS BELOW**"
+msgstr "**发送 ETH 到下方的合约地址**"
 
-#: ../../voken/voken_sale.rst:182
+#: ../../voken/voken_sale.rst:175
 msgid "and you will **RECEIVE VOKEN2.0 AUTOMATICALLY**"
 msgstr "然后您将 **自动收到对应的 Voken2.0**"
 
+#: ../../voken/voken_sale.rst:176
+msgid ":ref:`how_to_join_the_whitelist`"
+msgstr ":ref:`how_to_join_the_whitelist`"
+
 #: ../../voken/voken_sale.rst:184
-msgid "Matters needing attention and operation instruction:"
-msgstr "注意事项和操作指导："
+msgid "**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
+msgstr "**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
 
-#: ../../voken/voken_sale.rst:186
-msgid ":ref:`guide_for_gas`"
-msgstr ":ref:`guide_for_gas`"
+#: ../../voken/voken_sale.rst:188
+msgid ""
+"Make sure you have set ``gas limit`` to ``6,500,000`` or more, the rest will"
+" be returned automatically."
+msgstr "请将 ``gas limit`` 设置为 ``6,500,000`` 或更多，剩余部分将自动退回。"
 
-#: ../../voken/voken_sale.rst:193
-msgid "Make sure you have set ``gas limit`` to ``6,500,000``."
-msgstr "请确保您已经设置 ``gas limit`` 为 ``6,500,000`` 。"
+#: ../../voken/voken_sale.rst:191
+msgid "Related link: :ref:`gas`"
+msgstr "相关链接： :ref:`gas`"

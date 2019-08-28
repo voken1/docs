@@ -15,3 +15,4 @@ Hot to join the whitelist
    Set ``gas limit`` to ``600,000`` or more,
    the rest will be returned automatically.
 
+   Related link: :ref:`gas`

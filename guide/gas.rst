@@ -1,4 +1,4 @@
-.. _guide_for_gas:
+.. _gas:
 
 How to set ``gas limit`` and ``gas price``?
 ===========================================
@@ -16,19 +16,28 @@ As a **BRIEF SUMMARY**:
    ``Gas limit`` is the maximum number of gas used
    to manually set up an Ethereum transaction.
 
-   In most contract transactions related to **Vision Network**,
-   we recommend setting ``gas limit`` to ``6,500,000`` uniformly.
+   For transactions related to **Vision Network**, here is a form:
+
+   ===========================================================  =========
+   Usage                                                        Minimum
+   ===========================================================  =========
+   Voken2.0 transfer                                            100,000
+   Join the whitelist                                           600,000
+   :ref:`voken2_sale`                                           6,500,000
+   Withdraw dividend from :ref:`voken2_shareholders_contract`   300,000
+   ===========================================================  =========
+
    Gas will not be wasted,
    the actual miner fee will only be calculated on demand,
    and the remaining portion will be automatically returned
    to the wallet balance.
 
+.. NOTE::
+   There is an article here `Ethereum, Gas, Fuel & Fees. (English, by Joseph Chow)`_,
+   that can be used as an extended reading material.
 
-There is an article here `Ethereum, Gas, Fuel & Fees. (English, by Joseph Chow)`_,
-that can be used as an extended reading material.
-
-.. _Ethereum, Gas, Fuel & Fees. (English, by Joseph Chow):
-   https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc
+   .. _Ethereum, Gas, Fuel & Fees. (English, by Joseph Chow):
+       https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc
 
 
 Gas price
@@ -48,7 +57,11 @@ you can read the current ``Gas price`` easily.
    https://ethgasstation.info/
 
 
-.. image:: /_static/wallet/eth_gas_station.png
+.. image:: /_static/guide/gas.png
    :width: 100 %
    :alt: formula.gif
    :align: center
+
+
+Both **FAST** and **STANDARD** is recommended.
+

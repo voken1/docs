@@ -16,6 +16,10 @@ Welcome to vision.network!
       - https://vision.network/
       - https://vision.network/zh-cn (Simplified Chinese)
 
+   |logo_email|
+
+   E-mail
+      support@vision.network
 
    |logo_github|
 
@@ -77,6 +81,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    policy/voken_referral_program
    guide/how_to_join_the_whitelist
    guide/get_1001voken2
+   guide/how_to_query
    revision
 .. policy/voken_community_alliance_program
 
@@ -276,6 +281,10 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 
 .. |logo_earth| image:: /_static/logos/earth.svg
+   :width: 36px
+   :height: 36px
+
+.. |logo_email| image:: /_static/logos/email.svg
    :width: 36px
    :height: 36px
 

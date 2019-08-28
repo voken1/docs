@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-14 14:34+0800\n"
+"POT-Creation-Date: 2019-08-29 02:50+0800\n"
 "PO-Revision-Date: 2019-05-06 06:21+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -42,54 +42,66 @@ msgstr "https://vision.network/"
 msgid "https://vision.network/zh-cn (Simplified Chinese)"
 msgstr "https://vision.network/zh-cn （简体中文）"
 
-#: ../../contact_us.rst:18
+#: ../../contact_us.rst:19
+msgid "|logo_email|"
+msgstr ""
+
+#: ../../contact_us.rst:22
+msgid "E-mail"
+msgstr ""
+
+#: ../../contact_us.rst:23
+msgid "support@vision.network"
+msgstr ""
+
+#: ../../contact_us.rst:27
 msgid "|logo_github|"
 msgstr "|logo_github|"
 
-#: ../../contact_us.rst:21
+#: ../../contact_us.rst:30
 msgid "GitHub"
 msgstr "GitHub"
 
-#: ../../contact_us.rst:22
+#: ../../contact_us.rst:31
 msgid "https://github.com/voken100g"
 msgstr "https://github.com/voken100g"
 
-#: ../../contact_us.rst:26
+#: ../../contact_us.rst:35
 msgid "|logo_telegram|"
 msgstr "|logo_telegram|"
 
-#: ../../contact_us.rst:31
+#: ../../contact_us.rst:40
 msgid "Telegram Group"
 msgstr "电报群组"
 
-#: ../../contact_us.rst:33
+#: ../../contact_us.rst:42
 msgid "https://t.me/voken100g"
 msgstr "https://t.me/voken100g"
 
-#: ../../contact_us.rst:34
+#: ../../contact_us.rst:43
 msgid "https://t.me/vokenCN (Chinese Group)"
 msgstr "https://t.me/vokenCN （中文组）"
 
-#: ../../contact_us.rst:40
+#: ../../contact_us.rst:49
 msgid "Telegram Channel"
 msgstr "电报新闻频道"
 
-#: ../../contact_us.rst:42
+#: ../../contact_us.rst:51
 msgid "https://t.me/vokenNews"
 msgstr "https://t.me/vokenNews"
 
-#: ../../contact_us.rst:46
+#: ../../contact_us.rst:55
 msgid "|logo_doc|"
 msgstr "|logo_doc|"
 
-#: ../../contact_us.rst:51
+#: ../../contact_us.rst:60
 msgid "Documentations"
 msgstr "项目文档"
 
-#: ../../contact_us.rst:53
+#: ../../contact_us.rst:62
 msgid "https://voken.io/"
 msgstr "https://voken.io/"
 
-#: ../../contact_us.rst:54
+#: ../../contact_us.rst:63
 msgid "https://voken.io/zh_CN/latest/ (Simplified Chinese)"
 msgstr "https://voken.io/zh_CN/latest/ （简体中文）"
