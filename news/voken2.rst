@@ -180,7 +180,8 @@ One contract for data query
 - Sales data
 - more...
 
-#TBC
+:ref:`how_to_query`
+
 
 
 Voken 2.0 Community Alliance Program
