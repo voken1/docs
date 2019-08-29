@@ -1,0 +1,50 @@
+.. _report_20190829:
+
+Report: Aug 29th 2019
+=====================
+
+.. sidebar:: Progress reports
+
+   - :ref:`report_20190811`
+   - :ref:`report_20190719`
+   - :ref:`report_20190619`
+   - :ref:`summary2019`
+   - :ref:`summary2018`
+
+
+Global
+------
+
+- :ref:`voken2_main_contract` deployed
+- :ref:`news_voken2` published
+- :ref:`voken2_shareholders_contract` deployed
+- :ref:`voken2_shareholders_program` published
+- :ref:`voken2_migration` published
+- :ref:`voken2_sale_contract` deployed
+- :ref:`voken2_sale` upgraded
+- :ref:`voken_referral_program` upgraded
+- :ref:`how_to_join_the_whitelist` upgraded
+- :ref:`get_1001voken_contract` deployed
+- :ref:`get_1001voken2` published
+- :ref:`query_panel_contract` deployed
+- Keep updating :ref:`voken2_migration_report` in :ref:`voken2_migration`
+
+.. ref:`how_to_query` published
+
+
+
+Core
+----
+
+- vnTEST-NET environment: support 31 core nodes and lots of nodes
+- A node simulation test-tool
+- Optimize android-demo plan
+- Synchronization of core-node list on node-side
+- Function for keystore saving on node and core-node
+- UI for initialization and log-in on node-side
+- Temporary wallet on core-node to meet the log-in from an non-transaction address
+
+
+by Vision.Network Project Team
+
+Aug 29th 2019

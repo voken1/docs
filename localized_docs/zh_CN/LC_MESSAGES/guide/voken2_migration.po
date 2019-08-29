@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-29 03:36+0800\n"
+"POT-Creation-Date: 2019-08-29 18:53+0800\n"
 "PO-Revision-Date: 2019-08-23 14:31+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -156,158 +156,174 @@ msgstr "在上述时间之后，原始合约的转账功能将停止。未完成
 msgid "The project team and early angel investors had no sales dividends."
 msgstr "项目团队和早期天使投资者没有销售红利。"
 
-#: ../../guide/voken2_migration.rst:88
+#: ../../guide/voken2_migration.rst:89
 msgid "Migration progress report"
 msgstr "迁移进度报告"
 
-#: ../../guide/voken2_migration.rst:90
+#: ../../guide/voken2_migration.rst:91
 msgid "View :ref:`voken2_shareholders_contract` on Etherscan.io:"
 msgstr "在 Etherscan.io 查看 :ref:`voken2_shareholders_contract` ："
 
-#: ../../guide/voken2_migration.rst:92
+#: ../../guide/voken2_migration.rst:93
 msgid "`Voken txs on 0x7712F76D2A52141D44461CDbC8b660506DCAB752`_"
 msgstr "`0x7712F76D2A52141D44461CDbC8b660506DCAB752 的 Voken 转账`_"
 
-#: ../../guide/voken2_migration.rst:99
+#: ../../guide/voken2_migration.rst:100
 msgid "Date and time"
 msgstr "日期和时间"
 
-#: ../../guide/voken2_migration.rst:99
+#: ../../guide/voken2_migration.rst:100
 msgid "Addresses"
 msgstr "地址数"
 
-#: ../../guide/voken2_migration.rst:99
+#: ../../guide/voken2_migration.rst:100
 msgid "Voken"
 msgstr "Voken 数量"
 
-#: ../../guide/voken2_migration.rst:99
+#: ../../guide/voken2_migration.rst:100
 msgid "Voken2.0"
 msgstr "Voken2.0 数量"
 
-#: ../../guide/voken2_migration.rst:101
+#: ../../guide/voken2_migration.rst:102
 msgid "2019-08-24 19:39:41 UTC"
 msgstr "2019-08-24 19:39:41 UTC"
 
-#: ../../guide/voken2_migration.rst:101
+#: ../../guide/voken2_migration.rst:102
 msgid "169"
 msgstr "169"
 
-#: ../../guide/voken2_migration.rst:101
+#: ../../guide/voken2_migration.rst:102
 msgid "192,775,612.581588"
 msgstr "192,775,612.581588"
 
-#: ../../guide/voken2_migration.rst:101
+#: ../../guide/voken2_migration.rst:102
 msgid "256,456,165.529807"
 msgstr "256,456,165.529807"
 
-#: ../../guide/voken2_migration.rst:102
+#: ../../guide/voken2_migration.rst:103
 msgid "2019-08-25 23:59:07 UTC"
 msgstr "2019-08-25 23:59:07 UTC"
 
-#: ../../guide/voken2_migration.rst:102
+#: ../../guide/voken2_migration.rst:103
 msgid "418"
 msgstr "418"
 
-#: ../../guide/voken2_migration.rst:102
+#: ../../guide/voken2_migration.rst:103
 msgid "991,979,423.999787"
 msgstr "991,979,423.999787"
 
-#: ../../guide/voken2_migration.rst:102
+#: ../../guide/voken2_migration.rst:103
 msgid "1,316,988,024.930678"
 msgstr "1,316,988,024.930678"
 
-#: ../../guide/voken2_migration.rst:103
+#: ../../guide/voken2_migration.rst:104
 msgid "2019-08-26 01:19:28 UTC"
 msgstr "2019-08-26 01:19:28 UTC"
 
-#: ../../guide/voken2_migration.rst:103
+#: ../../guide/voken2_migration.rst:104
 msgid "429"
 msgstr "429"
 
-#: ../../guide/voken2_migration.rst:103
+#: ../../guide/voken2_migration.rst:104
 msgid "997,160,055.841481"
 msgstr "997,160,055.841481"
 
-#: ../../guide/voken2_migration.rst:103
+#: ../../guide/voken2_migration.rst:104
 msgid "1,323,851,233.807258"
 msgstr "1,323,851,233.807258"
 
-#: ../../guide/voken2_migration.rst:104
+#: ../../guide/voken2_migration.rst:105
 msgid "2019-08-27 19:56:09 UTC"
 msgstr "2019-08-27 19:56:09 UTC"
 
-#: ../../guide/voken2_migration.rst:104
+#: ../../guide/voken2_migration.rst:105
 msgid "622"
 msgstr "622"
 
-#: ../../guide/voken2_migration.rst:104
+#: ../../guide/voken2_migration.rst:105
 msgid "1,063,917,520.446900"
 msgstr "1,063,917,520.446900"
 
-#: ../../guide/voken2_migration.rst:104
+#: ../../guide/voken2_migration.rst:105
 msgid "1,412,135,748.461221"
 msgstr "1,412,135,748.461221"
 
-#: ../../guide/voken2_migration.rst:110
+#: ../../guide/voken2_migration.rst:106
+msgid "2019-08-28 23:23:06 UTC"
+msgstr ""
+
+#: ../../guide/voken2_migration.rst:106
+msgid "682"
+msgstr ""
+
+#: ../../guide/voken2_migration.rst:106
+msgid "1,235,465,199.387908"
+msgstr ""
+
+#: ../../guide/voken2_migration.rst:106
+msgid "1,637,805,166.356042"
+msgstr ""
+
+#: ../../guide/voken2_migration.rst:112
 msgid "**Algorithm**"
 msgstr "**算法**"
 
-#: ../../guide/voken2_migration.rst:112
+#: ../../guide/voken2_migration.rst:114
 msgid "M = S * \\frac{(1598918399 - T)}{60 \\cdot 60 \\cdot 24 \\cdot 365} \\cdot 1.3"
 msgstr "M = S * \\frac{(1598918399 - T)}{60 \\cdot 60 \\cdot 24 \\cdot 365} \\cdot 1.3"
 
-#: ../../guide/voken2_migration.rst:116
+#: ../../guide/voken2_migration.rst:118
 msgid "**M** The amount of Voken2.0 you will receive"
 msgstr "**M** 你将收到的 Voken2.0 数量"
 
-#: ../../guide/voken2_migration.rst:117
+#: ../../guide/voken2_migration.rst:119
 msgid "**S** The amount of Voken you've sent"
 msgstr "**S** 你发送的 Voken 数量"
 
-#: ../../guide/voken2_migration.rst:118
+#: ../../guide/voken2_migration.rst:120
 msgid "**1598918399** The UNIX timestamp of ``2019-09-07 23:59:59 UTC``"
 msgstr "**1598918399** ``2019-09-07 23:59:59 UTC`` 的 UNIX 时间戳"
 
-#: ../../guide/voken2_migration.rst:119
+#: ../../guide/voken2_migration.rst:121
 msgid "**T** The timestamp of migration tx you've sent"
 msgstr "**T** 迁移交易的时间戳"
 
-#: ../../guide/voken2_migration.rst:120
+#: ../../guide/voken2_migration.rst:122
 msgid "**60 x60 x24 x365** The seconds of a year"
 msgstr "**60 x60 x24 x365** 一年的秒数"
 
-#: ../../guide/voken2_migration.rst:121
+#: ../../guide/voken2_migration.rst:123
 msgid "**1.3** 1 + 30%"
 msgstr "**1.3** 1 + 30%"
 
-#: ../../guide/voken2_migration.rst:123
+#: ../../guide/voken2_migration.rst:125
 msgid "For example:"
 msgstr "举例："
 
-#: ../../guide/voken2_migration.rst:125
+#: ../../guide/voken2_migration.rst:127
 msgid "Address: 0xc3B4EbECC0D668485a286d332b90Fb3927264AC3"
 msgstr "地址： 0xc3B4EbECC0D668485a286d332b90Fb3927264AC3"
 
-#: ../../guide/voken2_migration.rst:126
+#: ../../guide/voken2_migration.rst:128
 msgid "Sent: 1,000,000.000000 Voken"
 msgstr "发送： 1,000,000.000000 Voken"
 
-#: ../../guide/voken2_migration.rst:127
+#: ../../guide/voken2_migration.rst:129
 msgid ""
 "At tx hash: "
 "`0x54d93f56f4ffef379e3f37c81c42d07d9af0b148551f9626344019e4e726a2cd`_"
 msgstr ""
 "交易哈希： `0x54d93f56f4ffef379e3f37c81c42d07d9af0b148551f9626344019e4e726a2cd`_"
 
-#: ../../guide/voken2_migration.rst:128
+#: ../../guide/voken2_migration.rst:130
 msgid "Timestamp: 1566656611"
 msgstr "时间戳： 1566656611"
 
-#: ../../guide/voken2_migration.rst:133
+#: ../../guide/voken2_migration.rst:135
 msgid "That is:"
 msgstr "即："
 
-#: ../../guide/voken2_migration.rst:135
+#: ../../guide/voken2_migration.rst:137
 msgid ""
 "1,000,000.000000 \\cdot \\frac{(1598918399 - 1566656611)}{60 \\cdot 60 "
 "\\cdot 24 \\cdot 365} \\cdot 1.3 = 1,329,918.962455"
@@ -315,6 +331,6 @@ msgstr ""
 "1,000,000.000000 \\cdot \\frac{(1598918399 - 1566656611)}{60 \\cdot 60 "
 "\\cdot 24 \\cdot 365} \\cdot 1.3 = 1,329,918.962455"
 
-#: ../../guide/voken2_migration.rst:140
+#: ../../guide/voken2_migration.rst:142
 msgid "The result is: **1,329,918.962455 Voken2.0** he received."
 msgstr "结果是：收到 **1,329,918.962455 Voken2.0** 。"

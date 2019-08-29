@@ -83,6 +83,7 @@ Voken that has not completed the migration will be considered as no-own, and no 
 The project team and early angel investors had no sales dividends.
 
 
+.. _voken2_migration_report:
 
 Migration progress report
 -------------------------

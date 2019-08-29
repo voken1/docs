@@ -44,15 +44,15 @@ msgstr "https://vision.network/zh-cn （简体中文）"
 
 #: ../../contact_us.rst:19
 msgid "|logo_email|"
-msgstr ""
+msgstr "|logo_email|"
 
 #: ../../contact_us.rst:22
 msgid "E-mail"
-msgstr ""
+msgstr "电子邮件"
 
 #: ../../contact_us.rst:23
 msgid "support@vision.network"
-msgstr ""
+msgstr "support@vision.network"
 
 #: ../../contact_us.rst:27
 msgid "|logo_github|"

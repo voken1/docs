@@ -176,9 +176,9 @@ More details: :ref:`voken2_sale`
 One contract for data query
 ---------------------------
 
-- Whitelisted
-- Sales data
-- more...
+- Whitelisted verification for a specific ETH wallet address
+- Shareholders data
+- Public-sale data
 
 :ref:`how_to_query`
 

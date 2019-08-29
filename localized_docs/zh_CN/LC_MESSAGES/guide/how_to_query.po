@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-29 02:50+0800\n"
+"POT-Creation-Date: 2019-08-29 18:30+0800\n"
 "PO-Revision-Date: 2019-08-28 19:17+0000\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -106,7 +106,7 @@ msgid "whitelistReferralsCount"
 msgstr ""
 
 #: ../../guide/how_to_query.rst:50
-msgid "The quantity of whitelisted addresses of referrals."
+msgid "The quantity of whitelisted referrals, from the given address."
 msgstr ""
 
 #: ../../guide/how_to_query.rst:53

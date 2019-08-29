@@ -47,7 +47,7 @@ whitelisted
    ``True`` means the address is whitelisted already, and ``False`` for not.
 
 whitelistReferralsCount
-   The quantity of whitelisted addresses of referrals.
+   The quantity of whitelisted referrals, from the given address.
 
 balance
    Balance of Voken2.0, with 6 decimals.
