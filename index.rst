@@ -216,7 +216,6 @@ more open, more equal, more stable, more efficient, safer and freer.
    :caption: Contribute
 
    contributing/contribute
-   contributing/v5
    contributing/ex_plan
    contributing/chat
    contributing/donate

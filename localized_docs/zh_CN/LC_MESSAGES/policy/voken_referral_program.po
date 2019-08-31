@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-25 22:45+0800\n"
+"POT-Creation-Date: 2019-08-31 12:04+0800\n"
 "PO-Revision-Date: 2019-04-11 14:19+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -28,11 +28,11 @@ msgstr "Voken 2.0 转介引荐计划"
 
 #: ../../policy/voken_referral_program.rst:6
 msgid ""
-"By sharing your whitelisted ETH wallet address, you will earn ETH and "
-"Voken2.0."
-msgstr "通过分享您的白名单地址，您可以赚取 ETH 和 Vokens2.0 。"
+"Help improve the Vision Network ecosystem, strengthen the network, promote "
+"consensus, and **earn ETH and Voken2.0**."
+msgstr "共同建设远景网络生态系统、增加网络健壮性、促进共识，同时 **赚取 ETH 和 Voken2.0** 。"
 
-#: ../../policy/voken_referral_program.rst:9
+#: ../../policy/voken_referral_program.rst:10
 msgid ""
 "Within the 15 levels that you refer to the whitelist, you will not only "
 "receive whitelist registration rewards (sums up to 1,000 Voken2.0), but also"
@@ -42,346 +42,313 @@ msgstr ""
 "在您的转介注册白名单的推荐关系 15 级内，您将不仅能收到白名单注册奖励（共 1,000 Voken2.0），在 :ref:`voken2_sale` "
 "过程中还能赚取佣金奖励（销售收入的 35%）。"
 
-#: ../../policy/voken_referral_program.rst:15
-msgid ""
-"Help improve the Vision Network ecosystem, strengthen the network, promote "
-"consensus, and **earn ETH and Voken2.0**."
-msgstr "共同建设远景网络生态系统、增加网络健壮性、促进共识，同时 **赚取 ETH 和 Voken2.0** 。"
+#: ../../policy/voken_referral_program.rst:16
+msgid "Don't have an ETH wallet? Get one here: `imToken`_, `MyEtherWallet`_."
+msgstr "还没有 ETH 以太坊钱包？来这里开通： `imToken`_ ， `MyEtherWallet`_ 。"
 
-#: ../../policy/voken_referral_program.rst:19
-msgid "Don't have an ETH wallet? Get one here: `MyEtherWallet`_, `imToken`_"
-msgstr "还没有一个 ETH 钱包？来这里获取： `MyEtherWallet`_ ， `imToken`_"
+#: ../../policy/voken_referral_program.rst:24
+msgid "Referral Rewards"
+msgstr "推荐奖励"
 
 #: ../../policy/voken_referral_program.rst:26
-msgid "Whitelist Registration Referral Reward: 100%"
-msgstr "白名单注册推荐奖励： 100%"
-
-#: ../../policy/voken_referral_program.rst:28
 msgid ""
-"Anyone who participate in the :ref:`voken2_sale` by using a whitelisted ETH "
-"wallet address would enjoy a gift of **BUY ONE AND GET ONE MORE FREE**."
-msgstr "白名单中的钱包地址参加 :ref:`voken2_sale` 可享受 **买一送一** 赠送。"
+"By sharing your whitelisted ETH wallet address, you will **earn ETH and "
+"Voken2.0**:"
+msgstr "通过分享您的白名单地址，您可以 **赚取 ETH 和 Vokens2.0** 。"
+
+#: ../../policy/voken_referral_program.rst:29
+msgid ""
+"Anyone who follow :ref:`how_to_join_the_whitelist` by using your whitelisted"
+" address, you will get the whitelist reward."
+msgstr "任何人使用你的白名单地址按 :ref:`how_to_join_the_whitelist` 注册白名单，你将获得白名单奖励。"
 
 #: ../../policy/voken_referral_program.rst:31
 msgid ""
-"Sign-up each whitelist wallet address needs ``1,001 Voken2.0``, and a "
-"referrer's wallet address is needed which is already whitelisted."
-msgstr "注册一个白名单需要 ``1,001 Voken2.0`` ，并需要填入已在白名单中引荐人的地址才能注册。"
+"And if he participate in the :ref:`voken2_sale` then, by using this "
+"whitelisted address, he will enjoy a gift of **BUY ONE AND GET ONE MORE "
+"FREE**, and you get the sales reward."
+msgstr "然后如果他使用个白名单中的钱包地址参加 :ref:`voken2_sale` 他可享受 **买一送一** 赠送，而你获得销售奖励。"
 
-#: ../../policy/voken_referral_program.rst:34
+#: ../../policy/voken_referral_program.rst:35
 msgid ""
 "The **whitelist referral relationship chain** data will be saved to "
 ":ref:`voken2_main_contract` on the Ethereum blockchain, which cannot be "
 "tampered."
 msgstr "**白名单推荐关系链** 数据将被存储在以太坊区块链上永久运行的 :ref:`voken2_main_contract` ，不可篡改。"
 
-#: ../../policy/voken_referral_program.rst:37
+#: ../../policy/voken_referral_program.rst:38
 msgid ""
-"``1,000 Voken2.0`` will be **used as rewards**, and ``1 Voken2.0`` will be "
-"returned as a success signal."
-msgstr "``1,000 Voken2.0`` 将被 **用于** ，并有 ``1 Voken2.0`` 将被退回作为一个成功信号。"
-
-#: ../../policy/voken_referral_program.rst:39
-msgid ""
-"Settled with Voken2.0, will transfer to your wallet addresses automatically "
-"and immediately, process by contract."
-msgstr "使用 Voken2.0 实时结算，转账到您的钱包地址，由合约自动执行。"
+"You can enjoy one more level reward for each referral, up to 15 levels (15+ "
+"referrals):"
+msgstr "每多 1 个引荐，你可以获得一级奖励，最多 15 级（15 个以上引荐）："
 
 #: ../../policy/voken_referral_program.rst:42
-msgid ""
-"Get one more level for each registration with your whitelisted address, "
-"``300 Voken2.0`` for direct referral reward (Lv.1, default), up to 15 levels"
-" (15+ referrals):"
-msgstr ""
-"使用您的白名单地址每多推荐 1 个白名单注册，就可以得 1 级奖励，直接推荐关系（Lv.1）默认奖励 ``300 Voken2.0`` ，最高 15 "
-"级（15 个以上引荐注册）："
-
-#: ../../policy/voken_referral_program.rst:47
-#: ../../policy/voken_referral_program.rst:87
 msgid "Referrals"
 msgstr "推荐数"
 
-#: ../../policy/voken_referral_program.rst:47
-#: ../../policy/voken_referral_program.rst:87
+#: ../../policy/voken_referral_program.rst:42
 msgid "Level"
 msgstr "层级"
 
-#: ../../policy/voken_referral_program.rst:47
-msgid "Reward (1,000 Voken2.0 Total)"
-msgstr "奖励（共 1,000 Voken2.0）"
+#: ../../policy/voken_referral_program.rst:0
+msgid "Whitelist Reward"
+msgstr "白名单奖励"
 
-#: ../../policy/voken_referral_program.rst:49
-#: ../../policy/voken_referral_program.rst:89
+#: ../../policy/voken_referral_program.rst:0
+msgid "1,000 Voken2.0 Total"
+msgstr "共 1,000 Voken2.0"
+
+#: ../../policy/voken_referral_program.rst:0
+msgid "Sales Reward"
+msgstr "销售奖励"
+
+#: ../../policy/voken_referral_program.rst:0
+msgid "35% ETH Total"
+msgstr "共 35% ETH"
+
+#: ../../policy/voken_referral_program.rst:45
 msgid ">= 1"
 msgstr ">= 1"
 
-#: ../../policy/voken_referral_program.rst:49
-#: ../../policy/voken_referral_program.rst:89
+#: ../../policy/voken_referral_program.rst:45
 msgid "Lv.1"
 msgstr "Lv.1"
 
-#: ../../policy/voken_referral_program.rst:49
+#: ../../policy/voken_referral_program.rst:45
 msgid "**300 Voken2.0**"
 msgstr "**300 Voken2.0**"
 
-#: ../../policy/voken_referral_program.rst:50
-#: ../../policy/voken_referral_program.rst:90
+#: ../../policy/voken_referral_program.rst:45
+msgid "**6% ETH**"
+msgstr "**6% ETH**"
+
+#: ../../policy/voken_referral_program.rst:46
 msgid ">= 2"
 msgstr ">= 2"
 
-#: ../../policy/voken_referral_program.rst:50
-#: ../../policy/voken_referral_program.rst:90
+#: ../../policy/voken_referral_program.rst:46
 msgid "Lv.2"
 msgstr "Lv.2"
 
-#: ../../policy/voken_referral_program.rst:50
+#: ../../policy/voken_referral_program.rst:46
 msgid "200 Voken2.0"
 msgstr "200 Voken2.0"
 
-#: ../../policy/voken_referral_program.rst:51
-#: ../../policy/voken_referral_program.rst:91
+#: ../../policy/voken_referral_program.rst:46
+#: ../../policy/voken_referral_program.rst:47
+msgid "6% ETH"
+msgstr "6% ETH"
+
+#: ../../policy/voken_referral_program.rst:47
 msgid ">= 3"
 msgstr ">= 3"
 
-#: ../../policy/voken_referral_program.rst:51
-#: ../../policy/voken_referral_program.rst:91
+#: ../../policy/voken_referral_program.rst:47
 msgid "Lv.3"
 msgstr "Lv.3"
 
-#: ../../policy/voken_referral_program.rst:51
-#: ../../policy/voken_referral_program.rst:52
-#: ../../policy/voken_referral_program.rst:53
+#: ../../policy/voken_referral_program.rst:47
+#: ../../policy/voken_referral_program.rst:48
+#: ../../policy/voken_referral_program.rst:49
 msgid "100 Voken2.0"
 msgstr "100 Voken2.0"
 
-#: ../../policy/voken_referral_program.rst:52
-#: ../../policy/voken_referral_program.rst:92
+#: ../../policy/voken_referral_program.rst:48
 msgid ">= 4"
 msgstr ">= 4"
 
-#: ../../policy/voken_referral_program.rst:52
-#: ../../policy/voken_referral_program.rst:92
+#: ../../policy/voken_referral_program.rst:48
 msgid "Lv.4"
 msgstr "Lv.4"
 
-#: ../../policy/voken_referral_program.rst:53
-#: ../../policy/voken_referral_program.rst:93
+#: ../../policy/voken_referral_program.rst:48
+msgid "5% ETH"
+msgstr "5% ETH"
+
+#: ../../policy/voken_referral_program.rst:49
 msgid ">= 5"
 msgstr ">= 5"
 
-#: ../../policy/voken_referral_program.rst:53
-#: ../../policy/voken_referral_program.rst:93
+#: ../../policy/voken_referral_program.rst:49
 msgid "Lv.5"
 msgstr "Lv.5"
 
-#: ../../policy/voken_referral_program.rst:54
-#: ../../policy/voken_referral_program.rst:94
+#: ../../policy/voken_referral_program.rst:49
+msgid "4% ETH"
+msgstr "4% ETH"
+
+#: ../../policy/voken_referral_program.rst:50
 msgid ">= 6"
 msgstr ">= 6"
 
-#: ../../policy/voken_referral_program.rst:54
-#: ../../policy/voken_referral_program.rst:94
+#: ../../policy/voken_referral_program.rst:50
 msgid "Lv.6"
 msgstr "Lv.6"
 
-#: ../../policy/voken_referral_program.rst:54
+#: ../../policy/voken_referral_program.rst:50
 msgid "50 Voken2.0"
 msgstr "50 Voken2.0"
 
-#: ../../policy/voken_referral_program.rst:55
-#: ../../policy/voken_referral_program.rst:95
+#: ../../policy/voken_referral_program.rst:50
+msgid "3% ETH"
+msgstr "3% ETH"
+
+#: ../../policy/voken_referral_program.rst:51
 msgid ">= 7"
 msgstr ">= 7"
 
-#: ../../policy/voken_referral_program.rst:55
-#: ../../policy/voken_referral_program.rst:95
+#: ../../policy/voken_referral_program.rst:51
 msgid "Lv.7"
 msgstr "Lv.7"
 
-#: ../../policy/voken_referral_program.rst:55
+#: ../../policy/voken_referral_program.rst:51
 msgid "40 Voken2.0"
 msgstr "40 Voken2.0"
 
-#: ../../policy/voken_referral_program.rst:56
-#: ../../policy/voken_referral_program.rst:96
+#: ../../policy/voken_referral_program.rst:51
+msgid "2% ETH"
+msgstr "2% ETH"
+
+#: ../../policy/voken_referral_program.rst:52
 msgid ">= 8"
 msgstr ">= 8"
 
-#: ../../policy/voken_referral_program.rst:56
-#: ../../policy/voken_referral_program.rst:96
+#: ../../policy/voken_referral_program.rst:52
 msgid "Lv.8"
 msgstr "Lv.8"
 
-#: ../../policy/voken_referral_program.rst:56
+#: ../../policy/voken_referral_program.rst:52
 msgid "30 Voken2.0"
 msgstr "30 Voken2.0"
 
+#: ../../policy/voken_referral_program.rst:52
+#: ../../policy/voken_referral_program.rst:53
+#: ../../policy/voken_referral_program.rst:54
+#: ../../policy/voken_referral_program.rst:55
+#: ../../policy/voken_referral_program.rst:56
 #: ../../policy/voken_referral_program.rst:57
-#: ../../policy/voken_referral_program.rst:97
+#: ../../policy/voken_referral_program.rst:58
+#: ../../policy/voken_referral_program.rst:59
+msgid "1% ETH"
+msgstr "1% ETH"
+
+#: ../../policy/voken_referral_program.rst:53
 msgid ">= 9"
 msgstr ">= 9"
 
-#: ../../policy/voken_referral_program.rst:57
-#: ../../policy/voken_referral_program.rst:97
+#: ../../policy/voken_referral_program.rst:53
 msgid "Lv.9"
 msgstr "Lv.9"
 
-#: ../../policy/voken_referral_program.rst:57
+#: ../../policy/voken_referral_program.rst:53
 msgid "20 Voken2.0"
 msgstr "20 Voken2.0"
 
-#: ../../policy/voken_referral_program.rst:58
-#: ../../policy/voken_referral_program.rst:98
+#: ../../policy/voken_referral_program.rst:54
 msgid ">= 10"
 msgstr ">= 10"
 
-#: ../../policy/voken_referral_program.rst:58
-#: ../../policy/voken_referral_program.rst:98
+#: ../../policy/voken_referral_program.rst:54
 msgid "Lv.10"
 msgstr "Lv.10"
 
+#: ../../policy/voken_referral_program.rst:54
+#: ../../policy/voken_referral_program.rst:55
+#: ../../policy/voken_referral_program.rst:56
+#: ../../policy/voken_referral_program.rst:57
 #: ../../policy/voken_referral_program.rst:58
 #: ../../policy/voken_referral_program.rst:59
-#: ../../policy/voken_referral_program.rst:60
-#: ../../policy/voken_referral_program.rst:61
-#: ../../policy/voken_referral_program.rst:62
-#: ../../policy/voken_referral_program.rst:63
 msgid "10 Voken2.0"
 msgstr "10 Voken2.0"
 
-#: ../../policy/voken_referral_program.rst:59
-#: ../../policy/voken_referral_program.rst:99
+#: ../../policy/voken_referral_program.rst:55
 msgid ">= 11"
 msgstr ">= 11"
 
-#: ../../policy/voken_referral_program.rst:59
-#: ../../policy/voken_referral_program.rst:99
+#: ../../policy/voken_referral_program.rst:55
 msgid "Lv.11"
 msgstr "Lv.11"
 
-#: ../../policy/voken_referral_program.rst:60
-#: ../../policy/voken_referral_program.rst:100
+#: ../../policy/voken_referral_program.rst:56
 msgid ">= 12"
 msgstr ">= 12"
 
-#: ../../policy/voken_referral_program.rst:60
-#: ../../policy/voken_referral_program.rst:100
+#: ../../policy/voken_referral_program.rst:56
 msgid "Lv.12"
 msgstr "Lv.12"
 
-#: ../../policy/voken_referral_program.rst:61
-#: ../../policy/voken_referral_program.rst:101
+#: ../../policy/voken_referral_program.rst:57
 msgid ">= 13"
 msgstr ">= 13"
 
-#: ../../policy/voken_referral_program.rst:61
-#: ../../policy/voken_referral_program.rst:101
+#: ../../policy/voken_referral_program.rst:57
 msgid "Lv.13"
 msgstr "Lv.13"
 
-#: ../../policy/voken_referral_program.rst:62
-#: ../../policy/voken_referral_program.rst:102
+#: ../../policy/voken_referral_program.rst:58
 msgid ">= 14"
 msgstr ">= 14"
 
-#: ../../policy/voken_referral_program.rst:62
-#: ../../policy/voken_referral_program.rst:102
+#: ../../policy/voken_referral_program.rst:58
 msgid "Lv.14"
 msgstr "Lv.14"
 
-#: ../../policy/voken_referral_program.rst:63
-#: ../../policy/voken_referral_program.rst:103
+#: ../../policy/voken_referral_program.rst:59
 msgid ">= 15"
 msgstr ">= 15"
 
-#: ../../policy/voken_referral_program.rst:63
-#: ../../policy/voken_referral_program.rst:103
+#: ../../policy/voken_referral_program.rst:59
 msgid "Lv.15"
 msgstr "Lv.15"
 
 #: ../../policy/voken_referral_program.rst:66
+msgid "Whitelist Registration Referral Reward: 100%"
+msgstr "白名单注册推荐奖励： 100%"
+
+#: ../../policy/voken_referral_program.rst:68
+msgid ""
+"Anyone who follow :ref:`how_to_join_the_whitelist` to sign-up for whitelist,"
+" **1,000 Voken2.0** will be used as rewards:"
+msgstr ""
+"任何人按 :ref:`how_to_join_the_whitelist` 注册白名单，**1,000 Voken2.0** 将被用于奖励："
+
+#: ../../policy/voken_referral_program.rst:71
+msgid ""
+"Settled with **Voken2.0**, will transfer to your wallet addresses "
+"automatically and immediately, process by :ref:`voken2_main_contract`."
+msgstr "使用 **Voken2.0** 实时自动结算，转账到您的钱包地址，由 :ref:`voken2_main_contract` 执行。"
+
+#: ../../policy/voken_referral_program.rst:74
 msgid ""
 "When the contract automatically settles the 1,000 Voken2.0 reward, some Lvs "
 "may be absent (due to insufficient referrals, or do not exist). In this "
-"case, all unsuccessful rewards will be destroyed forever."
+"case, all unsuccessful rewards will **be destroyed forever**."
 msgstr ""
-"当合约自动结算 1,000 Voken2.0 奖励时，某些 Lv. "
-"可能缺位（由于引荐数不足，或不存在）。如遇这种情况，则所有未能成功发放的奖励都将被永久销毁。"
+"当合约自动结算 1,000 Voken2.0 奖励时，某些 Lv. 可能缺位（由于引荐数不足，或不存在）。如遇这种情况，则所有未能成功发放的奖励都将被 "
+"**永久销毁** 。"
 
-#: ../../policy/voken_referral_program.rst:74
+#: ../../policy/voken_referral_program.rst:82
 msgid "Sales Referral Reward: 35%"
 msgstr "销售推荐奖： 35%"
 
-#: ../../policy/voken_referral_program.rst:76
+#: ../../policy/voken_referral_program.rst:84
 msgid ""
-"During the :ref:`voken2_sale`, ``35% of sales revenue`` will be used as "
-"rewards."
-msgstr ":ref:`voken2_sale` 全程 ``销售收入的 35%`` 将被用于奖励。"
-
-#: ../../policy/voken_referral_program.rst:77
-msgid ""
-"According to the **whitelist referral relationship chain** registered in "
-":ref:`voken2_main_contract`."
-msgstr "**白名单推荐关系链** 数据将被存储在以太坊区块链上永久运行的 :ref:`voken2_main_contract` 。"
-
-#: ../../policy/voken_referral_program.rst:79
-msgid ""
-"Settled with ETH, will transfer to your wallet addresses automatically and "
-"immediately, process by contract."
-msgstr "使用 ETH 实时结算，转账到您的钱包地址，由合约自动执行。"
-
-#: ../../policy/voken_referral_program.rst:82
-msgid ""
-"Get one more level for each registration with your whitelisted address, "
-"``6%`` for direct referral reward (Lv.1, default), up to 15 levels (15+ "
-"referrals):"
-msgstr ""
-"使用您的白名单地址每多推荐 1 个白名单注册，就可以得 1 级奖励，直接推荐关系（Lv.1）默认奖励 ``6%`` ，最高 15 级（15 "
-"个以上引荐注册）："
+"During the :ref:`voken2_sale`, **35% of sales revenue** will be used as "
+"rewards:"
+msgstr ":ref:`voken2_sale` 全程 **销售收入的 35%** 将被用于奖励："
 
 #: ../../policy/voken_referral_program.rst:87
-msgid "Reward (35% Total)"
-msgstr "奖励（共 35%）"
-
-#: ../../policy/voken_referral_program.rst:89
-msgid "**6% ETH**"
-msgstr "**6% ETH**"
+msgid ""
+"Settled with **ETH**, will transfer to your wallet addresses automatically "
+"and immediately, process by :ref:`voken2_sale_contract`."
+msgstr "使用 **ETH** 实时自动结算，转账到您的钱包地址，由 :ref:`voken2_sale_contract` 执行。"
 
 #: ../../policy/voken_referral_program.rst:90
-msgid "6% ETH"
-msgstr "6% ETH"
-
-#: ../../policy/voken_referral_program.rst:91
-msgid "5% ETH"
-msgstr "5% ETH"
-
-#: ../../policy/voken_referral_program.rst:92
-msgid "4% ETH"
-msgstr "4% ETH"
-
-#: ../../policy/voken_referral_program.rst:93
-msgid "3% ETH"
-msgstr "3% ETH"
-
-#: ../../policy/voken_referral_program.rst:94
-msgid "2% ETH"
-msgstr "2% ETH"
-
-#: ../../policy/voken_referral_program.rst:95
-#: ../../policy/voken_referral_program.rst:96
-#: ../../policy/voken_referral_program.rst:97
-#: ../../policy/voken_referral_program.rst:98
-#: ../../policy/voken_referral_program.rst:99
-#: ../../policy/voken_referral_program.rst:100
-#: ../../policy/voken_referral_program.rst:101
-#: ../../policy/voken_referral_program.rst:102
-#: ../../policy/voken_referral_program.rst:103
-msgid "1% ETH"
-msgstr "1% ETH"
-
-#: ../../policy/voken_referral_program.rst:106
 msgid ""
-"All unallocated ETH rewards (due to some Lv absence), will be temporarily "
-"held by :ref:`voken2_sale_contract`, and a new reward plan will be "
-"determined later."
-msgstr "所有未分配的奖励（某些 Lv 缺位）都将由 :ref:`voken2_sale_contract` 暂存，奖励方案待定。"
+"When the contract automatically settles the 35% ETH reward, some Lvs may be "
+"absent (due to insufficient referrals, or do not exist). In this case, all "
+"unsuccessful rewards will be held by :ref:`voken2_sale_contract`, and a new "
+"reward plan will be determined later."
+msgstr ""
+"当合约自动结算 35% ETH 奖励时，某些 Lv. 可能缺位（由于引荐数不足，或不存在）。如遇这种情况，则所有未能成功发放的奖励将暂存于 "
+":ref:`voken2_sale_contract` 中，奖励方案待定。"
