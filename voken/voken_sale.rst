@@ -121,25 +121,16 @@ the remaining ETH will be returned to the payment address.
 
 
 
-Gas limit
----------
-
-- Minimum: ``6,500,000``
-- Maximum: ``8,000,000``
-- The rest will be returned automatically
-
-
-
-Whitelist bonus
----------------
+Gift for whitelist
+------------------
 
 Anyone who participate in the :ref:`voken2_sale`
 by using a whitelisted ETH wallet address
 would enjoy a gift of **BUY ONE AND GET ONE MORE FREE**.
 
-The gift will be locked in 6 months.
-
-.. See: :ref:`guide_for_voken_sale_whitelist`
+- :ref:`how_to_join_the_whitelist`
+- The gift will be reserved in 6 months.
+- :ref:`how_to_shorten_the_reserved_time`
 
 
 
@@ -162,20 +153,15 @@ Finally, the amount is `52,631.578947 + 52,631.578947 =` **105,263.157894 Voken2
 
 
 
-
-
-
-
-
 Send ETH, and receive Voken2.0
 ------------------------------
 
 #. Just **USE YOUR OWN ETH WALLET**
 #. **SEND ETH TO THE CONTRACT ADDRESS BELOW**
 #. and you will **RECEIVE VOKEN2.0 AUTOMATICALLY**
-#. :ref:`how_to_join_the_whitelist`
 
 .. guide_for_voken_sale
+
 
 .. image:: /_static/contract/qrcode_voken2_sale.svg
    :width: 35 %
@@ -190,3 +176,20 @@ Send ETH, and receive Voken2.0
 
    Related link: :ref:`gas`
 
+
+
+.. _how_to_shorten_the_reserved_time:
+
+How to shorten the reserved time of gift
+----------------------------------------
+
+The gift for whitelist will be reserved in 6 months (180 days).
+
+Both **making direct sales (Lv.1)** and **increasing your holding** will take effect:
+
+We assume that the gift amount (of reserved Voken2.0) is **m Voken2.0**.
+
+- | Making direct sale (Lv.1) for every m Voken2.0, reduced by 1 day.
+  | **Reduced to at least 4 months (120 days).**
+- | Increasing holding for every m Voken2.0, reduced by 1 months (30 days).
+  | **Reduced to at least 3 months (90 days).**
