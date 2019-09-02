@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-25 22:18+0800\n"
+"POT-Creation-Date: 2019-09-02 22:13+0800\n"
 "PO-Revision-Date: 2019-08-25 11:20+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -54,5 +54,9 @@ msgid "`View contract code on github repository`_"
 msgstr "`查看合约代码在 github 仓库`_"
 
 #: ../../voken/get_1001voken_contract.rst:14
+msgid "`View transactions and interactions of the contract`_"
+msgstr "`查看合约交易和交互`_"
+
+#: ../../voken/get_1001voken_contract.rst:15
 msgid "`View contract on Etherscan.io`_"
 msgstr "`通过 Etherscan.io 查看合约`_"

@@ -1,93 +1,104 @@
 .. _guide_for_voken_sale:
 
-How to participate in Voken Public-Sale?
-========================================
+How to participate in Voken2.0 Public-Sale?
+===========================================
+
+If you are fresh for Voken,
+at first, you need a ETH wallet,
+and follow the 3 steps below:
+
+#. :ref:`get_1001voken2`
+#. Join the whitelist
+#. Participate in :ref:`voken2_sale`
+
+If you are interest in **earning ETH and Voken2.0**,
+please read :ref:`voken_referral_program`.
 
 
 
-Join the whitelist
-------------------
+1. Get 1,001 Voken2.0 with 20% OFF
+----------------------------------
 
-Why should I join the whitelist?
-________________________________
-
-- Using a whitelisted ETH wallet address
-  would enjoy a gift of **BUY ONE AND GET ONE MORE FREE** during the :ref:`voken_sale`.
-- By sharing your whitelisted ETH wallet address, you will **earn ETH and Vokens**.
-
-How can I join the whitelist?
-_____________________________
-
-Use your own ETH wallet,
-send **1,001 Vokens** to the address which is whitelisted already,
-and your wallet address will be successfully registered.
+Full version: :ref:`get_1001voken2`
 
 
-Get Vokens you need
-~~~~~~~~~~~~~~~~~~~
+Just send **1 ETH** to the :ref:`get_1001voken_contract` address below,
+you will receive exactly **1,001 Voken2.0** and all the unused ETH automatically.
 
-Send **1 ETH** to contract which address is **0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe**,
-you will receive exactly **1,002.0 Vokens** and **all the unused ETH** automatically.
-
-More details: :ref:`get_1002voken_contract`
-
-.. NOTE::
-
-   Set `gas limit` greater than `300,000`, the rest will be returned automatically.
-
-
-Send 1,001 Vokens to register
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Send **1,001 Vokens** to an address which is whitelisted.
-
-Ask your friends for a whitelisted address,
-according to :ref:`voken_referral_program`,
-your friends will receive some whitelist registration rewards.
-Or you can also find one in the :ref:`voken_telegram`.
-
-More details: :ref:`guide_for_voken_sale_whitelist`
-
-
-
-Buy Voken using ETH
--------------------
-
-.. NOTE::
-
-   If you do not have ETH yet, the exchanges can help.
-
-
-.. image:: /_static/contract/qrcode_voken_sale.png
+.. image:: /_static/contract/qrcode_get_1001_voken2.svg
    :width: 35 %
-   :alt: qrcode_voken_sale.png
+   :alt: qrcode_get_1001_voken2.svg
 
-**0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**
+**0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**
 
-Use your own ETH wallet,
-send ETH to the **Voken Public-Sale contract address** above,
-you will receive Vokens automatically.
+.. NOTE::
+
+   **If there is more than 1,001 Voken2.0 in your wallet, skip this step.**
+
+   Set ``gas limit`` to ``200,000`` or more,
+   the rest will be returned automatically.
+
+   Related link: :ref:`gas`
 
 
 
-Send ETH to Voken Public-Sale contract
-________________________________________________
+2. Join the whitelist
+---------------------
 
-#. Use your own ETH Wallet, chose **Send ETH**.
-#. To address: **0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**.
-#. ETH amount: Greater than ``10 ETH`` would receive extra rewards.
-#. Set **Gas Limit** > ``3,000,000``, upper limit is ``8,000,000``.
+Full version: :ref:`how_to_join_the_whitelist`
+
+
+Send **1,001 Voken2.0** to an address which is whitelisted already,
+and your wallet address will be successfully signed-up.
+
+.. NOTE::
+
+   Set ``gas limit`` to ``600,000`` or more,
+   the rest will be returned automatically.
+
+   Related link: :ref:`gas`
+
+
+Then, you will enjoy a gift of **BUY ONE AND GET ONE MORE FREE** during the :ref:`voken2_sale`.
+
+And, if you share your whitelisted address to a friend,
+he will get the gift too,
+and you can **earn ETH and Voken2.0**,
+according to :ref:`voken_referral_program`.
+
+
+
+3. Participate in in Voken2.0 public-sale
+-----------------------------------------
+
+Full version: :ref:`how_to_join_the_whitelist`
+
+
+Send ETH to the address of :ref:`voken2_sale_contract`,
+you will get Voken2.0 automatically,
+with a gift of **BUY ONE AND GET ONE MORE FREE**.
+
+.. image:: /_static/contract/qrcode_voken2_sale.svg
+   :width: 35 %
+   :alt: qrcode_voken2_sale.svg
+
+**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**
+
+#. Use your own ETH Wallet, choose **Send ETH**.
+#. Enter the address above, or scan the qr-code.
+#. Set **Gas Limit** >= ``6,500,000``, upper limit is ``8,000,000``.
    If the transaction interrupted with ``out of gas``, all the unused ETH will return automatically.
 #. Set **Gas Price**,
    if you want transaction speed up, you could choose higher price, or leave it as default.
 #. Send the transaction.
 #. Waiting for Ethereum blockchain to confirm.
-#. **Receive Vokens**.
+#. **Receive Voken2.0**.
 
 .. NOTE::
+   Make sure you have set ``gas limit`` to ``6,500,000`` or more,
+   the rest will be returned automatically.
 
-   Since one single transaction may span stages or even seasons,
-   the prices of the stages may be different.
+   Related link: :ref:`gas`
 
 
 
@@ -96,7 +107,7 @@ Recommended ETH Wallet
 
 Related links:
 
-- :ref:`guide_for_metamask`
 - :ref:`guide_for_imtoken`
+- :ref:`guide_for_metamask`
 - :ref:`eth_wallet`
 

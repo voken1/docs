@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-14 14:34+0800\n"
+"POT-Creation-Date: 2019-09-02 17:00+0800\n"
 "PO-Revision-Date: 2019-04-11 14:25+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -56,53 +56,53 @@ msgid "Canceled `Voken Pre-Sale`"
 msgstr "取消了 `Voken 预售`"
 
 #: ../../reports/summary2019.rst:14
-msgid ":ref:`voken_contract_upgraded`"
-msgstr ":ref:`voken_contract_upgraded`"
+msgid "Voken contract upgraded"
+msgstr ""
 
 #: ../../reports/summary2019.rst:15
 msgid ":ref:`voken_referral_program` completed"
 msgstr ":ref:`voken_referral_program` 完成"
 
 #: ../../reports/summary2019.rst:16
-msgid ":ref:`voken_sale` is on the way"
-msgstr ":ref:`voken_sale`"
-
-#: ../../reports/summary2019.rst:17
 msgid ":ref:`voken_sale_contract` deployed"
 msgstr ":ref:`voken_sale_contract` 部署完成"
 
-#: ../../reports/summary2019.rst:18
+#: ../../reports/summary2019.rst:17
 msgid ":ref:`batch_transfer_contract` deployed"
 msgstr ":ref:`batch_transfer_contract` 部署完成"
 
-#: ../../reports/summary2019.rst:19
+#: ../../reports/summary2019.rst:18
 msgid "ENS Domain **voken100g.eth** deployed"
 msgstr "ENS 域名 **voken100g.eth** 已部署"
 
+#: ../../reports/summary2019.rst:19
+msgid "**sale.voken100g.eth**"
+msgstr ""
+
 #: ../../reports/summary2019.rst:20
-msgid "**sale.voken100g.eth** for :ref:`voken_sale`"
-msgstr "**sale.voken100g.eth** ： :ref:`voken_sale`"
+msgid "**airdrop.voken100g.eth**"
+msgstr ""
 
 #: ../../reports/summary2019.rst:21
-msgid "**airdrop.voken100g.eth** for :ref:`airdrop_via_contract`"
-msgstr "**airdrop.voken100g.eth** ： :ref:`airdrop_via_contract`"
+msgid "**get.voken100g.eth**"
+msgstr ""
 
 #: ../../reports/summary2019.rst:22
-msgid "**get1002.voken100g.eth** for :ref:`get_1002voken_contract`"
-msgstr "**get1002.voken100g.eth** ： :ref:`get_1002voken_contract`"
-
-#: ../../reports/summary2019.rst:23
 msgid ":ref:`vnVPN_alpha` v0.5.1, pre-released"
 msgstr ":ref:`vnVPN_alpha` v0.5.1，提前发布"
 
-#: ../../reports/summary2019.rst:24
+#: ../../reports/summary2019.rst:23
 msgid ":ref:`report_20190619`"
 msgstr ""
 
-#: ../../reports/summary2019.rst:25
+#: ../../reports/summary2019.rst:24
 msgid ":ref:`report_20190719`"
 msgstr ""
 
-#: ../../reports/summary2019.rst:26
+#: ../../reports/summary2019.rst:25
 msgid ":ref:`report_20190811`"
+msgstr ""
+
+#: ../../reports/summary2019.rst:26
+msgid ":ref:`report_20190829`"
 msgstr ""

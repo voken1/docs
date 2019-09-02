@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-24 02:44+0800\n"
+"POT-Creation-Date: 2019-09-02 17:00+0800\n"
 "PO-Revision-Date: 2019-04-27 10:48+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -42,8 +42,8 @@ msgid "FIRST COME FIRST SERVED,"
 msgstr "先到先得，"
 
 #: ../../views/voken_pricing.rst:11
-msgid "**HOW MUCH DO YOU WANT TO BUY**?"
-msgstr "**你会购买多少** ？"
+msgid "**HOW MUCH DO YOU WANT**?"
+msgstr ""
 
 #: ../../views/voken_pricing.rst:15
 msgid "The first crypto-currency with clear usage value"

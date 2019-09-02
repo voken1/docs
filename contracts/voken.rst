@@ -19,11 +19,6 @@ View on Etherscan.io:
 - `Read contract on Etherscan.io`_
 - `Write contract on Etherscan.io`_
 
-Related links:
-
-- :ref:`voken_contract_upgraded`
-
-
 .. _Tx Hash 0x9f173f8fc13a8efef7cb25b160c09958...: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
 .. _7635415: https://etherscan.io/tx/0x9f173f8fc13a8efef7cb25b160c09958be03587b9b1af910bf8a9b3a48d68dc9
 .. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
@@ -99,7 +94,7 @@ _________________________________________
        }
    }
 
-:ref:`voken_sale` whitelist registration trigger conditions:
+Whitelist registration trigger conditions:
 
 - ``_allowWhitelistRegistration`` is ``true``, when registration is allowed.
 - ``value`` = ``_whitelistRegistrationValue``, that is 1,001 Vokens.
@@ -212,7 +207,7 @@ _________________________________________________________________
        emit VokenSaleWhitelistRegistrationDisabled();
    }
 
-Check whether the :ref:`voken_sale` whitelist registration is in process
+Check whether the whitelisting is in process
    Call function ``allowWhitelistRegistration()``,
    if it returns ``true``, registration is allowed.
 

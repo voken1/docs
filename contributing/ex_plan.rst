@@ -3,5 +3,5 @@
 Exchange whitelist plan
 -----------------------
 
-Will be released before the 10th season of the :ref:`voken_sale` finished.
+Will be released before the 20th season of the :ref:`voken2_sale` finished.
 

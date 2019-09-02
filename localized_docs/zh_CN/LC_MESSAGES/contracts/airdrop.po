@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-06 11:37+0800\n"
+"POT-Creation-Date: 2019-09-02 17:00+0800\n"
 "PO-Revision-Date: 2019-01-17 05:19+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -24,10 +24,6 @@ msgstr ""
 #: ../../contracts/airdrop.rst:4
 msgid "Voken Airdrop Contract"
 msgstr "Voken 空投合约"
-
-#: ../../contracts/airdrop.rst:6
-msgid "Hold :ref:`voken` for :ref:`airdrop_via_contract`."
-msgstr "为 :ref:`airdrop_via_contract` 持有 :ref:`voken` 。"
 
 #: ../../contracts/airdrop.rst:9
 msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"

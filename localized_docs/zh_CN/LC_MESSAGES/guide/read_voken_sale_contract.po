@@ -5,16 +5,16 @@
 # 
 # Translators:
 # Jill Henry <vnjillhenry@gmail.com>, 2019
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-01 22:40+0800\n"
+"POT-Creation-Date: 2019-09-02 17:00+0800\n"
 "PO-Revision-Date: 2019-04-26 08:27+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -475,9 +475,9 @@ msgstr "输入一个特定的以太坊钱包地址，并点击 `Query` ，您就
 
 #: ../../guide/read_voken_sale_contract.rst:315
 msgid ""
-"For example, query an address of `0x02eEe50...` in the entire "
-":ref:`voken_sale`:"
-msgstr "例如，查询在整个 :ref:`voken_sale` 中地址为 `0x02eEe50...` 的账户数据："
+"For example, query an address of `0x02eEe50...` in the entire voken public-"
+"sale:"
+msgstr ""
 
 #: ../../guide/read_voken_sale_contract.rst:327
 msgid "Voken issued amount, with 6 decimals."

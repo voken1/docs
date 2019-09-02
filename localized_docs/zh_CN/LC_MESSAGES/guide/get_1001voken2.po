@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-29 03:26+0800\n"
+"POT-Creation-Date: 2019-09-02 17:00+0800\n"
 "PO-Revision-Date: 2019-08-25 11:17+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -28,7 +28,7 @@ msgstr "8 折获取 1,001 个 Voken2.0"
 #: ../../guide/get_1001voken2.rst:6
 msgid ""
 "Release 1,001 Voken2.0 to a new ETH wallet address, limited. It is "
-"convenient to use a small amount of ETH for 1,001 Voken2.0 to register "
+"convenient to use a small amount of ETH for 1,001 Voken2.0 to sign-up for "
 "whitelist. Executed at the real-time price of :ref:`voken2_sale` with 20% "
 "OFF."
 msgstr ""
@@ -48,17 +48,17 @@ msgstr ""
 msgid "**0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**"
 msgstr "**0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**"
 
-#: ../../guide/get_1001voken2.rst:24
+#: ../../guide/get_1001voken2.rst:22
 msgid ""
 "Set ``gas limit`` to ``200,000`` or more, the rest will be returned "
 "automatically."
 msgstr "请将 ``gas limit`` 设置为 ``200,000`` 或更多，剩余部分将自动退回。"
 
-#: ../../guide/get_1001voken2.rst:27
+#: ../../guide/get_1001voken2.rst:25
 msgid "Related link: :ref:`gas`"
 msgstr "相关链接： :ref:`gas`"
 
-#: ../../guide/get_1001voken2.rst:31
+#: ../../guide/get_1001voken2.rst:29
 msgid "To use this contract, you must meet these two conditions"
 msgstr "使用这个合约，您必须满足两个条件"
 
@@ -81,7 +81,7 @@ msgid ""
 "transaction)."
 msgstr "你发送的交易总金额需要为 **1 ETH 或更多** （所有未使用的 ETH 将会被合约自动退款，就在同一笔交易里）"
 
-#: ../../guide/get_1001voken2.rst:39
+#: ../../guide/get_1001voken2.rst:37
 msgid ""
 "Transactions that do not meet the conditions will be automatically reverted "
 "by the contract."

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-24 02:44+0800\n"
+"POT-Creation-Date: 2019-09-02 22:13+0800\n"
 "PO-Revision-Date: 2019-08-11 05:12+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -72,112 +72,116 @@ msgid "View on Etherscan.io:"
 msgstr "在 Etherscan.io 查看："
 
 #: ../../voken/voken_shareholders_contract.rst:24
+msgid "`View transactions and interactions of the contract`_"
+msgstr "`查看合约交易和交互`_"
+
+#: ../../voken/voken_shareholders_contract.rst:25
 msgid "`Read contract on Etherscan.io`_"
 msgstr "`通过 Etherscan.io 读取合约信息`_"
 
-#: ../../voken/voken_shareholders_contract.rst:25
+#: ../../voken/voken_shareholders_contract.rst:26
 msgid "`Write contract on Etherscan.io`_"
 msgstr "`通过 Etherscan.io 操作合约`_"
 
-#: ../../voken/voken_shareholders_contract.rst:50
+#: ../../voken/voken_shareholders_contract.rst:59
 msgid "Features and functions"
 msgstr "特性和功能"
 
-#: ../../voken/voken_shareholders_contract.rst:52
+#: ../../voken/voken_shareholders_contract.rst:61
 msgid ""
 "Related to :ref:`voken2_main_contract` and :ref:`voken2_sale_contract`."
 msgstr "与 :ref:`voken2_main_contract` 和 :ref:`voken2_sale` 关联。"
 
-#: ../../voken/voken_shareholders_contract.rst:72
+#: ../../voken/voken_shareholders_contract.rst:81
 msgid "Query data:"
 msgstr "查询数据："
 
-#: ../../voken/voken_shareholders_contract.rst:55
+#: ../../voken/voken_shareholders_contract.rst:64
 msgid "Functions:"
 msgstr "功能："
 
-#: ../../voken/voken_shareholders_contract.rst:57
+#: ../../voken/voken_shareholders_contract.rst:66
 msgid "``function page() public view returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:58
+#: ../../voken/voken_shareholders_contract.rst:67
 msgid "``function ethers() public view returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:59
+#: ../../voken/voken_shareholders_contract.rst:68
 msgid "``function vokens() public view returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:60
+#: ../../voken/voken_shareholders_contract.rst:69
 msgid "``function counter(uint256 pageNumber) public view returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:61
+#: ../../voken/voken_shareholders_contract.rst:70
 msgid ""
 "``function shareholders(uint256 pageNumber) public view returns "
 "(address[])``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:62
+#: ../../voken/voken_shareholders_contract.rst:71
 msgid ""
 "``function pageEndingBlock(uint256 pageNumber) public view returns "
 "(uint256)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:63
+#: ../../voken/voken_shareholders_contract.rst:72
 msgid ""
 "``function pageEthers(uint256 pageNumber) public view returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:64
+#: ../../voken/voken_shareholders_contract.rst:73
 msgid ""
 "``function pageEtherSum(uint256 pageNumber) public view returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:65
+#: ../../voken/voken_shareholders_contract.rst:74
 msgid ""
 "``function pageVokens(uint256 pageNumber) public view returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:66
+#: ../../voken/voken_shareholders_contract.rst:75
 msgid ""
 "``function pageVokenSum(uint256 pageNumber) public view returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:67
+#: ../../voken/voken_shareholders_contract.rst:76
 msgid ""
 "``function vokenHolding(address account, uint256 pageNumber) public view "
 "returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:68
+#: ../../voken/voken_shareholders_contract.rst:77
 msgid ""
 "``function etherDividend(address account, uint256 pageNumber) public view "
 "returns (uint256 amount, uint256 dividend, uint256 remain)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:69
+#: ../../voken/voken_shareholders_contract.rst:78
 msgid ""
 "``function allocations(address account) public view returns (uint256 "
 "allocationsCounter)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:70
+#: ../../voken/voken_shareholders_contract.rst:79
 msgid ""
 "``function allocation(address account, uint256 index) public view returns "
 "(uint256 amount, uint256 timestamp, uint256 interval, uint256 steps, uint256"
 " available, uint256 reserved)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:71
+#: ../../voken/voken_shareholders_contract.rst:80
 msgid "``function reservedOf(address account) public view returns (uint256)``"
 msgstr ""
 
-#: ../../voken/voken_shareholders_contract.rst:75
+#: ../../voken/voken_shareholders_contract.rst:84
 msgid "How to withdraw dividend?"
 msgstr "如何取出分红？"
 
-#: ../../voken/voken_shareholders_contract.rst:77
+#: ../../voken/voken_shareholders_contract.rst:86
 msgid ""
 "Send 0 ETH to the address of this contract, you will get the dividend "
 "settled with ETH automatically."

@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# VISION official <michael@vision.network>, 2019
+# VNET Michael <michael@vision.network>, 2019
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-15 14:20+0800\n"
+"POT-Creation-Date: 2019-09-02 17:00+0800\n"
 "PO-Revision-Date: 2019-03-09 08:30+0000\n"
-"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,9 +39,9 @@ msgstr "您的付款或捐赠将帮助我们继续深化开发并持续升级远
 
 #: ../../contributing/donate.rst:12
 msgid ""
-"You can participate in :ref:`voken_sale`, or donate with crypto-currency ETH"
-" to this following address:"
-msgstr "您可以参加 :ref:`voken_sale` ，或使用加密货币 ETH 以太坊向如下地址捐赠："
+"You can participate in :ref:`voken2_sale`, or donate with crypto-currency "
+"ETH to this following address:"
+msgstr ""
 
 #: ../../contributing/donate.rst:20
 msgid "**0x123456eBb9d581CCD0F66e3abf6168186Be28255**"

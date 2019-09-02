@@ -16,18 +16,27 @@ This is the **MAIN CONTRACT** of :ref:`voken`, updated and deployed at ``2019-08
 
 View on Etherscan.io:
 
-- `Voken 2.0 Tracker`_
+- `Voken 2.0 transactions tracker`_
+- `View transactions and interactions of the contract`_
 - `Read contract on Etherscan.io`_
 - `Write contract on Etherscan.io`_
 
-
-.. _Tx Hash 0x09991e525e3436fb008b580627bb8ed6...: https://etherscan.io/tx/0x09991e525e3436fb008b580627bb8ed6b41a3461fbdf71e8accea02c9036f7dd
-.. _#8401569: https://etherscan.io/block/8401569
-.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/Voken.sol
-.. _Voken 2.0 Tracker: https://etherscan.io/token/0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB
-.. _Read contract on Etherscan.io: https://etherscan.io/token/0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB#readContract
-.. _Write contract on Etherscan.io: https://etherscan.io/token/0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB#writeContract
+.. _Tx Hash 0x09991e525e3436fb008b580627bb8ed6...:
+   https://etherscan.io/tx/0x09991e525e3436fb008b580627bb8ed6b41a3461fbdf71e8accea02c9036f7dd
+.. _#8401569:
+   https://etherscan.io/block/8401569
+.. _GNU General Public License v3.0:
+   https://github.com/voken100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository:
+   https://github.com/voken100g/contracts/blob/master/Voken.sol
+.. _Voken 2.0 transactions tracker:
+   https://etherscan.io/token/0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB
+.. _View transactions and interactions of the contract:
+   https://etherscan.io/address/0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB
+.. _Read contract on Etherscan.io:
+   https://etherscan.io/address/0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB#readContract
+.. _Write contract on Etherscan.io:
+   https://etherscan.io/address/0xFfFAb974088Bd5bF3d7E6F522e93Dd7861264cDB#writeContract
 
 
 .. |logo_github| image:: /_static/logos/github.svg

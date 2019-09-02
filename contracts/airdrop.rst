@@ -3,7 +3,7 @@
 Voken Airdrop Contract
 ======================
 
-Hold :ref:`voken` for :ref:`airdrop_via_contract`.
+.. Hold :ref:`voken` for :ref:`airdrop_via_contract`.
 
 
 |logo_etherscan_verified| |logo_github| |logo_verified|

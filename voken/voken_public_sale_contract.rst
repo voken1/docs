@@ -11,13 +11,21 @@ Voken 2.0 Public-Sale Contract
 - Block height `#8408789`_
 - Open-sourced under the `GNU General Public License v3.0`_
 - `View contract code on github repository`_
+- `View transactions and interactions of the contract`_
 - `View contract on Etherscan.io`_
 
-.. _Tx Hash 0x5491dace3cd5ba2ced1447cb547ba70d...: https://etherscan.io/tx/0x5491dace3cd5ba2ced1447cb547ba70ddae7bbe64f10377a0227e36d87f86b2e
-.. _#8408789: https://etherscan.io/block/8408789
-.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/VokenPublicSale.sol
-.. _View contract on Etherscan.io: https://etherscan.io/address/0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36#readContract
+.. _Tx Hash 0x5491dace3cd5ba2ced1447cb547ba70d...:
+   https://etherscan.io/tx/0x5491dace3cd5ba2ced1447cb547ba70ddae7bbe64f10377a0227e36d87f86b2e
+.. _#8408789:
+   https://etherscan.io/block/8408789
+.. _GNU General Public License v3.0:
+   https://github.com/voken100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository:
+   https://github.com/voken100g/contracts/blob/master/VokenPublicSale.sol
+.. _View transactions and interactions of the contract:
+   https://etherscan.io/address/0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36
+.. _View contract on Etherscan.io:
+   https://etherscan.io/address/0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36#readContract
 
 .. |logo_github| image:: /_static/logos/github.svg
    :width: 36px

@@ -312,7 +312,7 @@ and press `Query`, you will get a response:
    :align: center
    :alt: voken_sale_read_13_account_query1.png
 
-For example, query an address of `0x02eEe50...` in the entire :ref:`voken_sale`:
+For example, query an address of `0x02eEe50...` in the entire voken public-sale:
 
 .. code-block:: text
 

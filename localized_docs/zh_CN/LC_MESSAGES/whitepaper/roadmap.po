@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-04 10:30+0800\n"
+"POT-Creation-Date: 2019-09-02 17:00+0800\n"
 "PO-Revision-Date: 2019-01-19 08:47+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -49,51 +49,47 @@ msgstr "2018.Q2"
 msgid "Vision Network :ref:`whitepaper` v1.0 released"
 msgstr ""
 
-#: ../../whitepaper/roadmap.rst:19
+#: ../../whitepaper/roadmap.rst:18
 msgid "2018.Q3"
 msgstr "2018.Q3"
 
-#: ../../whitepaper/roadmap.rst:16 ../../whitepaper/roadmap.rst:29
-msgid ":ref:`airdrop_via_contract`"
-msgstr ":ref:`airdrop_via_contract`"
-
-#: ../../whitepaper/roadmap.rst:17
+#: ../../whitepaper/roadmap.rst:16
 msgid "Voken Pre-Sale (Canceled)"
 msgstr "Voken 预售（已取消）"
 
-#: ../../whitepaper/roadmap.rst:18
+#: ../../whitepaper/roadmap.rst:17
 msgid "Voken Airdrop by Invitation (Canceled)"
 msgstr "Voken 邀请空投（已取消）"
 
-#: ../../whitepaper/roadmap.rst:19
+#: ../../whitepaper/roadmap.rst:18
 msgid "10-50 official nodes launched"
 msgstr ""
 
-#: ../../whitepaper/roadmap.rst:22
+#: ../../whitepaper/roadmap.rst:24
 msgid "2018.Q4"
 msgstr "2018.Q4"
 
-#: ../../whitepaper/roadmap.rst:22
+#: ../../whitepaper/roadmap.rst:24
 msgid "vnVPN alpha"
 msgstr "vnVPN 内测版"
 
-#: ../../whitepaper/roadmap.rst:25
+#: ../../whitepaper/roadmap.rst:27
 msgid "2019.Q1"
 msgstr "2019.Q1"
 
-#: ../../whitepaper/roadmap.rst:25 ../../whitepaper/roadmap.rst:33
-msgid ":ref:`airdrop_to_eth_holders`"
+#: ../../whitepaper/roadmap.rst:27
+msgid "Airdrop via contract"
 msgstr ""
 
-#: ../../whitepaper/roadmap.rst:30
+#: ../../whitepaper/roadmap.rst:31
 msgid "2019.Q2"
 msgstr "2019.Q2"
 
-#: ../../whitepaper/roadmap.rst:28
-msgid ":ref:`voken_sale`"
-msgstr ":ref:`voken_sale`"
-
 #: ../../whitepaper/roadmap.rst:30
+msgid "Voken public-sale"
+msgstr ""
+
+#: ../../whitepaper/roadmap.rst:31
 msgid "vnP2PNET alpha"
 msgstr "vnP2PNET 点对点分布式网络内测"
 
@@ -130,48 +126,48 @@ msgid ""
 "Windows platform."
 msgstr ""
 
-#: ../../whitepaper/roadmap.rst:48
+#: ../../whitepaper/roadmap.rst:51
 msgid "2019.Q4 Wallet and transaction interface"
 msgstr ""
 
-#: ../../whitepaper/roadmap.rst:45
+#: ../../whitepaper/roadmap.rst:48
 msgid ""
 "[CORE] Define data structures and data models, encryption, decryption, "
 "verification, transaction signature and verification."
 msgstr ""
 
-#: ../../whitepaper/roadmap.rst:46
+#: ../../whitepaper/roadmap.rst:49
 msgid ""
 "[CORE] Define wallet models, transaction models, contract interactions, "
 "operational interfaces, and specifications."
 msgstr ""
 
-#: ../../whitepaper/roadmap.rst:47
+#: ../../whitepaper/roadmap.rst:50
 msgid ""
 "[VisionConnectDemo] Add delay detection and availability features, on the "
 "Android platform."
 msgstr ""
 
-#: ../../whitepaper/roadmap.rst:48
+#: ../../whitepaper/roadmap.rst:51
 msgid "[VisionConnectDemo] Refactor the UI, on the Windows platform."
 msgstr ""
 
-#: ../../whitepaper/roadmap.rst:52
+#: ../../whitepaper/roadmap.rst:55
 msgid "2020"
 msgstr "2020"
 
-#: ../../whitepaper/roadmap.rst:51
+#: ../../whitepaper/roadmap.rst:54
 msgid "Complete migration upgrade from ERC20 Voken to vnCHAIN"
 msgstr "完成 Voken ERC20 代币到 vnCHAIN 主链的映射"
 
-#: ../../whitepaper/roadmap.rst:54
+#: ../../whitepaper/roadmap.rst:57
 msgid "Related Reports:"
 msgstr "相关总结："
 
-#: ../../whitepaper/roadmap.rst:56
+#: ../../whitepaper/roadmap.rst:59
 msgid ":ref:`summary2019`"
 msgstr ":ref:`summary2019`"
 
-#: ../../whitepaper/roadmap.rst:57
+#: ../../whitepaper/roadmap.rst:60
 msgid ":ref:`summary2018`"
 msgstr ":ref:`summary2018`"

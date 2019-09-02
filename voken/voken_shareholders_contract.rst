@@ -21,16 +21,25 @@ As a shareholder, yuo can enjoy the dividend of public-sale during #6-20 season.
 
 View on Etherscan.io:
 
+- `View transactions and interactions of the contract`_
 - `Read contract on Etherscan.io`_
 - `Write contract on Etherscan.io`_
 
 
-.. _Tx Hash 0x911f90cc8eda4905b5ea362505eec36a...: https://etherscan.io/tx/0x911f90cc8eda4905b5ea362505eec36af0b26c3d8f241e02bd950a7a0d742339
-.. _#8401578: https://etherscan.io/block/8401578
-.. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
-.. _View contract code on github repository: https://github.com/voken100g/contracts/blob/master/VokenShareholders.sol
-.. _Read contract on Etherscan.io: https://etherscan.io/address/0x7712F76D2A52141D44461CDbC8b660506DCAB752#readContract
-.. _Write contract on Etherscan.io: https://etherscan.io/address/0x7712F76D2A52141D44461CDbC8b660506DCAB752#writeContract
+.. _Tx Hash 0x911f90cc8eda4905b5ea362505eec36a...:
+   https://etherscan.io/tx/0x911f90cc8eda4905b5ea362505eec36af0b26c3d8f241e02bd950a7a0d742339
+.. _#8401578:
+   https://etherscan.io/block/8401578
+.. _GNU General Public License v3.0:
+   https://github.com/voken100g/contracts/blob/master/LICENSE
+.. _View contract code on github repository:
+   https://github.com/voken100g/contracts/blob/master/VokenShareholders.sol
+.. _View transactions and interactions of the contract:
+   https://etherscan.io/address/0x7712F76D2A52141D44461CDbC8b660506DCAB752
+.. _Read contract on Etherscan.io:
+   https://etherscan.io/address/0x7712F76D2A52141D44461CDbC8b660506DCAB752#readContract
+.. _Write contract on Etherscan.io:
+   https://etherscan.io/address/0x7712F76D2A52141D44461CDbC8b660506DCAB752#writeContract
 
 
 .. |logo_github| image:: /_static/logos/github.svg

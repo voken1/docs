@@ -4,7 +4,7 @@ Summary 2018
 ============
 
 Affected by the crypto-currency market environment which is everybody knows,
-and we are not eager to start :ref:`voken_sale`,
+and we are not eager to start Voken public-sale,
 our team canceled or delayed most market moves.
 
 We had spent more time on the underlying technology development.

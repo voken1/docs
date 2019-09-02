@@ -78,6 +78,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    letters/as_an_investor
    policy/voken_shareholders_program
    voken/voken_sale
+   guide/voken_sale
    policy/voken_referral_program
    guide/how_to_join_the_whitelist
    guide/get_1001voken2
@@ -147,8 +148,6 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Guides
 
-   guide/voken_sale
-   guide/register_voken_sale_whitelist
    guide/read_voken_sale_contract
    guide/batch_transfer
    guide/imtoken
@@ -198,7 +197,6 @@ more open, more equal, more stable, more efficient, safer and freer.
    contracts/early_investors_fund
    contracts/team_fund
    contracts/voken_migration
-   contracts/get_1002voken
    contracts/batch_transfer
 
 
@@ -221,19 +219,6 @@ more open, more equal, more stable, more efficient, safer and freer.
    contributing/donate
    contributing/issue
 
-.. contributing/reward_plan
-.. contributing/community_partner
-
-
-.. _materials:
-
-.. toctree
-   :maxdepth: 2
-   :caption: Materials
-
-..   materials/posters
-   materials/x_days_to_sale
-..   materials/logos
 
 
 .. _policy:

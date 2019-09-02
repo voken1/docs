@@ -11,10 +11,8 @@ and can be viewed on the `github repository`_ and `etherscan.io`_.
 
 Related links:
 
+- :ref:`guide_for_voken_sale`
 - :ref:`voken_pricing`
-
-.. guide_for_read_voken_sale_contract
-
 
 .. _GNU General Public License v3.0: https://github.com/voken100g/contracts/blob/master/LICENSE
 .. _github repository: https://github.com/voken100g/contracts/blob/master/VokenPublicSale.sol
@@ -31,7 +29,7 @@ Service Value & Usage Value ANCHORING
   such as `Amazon AWS`_ and `Google GCP`_.
 - You can spend ``1 Voken`` to exchange ``100GB traffic``
   to use the unblocked accessible Internet,
-  or earn Vokens by selling/sharing your idle bandwidth.
+  or earn Voken by selling/sharing your idle bandwidth.
 
 .. _Amazon AWS: https://aws.amazon.com/
 .. _Google GCP: https://cloud.google.com/

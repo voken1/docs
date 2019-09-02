@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-29 23:41+0800\n"
+"POT-Creation-Date: 2019-09-02 21:42+0800\n"
 "PO-Revision-Date: 2019-04-25 12:27+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -23,167 +23,177 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../guide/voken_sale.rst:4
-msgid "How to participate in Voken Public-Sale?"
-msgstr "如何参与 Voken 公开销售？"
+msgid "How to participate in Voken2.0 Public-Sale?"
+msgstr "如何参与 Voken2.0 公开销售？"
 
-#: ../../guide/voken_sale.rst:9
+#: ../../guide/voken_sale.rst:6
+msgid ""
+"If you are fresh for Voken, at first, you need a ETH wallet, and follow the "
+"3 steps below:"
+msgstr "如果你是一个新手，首先你需要一个以太坊钱包，然后再以下 3 步进行操作："
+
+#: ../../guide/voken_sale.rst:10
+msgid ":ref:`get_1001voken2`"
+msgstr ":ref:`get_1001voken2`"
+
+#: ../../guide/voken_sale.rst:11
 msgid "Join the whitelist"
 msgstr "加入白名单"
 
 #: ../../guide/voken_sale.rst:12
-msgid "Why should I join the whitelist?"
-msgstr "加入白名单有什么好处？"
+msgid "Participate in :ref:`voken2_sale`"
+msgstr "参加 :ref:`voken2_sale`"
 
 #: ../../guide/voken_sale.rst:14
 msgid ""
-"Using a whitelisted ETH wallet address would enjoy a gift of **BUY ONE AND "
-"GET ONE MORE FREE** during the :ref:`voken_sale`."
-msgstr "在 :ref:`voken_sale` 中，使用已加入白名单的以太坊钱包地址可以享受 **买一送一** 的特权。"
+"If you are interest in **earning ETH and Voken2.0**, please read "
+":ref:`voken_referral_program`."
+msgstr "如果你对 **赚取 ETH 和 Voken2.0** 感兴趣，请阅读 :ref:`voken_referral_program` 。"
 
-#: ../../guide/voken_sale.rst:16
+#: ../../guide/voken_sale.rst:20
+msgid "1. Get 1,001 Voken2.0 with 20% OFF"
+msgstr "1. 八折获取 1,001 个 Voken2.0"
+
+#: ../../guide/voken_sale.rst:22
+msgid "Full version: :ref:`get_1001voken2`"
+msgstr "完整内容： :ref:`get_1001voken2`"
+
+#: ../../guide/voken_sale.rst:25
 msgid ""
-"By sharing your whitelisted ETH wallet address, you will **earn ETH and "
-"Vokens**."
-msgstr "加入白名单后，您可以通过分享您的以太坊钱包地址来 **赚取 ETH 和 Vokens** 。"
-
-#: ../../guide/voken_sale.rst:19
-msgid "How can I join the whitelist?"
-msgstr "如何加入白名单？"
-
-#: ../../guide/voken_sale.rst:21
-msgid ""
-"Use your own ETH wallet, send **1,001 Vokens** to the address which is "
-"whitelisted already, and your wallet address will be successfully "
-"registered."
-msgstr "使用您自己的以太坊，发送 **1,001 Vokens** 到已在白名单中的地址即可成功注册白名单。"
-
-#: ../../guide/voken_sale.rst:27
-msgid "Get Vokens you need"
-msgstr "获取您所需的 Vokens"
-
-#: ../../guide/voken_sale.rst:29
-msgid ""
-"Send **1 ETH** to contract which address is "
-"**0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe**, you will receive exactly "
-"**1,002.0 Vokens** and **all the unused ETH** automatically."
+"Just send **1 ETH** to the :ref:`get_1001voken_contract` address below, you "
+"will receive exactly **1,001 Voken2.0** and all the unused ETH "
+"automatically."
 msgstr ""
-"发送 **1 ETH** 到以下合约地址：**0x71d6A2e473e92d63a676B363d1e0FDe4675349Fe** ，即可收到 "
-"**1,002.0 Vokens** 以及 **剩余未使用的 ETH** 。"
+"发送 **1 ETH** 到下边 :ref:`get_1001voken_contract` 的地址，你将会自动收到刚刚好 **1,001.0 "
+"Voken2.0** ，并退回所有未使用的 ETH 。"
 
 #: ../../guide/voken_sale.rst:32
-msgid "More details: :ref:`get_1002voken_contract`"
-msgstr "了解更多： :ref:`get_1002voken_contract`"
+msgid "**0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**"
+msgstr "**0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**"
 
 #: ../../guide/voken_sale.rst:36
 msgid ""
-"Set `gas limit` greater than `300,000`, the rest will be returned "
+"**If there is more than 1,001 Voken2.0 in your wallet, skip this step.**"
+msgstr "**如果你已经在钱包中已有大于 1,001 Voken2.0 ，可跳过此步骤。**"
+
+#: ../../guide/voken_sale.rst:38
+msgid ""
+"Set ``gas limit`` to ``200,000`` or more, the rest will be returned "
 "automatically."
-msgstr "Gas limit 设置大于 300,000，未消耗的部分将自动返还。"
+msgstr "请将 ``gas limit`` 设置为 ``200,000`` 或更多，剩余部分将自动退回。"
 
-#: ../../guide/voken_sale.rst:40
-msgid "Send 1,001 Vokens to register"
-msgstr "发送 1,001 Vokens 注册白名单"
+#: ../../guide/voken_sale.rst:41 ../../guide/voken_sale.rst:59
+#: ../../guide/voken_sale.rst:101
+msgid "Related link: :ref:`gas`"
+msgstr "相关链接： :ref:`gas`"
 
-#: ../../guide/voken_sale.rst:42
-msgid "Send **1,001 Vokens** to an address which is whitelisted."
-msgstr "转账 1,001 Vokens 到白名单中的钱包地址。"
+#: ../../guide/voken_sale.rst:46
+msgid "2. Join the whitelist"
+msgstr "2. 加入白名单"
 
-#: ../../guide/voken_sale.rst:44
+#: ../../guide/voken_sale.rst:48 ../../guide/voken_sale.rst:74
+msgid "Full version: :ref:`how_to_join_the_whitelist`"
+msgstr "完整版本： :ref:`how_to_join_the_whitelist`"
+
+#: ../../guide/voken_sale.rst:51
 msgid ""
-"Ask your friends for a whitelisted address, according to "
-":ref:`voken_referral_program`, your friends will receive some whitelist "
-"registration rewards. Or you can also find one in the :ref:`voken_telegram`."
+"Send **1,001 Voken2.0** to an address which is whitelisted already, and your"
+" wallet address will be successfully signed-up."
+msgstr "发送 **1,001 Voken2.0** 到一个白名单地址，你的地址即成功注册。"
+
+#: ../../guide/voken_sale.rst:56
+msgid ""
+"Set ``gas limit`` to ``600,000`` or more, the rest will be returned "
+"automatically."
+msgstr "请将 ``gas limit`` 设置为 ``600,000`` 或更多，剩余部分将自动退回。"
+
+#: ../../guide/voken_sale.rst:62
+msgid ""
+"Then, you will enjoy a gift of **BUY ONE AND GET ONE MORE FREE** during the "
+":ref:`voken2_sale`."
+msgstr "然后，你在 :ref:`voken2_sale` 中可以享受 **买一赠一** 赠送。"
+
+#: ../../guide/voken_sale.rst:64
+msgid ""
+"And, if you share your whitelisted address to a friend, he will get the gift"
+" too, and you can **earn ETH and Voken2.0**, according to "
+":ref:`voken_referral_program`."
 msgstr ""
-"向您的朋友索要已加入白名单的钱包地址，根据 :ref:`voken_referral_program` ，您的朋友将收到白名单注册奖励。或者您也可以在 "
-":ref:`voken_telegram` 中寻求。"
+"并且，如果分享白名单地址给你的朋友，他也可以获得赠送，同时你能 **赚取 ETH 和 Voken2.0** ，依据 "
+":ref:`voken_referral_program` 。"
 
-#: ../../guide/voken_sale.rst:49
-msgid "More details: :ref:`guide_for_voken_sale_whitelist`"
-msgstr "了解更多： :ref:`guide_for_voken_sale_whitelist`"
-
-#: ../../guide/voken_sale.rst:54
-msgid "Buy Voken using ETH"
-msgstr "使用 ETH 购买 Voken"
-
-#: ../../guide/voken_sale.rst:58
-msgid "If you do not have ETH yet, the exchanges can help."
-msgstr "如果您还未持有 ETH，可在各大交易所中购买。"
-
-#: ../../guide/voken_sale.rst:65
-msgid "**0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**"
-msgstr "**0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**"
-
-#: ../../guide/voken_sale.rst:67
-msgid ""
-"Use your own ETH wallet, send ETH to the **Voken Public-Sale contract "
-"address** above, you will receive Vokens automatically."
-msgstr "使用您自己的以太坊钱包，发送 ETH 到上面的 **Voken 公开销售合约地址** 中，您将收到对应的 Vokens 。"
-
-#: ../../guide/voken_sale.rst:74
-msgid "Send ETH to Voken Public-Sale contract"
-msgstr "发送 ETH 到 Voken 公开销售合约地址"
-
-#: ../../guide/voken_sale.rst:76
-msgid "Use your own ETH Wallet, chose **Send ETH**."
-msgstr "使用您自己的以太坊钱包，选择 **ETH 转账** 。"
+#: ../../guide/voken_sale.rst:72
+msgid "3. Participate in in Voken2.0 public-sale"
+msgstr "3. 参加 Voken2.0 公开销售"
 
 #: ../../guide/voken_sale.rst:77
-msgid "To address: **0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3**."
-msgstr "发送至： **0xAC873993E43A5AF7B39aB4A5a50ce1FbDb7191D3** 。"
-
-#: ../../guide/voken_sale.rst:78
-msgid "ETH amount: Greater than ``10 ETH`` would receive extra rewards."
-msgstr "大于 ``10 ETH`` 的转账可以获得额外奖励。"
-
-#: ../../guide/voken_sale.rst:79
 msgid ""
-"Set **Gas Limit** > ``3,000,000``, upper limit is ``8,000,000``. If the "
+"Send ETH to the address of :ref:`voken2_sale_contract`, you will get "
+"Voken2.0 automatically, with a gift of **BUY ONE AND GET ONE MORE FREE**."
+msgstr ""
+"发送 ETH 到 :ref:`voken2_sale_contract` 地址，就可以自动收到 Voken2.0 同时获得 **买一送一** 赠送。"
+
+#: ../../guide/voken_sale.rst:85
+msgid "**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
+msgstr "**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
+
+#: ../../guide/voken_sale.rst:87
+msgid "Use your own ETH Wallet, choose **Send ETH**."
+msgstr "使用您自己的以太坊钱包，选择 **ETH 转账** 。"
+
+#: ../../guide/voken_sale.rst:88
+msgid "Enter the address above, or scan the qr-code."
+msgstr "输入上边的地址，或者扫描二维码。"
+
+#: ../../guide/voken_sale.rst:89
+msgid ""
+"Set **Gas Limit** >= ``6,500,000``, upper limit is ``8,000,000``. If the "
 "transaction interrupted with ``out of gas``, all the unused ETH will return "
 "automatically."
 msgstr ""
-"设置 **Gas Limit** > ``3,000,000`` ，上限是 ``8,000,000`` 。如果在交易过程中出现 ``out of "
+"设置 **Gas Limit** >= ``6,500,000`` ，上限是 ``8,000,000`` 。如果在交易过程中出现 ``out of "
 "gas`` 的情况，所有的未兑换成功的 ETH 都将自动退回。"
 
-#: ../../guide/voken_sale.rst:81
+#: ../../guide/voken_sale.rst:91
 msgid ""
 "Set **Gas Price**, if you want transaction speed up, you could choose higher"
 " price, or leave it as default."
 msgstr "设置 **Gas Price** ，如果您希望交易快速完成，可以适当提高价格，否则默认即可。"
 
-#: ../../guide/voken_sale.rst:83
+#: ../../guide/voken_sale.rst:93
 msgid "Send the transaction."
 msgstr "发送交易。"
 
-#: ../../guide/voken_sale.rst:84
+#: ../../guide/voken_sale.rst:94
 msgid "Waiting for Ethereum blockchain to confirm."
 msgstr "等待以太坊区块链主网确认。"
 
-#: ../../guide/voken_sale.rst:85
-msgid "**Receive Vokens**."
-msgstr "**收到 Vokens** 。"
-
-#: ../../guide/voken_sale.rst:89
-msgid ""
-"Since one single transaction may span stages or even seasons, the prices of "
-"the stages may be different."
-msgstr "由于单笔交易有可能直接跨越几个阶段甚至是赛季，多阶段的兑换价格会不同。"
-
 #: ../../guide/voken_sale.rst:95
+msgid "**Receive Voken2.0**."
+msgstr "**收到 Voken2.0**"
+
+#: ../../guide/voken_sale.rst:98
+msgid ""
+"Make sure you have set ``gas limit`` to ``6,500,000`` or more, the rest will"
+" be returned automatically."
+msgstr "请将 ``gas limit`` 设置为 ``6,500,000`` 或更多，剩余部分将自动退回。"
+
+#: ../../guide/voken_sale.rst:106
 msgid "Recommended ETH Wallet"
 msgstr "值得推荐的以太坊钱包"
 
-#: ../../guide/voken_sale.rst:97
+#: ../../guide/voken_sale.rst:108
 msgid "Related links:"
 msgstr "相关链接："
 
-#: ../../guide/voken_sale.rst:99
-msgid ":ref:`guide_for_metamask`"
-msgstr ":ref:`guide_for_metamask`"
-
-#: ../../guide/voken_sale.rst:100
+#: ../../guide/voken_sale.rst:110
 msgid ":ref:`guide_for_imtoken`"
 msgstr ":ref:`guide_for_imtoken`"
 
-#: ../../guide/voken_sale.rst:101
+#: ../../guide/voken_sale.rst:111
+msgid ":ref:`guide_for_metamask`"
+msgstr ":ref:`guide_for_metamask`"
+
+#: ../../guide/voken_sale.rst:112
 msgid ":ref:`eth_wallet`"
 msgstr ":ref:`eth_wallet`"
