@@ -38,26 +38,26 @@ you will **earn ETH and Voken2.0**:
 - You can enjoy one more level reward for each referral,
   up to 15 levels (15+ referrals):
 
-=========  =====  ========================  =================
-Referrals  Level  | Whitelist Reward        | Sales Reward
-                  | 1,000 Voken2.0 Total    | 35% ETH Total
-=========  =====  ========================  =================
->= 1       Lv.1   **300 Voken2.0**          **6% ETH**
->= 2       Lv.2   200 Voken2.0              6% ETH
->= 3       Lv.3   100 Voken2.0              6% ETH
->= 4       Lv.4   100 Voken2.0              5% ETH
->= 5       Lv.5   100 Voken2.0              4% ETH
->= 6       Lv.6   50 Voken2.0               3% ETH
->= 7       Lv.7   40 Voken2.0               2% ETH
->= 8       Lv.8   30 Voken2.0               1% ETH
->= 9       Lv.9   20 Voken2.0               1% ETH
->= 10      Lv.10  10 Voken2.0               1% ETH
->= 11      Lv.11  10 Voken2.0               1% ETH
->= 12      Lv.12  10 Voken2.0               1% ETH
->= 13      Lv.13  10 Voken2.0               1% ETH
->= 14      Lv.14  10 Voken2.0               1% ETH
->= 15      Lv.15  10 Voken2.0               1% ETH
-=========  =====  ========================  =================
+=========  =====  ======================  ===============
+Referrals  Level  | Whitelist Reward      | Sales Reward
+                  | 1,000 Voken2.0 Total  | 35% ETH Total
+=========  =====  ======================  ===============
+>= 1       Lv.1   **300 Voken2.0**        **6% ETH**
+>= 2       Lv.2   200 Voken2.0            6% ETH
+>= 3       Lv.3   100 Voken2.0            6% ETH
+>= 4       Lv.4   100 Voken2.0            5% ETH
+>= 5       Lv.5   100 Voken2.0            4% ETH
+>= 6       Lv.6   50 Voken2.0             3% ETH
+>= 7       Lv.7   40 Voken2.0             2% ETH
+>= 8       Lv.8   30 Voken2.0             1% ETH
+>= 9       Lv.9   20 Voken2.0             1% ETH
+>= 10      Lv.10  10 Voken2.0             1% ETH
+>= 11      Lv.11  10 Voken2.0             1% ETH
+>= 12      Lv.12  10 Voken2.0             1% ETH
+>= 13      Lv.13  10 Voken2.0             1% ETH
+>= 14      Lv.14  10 Voken2.0             1% ETH
+>= 15      Lv.15  10 Voken2.0             1% ETH
+=========  =====  ======================  ===============
 
 
 .. _whitelist_referral_reward:
