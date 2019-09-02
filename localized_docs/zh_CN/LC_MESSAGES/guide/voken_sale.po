@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-02 21:42+0800\n"
+"POT-Creation-Date: 2019-09-02 22:49+0800\n"
 "PO-Revision-Date: 2019-04-25 12:27+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -97,9 +97,9 @@ msgstr "完整版本： :ref:`how_to_join_the_whitelist`"
 
 #: ../../guide/voken_sale.rst:51
 msgid ""
-"Send **1,001 Voken2.0** to an address which is whitelisted already, and your"
-" wallet address will be successfully signed-up."
-msgstr "发送 **1,001 Voken2.0** 到一个白名单地址，你的地址即成功注册。"
+"Send **1,001 Voken2.0** to an address which is whitelisted already, you will"
+" receive **1 Voken2.0** back, that is a success signal for signed-up."
+msgstr "发送 1,001 Voken2.0 到一个白名单地址，你将收到退回的 1 Voken2.0 ，那是注册成功的信号。"
 
 #: ../../guide/voken_sale.rst:56
 msgid ""

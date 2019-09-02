@@ -49,7 +49,7 @@ Full version: :ref:`how_to_join_the_whitelist`
 
 
 Send **1,001 Voken2.0** to an address which is whitelisted already,
-and your wallet address will be successfully signed-up.
+you will receive **1 Voken2.0** back, that is a success signal for signed-up.
 
 .. NOTE::
 
