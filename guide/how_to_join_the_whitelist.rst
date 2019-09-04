@@ -1,6 +1,6 @@
 .. _how_to_join_the_whitelist:
 
-Hot to join the whitelist
+How to join the whitelist
 =========================
 
 - Is there a friend told you about Vision Network, :ref:`voken`, and :ref:`voken2_sale`?
