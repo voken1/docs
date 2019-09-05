@@ -82,9 +82,11 @@ more open, more equal, more stable, more efficient, safer and freer.
    policy/voken_referral_program
    guide/how_to_join_the_whitelist
    guide/get_1001voken2
-   guide/how_to_query
+   guide/query_voken
+   guide/query_public_sale
    revision
 .. policy/voken_community_alliance_program
+   guide/how_to_query
 
 
 
@@ -148,8 +150,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Guides
 
-   guide/read_voken_sale_contract
-   guide/batch_transfer
+   guide/gas
    guide/imtoken
    guide/metamask
    guide/shadowrocket
@@ -157,9 +158,10 @@ more open, more equal, more stable, more efficient, safer and freer.
    guide/shadowsocksr_win
    guide/shadowsocksr_mac
    guide/eth_wallet
-   guide/gas
 
 .. guide/telegram
+   guide/read_voken_sale_contract
+   guide/batch_transfer
 
 
 .. _references:

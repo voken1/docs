@@ -1,0 +1,196 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-05 04:43+0800\n"
+"PO-Revision-Date: 2019-09-04 20:45+0000\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../guide/query_public_sale.rst:4
+msgid "How to query Voken2.0 public-sale data"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:6
+msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:8
+msgid "Contract address is **0xAF76f1949400A296121Cc26C499f50d83D051410**"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:9
+msgid "Deployed at `Tx Hash 0xc35453b4c21a9efbe0e27d7e20a0123a...`_"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:10
+msgid "Block height `#8485689`_"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:11
+msgid "Open-sourced under the `GNU General Public License v3.0`_"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:12
+msgid "`View contract code on github repository`_"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:13
+msgid "`View contract on Etherscan.io`_"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:39
+msgid ""
+"Here is the link for **Read the Contract**: "
+"``https://etherscan.io/address/0xAF76f1949400A296121Cc26C499f50d83D051410#readContract``"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:42
+msgid "Click `here`_, then **Contract** => **Read Contract**"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:48
+msgid "Status of Voken2.0 public-sale"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:50
+msgid "Function #1: **status**"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:58
+msgid "Let's focus on the values:"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:77
+msgid "stage"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:74
+msgid "Stage number."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:76
+msgid "``3277`` means: It's in **Stage #3277**."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:83
+msgid "season"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:80
+msgid "Season number."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:82
+msgid "``6`` means: It's in **Season #6**."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:89
+msgid "etherUsdPrice"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:86
+msgid "Current Audit ETH Price, in USD, with 6 decimals."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:88
+msgid ""
+"In this case, ``200000000`` means you can use `1 ETH` as **$ 200.000000 "
+"USD**, for now."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:95
+msgid "vokenUsdPrice"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:92
+msgid "Current Voken price, in USD, with 6 decimals."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:94
+msgid "``33770`` means: Current Voken price is **$ 0.033770 USD** ."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:103
+msgid "shareholdersRatio"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:98
+msgid "Current shareholders ratio, with 8 decimals."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:100
+msgid ""
+"``17730833`` is **0.17730833**, means **15.067500%** of the last transaction"
+" ETH amount will be transferred to :ref:`voken2_shareholders_contract`. It "
+"is calculated by `Stage number`, if the Public-Sale goes into next stage, "
+"ratio increases."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:109
+msgid "txs"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:106
+msgid "Transactions amount in this Voken Public-Sale."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:108
+msgid ""
+"``4`` means: There are **4 transactions** since the Voken Public-Sale "
+"started."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:115
+msgid "vokenIssued"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:112
+msgid "Voken2.0 issued amount transferred already, with 6 decimals."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:114 ../../guide/query_public_sale.rst:120
+msgid "``59224163`` is **59.224163 Voken2.0**."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:121
+msgid "vokenBonus"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:118
+msgid "Voken2.0 bonus amount transferred already, with 6 decimals."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:126
+msgid "weiRewarded"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:124
+msgid "The amount of rewards, in ETH, with 18 decimals."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:126
+msgid "``600000000000000`` is **0.000600000000000000 ETH**."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:131
+msgid "usdRewarded"
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:129
+msgid "The amount of rewards, in USD, with 6 decimals."
+msgstr ""
+
+#: ../../guide/query_public_sale.rst:131
+msgid "``2000000`` is **2.000000 USD**."
+msgstr ""
