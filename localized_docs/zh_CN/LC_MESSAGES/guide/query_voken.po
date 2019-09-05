@@ -198,7 +198,7 @@ msgstr "直接引荐数量。"
 
 #: ../../guide/query_voken.rst:151
 msgid "balance"
-msgstr "余额"
+msgstr "balance"
 
 #: ../../guide/query_voken.rst:149
 msgid "Balance of Voken2.0, with 6 decimals."
