@@ -105,7 +105,7 @@ shareholdersRatio
 txs
    Transactions amount in this Voken Public-Sale.
 
-   ``4`` means: There are **4 transactions** since the Voken Public-Sale started.
+   ``1`` means: There are **1 transaction** since the Voken Public-Sale started.
 
 
 vokenIssued
