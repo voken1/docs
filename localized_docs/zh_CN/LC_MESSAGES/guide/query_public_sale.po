@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the vision.network package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 04:43+0800\n"
+"POT-Creation-Date: 2019-09-05 21:44+0800\n"
 "PO-Revision-Date: 2019-09-04 20:45+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,31 +23,31 @@ msgstr ""
 
 #: ../../guide/query_public_sale.rst:4
 msgid "How to query Voken2.0 public-sale data"
-msgstr ""
+msgstr "如何查询 Voken2.0 公开销售数据"
 
 #: ../../guide/query_public_sale.rst:6
 msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
-msgstr ""
+msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
 
 #: ../../guide/query_public_sale.rst:8
 msgid "Contract address is **0xAF76f1949400A296121Cc26C499f50d83D051410**"
-msgstr ""
+msgstr "合约地址 **0xAF76f1949400A296121Cc26C499f50d83D051410**"
 
 #: ../../guide/query_public_sale.rst:9
 msgid "Deployed at `Tx Hash 0xc35453b4c21a9efbe0e27d7e20a0123a...`_"
-msgstr ""
+msgstr "部署于 `Tx Hash 0xc35453b4c21a9efbe0e27d7e20a0123a...`_"
 
 #: ../../guide/query_public_sale.rst:10
 msgid "Block height `#8485689`_"
-msgstr ""
+msgstr "区块高度 `#8485689`_"
 
 #: ../../guide/query_public_sale.rst:11
 msgid "Open-sourced under the `GNU General Public License v3.0`_"
-msgstr ""
+msgstr "已经在 `GNU 通用公区许可证 v3.0`_ 协议下开源"
 
 #: ../../guide/query_public_sale.rst:12
 msgid "`View contract code on github repository`_"
-msgstr ""
+msgstr "`查看合约代码在 github 仓库`_"
 
 #: ../../guide/query_public_sale.rst:13
 msgid "`View contract on Etherscan.io`_"
@@ -54,143 +58,147 @@ msgid ""
 "Here is the link for **Read the Contract**: "
 "``https://etherscan.io/address/0xAF76f1949400A296121Cc26C499f50d83D051410#readContract``"
 msgstr ""
+"**读取合约** 的链接： "
+"``https://etherscan.io/address/0xAF76f1949400A296121Cc26C499f50d83D051410#readContract``"
 
 #: ../../guide/query_public_sale.rst:42
 msgid "Click `here`_, then **Contract** => **Read Contract**"
-msgstr ""
+msgstr "点击 `这里`_ ，然后 **Contract 合约** => **Read Contract 读取合约**"
 
 #: ../../guide/query_public_sale.rst:48
 msgid "Status of Voken2.0 public-sale"
-msgstr ""
+msgstr "Voken2.0 公开销售状态"
 
 #: ../../guide/query_public_sale.rst:50
 msgid "Function #1: **status**"
-msgstr ""
+msgstr "第 #1 个功能： **status**"
 
 #: ../../guide/query_public_sale.rst:58
 msgid "Let's focus on the values:"
-msgstr ""
-
-#: ../../guide/query_public_sale.rst:77
-msgid "stage"
-msgstr ""
-
-#: ../../guide/query_public_sale.rst:74
-msgid "Stage number."
-msgstr ""
-
-#: ../../guide/query_public_sale.rst:76
-msgid "``3277`` means: It's in **Stage #3277**."
-msgstr ""
-
-#: ../../guide/query_public_sale.rst:83
-msgid "season"
-msgstr ""
+msgstr "让我们聚焦于这些数值："
 
 #: ../../guide/query_public_sale.rst:80
-msgid "Season number."
-msgstr ""
+msgid "stage"
+msgstr "stage"
 
-#: ../../guide/query_public_sale.rst:82
-msgid "``6`` means: It's in **Season #6**."
-msgstr ""
+#: ../../guide/query_public_sale.rst:77
+msgid "Stage number."
+msgstr "阶段序号。"
 
-#: ../../guide/query_public_sale.rst:89
-msgid "etherUsdPrice"
-msgstr ""
+#: ../../guide/query_public_sale.rst:79
+msgid "``3277`` means: It's in **Stage #3277**."
+msgstr "``3277`` 代表：第 **#3277** 个阶段。"
 
 #: ../../guide/query_public_sale.rst:86
-msgid "Current Audit ETH Price, in USD, with 6 decimals."
-msgstr ""
+msgid "season"
+msgstr "season"
 
-#: ../../guide/query_public_sale.rst:88
+#: ../../guide/query_public_sale.rst:83
+msgid "Season number."
+msgstr "赛季序号。"
+
+#: ../../guide/query_public_sale.rst:85
+msgid "``6`` means: It's in **Season #6**."
+msgstr "``6`` 代表：第 **#6** 个赛季。"
+
+#: ../../guide/query_public_sale.rst:92
+msgid "etherUsdPrice"
+msgstr "etherUsdPrice"
+
+#: ../../guide/query_public_sale.rst:89
+msgid "Current Audit ETH Price, in USD, with 6 decimals."
+msgstr "当前 ETH 的审计价格，以美元计价，后 6 位为小数位。"
+
+#: ../../guide/query_public_sale.rst:91
 msgid ""
 "In this case, ``200000000`` means you can use `1 ETH` as **$ 200.000000 "
 "USD**, for now."
-msgstr ""
-
-#: ../../guide/query_public_sale.rst:95
-msgid "vokenUsdPrice"
-msgstr ""
-
-#: ../../guide/query_public_sale.rst:92
-msgid "Current Voken price, in USD, with 6 decimals."
-msgstr ""
-
-#: ../../guide/query_public_sale.rst:94
-msgid "``33770`` means: Current Voken price is **$ 0.033770 USD** ."
-msgstr ""
-
-#: ../../guide/query_public_sale.rst:103
-msgid "shareholdersRatio"
-msgstr ""
+msgstr "在这个例子中， ``200000000`` 代表您现在可以将 `1 ETH` 当做 **$ 200.000000 USD** 美元来使用。"
 
 #: ../../guide/query_public_sale.rst:98
-msgid "Current shareholders ratio, with 8 decimals."
-msgstr ""
+msgid "vokenUsdPrice"
+msgstr "vokenUsdPrice"
 
-#: ../../guide/query_public_sale.rst:100
+#: ../../guide/query_public_sale.rst:95
+msgid "Current Voken price, in USD, with 6 decimals."
+msgstr "当前 Voken 价格，以美元计价，后 6 位为小数位。"
+
+#: ../../guide/query_public_sale.rst:97
+msgid "``33770`` means: Current Voken price is **$ 0.033770 USD** ."
+msgstr "``33770`` 代表： 当前 Voken 价格为 **$ 0.033770 美元** 。"
+
+#: ../../guide/query_public_sale.rst:106
+msgid "shareholdersRatio"
+msgstr "shareholdersRatio"
+
+#: ../../guide/query_public_sale.rst:101
+msgid "Current shareholders ratio, with 8 decimals."
+msgstr "当前股东分配比例，后 8 位为小数位。"
+
+#: ../../guide/query_public_sale.rst:103
 msgid ""
-"``17730833`` is **0.17730833**, means **15.067500%** of the last transaction"
+"``17730833`` is **0.17730833**, means **17.730833%** of the last transaction"
 " ETH amount will be transferred to :ref:`voken2_shareholders_contract`. It "
 "is calculated by `Stage number`, if the Public-Sale goes into next stage, "
 "ratio increases."
 msgstr ""
-
-#: ../../guide/query_public_sale.rst:109
-msgid "txs"
-msgstr ""
-
-#: ../../guide/query_public_sale.rst:106
-msgid "Transactions amount in this Voken Public-Sale."
-msgstr ""
-
-#: ../../guide/query_public_sale.rst:108
-msgid ""
-"``4`` means: There are **4 transactions** since the Voken Public-Sale "
-"started."
-msgstr ""
-
-#: ../../guide/query_public_sale.rst:115
-msgid "vokenIssued"
-msgstr ""
+"``17730833`` 表示 **0.17730833** ，即上一笔交易的 ETH 中总数的 **17.730833%** 将储存至 "
+":ref:`voken2_shareholders_contract` 。这是由 `阶段序号` 计算而来，当公售进入下一个阶段时，比例将上涨。"
 
 #: ../../guide/query_public_sale.rst:112
-msgid "Voken2.0 issued amount transferred already, with 6 decimals."
-msgstr ""
+msgid "txs"
+msgstr "txs"
 
-#: ../../guide/query_public_sale.rst:114 ../../guide/query_public_sale.rst:120
-msgid "``59224163`` is **59.224163 Voken2.0**."
-msgstr ""
+#: ../../guide/query_public_sale.rst:109
+msgid "Transactions amount in this Voken Public-Sale."
+msgstr "Voken 公开销售过程中交易的总笔数。"
 
-#: ../../guide/query_public_sale.rst:121
-msgid "vokenBonus"
-msgstr ""
+#: ../../guide/query_public_sale.rst:111
+msgid ""
+"``1`` means: There are **1 transaction** since the Voken Public-Sale "
+"started."
+msgstr "``1`` 代表：自从 Voken 公开销售开始，一共产生了 **1 笔交易** 。"
 
 #: ../../guide/query_public_sale.rst:118
-msgid "Voken2.0 bonus amount transferred already, with 6 decimals."
-msgstr ""
+msgid "vokenIssued"
+msgstr "vokenIssued"
 
-#: ../../guide/query_public_sale.rst:126
-msgid "weiRewarded"
-msgstr ""
+#: ../../guide/query_public_sale.rst:115
+msgid "Voken2.0 issued amount transferred already, with 6 decimals."
+msgstr "已经发行的 Voken2.0 总数，后 6 位为小数位。"
+
+#: ../../guide/query_public_sale.rst:117 ../../guide/query_public_sale.rst:123
+msgid "``59224163`` is **59.224163 Voken2.0**."
+msgstr "``59224163`` 是 **59.224163 Voken2.0** 。"
 
 #: ../../guide/query_public_sale.rst:124
-msgid "The amount of rewards, in ETH, with 18 decimals."
-msgstr ""
+msgid "vokenBonus"
+msgstr "vokenBonus"
 
-#: ../../guide/query_public_sale.rst:126
-msgid "``600000000000000`` is **0.000600000000000000 ETH**."
-msgstr ""
-
-#: ../../guide/query_public_sale.rst:131
-msgid "usdRewarded"
-msgstr ""
+#: ../../guide/query_public_sale.rst:121
+msgid "Voken2.0 bonus amount transferred already, with 6 decimals."
+msgstr "已经赠送的 Voken2.0 总数，后 6 位为小数位。"
 
 #: ../../guide/query_public_sale.rst:129
-msgid "The amount of rewards, in USD, with 6 decimals."
-msgstr ""
+msgid "weiRewarded"
+msgstr "weiRewarded"
 
-#: ../../guide/query_public_sale.rst:131
+#: ../../guide/query_public_sale.rst:127
+msgid "The amount of rewards, in ETH, with 18 decimals."
+msgstr "总奖励数，以 ETH 为单位，后 18 位为小数位。"
+
+#: ../../guide/query_public_sale.rst:129
+msgid "``600000000000000`` is **0.000600000000000000 ETH**."
+msgstr "``600000000000000`` 代表： **0.000600000000000000 ETH** 。"
+
+#: ../../guide/query_public_sale.rst:133
+msgid "usdRewarded"
+msgstr "usdRewarded"
+
+#: ../../guide/query_public_sale.rst:132
+msgid "The amount of rewards, in USD, with 6 decimals."
+msgstr "总奖励数，以 USD 美元为单位，后 6 位为小数位。"
+
+#: ../../guide/query_public_sale.rst:134
 msgid "``2000000`` is **2.000000 USD**."
-msgstr ""
+msgstr "``2000000`` 代表： **$ 2.000000 美元** 。"

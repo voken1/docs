@@ -70,63 +70,65 @@ Let's focus on the values:
    weiRewarded      |uint256 :  600000000000000
    usdRewarded      |uint256 :  2000000
 
-stage
-   Stage number.
 
-   ``3277`` means: It's in **Stage #3277**.
+.. NOTE::
 
+   stage
+      Stage number.
 
-season
-   Season number.
-
-   ``6`` means: It's in **Season #6**.
+      ``3277`` means: It's in **Stage #3277**.
 
 
-etherUsdPrice
-   Current Audit ETH Price, in USD, with 6 decimals.
+   season
+      Season number.
 
-   In this case, ``200000000`` means you can use `1 ETH` as **$ 200.000000 USD**, for now.
-
-
-vokenUsdPrice
-   Current Voken price, in USD, with 6 decimals.
-
-   ``33770`` means: Current Voken price is **$ 0.033770 USD** .
+      ``6`` means: It's in **Season #6**.
 
 
-shareholdersRatio
-   Current shareholders ratio, with 8 decimals.
+   etherUsdPrice
+      Current Audit ETH Price, in USD, with 6 decimals.
 
-   ``17730833`` is **0.17730833**, means
-   **15.067500%** of the last transaction ETH amount will be transferred to :ref:`voken2_shareholders_contract`.
-   It is calculated by `Stage number`, if the Public-Sale goes into next stage, ratio increases.
+      In this case, ``200000000`` means you can use `1 ETH` as **$ 200.000000 USD**, for now.
 
 
-txs
-   Transactions amount in this Voken Public-Sale.
+   vokenUsdPrice
+      Current Voken price, in USD, with 6 decimals.
 
-   ``1`` means: There are **1 transaction** since the Voken Public-Sale started.
-
-
-vokenIssued
-   Voken2.0 issued amount transferred already, with 6 decimals.
-
-   ``59224163`` is **59.224163 Voken2.0**.
+      ``33770`` means: Current Voken price is **$ 0.033770 USD** .
 
 
-vokenBonus
-   Voken2.0 bonus amount transferred already, with 6 decimals.
+   shareholdersRatio
+      Current shareholders ratio, with 8 decimals.
 
-   ``59224163`` is **59.224163 Voken2.0**.
+      ``17730833`` is **0.17730833**, means
+      **17.730833%** of the last transaction ETH amount will be transferred to :ref:`voken2_shareholders_contract`.
+      It is calculated by `Stage number`, if the Public-Sale goes into next stage, ratio increases.
 
 
-weiRewarded
-   The amount of rewards, in ETH, with 18 decimals.
+   txs
+      Transactions amount in this Voken Public-Sale.
 
-   ``600000000000000`` is **0.000600000000000000 ETH**.
+      ``1`` means: There are **1 transaction** since the Voken Public-Sale started.
 
-usdRewarded
-   The amount of rewards, in USD, with 6 decimals.
 
-   ``2000000`` is **2.000000 USD**.
+   vokenIssued
+      Voken2.0 issued amount transferred already, with 6 decimals.
 
+      ``59224163`` is **59.224163 Voken2.0**.
+
+
+   vokenBonus
+      Voken2.0 bonus amount transferred already, with 6 decimals.
+
+      ``59224163`` is **59.224163 Voken2.0**.
+
+
+   weiRewarded
+      The amount of rewards, in ETH, with 18 decimals.
+
+      ``600000000000000`` is **0.000600000000000000 ETH**.
+
+   usdRewarded
+      The amount of rewards, in USD, with 6 decimals.
+
+      ``2000000`` is **2.000000 USD**.

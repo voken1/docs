@@ -67,48 +67,50 @@ Let's focus on the values:
    burningPermill   |uint16 :   10
 
 
-totalSupply
-   Total supply of Voken2.0, with 6 decimals.
+.. NOTE::
 
-   ``2321228621078952`` means **2,321,228,621.078952 Voken2.0** total.
+   totalSupply
+      Total supply of Voken2.0, with 6 decimals.
 
-
-whitelistCounter
-   The counter for whitelisted addresses, with no decimals.
-
-   ``6918`` means there are 6,918 addresses are already whitelisted.
+      ``2321228621078952`` means **2,321,228,621.078952 Voken2.0** total.
 
 
-whitelistingMode
-   Whether the whitelist signing-up is allowed.
+   whitelistCounter
+      The counter for whitelisted addresses, with no decimals.
 
-   ``True`` for **YES**, and ``False`` for **NO**.
-
-   When it shows ``True`` you can follow :ref:`how_to_join_the_whitelist` to join.
+      ``6918`` means there are 6,918 addresses are already whitelisted.
 
 
-safeMode
-   Whether the **SAFE-MODE** is on.
+   whitelistingMode
+      Whether the whitelist signing-up is allowed.
 
-   ``True`` for **YES**, and ``False`` for **NO**.
+      ``True`` for **YES**, and ``False`` for **NO**.
 
-   When it shows ``True``, transfers from a non-whitelisted address is restricted.
-   This is a mechanism to protect early ecological health.
-
-
-burningMode
-   Whether the **BURNING-MODE** is on.
-
-   ``True`` for **YES**, and ``False`` for **NO**.
-
-   When it shows ``True``, **1%** will be **burned** for every transaction of Voken2.0.
+      When it shows ``True`` you can follow :ref:`how_to_join_the_whitelist` to join.
 
 
-burningPermill
-   When **BURNING-MODE** is on, the value is valid.
-   It is the burning ratio in per-mill.
+   safeMode
+      Whether the **SAFE-MODE** is on.
 
-   ``10`` means the current burning ratio is **1%**.
+      ``True`` for **YES**, and ``False`` for **NO**.
+
+      When it shows ``True``, transfers from a non-whitelisted address is restricted.
+      This is a mechanism to protect early ecological health.
+
+
+   burningMode
+      Whether the **BURNING-MODE** is on.
+
+      ``True`` for **YES**, and ``False`` for **NO**.
+
+      When it shows ``True``, **1%** will be **burned** for every transaction of Voken2.0.
+
+
+   burningPermill
+      When **BURNING-MODE** is on, the value is valid.
+      It is the burning ratio in per-mill.
+
+      ``10`` means the current burning ratio is **1%**.
 
 
 Query an address in Voken2.0
@@ -139,19 +141,21 @@ Let's focus on the returned values:
    reserved                  uint256 :  59224163
 
 
-whitelisted
-   If it returns ``true``, means the address is already whitelisted, ``false`` means no.
+.. NOTE::
 
-whitelistReferralsCount
-   The quantity of direct referrals.
+   whitelisted
+       If it returns ``true``, means the address is already whitelisted, ``false`` means no.
 
-balance
-   Balance of Voken2.0, with 6 decimals.
 
-   ``118448326`` means **118.448326 Voken2.0**.
+   whitelistReferralsCount
+      The quantity of direct referrals.
 
-reserved
-   Reserved balance of Voken2.0, with 6 decimals.
 
-   ``59224163`` means **59.224163 Voken2.0**.
+   balance
+      Balance of Voken2.0, with 6 decimals.
+      ``118448326`` means **118.448326 Voken2.0**.
 
+
+   reserved
+      Reserved balance of Voken2.0, with 6 decimals.
+      ``59224163`` means **59.224163 Voken2.0**.
