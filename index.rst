@@ -90,6 +90,8 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 
 
+.. _contracts:
+
 .. toctree::
    :maxdepth: 1
    :caption: New Contracts on Ethereum
@@ -180,17 +182,11 @@ more open, more equal, more stable, more efficient, safer and freer.
    views/invest_with
 
 
-.. _contracts:
 
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Contracts on Ethereum
-
-   contracts/voken
-
+..   contracts/voken
    contracts/voken_sale
+   contracts/voken_migration
+   contracts/batch_transfer
    contracts/airdrop
    contracts/airdrop_to_eth_holders
    contracts/business_fund
@@ -198,8 +194,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    contracts/service_nodes_fund
    contracts/early_investors_fund
    contracts/team_fund
-   contracts/voken_migration
-   contracts/batch_transfer
+
 
 
 ------
