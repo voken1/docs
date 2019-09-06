@@ -29,7 +29,7 @@ you will receive exactly **1,001 Voken2.0** and all the unused ETH automatically
    :width: 35 %
    :alt: qrcode_get_1001_voken2.svg
 
-**0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**
+**0x6F95F1CE0C8D0257fe993b2358aca29EA0506943**
 
 .. NOTE::
 
