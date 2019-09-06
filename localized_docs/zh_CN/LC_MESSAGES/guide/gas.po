@@ -77,7 +77,7 @@ msgstr ":ref:`voken2_sale`"
 
 #: ../../guide/gas.rst:26
 msgid "6,000,000"
-msgstr ""
+msgstr "6,000,000"
 
 #: ../../guide/gas.rst:27
 msgid "Withdraw dividend from :ref:`voken2_shareholders_contract`"

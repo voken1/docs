@@ -328,15 +328,15 @@ msgstr "详细信息见： :ref:`voken2_sale`"
 
 #: ../../news/voken2.rst:177
 msgid "Contracts for data query"
-msgstr ""
+msgstr "数据查询合约"
 
 #: ../../news/voken2.rst:179
 msgid ":ref:`query_voken`"
-msgstr ""
+msgstr ":ref:`query_voken`"
 
 #: ../../news/voken2.rst:180
 msgid ":ref:`query_public_sale`"
-msgstr ""
+msgstr ":ref:`query_public_sale`"
 
 #: ../../news/voken2.rst:185
 msgid "Voken 2.0 Community Alliance Program"

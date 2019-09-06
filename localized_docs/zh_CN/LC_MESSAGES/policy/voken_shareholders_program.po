@@ -239,10 +239,10 @@ msgstr "所以，你不需要个人向此合约转入大于 0 的 ETH 。"
 
 #: ../../policy/voken_shareholders_program.rst:87
 msgid "Cannot transfer these Voken2.0 before..."
-msgstr ""
+msgstr "在以下时间前，不可以转出 Voken2.0"
 
 #: ../../policy/voken_shareholders_program.rst:89
 msgid ""
 "You cannot transfer these Voken2.0 before ``2020-08-30 23:59:59 UTC``. It "
 "will then be released daily in two months."
-msgstr ""
+msgstr "你不可以在 ``2020-08-30 23:59:59 UTC`` 前转移这些 Voken2.0 ，然后它将在 2 个月内每天释放。"
