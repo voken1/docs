@@ -5,23 +5,23 @@ How to query Voken2.0 public-sale data
 
 |logo_etherscan_verified| |logo_github| |logo_verified|
 
-- Contract address is **0xAF76f1949400A296121Cc26C499f50d83D051410**
-- Deployed at `Tx Hash 0xc35453b4c21a9efbe0e27d7e20a0123a...`_
-- Block height `#8485689`_
+- Contract address is **0xeBbcC1e995Fd41338EFf305807d0Ded8ea2363A1**
+- Deployed at `Tx Hash 0x92571d8b53af360945c55b2cc6606389...`_
+- Block height `#8498075`_
 - Open-sourced under the `GNU General Public License v3.0`_
 - `View contract code on github repository`_
 - `View contract on Etherscan.io`_
 
-.. _Tx Hash 0xc35453b4c21a9efbe0e27d7e20a0123a...:
-   https://etherscan.io/tx/0xc35453b4c21a9efbe0e27d7e20a0123ad2c12a5f75111ab055ecb2e26c8745be
-.. _#8485689:
-   https://etherscan.io/block/8485689
+.. _Tx Hash 0x92571d8b53af360945c55b2cc6606389...:
+   https://etherscan.io/tx/0x92571d8b53af360945c55b2cc660638996e54840e33995f69dc333bffd243636
+.. _#8498075:
+   https://etherscan.io/block/8498075
 .. _GNU General Public License v3.0:
    https://github.com/voken100g/contracts/blob/master/LICENSE
 .. _View contract code on github repository:
    https://github.com/voken100g/contracts/blob/master/VokenPublicSalePanel.sol
 .. _View contract on Etherscan.io:
-   https://etherscan.io/address/0xAF76f1949400A296121Cc26C499f50d83D051410#readContract
+   https://etherscan.io/address/0xeBbcC1e995Fd41338EFf305807d0Ded8ea2363A1#readContract
 
 .. |logo_github| image:: /_static/logos/github.svg
    :width: 36px
@@ -37,11 +37,11 @@ How to query Voken2.0 public-sale data
 
 
 Here is the link for **Read the Contract**:
-``https://etherscan.io/address/0xAF76f1949400A296121Cc26C499f50d83D051410#readContract``
+``https://etherscan.io/address/0xeBbcC1e995Fd41338EFf305807d0Ded8ea2363A1#readContract``
 
 Click `here`_, then **Contract** => **Read Contract**
 
-.. _here: https://etherscan.io/address/0xAF76f1949400A296121Cc26C499f50d83D051410#readContract
+.. _here: https://etherscan.io/address/0xeBbcC1e995Fd41338EFf305807d0Ded8ea2363A1#readContract
 
 
 Status of Voken2.0 public-sale
@@ -127,8 +127,3 @@ Let's focus on the values:
       The amount of rewards, in ETH, with 18 decimals.
 
       ``600000000000000`` is **0.000600000000000000 ETH**.
-
-   usdRewarded
-      The amount of rewards, in USD, with 6 decimals.
-
-      ``2000000`` is **2.000000 USD**.

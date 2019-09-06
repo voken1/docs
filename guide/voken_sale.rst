@@ -82,11 +82,11 @@ with a gift of **BUY ONE AND GET ONE MORE FREE**.
    :width: 35 %
    :alt: qrcode_voken2_sale.svg
 
-**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**
+**0xd4260e4Bfb354259F5e30279cb0D7F784Ea5f37A**
 
 #. Use your own ETH Wallet, choose **Send ETH**.
 #. Enter the address above, or scan the qr-code.
-#. Set **Gas Limit** >= ``6,500,000``, upper limit is ``8,000,000``.
+#. Set **Gas Limit** >= ``6,000,000``, upper limit is ``8,000,000``.
    If the transaction interrupted with ``out of gas``, all the unused ETH will return automatically.
 #. Set **Gas Price**,
    if you want transaction speed up, you could choose higher price, or leave it as default.
@@ -95,7 +95,7 @@ with a gift of **BUY ONE AND GET ONE MORE FREE**.
 #. **Receive Voken2.0**.
 
 .. NOTE::
-   Make sure you have set ``gas limit`` to ``6,500,000`` or more,
+   Make sure you have set ``gas limit`` to ``6,000,000`` or more,
    the rest will be returned automatically.
 
    Related link: :ref:`gas`

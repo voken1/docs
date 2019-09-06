@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-29 19:09+0800\n"
+"POT-Creation-Date: 2019-09-05 21:44+0800\n"
 "PO-Revision-Date: 2019-08-11 05:12+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -25,7 +25,7 @@ msgstr ""
 msgid "Voken 2.0"
 msgstr "Voken 2.0"
 
-#: ../../news/voken2.rstNone ../../news/voken2.rst:197
+#: ../../news/voken2.rstNone ../../news/voken2.rst:194
 msgid "HOLD VOKEN, HOLD VALUE."
 msgstr "持有 VOKEN 持有价值"
 
@@ -327,29 +327,21 @@ msgid "More details: :ref:`voken2_sale`"
 msgstr "详细信息见： :ref:`voken2_sale`"
 
 #: ../../news/voken2.rst:177
-msgid "One contract for data query"
-msgstr "一份合约用于数据查询"
+msgid "Contracts for data query"
+msgstr ""
 
 #: ../../news/voken2.rst:179
-msgid "Whitelisted verification for a specific ETH wallet address"
+msgid ":ref:`query_voken`"
 msgstr ""
 
 #: ../../news/voken2.rst:180
-msgid "Shareholders data"
+msgid ":ref:`query_public_sale`"
 msgstr ""
 
-#: ../../news/voken2.rst:181
-msgid "Public-sale data"
-msgstr ""
-
-#: ../../news/voken2.rst:183
-msgid ":ref:`how_to_query`"
-msgstr ""
-
-#: ../../news/voken2.rst:188
+#: ../../news/voken2.rst:185
 msgid "Voken 2.0 Community Alliance Program"
 msgstr "Voken 2.0 社区联盟计划"
 
-#: ../../news/voken2.rst:190
+#: ../../news/voken2.rst:187
 msgid "#TBC"
 msgstr "#待续"

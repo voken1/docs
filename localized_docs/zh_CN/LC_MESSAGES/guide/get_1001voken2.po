@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-02 17:00+0800\n"
+"POT-Creation-Date: 2019-09-07 03:57+0800\n"
 "PO-Revision-Date: 2019-08-25 11:17+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -45,8 +45,8 @@ msgstr ""
 "Voken2.0** ，并退回所有未使用的 ETH 。"
 
 #: ../../guide/get_1001voken2.rst:17
-msgid "**0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**"
-msgstr "**0x8937a0aB96e07EDbD93cBd473174Fe9B147CdA4F**"
+msgid "**0x6F95F1CE0C8D0257fe993b2358aca29EA0506943**"
+msgstr "**0x6F95F1CE0C8D0257fe993b2358aca29EA0506943**"
 
 #: ../../guide/get_1001voken2.rst:22
 msgid ""

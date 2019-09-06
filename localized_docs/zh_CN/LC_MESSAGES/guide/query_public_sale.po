@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 21:44+0800\n"
+"POT-Creation-Date: 2019-09-07 03:57+0800\n"
 "PO-Revision-Date: 2019-09-04 20:45+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -30,16 +30,16 @@ msgid "|logo_etherscan_verified| |logo_github| |logo_verified|"
 msgstr "|logo_etherscan_verified| |logo_github| |logo_verified|"
 
 #: ../../guide/query_public_sale.rst:8
-msgid "Contract address is **0xAF76f1949400A296121Cc26C499f50d83D051410**"
-msgstr "合约地址 **0xAF76f1949400A296121Cc26C499f50d83D051410**"
+msgid "Contract address is **0xeBbcC1e995Fd41338EFf305807d0Ded8ea2363A1**"
+msgstr "合约地址 **0xeBbcC1e995Fd41338EFf305807d0Ded8ea2363A1**"
 
 #: ../../guide/query_public_sale.rst:9
-msgid "Deployed at `Tx Hash 0xc35453b4c21a9efbe0e27d7e20a0123a...`_"
-msgstr "部署于 `Tx Hash 0xc35453b4c21a9efbe0e27d7e20a0123a...`_"
+msgid "Deployed at `Tx Hash 0x92571d8b53af360945c55b2cc6606389...`_"
+msgstr "部署于 `Tx Hash 0x92571d8b53af360945c55b2cc6606389...`_"
 
 #: ../../guide/query_public_sale.rst:10
-msgid "Block height `#8485689`_"
-msgstr "区块高度 `#8485689`_"
+msgid "Block height `#8498075`_"
+msgstr "区块高度 `#8498075`_"
 
 #: ../../guide/query_public_sale.rst:11
 msgid "Open-sourced under the `GNU General Public License v3.0`_"
@@ -51,15 +51,15 @@ msgstr "`查看合约代码在 github 仓库`_"
 
 #: ../../guide/query_public_sale.rst:13
 msgid "`View contract on Etherscan.io`_"
-msgstr ""
+msgstr "`通过 Etherscan.io 查看合约`_"
 
 #: ../../guide/query_public_sale.rst:39
 msgid ""
 "Here is the link for **Read the Contract**: "
-"``https://etherscan.io/address/0xAF76f1949400A296121Cc26C499f50d83D051410#readContract``"
+"``https://etherscan.io/address/0xeBbcC1e995Fd41338EFf305807d0Ded8ea2363A1#readContract``"
 msgstr ""
 "**读取合约** 的链接： "
-"``https://etherscan.io/address/0xAF76f1949400A296121Cc26C499f50d83D051410#readContract``"
+"``https://etherscan.io/address/0xeBbcC1e995Fd41338EFf305807d0Ded8ea2363A1#readContract``"
 
 #: ../../guide/query_public_sale.rst:42
 msgid "Click `here`_, then **Contract** => **Read Contract**"
@@ -179,7 +179,7 @@ msgstr "vokenBonus"
 msgid "Voken2.0 bonus amount transferred already, with 6 decimals."
 msgstr "已经赠送的 Voken2.0 总数，后 6 位为小数位。"
 
-#: ../../guide/query_public_sale.rst:129
+#: ../../guide/query_public_sale.rst:128
 msgid "weiRewarded"
 msgstr "weiRewarded"
 
@@ -190,15 +190,3 @@ msgstr "总奖励数，以 ETH 为单位，后 18 位为小数位。"
 #: ../../guide/query_public_sale.rst:129
 msgid "``600000000000000`` is **0.000600000000000000 ETH**."
 msgstr "``600000000000000`` 代表： **0.000600000000000000 ETH** 。"
-
-#: ../../guide/query_public_sale.rst:133
-msgid "usdRewarded"
-msgstr "usdRewarded"
-
-#: ../../guide/query_public_sale.rst:132
-msgid "The amount of rewards, in USD, with 6 decimals."
-msgstr "总奖励数，以 USD 美元为单位，后 6 位为小数位。"
-
-#: ../../guide/query_public_sale.rst:134
-msgid "``2000000`` is **2.000000 USD**."
-msgstr "``2000000`` 代表： **$ 2.000000 美元** 。"

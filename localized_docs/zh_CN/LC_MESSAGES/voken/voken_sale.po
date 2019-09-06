@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-02 22:13+0800\n"
+"POT-Creation-Date: 2019-09-07 03:57+0800\n"
 "PO-Revision-Date: 2019-08-23 13:34+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -395,14 +395,14 @@ msgid "and you will **RECEIVE VOKEN2.0 AUTOMATICALLY**"
 msgstr "然后您将 **自动收到对应的 Voken2.0**"
 
 #: ../../voken/voken_sale.rst:168
-msgid "**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
-msgstr "**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
+msgid "**0xd4260e4Bfb354259F5e30279cb0D7F784Ea5f37A**"
+msgstr "**0xd4260e4Bfb354259F5e30279cb0D7F784Ea5f37A**"
 
 #: ../../voken/voken_sale.rst:172
 msgid ""
-"Make sure you have set ``gas limit`` to ``6,500,000`` or more, the rest will"
+"Make sure you have set ``gas limit`` to ``6,000,000`` or more, the rest will"
 " be returned automatically."
-msgstr "请将 ``gas limit`` 设置为 ``6,500,000`` 或更多，剩余部分将自动退回。"
+msgstr "请将 ``gas limit`` 设置为 ``6,000,000`` 或更多，剩余部分将自动退回。"
 
 #: ../../voken/voken_sale.rst:175
 msgid "Related link: :ref:`gas`"

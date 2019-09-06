@@ -23,7 +23,7 @@ As a **BRIEF SUMMARY**:
    ===========================================================  =========
    Voken2.0 transfer                                            100,000
    Join the whitelist                                           600,000
-   :ref:`voken2_sale`                                           6,500,000
+   :ref:`voken2_sale`                                           6,000,000
    Withdraw dividend from :ref:`voken2_shareholders_contract`   300,000
    ===========================================================  =========
 

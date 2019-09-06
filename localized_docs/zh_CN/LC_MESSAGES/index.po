@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-29 02:50+0800\n"
+"POT-Creation-Date: 2019-09-07 03:57+0800\n"
 "PO-Revision-Date: 2019-01-11 05:14+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -25,43 +25,39 @@ msgstr ""
 msgid "TOP"
 msgstr "置顶"
 
-#: ../../index.rst:90 ../../index.rst:90
+#: ../../index.rst:95 ../../index.rst:95
 msgid "New Contracts on Ethereum"
 msgstr "以太坊智能合约（新）"
 
-#: ../../index.rst:105 ../../index.rst:105
+#: ../../index.rst:108 ../../index.rst:108
 msgid "Reports"
 msgstr "进展报告"
 
-#: ../../index.rst:128 ../../index.rst:128
+#: ../../index.rst:132 ../../index.rst:132
 msgid "Available services"
 msgstr "当前可用服务"
 
-#: ../../index.rst:145 ../../index.rst:145
+#: ../../index.rst:149 ../../index.rst:149
 msgid "Guides"
 msgstr "使用与操作指导"
 
-#: ../../index.rst:167 ../../index.rst:167
+#: ../../index.rst:169 ../../index.rst:169
 msgid "References and views"
 msgstr "推荐阅读与观点集"
 
-#: ../../index.rst:185 ../../index.rst:185
-msgid "Contracts on Ethereum"
-msgstr "以太坊智能合约"
-
-#: ../../index.rst:213 ../../index.rst:213
+#: ../../index.rst:207 ../../index.rst:207
 msgid "Contribute"
 msgstr "共建"
 
-#: ../../index.rst:241 ../../index.rst:241
+#: ../../index.rst:221 ../../index.rst:221
 msgid "Policy"
 msgstr "政策"
 
-#: ../../index.rst:253 ../../index.rst:253
+#: ../../index.rst:233 ../../index.rst:233
 msgid "Whitepaper v1.1.0"
 msgstr "白皮书 v1.1.0"
 
-#: ../../index.rst:274 ../../index.rst:274
+#: ../../index.rst:254 ../../index.rst:254
 msgid "Contact us"
 msgstr "联系我们"
 

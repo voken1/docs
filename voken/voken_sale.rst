@@ -165,11 +165,11 @@ Send ETH, and receive Voken2.0
    :width: 35 %
    :alt: qrcode_voken2_sale.svg
 
-**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**
+**0xd4260e4Bfb354259F5e30279cb0D7F784Ea5f37A**
 
 
 .. NOTE::
-   Make sure you have set ``gas limit`` to ``6,500,000`` or more,
+   Make sure you have set ``gas limit`` to ``6,000,000`` or more,
    the rest will be returned automatically.
 
    Related link: :ref:`gas`

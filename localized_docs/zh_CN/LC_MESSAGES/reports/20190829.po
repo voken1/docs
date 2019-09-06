@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-29 20:40+0800\n"
+"POT-Creation-Date: 2019-09-07 03:57+0800\n"
 "PO-Revision-Date: 2019-08-29 11:02+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -94,52 +94,48 @@ msgid ":ref:`get_1001voken2` published"
 msgstr ":ref:`get_1001voken2` 发布"
 
 #: ../../reports/20190829.rst:29
-msgid ":ref:`query_panel_contract` deployed"
-msgstr ":ref:`query_panel_contract` 部署"
-
-#: ../../reports/20190829.rst:30
 msgid ""
 "Keep updating :ref:`voken2_migration_report` in :ref:`voken2_migration`"
 msgstr "保持更新 :ref:`voken2_migration_report` 在 :ref:`voken2_migration`"
 
-#: ../../reports/20190829.rst:37
+#: ../../reports/20190829.rst:36
 msgid "Core"
 msgstr "核心工作"
 
-#: ../../reports/20190829.rst:39
+#: ../../reports/20190829.rst:38
 msgid "vnTEST-NET environment: support 31 core nodes and lots of nodes"
 msgstr "远景测试网络环境：31 个核心节点和大量普通节点"
 
-#: ../../reports/20190829.rst:40
+#: ../../reports/20190829.rst:39
 msgid "A node simulation test-tool"
 msgstr "一个节点模拟测试工具"
 
-#: ../../reports/20190829.rst:41
+#: ../../reports/20190829.rst:40
 msgid "Optimize android-demo plan"
 msgstr "优化安卓演示产品规划"
 
-#: ../../reports/20190829.rst:42
+#: ../../reports/20190829.rst:41
 msgid "Synchronization of core-node list on node-side"
 msgstr "在普通节点端的核心节点列表数据同步"
 
-#: ../../reports/20190829.rst:43
+#: ../../reports/20190829.rst:42
 msgid "Function for keystore saving on node and core-node"
 msgstr "核心节点的 keystore 保存功能"
 
-#: ../../reports/20190829.rst:44
+#: ../../reports/20190829.rst:43
 msgid "UI for initialization and log-in on node-side"
 msgstr "普通节点端的初始化和登入的 UI 界面"
 
-#: ../../reports/20190829.rst:45
+#: ../../reports/20190829.rst:44
 msgid ""
 "Temporary wallet on core-node to meet the log-in from an non-transaction "
 "address"
 msgstr "核心节点的临时钱包功能以满足从无交易地址的登入"
 
-#: ../../reports/20190829.rst:48
+#: ../../reports/20190829.rst:47
 msgid "by Vision.Network Project Team"
 msgstr "by Vision.Network 远景网络项目团队"
 
-#: ../../reports/20190829.rst:50
+#: ../../reports/20190829.rst:49
 msgid "Aug 29th 2019"
 msgstr "2019 年 8 月 29 日"

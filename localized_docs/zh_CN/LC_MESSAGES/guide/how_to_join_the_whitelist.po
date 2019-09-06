@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 01:06+0800\n"
+"POT-Creation-Date: 2019-09-07 03:57+0800\n"
 "PO-Revision-Date: 2019-08-25 12:40+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -61,78 +61,104 @@ msgstr "相关链接： :ref:`gas`"
 msgid "FAQ about whitelist"
 msgstr "白名单相关的常见问题"
 
-#: ../../guide/how_to_join_the_whitelist.rst:47
+#: ../../guide/how_to_join_the_whitelist.rst:78
 msgid ""
 "How can I check whether a wallet address is whitelisted， and its referral "
 "count?"
 msgstr "我怎样可以检查一个地址是否已列入白名单，和该地址的推荐数？"
 
 #: ../../guide/how_to_join_the_whitelist.rst:0
-msgid "Read :ref:`query_panel_contract` via Etherscan.io:"
-msgstr "通过 Etherscan.io 读取 :ref:`query_panel_contract` :"
+msgid ":ref:`query_voken` on Etherscan.io:"
+msgstr "通过 Etherscan.io :ref:`query_voken` ："
 
 #: ../../guide/how_to_join_the_whitelist.rst:0
 msgid ""
-"`https://etherscan.io/address/0xb8cc4b5638a54280aA730756038701D1D9C0227B#readContract`"
+"``https://etherscan.io/address/0xfd1B721a7dD77845778806e360B99f2694E328a1#readContract``"
 msgstr ""
-"`https://etherscan.io/address/0xb8cc4b5638a54280aA730756038701D1D9C0227B#readContract`"
+"``https://etherscan.io/address/0xfd1B721a7dD77845778806e360B99f2694E328a1#readContract``"
 
 #: ../../guide/how_to_join_the_whitelist.rst:0
-msgid "``Contract`` => ``Read Contract``, the 8th function **accountVoken2**:"
-msgstr ""
-"``Contract 合约`` => ``Read Contract 阅读合约``, 第 8 个功能 **accountVoken2** ："
+msgid "**Contract** => **Read Contract**:"
+msgstr "**Contract 合约** => **Read Contract 读取合约** ："
 
-#: ../../guide/how_to_join_the_whitelist.rst:39
-msgid ""
-"Enter an address and press `Query`, 4 values will be returned, let's focus "
-"the first two ones."
-msgstr "输入一个地址并点击 `Query`，将返回 4 个值，我们关注前两个："
+#: ../../guide/how_to_join_the_whitelist.rst:32
+msgid "Function #1: **queryAccount**"
+msgstr "第 #1 个功能： **queryAccount**"
 
-#: ../../guide/how_to_join_the_whitelist.rst:43
+#: ../../guide/how_to_join_the_whitelist.rst:41
+msgid "Enter an ETH wallet address, and press **Query**, then:"
+msgstr "输入一个以太坊钱包地址，并点击 `Query` 查询，然后："
+
+#: ../../guide/how_to_join_the_whitelist.rst:50
+msgid "Let's focus on the returned values:"
+msgstr "我们关注返回值："
+
+#: ../../guide/how_to_join_the_whitelist.rst:64
 msgid "whitelisted"
 msgstr "whitelisted"
 
-#: ../../guide/how_to_join_the_whitelist.rst:43
+#: ../../guide/how_to_join_the_whitelist.rst:63
 msgid ""
-"If it returns ``true``, means the address is already whitelisted, otherwise,"
-" no."
-msgstr "如果返回 ``true`` ，则说明此地址已在列入白名单，否则就是没有列入。"
+"If it returns ``true``, means the address is already whitelisted, ``false`` "
+"means no."
+msgstr "如果返回 ``true`` ，则说明此地址已经列入白名单，``false`` 是没有。"
 
-#: ../../guide/how_to_join_the_whitelist.rst:47
+#: ../../guide/how_to_join_the_whitelist.rst:68
 msgid "whitelistReferralsCount"
 msgstr "whitelistReferralsCount"
 
-#: ../../guide/how_to_join_the_whitelist.rst:46
-msgid "The quantity of whitelisted referrals, from the given address."
-msgstr "给定地址直接引荐的白名单数量。"
+#: ../../guide/how_to_join_the_whitelist.rst:67
+msgid "The quantity of direct referrals."
+msgstr "直接引荐数量。"
 
-#: ../../guide/how_to_join_the_whitelist.rst:55
+#: ../../guide/how_to_join_the_whitelist.rst:73
+msgid "balance"
+msgstr "balance"
+
+#: ../../guide/how_to_join_the_whitelist.rst:71
+msgid ""
+"Balance of Voken2.0, with 6 decimals. ``118448326`` means **118.448326 "
+"Voken2.0**."
+msgstr "Voken2.0 余额， ``118448326`` 是 **118.448326 Voken2.0** 。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:76
+msgid "reserved"
+msgstr "reserved"
+
+#: ../../guide/how_to_join_the_whitelist.rst:76
+msgid ""
+"Reserved balance of Voken2.0, with 6 decimals. ``59224163`` means "
+"**59.224163 Voken2.0**."
+msgstr ""
+"保留的（锁定的） Voken2.0 余额，后 6 位为小数位。 ``59224163`` 是 **59.224163 Voken2.0** 。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:86
 msgid "Where could I buy some Voken2.0?"
 msgstr "我可以在哪里买到一些 Voken2.0 ？"
 
-#: ../../guide/how_to_join_the_whitelist.rst:50
+#: ../../guide/how_to_join_the_whitelist.rst:81
 msgid "There may be these ways:"
 msgstr "有以下几种方法："
 
-#: ../../guide/how_to_join_the_whitelist.rst:52
+#: ../../guide/how_to_join_the_whitelist.rst:83
 msgid "Participate in :ref:`voken2_sale`, send ETH to buy."
 msgstr "参加 :ref:`voken2_sale` 使用 ETH 购买。"
 
-#: ../../guide/how_to_join_the_whitelist.rst:53
+#: ../../guide/how_to_join_the_whitelist.rst:84
 msgid "Follow :ref:`get_1001voken2`."
 msgstr "按照 :ref:`get_1001voken2` 。"
 
-#: ../../guide/how_to_join_the_whitelist.rst:54
+#: ../../guide/how_to_join_the_whitelist.rst:85
 msgid "Ask your friend to send you some."
 msgstr "请您的朋友转给你一些。"
 
-#: ../../guide/how_to_join_the_whitelist.rst:58
+#: ../../guide/how_to_join_the_whitelist.rst:89
 msgid ""
 "After my address was whitelisted, what will happen if I send 1,001.0 "
 "Voken2.0 to my friend or others?"
 msgstr "如果我的地址已经列入白名单，再发送 1001.0 Voken2.0 给朋友或其它地址会发生什么？"
 
-#: ../../guide/how_to_join_the_whitelist.rst:58
+#: ../../guide/how_to_join_the_whitelist.rst:89
 msgid ""
 "Just like normal transfer, whitelist registration couldn't be trigger twice."
 msgstr "就像普通转账一样，白名单注册不会被触发两次。"

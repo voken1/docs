@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-05 04:43+0800\n"
+"POT-Creation-Date: 2019-09-05 21:44+0800\n"
 "PO-Revision-Date: 2019-09-04 20:45+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -51,7 +51,7 @@ msgstr "`查看合约代码在 github 仓库`_"
 
 #: ../../guide/query_voken.rst:13
 msgid "`View contract on Etherscan.io`_"
-msgstr ""
+msgstr "`通过 Etherscan.io 查看合约`_"
 
 #: ../../guide/query_voken.rst:39
 msgid ""
@@ -77,72 +77,72 @@ msgstr "第 #2 个功能： **voken2**"
 msgid "Let's focus on the values:"
 msgstr "让我们聚焦于这些数值："
 
-#: ../../guide/query_voken.rst:74
+#: ../../guide/query_voken.rst:76
 msgid "totalSupply"
 msgstr "totalSupply"
 
-#: ../../guide/query_voken.rst:71
+#: ../../guide/query_voken.rst:73
 msgid "Total supply of Voken2.0, with 6 decimals."
 msgstr "Voken2.0 的总发行量，后 6 位为小数位。"
 
-#: ../../guide/query_voken.rst:73
+#: ../../guide/query_voken.rst:75
 msgid "``2321228621078952`` means **2,321,228,621.078952 Voken2.0** total."
 msgstr "``2321228621078952`` 意为 **2,321,228,621.078952 Voken2.0** 总量。"
 
-#: ../../guide/query_voken.rst:80
+#: ../../guide/query_voken.rst:82
 msgid "whitelistCounter"
 msgstr "whitelistCounter"
 
-#: ../../guide/query_voken.rst:77
+#: ../../guide/query_voken.rst:79
 msgid "The counter for whitelisted addresses, with no decimals."
 msgstr "白名单地址计数器，无小数位。"
 
-#: ../../guide/query_voken.rst:79
+#: ../../guide/query_voken.rst:81
 msgid "``6918`` means there are 6,918 addresses are already whitelisted."
 msgstr "``6918`` 意为共有 6,918 个地址已列入白名单。"
 
-#: ../../guide/query_voken.rst:88
+#: ../../guide/query_voken.rst:90
 msgid "whitelistingMode"
 msgstr "whitelistingMode"
 
-#: ../../guide/query_voken.rst:83
+#: ../../guide/query_voken.rst:85
 msgid "Whether the whitelist signing-up is allowed."
 msgstr "白名单加入是否开放。"
 
-#: ../../guide/query_voken.rst:85 ../../guide/query_voken.rst:93
-#: ../../guide/query_voken.rst:102
+#: ../../guide/query_voken.rst:87 ../../guide/query_voken.rst:95
+#: ../../guide/query_voken.rst:104
 msgid "``True`` for **YES**, and ``False`` for **NO**."
 msgstr "``True`` for **是** ，``False`` 为 **否** 。"
 
-#: ../../guide/query_voken.rst:87
+#: ../../guide/query_voken.rst:89
 msgid ""
 "When it shows ``True`` you can follow :ref:`how_to_join_the_whitelist` to "
 "join."
 msgstr "当显示为 ``True`` 时，你可以按 :ref:`how_to_join_the_whitelist` 加入白名单。"
 
-#: ../../guide/query_voken.rst:97
+#: ../../guide/query_voken.rst:99
 msgid "safeMode"
 msgstr "safeMode"
 
-#: ../../guide/query_voken.rst:91
+#: ../../guide/query_voken.rst:93
 msgid "Whether the **SAFE-MODE** is on."
 msgstr "**安全模式** 是否开启。"
 
-#: ../../guide/query_voken.rst:95
+#: ../../guide/query_voken.rst:97
 msgid ""
 "When it shows ``True``, transfers from a non-whitelisted address is "
 "restricted. This is a mechanism to protect early ecological health."
 msgstr "当显示为 ``True`` 时，限制非白名单地址的转账。这是一个保护生态早期健康的机制。"
 
-#: ../../guide/query_voken.rst:105
+#: ../../guide/query_voken.rst:107
 msgid "burningMode"
 msgstr "burningMode"
 
-#: ../../guide/query_voken.rst:100
+#: ../../guide/query_voken.rst:102
 msgid "Whether the **BURNING-MODE** is on."
 msgstr "**燃烧模式** 是否开启。"
 
-#: ../../guide/query_voken.rst:104
+#: ../../guide/query_voken.rst:106
 msgid ""
 "When it shows ``True``, **1%** will be **burned** for every transaction of "
 "Voken2.0."
@@ -152,70 +152,67 @@ msgstr "当显示为 ``True`` ，每笔 Voken2.0 转账将有 1% 被 **销毁** 
 msgid "burningPermill"
 msgstr "burningPermill"
 
-#: ../../guide/query_voken.rst:108
+#: ../../guide/query_voken.rst:110
 msgid ""
 "When **BURNING-MODE** is on, the value is valid. It is the burning ratio in "
 "per-mill."
 msgstr "当 **燃烧模式** 开启，这个值才有效。它是销毁的千分比。"
 
-#: ../../guide/query_voken.rst:111
+#: ../../guide/query_voken.rst:113
 msgid "``10`` means the current burning ratio is **1%**."
 msgstr "``10`` 意味着当前比例为 **1%** 。"
 
-#: ../../guide/query_voken.rst:115
+#: ../../guide/query_voken.rst:117
 msgid "Query an address in Voken2.0"
 msgstr "查询一个地址"
 
-#: ../../guide/query_voken.rst:117
+#: ../../guide/query_voken.rst:119
 msgid "Function #1: **queryAccount**"
 msgstr "第 #1 个功能： **queryAccount**"
 
-#: ../../guide/query_voken.rst:124
+#: ../../guide/query_voken.rst:126
 msgid "Enter an ETH wallet address, and press **Query**, then:"
 msgstr "输入一个以太坊钱包地址，并点击 `Query` 查询，然后："
 
-#: ../../guide/query_voken.rst:132
+#: ../../guide/query_voken.rst:134
 msgid "Let's focus on the returned values:"
 msgstr "我们关注返回值："
 
-#: ../../guide/query_voken.rst:143
+#: ../../guide/query_voken.rst:148
 msgid "whitelisted"
 msgstr "whitelisted"
 
-#: ../../guide/query_voken.rst:143
+#: ../../guide/query_voken.rst:147
 msgid ""
 "If it returns ``true``, means the address is already whitelisted, ``false`` "
 "means no."
 msgstr "如果返回 ``true`` ，则说明此地址已经列入白名单，``false`` 是没有。"
 
-#: ../../guide/query_voken.rst:146
+#: ../../guide/query_voken.rst:152
 msgid "whitelistReferralsCount"
 msgstr "whitelistReferralsCount"
 
-#: ../../guide/query_voken.rst:146
+#: ../../guide/query_voken.rst:151
 msgid "The quantity of direct referrals."
 msgstr "直接引荐数量。"
 
-#: ../../guide/query_voken.rst:151
+#: ../../guide/query_voken.rst:157
 msgid "balance"
 msgstr "balance"
 
-#: ../../guide/query_voken.rst:149
-msgid "Balance of Voken2.0, with 6 decimals."
-msgstr "Voken2.0 余额，后 6 位为小数位。"
+#: ../../guide/query_voken.rst:155
+msgid ""
+"Balance of Voken2.0, with 6 decimals. ``118448326`` means **118.448326 "
+"Voken2.0**."
+msgstr "Voken2.0 余额， ``118448326`` 是 **118.448326 Voken2.0** 。"
 
-#: ../../guide/query_voken.rst:151
-msgid "``118448326`` means **118.448326 Voken2.0**."
-msgstr "``118448326`` 是 **118.448326 Voken2.0** 。"
-
-#: ../../guide/query_voken.rst:156
+#: ../../guide/query_voken.rst:160
 msgid "reserved"
 msgstr "reserved"
 
-#: ../../guide/query_voken.rst:154
-msgid "Reserved balance of Voken2.0, with 6 decimals."
-msgstr "保留的（锁定的） Voken2.0 余额，后 6 位为小数位。"
-
-#: ../../guide/query_voken.rst:156
-msgid "``59224163`` means **59.224163 Voken2.0**."
-msgstr "``59224163`` 是 **59.224163 Voken2.0** 。"
+#: ../../guide/query_voken.rst:160
+msgid ""
+"Reserved balance of Voken2.0, with 6 decimals. ``59224163`` means "
+"**59.224163 Voken2.0**."
+msgstr ""
+"保留的（锁定的） Voken2.0 余额，后 6 位为小数位。 ``59224163`` 是 **59.224163 Voken2.0** 。"

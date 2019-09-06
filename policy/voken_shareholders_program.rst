@@ -83,8 +83,8 @@ So, there is no need to send your ETH greater than 0 here personally.
 
 
 
-Cannot transfer these Voken before...
--------------------------------------
+Cannot transfer these Voken2.0 before...
+----------------------------------------
 
-You cannot transfer these Voken before ``2020-08-30 23:59:59 UTC``.
+You cannot transfer these Voken2.0 before ``2020-08-30 23:59:59 UTC``.
 It will then be released daily in two months.

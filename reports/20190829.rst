@@ -26,7 +26,6 @@ Global
 - :ref:`how_to_join_the_whitelist` upgraded
 - :ref:`get_1001voken_contract` deployed
 - :ref:`get_1001voken2` published
-- :ref:`query_panel_contract` deployed
 - Keep updating :ref:`voken2_migration_report` in :ref:`voken2_migration`
 
 .. ref:`how_to_query` published

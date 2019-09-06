@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-02 22:49+0800\n"
+"POT-Creation-Date: 2019-09-07 03:57+0800\n"
 "PO-Revision-Date: 2019-04-25 12:27+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -134,8 +134,8 @@ msgstr ""
 "发送 ETH 到 :ref:`voken2_sale_contract` 地址，就可以自动收到 Voken2.0 同时获得 **买一送一** 赠送。"
 
 #: ../../guide/voken_sale.rst:85
-msgid "**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
-msgstr "**0xfEb75b3cC7281B18f2d475A04F1fFAAA3C9a6E36**"
+msgid "**0xd4260e4Bfb354259F5e30279cb0D7F784Ea5f37A**"
+msgstr ""
 
 #: ../../guide/voken_sale.rst:87
 msgid "Use your own ETH Wallet, choose **Send ETH**."
@@ -147,12 +147,10 @@ msgstr "输入上边的地址，或者扫描二维码。"
 
 #: ../../guide/voken_sale.rst:89
 msgid ""
-"Set **Gas Limit** >= ``6,500,000``, upper limit is ``8,000,000``. If the "
+"Set **Gas Limit** >= ``6,000,000``, upper limit is ``8,000,000``. If the "
 "transaction interrupted with ``out of gas``, all the unused ETH will return "
 "automatically."
 msgstr ""
-"设置 **Gas Limit** >= ``6,500,000`` ，上限是 ``8,000,000`` 。如果在交易过程中出现 ``out of "
-"gas`` 的情况，所有的未兑换成功的 ETH 都将自动退回。"
 
 #: ../../guide/voken_sale.rst:91
 msgid ""
@@ -174,9 +172,9 @@ msgstr "**收到 Voken2.0**"
 
 #: ../../guide/voken_sale.rst:98
 msgid ""
-"Make sure you have set ``gas limit`` to ``6,500,000`` or more, the rest will"
+"Make sure you have set ``gas limit`` to ``6,000,000`` or more, the rest will"
 " be returned automatically."
-msgstr "请将 ``gas limit`` 设置为 ``6,500,000`` 或更多，剩余部分将自动退回。"
+msgstr ""
 
 #: ../../guide/voken_sale.rst:106
 msgid "Recommended ETH Wallet"

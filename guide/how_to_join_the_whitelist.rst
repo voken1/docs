@@ -24,26 +24,57 @@ FAQ about whitelist
 -------------------
 
 How can I check whether a wallet address is whitelisted， and its referral count?
-   | Read :ref:`query_panel_contract` via Etherscan.io:
-   | `https://etherscan.io/address/0xb8cc4b5638a54280aA730756038701D1D9C0227B#readContract`
+   | :ref:`query_voken` on Etherscan.io:
+   | ``https://etherscan.io/address/0xfd1B721a7dD77845778806e360B99f2694E328a1#readContract``
    |
-   | ``Contract`` => ``Read Contract``, the 8th function **accountVoken2**:
+   | **Contract** => **Read Contract**:
 
-   .. image:: /_static/guide/whitelisted.png
+   Function #1: **queryAccount**
+
+   .. image:: /_static/contract/voken2_query1.png
+      :width: 80 %
       :align: center
-      :width: 90 %
-      :alt: whitelisted.png
+      :alt: voken2_query1.png
 
    |
 
-   Enter an address and press `Query`,
-   4 values will be returned, let's focus the first two ones.
+   Enter an ETH wallet address, and press **Query**, then:
 
-   whitelisted
-      If it returns ``true``, means the address is already whitelisted, otherwise, no.
+   .. image:: /_static/contract/voken2_query2.png
+      :width: 80 %
+      :align: center
+      :alt: voken2_query2.png
 
-   whitelistReferralsCount
-      The quantity of whitelisted referrals, from the given address.
+   |
+
+   Let's focus on the returned values:
+
+   .. code-block:: text
+
+      whitelisted               bool :     true
+      whitelistReferralsCount   uint256 :  25
+      balance                   uint256 :  118448326
+      reserved                  uint256 :  59224163
+
+
+   .. NOTE::
+
+      whitelisted
+          If it returns ``true``, means the address is already whitelisted, ``false`` means no.
+
+
+      whitelistReferralsCount
+         The quantity of direct referrals.
+
+
+      balance
+         Balance of Voken2.0, with 6 decimals.
+         ``118448326`` means **118.448326 Voken2.0**.
+
+
+      reserved
+         Reserved balance of Voken2.0, with 6 decimals.
+         ``59224163`` means **59.224163 Voken2.0**.
 
 
 Where could I buy some Voken2.0?
