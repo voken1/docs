@@ -38,7 +38,7 @@ msgid ""
 "help users in the early stage of the project to take the lead, to obtain "
 "more significant opportunities."
 msgstr ""
-"我们设置了丰厚的奖励（第一阶段 5000 万 Voken2.0 ）。同时正式启动全球去中心化节点备案，帮助用户在项目的早期阶段率先获得更大机会。"
+"我们设置了丰厚的奖励（第一阶段 5000 万 Voken2.0 预算）。同时正式启动全球去中心化节点备案，帮助用户在项目的早期阶段率先获得更大机会。"
 
 #: ../../policy/community_program.rst:13
 msgid ""
