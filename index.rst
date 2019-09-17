@@ -74,9 +74,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :caption: TOP
 
    news/voken2
-   guide/voken2_migration
-   letters/as_an_investor
-   policy/voken_shareholders_program
+   policy/community_program
    voken/voken_sale
    guide/voken_sale
    policy/voken_referral_program
@@ -86,7 +84,6 @@ more open, more equal, more stable, more efficient, safer and freer.
    guide/query_public_sale
    revision
 .. policy/voken_community_alliance_program
-   guide/how_to_query
 
 
 
@@ -120,11 +117,12 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. _letters:
 
-.. toctree
+.. toctree::
    :maxdepth: 1
    :caption: Letters
 
-   letters/join_the_revolution
+   letters/as_an_investor
+..   letters/join_the_revolution
 
 
 .. _available-services:
@@ -158,6 +156,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    guide/shadowsocksr_win
    guide/shadowsocksr_mac
    guide/eth_wallet
+   guide/voken2_migration
 
 .. guide/telegram
    guide/read_voken_sale_contract
@@ -222,6 +221,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Policy
 
+   policy/voken_shareholders_program
    policy/chatting_group
 .. policy/voken_community_alliance_program
 

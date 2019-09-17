@@ -11,6 +11,7 @@ and can be viewed on the `github repository`_ and `etherscan.io`_.
 
 Related links:
 
+- :ref:`as_an_investor`
 - :ref:`guide_for_voken_sale`
 - :ref:`voken_pricing`
 

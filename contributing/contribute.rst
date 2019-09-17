@@ -11,7 +11,7 @@ Global Community
 ----------------
 
 - :ref:`voken_referral_program`
-- :ref:`community_partner`
+- :ref:`community_program`
 
 
 Helping on translations

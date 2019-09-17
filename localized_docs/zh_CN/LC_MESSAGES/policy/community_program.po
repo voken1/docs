@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-17 11:29+0800\n"
+"PO-Revision-Date: 2019-09-17 03:33+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../policy/community_program.rst:4
+msgid "Global decentralized-community alliance program"
+msgstr "全球去中心化社区联盟计划"
+
+#: ../../policy/community_program.rst:6
+msgid ""
+"VISION is one of the most anticipated multi-tier applications of blockchain "
+"infrastructure with practical scenarios."
+msgstr "VISION 是目前最值得期待的具有实际场景的区块链基础设施 + 多层应用的项目。"
+
+#: ../../policy/community_program.rst:9
+msgid ""
+"We set up a generous reward (50 million Voken2.0 budget for phase#1). And we"
+" are now officially launching decentralized community filing globally, to "
+"help users in the early stage of the project to take the lead, to obtain "
+"more significant opportunities."
+msgstr ""
+"我们设置了丰厚的奖励（第一阶段 5000 万 Voken2.0 ）。同时正式启动全球去中心化节点备案，帮助用户在项目的早期阶段率先获得更大机会。"
+
+#: ../../policy/community_program.rst:13
+msgid ""
+"If you have the resources and capabilities and are willing to participate in"
+" the community, please send us an email."
+msgstr "如果您你有资源和能力并愿意参与社区，请发送电子邮件给我们。"
+
+#: ../../policy/community_program.rst:19
+msgid "Requirements of community partners"
+msgstr "社区合伙人具体要求"
+
+#: ../../policy/community_program.rst:21
+msgid "Good knowledge in the blockchain field"
+msgstr "对区块链行业有较高的认知与知识积累"
+
+#: ../../policy/community_program.rst:22
+msgid "Have resources or familiar with how to run a community"
+msgstr "熟悉如何运营社区或者拥有一定资源"
+
+#: ../../policy/community_program.rst:23
+msgid ""
+"strong leadership, charisma, ability to bring together and sustain community"
+msgstr "具备领导力、号召力，能够凝聚社群、维护社群发展"
+
+#: ../../policy/community_program.rst:24
+msgid ""
+"Passion, quick thinking, strong language ability, a strong sense of "
+"responsibility"
+msgstr "思维敏捷、热爱交际、语言能力强、责任心强"
+
+#: ../../policy/community_program.rst:25
+msgid "Recognition of vision and prospects"
+msgstr "认可并看好 VISION 理念与前景"
+
+#: ../../policy/community_program.rst:30
+msgid "Community partner duties"
+msgstr "社区合伙人职责"
+
+#: ../../policy/community_program.rst:32
+msgid "Build online groups and maintain them continuously"
+msgstr "组建线上交流群组并持续维护"
+
+#: ../../policy/community_program.rst:33
+msgid "Holding offline meetings, individual sessions, etc."
+msgstr "举办线下行业交流会、个人主题分享会等"
+
+#: ../../policy/community_program.rst:34
+msgid "Promote :ref:`voken2_sale`"
+msgstr "促进 :ref:`voken2_sale`"
+
+#: ../../policy/community_program.rst:35
+msgid "Attend meetings, share VISION and ideas"
+msgstr "参加行业聚会并分享 VISION 项目与理念"
+
+#: ../../policy/community_program.rst:36
+msgid "Show views through social networks or the media"
+msgstr "通过社交网络或媒体发表个人观点"
+
+#: ../../policy/community_program.rst:37
+msgid "Others (free play)"
+msgstr "其它（可自由发挥）"
+
+#: ../../policy/community_program.rst:40
+msgid "Email us"
+msgstr "给我们发送邮件"
+
+#: ../../policy/community_program.rst:54
+msgid "E-mail us your application"
+msgstr "将你的申请发送邮件给我们"
+
+#: ../../policy/community_program.rst:43
+msgid "To **join@vision.network** with content:"
+msgstr "至 **join@vision.network** ，内容："
+
+#: ../../policy/community_program.rst:45
+msgid "Community name"
+msgstr "社区名称"
+
+#: ../../policy/community_program.rst:46
+msgid "Your name"
+msgstr "姓名或称呼"
+
+#: ../../policy/community_program.rst:47
+msgid "Your country / region"
+msgstr "你的国家或地域"
+
+#: ../../policy/community_program.rst:48
+msgid "Your telegram username"
+msgstr "你的 Telegram 用户名"
+
+#: ../../policy/community_program.rst:49
+msgid "Your career & job"
+msgstr "你的经历和工作"
+
+#: ../../policy/community_program.rst:50
+msgid "Your resource"
+msgstr "你的相关资源"
+
+#: ../../policy/community_program.rst:51
+msgid "Your idea & plan"
+msgstr "你的想法与计划"
+
+#: ../../policy/community_program.rst:52
+msgid "Your suggestion"
+msgstr "你对 VISION 的建议"
+
+#: ../../policy/community_program.rst:53
+msgid "And anything you want to say"
+msgstr "任何你想说的话"
+
+#: ../../policy/community_program.rst:54
+msgid "Your ETH wallet address"
+msgstr "你的 ETH 钱包地址"
+
+#: ../../policy/community_program.rst:57
+msgid "Then we will reply"
+msgstr "我们会回复你的邮件"
+
+#: ../../policy/community_program.rst:57
+msgid "You will get a reply, or we may contact you via Telegram."
+msgstr "你将会收到我们的正式邮件回复，同时也可能通过 Telegram 联系你"
+
+#: ../../policy/community_program.rst:59
+msgid ""
+"Join us, take part in community ecological construction, walk with "
+"outstanding people"
+msgstr "加入我们，参与社区生态建设，与优秀者同行"
+
+#: ../../policy/community_program.rst:60
+msgid "We are waiting for you."
+msgstr "期待你的加入"
