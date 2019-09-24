@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-23 21:21-0500\n"
+"PO-Revision-Date: 2019-09-24 02:24+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../reports/20190908.rst:4
+msgid "Report: Sep 8th 2019"
+msgstr "2019 年 9 月 8 日进展报告"
+
+#: ../../reports/20190908.rst:8
+msgid ":ref:`report_20190829`"
+msgstr ":ref:`report_20190829`"
+
+#: ../../reports/20190908.rst:9
+msgid ":ref:`report_20190811`"
+msgstr ":ref:`report_20190811`"
+
+#: ../../reports/20190908.rst:10
+msgid ":ref:`report_20190719`"
+msgstr ":ref:`report_20190719`"
+
+#: ../../reports/20190908.rst:11
+msgid ":ref:`report_20190619`"
+msgstr ":ref:`report_20190619`"
+
+#: ../../reports/20190908.rst:12
+msgid ":ref:`summary2019`"
+msgstr ":ref:`summary2019`"
+
+#: ../../reports/20190908.rst:13
+msgid ":ref:`summary2018`"
+msgstr ":ref:`summary2018`"
+
+#: ../../reports/20190908.rst:18
+msgid "Global"
+msgstr "全局工作"
+
+#: ../../reports/20190908.rst:20
+msgid ":ref:`community_program` published"
+msgstr ":ref:`community_program` 发布"
+
+#: ../../reports/20190908.rst:21
+msgid "Finished :ref:`voken2_migration` for **1,819,447,163.630319**"
+msgstr ":ref:`voken2_migration` 已完成 **1,819,447,163.630319**"
+
+#: ../../reports/20190908.rst:26
+msgid "Core"
+msgstr "核心工作"
+
+#: ../../reports/20190908.rst:28
+msgid "Dev console for core-node"
+msgstr "核心节点开发调试控制台"
+
+#: ../../reports/20190908.rst:29
+msgid "Data sync plan for core-node"
+msgstr "核心节点数据同步规划"
+
+#: ../../reports/20190908.rst:30
+msgid "Communication signature and verification between core-nodes"
+msgstr "核心节点的通信签名和验证"
+
+#: ../../reports/20190908.rst:31
+msgid "Add core-node panel UI for client-side"
+msgstr "为客户端增加核心节点面板"
+
+#: ../../reports/20190908.rst:32
+msgid "Timestamp validity forwarding between core-nodes"
+msgstr "核心节点间的时间戳有效性转发"
+
+#: ../../reports/20190908.rst:33
+msgid "Answer heart-beat for client-side on core-node"
+msgstr "在核心节点响应客户端的心跳"
+
+#: ../../reports/20190908.rst:34
+msgid "Validity judgment by heart-beat on client-side"
+msgstr "客户端心跳有效性判断"
+
+#: ../../reports/20190908.rst:35
+msgid "Optimize connection between core-nodes"
+msgstr "优化核心节点间的连接"
+
+#: ../../reports/20190908.rst:36
+msgid "Add `redis`_ on core-node"
+msgstr "在核心节点增加 `redis`_"
+
+#: ../../reports/20190908.rst:40
+msgid "by Vision.Network Project Team"
+msgstr "by Vision.Network 远景网络项目团队"
+
+#: ../../reports/20190908.rst:42
+msgid "Sep 8th 2019"
+msgstr "2019 年 9 月 8 日"

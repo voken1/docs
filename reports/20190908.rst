@@ -1,0 +1,42 @@
+.. _report_20190908:
+
+Report: Sep 8th 2019
+=====================
+
+.. sidebar:: Progress reports
+
+   - :ref:`report_20190829`
+   - :ref:`report_20190811`
+   - :ref:`report_20190719`
+   - :ref:`report_20190619`
+   - :ref:`summary2019`
+   - :ref:`summary2018`
+
+
+
+Global
+------
+
+- :ref:`community_program` published
+- Finished :ref:`voken2_migration` for **1,819,447,163.630319**
+
+
+
+Core
+----
+
+- Dev console for core-node
+- Data sync plan for core-node
+- Communication signature and verification between core-nodes
+- Add core-node panel UI for client-side
+- Timestamp validity forwarding between core-nodes
+- Answer heart-beat for client-side on core-node
+- Validity judgment by heart-beat on client-side
+- Optimize connection between core-nodes
+- Add `redis`_ on core-node
+
+.. _redis: https://redis.io
+
+by Vision.Network Project Team
+
+Sep 8th 2019
