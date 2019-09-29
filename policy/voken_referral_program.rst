@@ -44,11 +44,11 @@ Referrals  Level  | Whitelist Reward      | Sales Reward
 =========  =====  ======================  ===============
 >= 1       Lv.1   **300 Voken2.0**        **6% ETH**
 >= 2       Lv.2   200 Voken2.0            6% ETH
->= 3       Lv.3   100 Voken2.0            6% ETH
->= 4       Lv.4   100 Voken2.0            5% ETH
->= 5       Lv.5   100 Voken2.0            4% ETH
->= 6       Lv.6   50 Voken2.0             3% ETH
->= 7       Lv.7   40 Voken2.0             2% ETH
+>= 3       Lv.3   100 Voken2.0            5% ETH
+>= 4       Lv.4   100 Voken2.0            4% ETH
+>= 5       Lv.5   100 Voken2.0            3% ETH
+>= 6       Lv.6   50 Voken2.0             2% ETH
+>= 7       Lv.7   40 Voken2.0             1% ETH
 >= 8       Lv.8   30 Voken2.0             1% ETH
 >= 9       Lv.9   20 Voken2.0             1% ETH
 >= 10      Lv.10  10 Voken2.0             1% ETH
