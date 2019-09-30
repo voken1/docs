@@ -1,0 +1,34 @@
+.. _report_20190927:
+
+Report: Sep 27th 2019
+=====================
+
+.. sidebar:: Progress reports
+
+   - :ref:`report_20190908`
+   - :ref:`report_20190829`
+   - :ref:`report_20190811`
+   - :ref:`report_20190719`
+   - :ref:`report_20190619`
+   - :ref:`summary2019`
+   - :ref:`summary2018`
+
+
+
+Core
+----
+
+- Optimize dev-console for core-node
+- Submit transaction data from client-node to core-node
+- Transaction data verification on core-node
+- Sync pending transactions between core-nodes
+- Online client-nodes list sync between core-nodes
+- Sync messages and data for several local services on core-node
+- Add UI for client-node
+- Support anonymous login by client-node
+- Exceptions test on core-node
+
+
+by Vision.Network Project Team
+
+Sep 27th 2019

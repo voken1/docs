@@ -27,3 +27,4 @@ Summary 2019
 
 2019 Q3
    - :ref:`report_20190908`
+   - :ref:`report_20190927`

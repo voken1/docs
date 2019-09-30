@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-02 17:00+0800\n"
+"POT-Creation-Date: 2019-09-30 03:18-0500\n"
 "PO-Revision-Date: 2019-04-11 14:25+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -43,7 +43,7 @@ msgstr "``vnVPN Alpha 服务端内测 Windows 版 v0.4.0-v0.4.19`` 迭代 20 个
 msgid ":ref:`autossr` optimized"
 msgstr ":ref:`autossr` 优化"
 
-#: ../../reports/summary2019.rst:25
+#: ../../reports/summary2019.rst:26
 msgid "2019 Q2"
 msgstr "2019 Q2"
 
@@ -105,4 +105,12 @@ msgstr ""
 
 #: ../../reports/summary2019.rst:26
 msgid ":ref:`report_20190829`"
+msgstr ""
+
+#: ../../reports/summary2019.rst:28
+msgid "2019 Q3"
+msgstr ""
+
+#: ../../reports/summary2019.rst:29
+msgid ":ref:`report_20190908`"
 msgstr ""
