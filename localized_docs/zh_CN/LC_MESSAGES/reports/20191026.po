@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-28 22:13-0500\n"
+"PO-Revision-Date: 2019-10-29 03:21+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../reports/20191026.rst:4
+msgid "Report: Oct 26th 2019"
+msgstr "2019 年 10 月 26 日进展报告"
+
+#: ../../reports/20191026.rst:8
+msgid ":ref:`report_20190927`"
+msgstr ":ref:`report_20190927`"
+
+#: ../../reports/20191026.rst:9
+msgid ":ref:`report_20190908`"
+msgstr ":ref:`report_20190908`"
+
+#: ../../reports/20191026.rst:10
+msgid ":ref:`report_20190829`"
+msgstr ":ref:`report_20190829`"
+
+#: ../../reports/20191026.rst:11
+msgid ":ref:`report_20190811`"
+msgstr ":ref:`report_20190811`"
+
+#: ../../reports/20191026.rst:12
+msgid ":ref:`report_20190719`"
+msgstr ":ref:`report_20190719`"
+
+#: ../../reports/20191026.rst:13
+msgid ":ref:`report_20190619`"
+msgstr ":ref:`report_20190619`"
+
+#: ../../reports/20191026.rst:14
+msgid ":ref:`summary2019`"
+msgstr ":ref:`summary2019`"
+
+#: ../../reports/20191026.rst:15
+msgid ":ref:`summary2018`"
+msgstr ":ref:`summary2018`"
+
+#: ../../reports/20191026.rst:20
+msgid "Core"
+msgstr "核心工作"
+
+#: ../../reports/20191026.rst:22
+msgid "Transaction RPC for client-node"
+msgstr "客户节点交易 RPC"
+
+#: ../../reports/20191026.rst:23
+msgid "Rules for generating blocks"
+msgstr "区块生成规则"
+
+#: ../../reports/20191026.rst:24
+msgid "Heart-beat between core-nodes"
+msgstr "核心节点间的心跳保持"
+
+#: ../../reports/20191026.rst:25
+msgid "Wallet module"
+msgstr "钱包模型"
+
+#: ../../reports/20191026.rst:26
+msgid "Client-nodes list in core-node UI"
+msgstr "客户节点列表在核心节点 UI"
+
+#: ../../reports/20191026.rst:27
+msgid "Submit transaction from client-node to core-node"
+msgstr "提交交易从客户节点到核心节点"
+
+#: ../../reports/20191026.rst:28
+msgid ""
+"Synchronize core-nodes and standby-nodes list when core/standby-node joined "
+"vnP2PNET"
+msgstr "核心或待命节点加入 vnP2PNET 时同步核心节点与待命节点列表"
+
+#: ../../reports/20191026.rst:29
+msgid "Pending transactions synchronize between core-nodes"
+msgstr "核心节点间的交易池同步"
+
+#: ../../reports/20191026.rst:30
+msgid "Signature for the block"
+msgstr "区块签名"
+
+#: ../../reports/20191026.rst:31
+msgid "Transaction data verification on core-node"
+msgstr "交易数据验证在核心节点"
+
+#: ../../reports/20191026.rst:32
+msgid "Genesis block module"
+msgstr "创世区块模型"
+
+#: ../../reports/20191026.rst:35
+msgid "by Vision.Network Project Team"
+msgstr "by Vision.Network 远景网络项目团队"
+
+#: ../../reports/20191026.rst:37
+msgid "Oct 26th 2019"
+msgstr "2019 年 10 月 26 日"

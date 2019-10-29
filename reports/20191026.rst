@@ -1,0 +1,37 @@
+.. _report_20191026:
+
+Report: Oct 26th 2019
+=====================
+
+.. sidebar:: Progress reports
+
+   - :ref:`report_20190927`
+   - :ref:`report_20190908`
+   - :ref:`report_20190829`
+   - :ref:`report_20190811`
+   - :ref:`report_20190719`
+   - :ref:`report_20190619`
+   - :ref:`summary2019`
+   - :ref:`summary2018`
+
+
+
+Core
+----
+
+- Transaction RPC for client-node
+- Rules for generating blocks
+- Heart-beat between core-nodes
+- Wallet module
+- Client-nodes list in core-node UI
+- Submit transaction from client-node to core-node
+- Synchronize core-nodes and standby-nodes list when core/standby-node joined vnP2PNET
+- Pending transactions synchronize between core-nodes
+- Signature for the block
+- Transaction data verification on core-node
+- Genesis block module
+
+
+by Vision.Network Project Team
+
+Oct 26th 2019
