@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-13 22:32-0600\n"
+"PO-Revision-Date: 2019-11-14 04:35+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../reports/20191109.rst:4
+msgid "Report: Nov 9th 2019"
+msgstr "2019 年 11 月 9 日进展报告"
+
+#: ../../reports/20191109.rst:8
+msgid ":ref:`report_20191026`"
+msgstr ":ref:`report_20191026`"
+
+#: ../../reports/20191109.rst:9
+msgid ":ref:`report_20190927`"
+msgstr ":ref:`report_20190927`"
+
+#: ../../reports/20191109.rst:10
+msgid ":ref:`report_20190908`"
+msgstr ":ref:`report_20190908`"
+
+#: ../../reports/20191109.rst:11
+msgid ":ref:`report_20190829`"
+msgstr ":ref:`report_20190829`"
+
+#: ../../reports/20191109.rst:12
+msgid ":ref:`report_20190811`"
+msgstr ":ref:`report_20190811`"
+
+#: ../../reports/20191109.rst:13
+msgid ":ref:`report_20190719`"
+msgstr ":ref:`report_20190719`"
+
+#: ../../reports/20191109.rst:14
+msgid ":ref:`report_20190619`"
+msgstr ":ref:`report_20190619`"
+
+#: ../../reports/20191109.rst:15
+msgid ":ref:`summary2019`"
+msgstr ":ref:`summary2019`"
+
+#: ../../reports/20191109.rst:16
+msgid ":ref:`summary2018`"
+msgstr ":ref:`summary2018`"
+
+#: ../../reports/20191109.rst:21
+msgid "Core"
+msgstr "核心工作"
+
+#: ../../reports/20191109.rst:23
+msgid "Genesis block finished"
+msgstr "完成创世区块"
+
+#: ../../reports/20191109.rst:24
+msgid "Generated blocks, unit-test passed"
+msgstr "区块生成，单元测试通过"
+
+#: ../../reports/20191109.rst:25
+msgid "Block verification, unit-test passed"
+msgstr "区块验证，单元测试通过"
+
+#: ../../reports/20191109.rst:26
+msgid "Optimized block data structure and verification rules"
+msgstr "优化区块数据结构和验证规则"
+
+#: ../../reports/20191109.rst:27
+msgid "Transfer to a new address"
+msgstr "向一个新地址转账"
+
+#: ../../reports/20191109.rst:28
+msgid "Optimized core-nodes topology to a TCP peer-to-peer network"
+msgstr "优化核心节点拓扑结构为一个 TCP 点对点对等网"
+
+#: ../../reports/20191109.rst:29
+msgid ":ref:`vision_connect` v0.2.0 - v0.2.6 alpha"
+msgstr ":ref:`vision_connect` v0.2.0 - v0.2.6 内测版"
+
+#: ../../reports/20191109.rst:32
+msgid "by Vision.Network Project Team"
+msgstr "by Vision.Network 远景网络项目团队"
+
+#: ../../reports/20191109.rst:34
+msgid "Nov 9th 2019"
+msgstr "2019 年 11 月 9 日"

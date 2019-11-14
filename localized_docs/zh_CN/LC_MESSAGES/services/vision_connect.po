@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-06 02:15+0800\n"
+"POT-Creation-Date: 2019-11-13 22:32-0600\n"
 "PO-Revision-Date: 2019-07-01 15:49+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -37,34 +37,106 @@ msgstr "平台"
 msgid "Latest Version"
 msgstr "最新版本"
 
-#: ../../services/vision_connect.rst:12
+#: ../../services/vision_connect.rst:12 ../../services/vision_connect.rst:13
 msgid "Android"
 msgstr "安卓"
 
 #: ../../services/vision_connect.rst:12
+msgid "v0.2.6 alpha, to be released"
+msgstr ""
+
+#: ../../services/vision_connect.rst:13
 msgid "`Download Android v0.1.1`_"
 msgstr "`下载安卓版 v0.1.1`_"
 
-#: ../../services/vision_connect.rst:19
+#: ../../services/vision_connect.rst:20
 msgid "Changelog for Android"
 msgstr "更新记录 for 安卓"
 
 #: ../../services/vision_connect.rst:23
+msgid "v0.2.6"
+msgstr ""
+
+#: ../../services/vision_connect.rst:23
+msgid "Optimized UI for `DISCONNECT` and `RELOAD NODE LIST`"
+msgstr ""
+
+#: ../../services/vision_connect.rst:27
+msgid "v0.2.5"
+msgstr ""
+
+#: ../../services/vision_connect.rst:26
+msgid "Routing mode"
+msgstr ""
+
+#: ../../services/vision_connect.rst:27
+msgid "Custom routing"
+msgstr ""
+
+#: ../../services/vision_connect.rst:30
+msgid "v0.2.4"
+msgstr ""
+
+#: ../../services/vision_connect.rst:30
+msgid "Speed display in notification bar"
+msgstr ""
+
+#: ../../services/vision_connect.rst:33
+msgid "v0.2.3"
+msgstr ""
+
+#: ../../services/vision_connect.rst:33
+msgid "APP proxy, for Android 5.0+"
+msgstr ""
+
+#: ../../services/vision_connect.rst:36
+msgid "v0.2.2"
+msgstr ""
+
+#: ../../services/vision_connect.rst:36
+msgid "Bug-fix for TCP ping"
+msgstr ""
+
+#: ../../services/vision_connect.rst:40
+msgid "v0.2.1"
+msgstr ""
+
+#: ../../services/vision_connect.rst:39
+msgid "TCP ping"
+msgstr ""
+
+#: ../../services/vision_connect.rst:40
+msgid "Optimized node list loading"
+msgstr ""
+
+#: ../../services/vision_connect.rst:44
+msgid "v0.2.0"
+msgstr ""
+
+#: ../../services/vision_connect.rst:43
+msgid "New list"
+msgstr ""
+
+#: ../../services/vision_connect.rst:44
+msgid "Log"
+msgstr ""
+
+#: ../../services/vision_connect.rst:48
 msgid "`v0.1.1`_"
 msgstr "`v0.1.1`_"
 
-#: ../../services/vision_connect.rst:22
+#: ../../services/vision_connect.rst:47
 msgid "Fix bug when disconnect"
 msgstr "BUG 修复：当断开连接时的错误"
 
-#: ../../services/vision_connect.rst:23
+#: ../../services/vision_connect.rst:48
 msgid "Fix bug of reloading nodes"
 msgstr "BUG 修复：重新载入节点"
 
-#: ../../services/vision_connect.rst:27
+#: ../../services/vision_connect.rst:52
 msgid "v0.1.0"
 msgstr "v0.1.0"
 
-#: ../../services/vision_connect.rst:28
+#: ../../services/vision_connect.rst:53
 msgid "Easy connect by one touch"
 msgstr "一次触摸完成简易连接"

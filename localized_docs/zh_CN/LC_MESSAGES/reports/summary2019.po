@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: vision.network latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-30 03:29-0500\n"
+"POT-Creation-Date: 2019-11-13 22:32-0600\n"
 "PO-Revision-Date: 2019-04-11 14:25+0000\n"
 "Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
@@ -107,7 +107,7 @@ msgstr ""
 msgid ":ref:`report_20190829`"
 msgstr ""
 
-#: ../../reports/summary2019.rst:29
+#: ../../reports/summary2019.rst:30
 msgid "2019 Q3"
 msgstr ""
 
@@ -117,4 +117,16 @@ msgstr ""
 
 #: ../../reports/summary2019.rst:30
 msgid ":ref:`report_20190927`"
+msgstr ""
+
+#: ../../reports/summary2019.rst:33
+msgid "2019 Q4"
+msgstr ""
+
+#: ../../reports/summary2019.rst:33
+msgid ":ref:`report_20191026`"
+msgstr ""
+
+#: ../../reports/summary2019.rst:34
+msgid ":ref:`report_20191109`"
 msgstr ""
