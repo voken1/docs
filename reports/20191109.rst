@@ -1,0 +1,34 @@
+.. _report_20191109:
+
+Report: Nov 9th 2019
+====================
+
+.. sidebar:: Progress reports
+
+   - :ref:`report_20191026`
+   - :ref:`report_20190927`
+   - :ref:`report_20190908`
+   - :ref:`report_20190829`
+   - :ref:`report_20190811`
+   - :ref:`report_20190719`
+   - :ref:`report_20190619`
+   - :ref:`summary2019`
+   - :ref:`summary2018`
+
+
+
+Core
+----
+
+- Genesis block finished
+- Generated blocks, unit-test passed
+- Block verification, unit-test passed
+- Optimized block data structure and verification rules
+- Transfer to a new address
+- Optimized core-nodes topology to a TCP peer-to-peer network
+- :ref:`vision_connect` v0.2.0 - v0.2.6 alpha
+
+
+by Vision.Network Project Team
+
+Nov 9th 2019

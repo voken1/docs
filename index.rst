@@ -106,6 +106,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Reports
 
+   reports/20191109
    reports/20191026
    reports/20190927
    reports/20190908
@@ -139,8 +140,8 @@ more open, more equal, more stable, more efficient, safer and freer.
    services/autossr
    guide/shadowrocket
    guide/ssrr
-   guide/shadowsocksr_win
    guide/shadowsocksr_mac
+   guide/shadowsocksr_win
    services/optss
 
 
