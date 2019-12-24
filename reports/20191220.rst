@@ -1,0 +1,40 @@
+.. _report_20191220:
+
+Report: Dec 20th 2019
+=====================
+
+.. sidebar:: Progress reports
+
+   - :ref:`report_20191109`
+   - :ref:`report_20191026`
+   - :ref:`report_20190927`
+   - :ref:`report_20190908`
+   - :ref:`report_20190829`
+   - :ref:`report_20190811`
+   - :ref:`report_20190719`
+   - :ref:`report_20190619`
+   - :ref:`summary2019`
+   - :ref:`summary2018`
+
+
+
+Core
+----
+
+- Peer-to-peer communication network with adaptive networking for `Account-Network`
+- Account node list synchronize
+- Optimized `App-Network` using HTTP-RPC which can support larger scale applications
+- Bootstrap3 UI for `Account-Network`
+- Bootstrap3 UI for `App-Network`
+- Local index based initialization
+- Genesis block generator
+- RPC framework for client-oriented
+- Synchronize queue and blocks when start account-node
+- Write transactions in a block which verified by public-key
+- Block generation and verification
+- Generate index data file from blocks
+
+
+by Vision.Network Project Team
+
+Dec 20th 2019

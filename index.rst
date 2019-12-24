@@ -106,6 +106,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Reports
 
+   reports/20191220
    reports/20191109
    reports/20191026
    reports/20190927

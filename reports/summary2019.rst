@@ -32,3 +32,4 @@ Summary 2019
 2019 Q4
    - :ref:`report_20191026`
    - :ref:`report_20191109`
+   - :ref:`report_20191220`
