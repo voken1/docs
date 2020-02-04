@@ -106,6 +106,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Reports
 
+   reports/20200126
    reports/20191220
    reports/20191109
    reports/20191026
@@ -115,8 +116,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    reports/20190811
    reports/20190719
    reports/20190619
-   reports/summary2019
-   reports/summary2018
+   reports/summary
 .. reports/season_top_sales
 
 

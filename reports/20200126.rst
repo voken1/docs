@@ -1,0 +1,58 @@
+.. _report_20200126:
+
+Report: Jan 26th 2020
+=====================
+
+.. sidebar:: Progress reports
+
+   - :ref:`report_20191220`
+   - :ref:`report_20191109`
+   - :ref:`report_20191026`
+   - :ref:`report_20190927`
+   - :ref:`report_20190908`
+   - :ref:`report_20190829`
+   - :ref:`report_20190811`
+   - :ref:`report_20190719`
+   - :ref:`report_20190619`
+   - :ref:`summary`
+
+
+
+Core
+----
+
+- Block browser alpha for `AccountNetwork`-peer
+- Optimize and re-define global network package protocol
+- Global network package encoder
+- Global network package decoder
+- Start `Client`-peer APP project
+- Start `AppNetwork`-peer APP project
+- Web UI for `Client`-side
+- Global network communication between `AppNetwork`-peer and `Client`
+- Response between `AppNetwork`-peer and `Client`-peer
+- Proxy on `AppNetwork`-peer for `Client`-peer
+
+
+
+Plan
+----
+
+- Would not provide any Alpha-version before Beta (2020-Q3), for avoid wasting work time
+
+
+
+Main structure
+--------------
+
+**IMPORTANT**
+
+During the actual development process,
+a new network and service structure was redesigned,
+and details will be disclosed later.
+
+
+
+
+by Vision.Network Project Team
+
+Jan 26th 2020
