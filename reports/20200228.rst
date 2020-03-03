@@ -1,0 +1,48 @@
+.. _report_20200228:
+
+Report: Feb 28th 2020
+=====================
+
+.. sidebar:: Progress reports
+
+   - :ref:`report_20200126`
+   - :ref:`report_20191220`
+   - :ref:`report_20191109`
+   - :ref:`report_20191026`
+   - :ref:`report_20190927`
+   - :ref:`report_20190908`
+   - :ref:`report_20190829`
+   - :ref:`report_20190811`
+   - :ref:`report_20190719`
+   - :ref:`report_20190619`
+   - :ref:`summary`
+
+
+
+Core
+----
+
+- Clear threads which completed the transmission
+- Limit singleton-app starting, on `AppNetwork`-peer and `Client`-peer
+- Add `PendingTransactionManager` on `AppNetwork`-peer
+- Add `Broadcasting` for `SignedTransaction`
+- Add `SettlementFramework`, and some related methods
+- Add `BillRequest` from `AppNetwork`-peer to `Client`-peer
+- Add `SequenceManagerFramework` for `AccountNetwork`
+- Update `BlockHeader` for fees
+
+
+
+Update system solution
+----------------------
+
+- `TransactionTemplate` to support complex transaction
+- `JPython` for `TransactionTemplate` on `AccountNetwork`-peer
+- Add `TrafficAccountingFramework` for `AppNetwork`-peer
+- Update naming conventions for some modules
+- Update `TransactionSignature`
+
+
+by Vision.Network Project Team
+
+Feb 28th 2020
